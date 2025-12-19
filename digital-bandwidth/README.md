@@ -1,3 +1,4 @@
+
 # What is your Bottleneck? - Digital Bandwidth Comparison
 
 An interactive data visualization comparing the **Theoretical Limits** vs. **Real-World Speeds** of common digital technologies, including Internet (ISP), Peripherals (USB/Thunderbolt), Storage (SATA/NVMe), and Networking (Wi-Fi/Ethernet).
@@ -31,7 +32,20 @@ The visualization is built with **Python (Plotly)** and features a fully interac
 
 ## 📂 Project Structure
 ```text
-data-viz/
+data-visualizations/
 └── digital-bandwidth/
     ├── index.html       # The interactive chart (generated output)
     └── README.md        # This documentation
+
+```
+
+## 📝 Data Sources
+
+Data points were aggregated from technical specifications (USB-IF, IEEE 802.11 standards, SATA-IO) and real-world benchmark averages.
+
+* **Theoretical:** The raw signaling rate defined by the physical interface standard.
+* **Real-World:** Calculated based on encoding overhead (e.g., 8b/10b, 128b/132b) and protocol efficiency.
+
+
+*Created by Craig Van Hise- [virtualvirgin.net](https://www.virtualvirgin.net/)*
+
