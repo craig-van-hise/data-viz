@@ -1,0 +1,5 @@
+{
+  "name": "Bandwidth Visualizer Pro",
+  "description": "A high-performance interactive data visualization tool comparing real-world versus theoretical bandwidth across internet, network, storage, and PCIe technologies.",
+  "requestFramePermissions": []
+}
