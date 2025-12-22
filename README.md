@@ -6,11 +6,11 @@ A collection of interactive charts and technical comparisons created by **[Your 
 
 ## 📂 Projects in this Repository
 
-### 1. [What is your Bottleneck? (Digital Bandwidth)](./digital-bandwidth/)
-**Technology:** Python (Plotly)
+### 1. [What is your Bottleneck? (Digital Bandwidth)](./bandwidth-visualizer/)
+**Technology:** React, Vite, Framer Motion, Recharts
 An interactive analysis comparing the theoretical vs. real-world speeds of common digital interfaces.
 * **Key Features:** Logarithmic scaling, dynamic filtering by category (Storage, Network, etc.), and bottleneck analysis.
-* [View Live Chart](https://craig-van-hise.github.io/data-visualizations/digital-bandwidth/)
+* [View Live Chart](https://craig-van-hise.github.io/data-visualizations/)
 
 ---
 
