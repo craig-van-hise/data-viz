@@ -1,0 +1,529 @@
+{
+  "composer": "Alexandre Desplat",
+  "filmography": [
+    {
+      "title": "Sous les pieds des femmes",
+      "release_date": "1997"
+    },
+    {
+      "title": "La femme du cosmonaute\u00a0(fr)",
+      "release_date": "1997"
+    },
+    {
+      "title": "Sweet Revenge",
+      "release_date": "1998"
+    },
+    {
+      "title": "Atilano for President",
+      "release_date": "1998-09-25"
+    },
+    {
+      "title": "A Monkey's Tale",
+      "release_date": "1999-06-02"
+    },
+    {
+      "title": "Empty Days",
+      "release_date": "1999"
+    },
+    {
+      "title": "The Luzhin Defence",
+      "release_date": "2000-09-08"
+    },
+    {
+      "title": "A Hell of a Day",
+      "release_date": "2001-10-24"
+    },
+    {
+      "title": "Tous les chagrins se ressemblent",
+      "release_date": "2002"
+    },
+    {
+      "title": "Paroles d'\u00e9toiles",
+      "release_date": "2002"
+    },
+    {
+      "title": "11\u203209\u203301 September 11",
+      "release_date": "2002-09-05"
+    },
+    {
+      "title": "Girl with a Pearl Earring",
+      "release_date": "2003-08-31"
+    },
+    {
+      "title": "Rire et ch\u00e2timent\u00a0(fr)",
+      "release_date": "2003"
+    },
+    {
+      "title": "Les baisers des autres",
+      "release_date": "2003"
+    },
+    {
+      "title": "Le pacte du silence\u00a0(fr)",
+      "release_date": "2003"
+    },
+    {
+      "title": "Virus au paradis",
+      "release_date": "2003"
+    },
+    {
+      "title": "Eager Bodies",
+      "release_date": "2003-04-23"
+    },
+    {
+      "title": "Les beaux jours\u00a0(fr)",
+      "release_date": "2003"
+    },
+    {
+      "title": "A Sight for Sore Eyes (2003 film)\u00a0(fr)",
+      "release_date": "2003"
+    },
+    {
+      "title": "Birth",
+      "release_date": "2004-09-08"
+    },
+    {
+      "title": "Le pays des enfants perdus\u00a0(fr)",
+      "release_date": "2004"
+    },
+    {
+      "title": "The Corsican File",
+      "release_date": "2004-10-06"
+    },
+    {
+      "title": "The Upside of Anger",
+      "release_date": "2005-01-23"
+    },
+    {
+      "title": "Hostage",
+      "release_date": "2005-03-11"
+    },
+    {
+      "title": "Casanova",
+      "release_date": "2005-09-03"
+    },
+    {
+      "title": "Syriana",
+      "release_date": "2005-11-20"
+    },
+    {
+      "title": "Tu vas rire, mais je te quitte\u00a0(fr)",
+      "release_date": "2005"
+    },
+    {
+      "title": "The Beat That My Heart Skipped",
+      "release_date": "2005-02-17"
+    },
+    {
+      "title": "Une aventure\u00a0(fr)",
+      "release_date": "2005"
+    },
+    {
+      "title": "The Alibi",
+      "release_date": "2006-01-12"
+    },
+    {
+      "title": "Firewall",
+      "release_date": "2006-02-10"
+    },
+    {
+      "title": "The Queen",
+      "release_date": "2006-09-02"
+    },
+    {
+      "title": "The Painted Veil",
+      "release_date": "2006-12-20"
+    },
+    {
+      "title": "The Valet",
+      "release_date": "2006-03-29"
+    },
+    {
+      "title": "When I Was a Singer",
+      "release_date": "2006-05-26"
+    },
+    {
+      "title": "Lust, Caution",
+      "release_date": "2007-08-30"
+    },
+    {
+      "title": "Mr. Magorium's Wonder Emporium",
+      "release_date": "2007-11-16"
+    },
+    {
+      "title": "The Golden Compass",
+      "release_date": "2007-11-27"
+    },
+    {
+      "title": "Intimate Enemies",
+      "release_date": "2007-09-07"
+    },
+    {
+      "title": "Michou d'Auber\u00a0(fr)",
+      "release_date": "2007"
+    },
+    {
+      "title": "S\u00e9go et Sarko sont dans un bateau\u00a0(fr)",
+      "release_date": "2007"
+    },
+    {
+      "title": "Afterwards",
+      "release_date": "2008-09-07"
+    },
+    {
+      "title": "The Curious Case of Benjamin Button",
+      "release_date": "2008-12-25"
+    },
+    {
+      "title": "Largo Winch",
+      "release_date": "2008-12-17"
+    },
+    {
+      "title": "Julie & Julia",
+      "release_date": "2009-08-07"
+    },
+    {
+      "title": "Ch\u00e9ri",
+      "release_date": "2009-02-10"
+    },
+    {
+      "title": "Fantastic Mr. Fox",
+      "release_date": "2009-10-14"
+    },
+    {
+      "title": "The Twilight Saga: New Moon",
+      "release_date": "2009-11-16"
+    },
+    {
+      "title": "Coco Before Chanel",
+      "release_date": "2009-04-06"
+    },
+    {
+      "title": "A Prophet",
+      "release_date": "2009-05-16"
+    },
+    {
+      "title": "The Army of Crime",
+      "release_date": "2009-05-17"
+    },
+    {
+      "title": "The Ghost Writer",
+      "release_date": "2010-02-12"
+    },
+    {
+      "title": "The Special Relationship",
+      "release_date": "2010"
+    },
+    {
+      "title": "Tamara Drewe",
+      "release_date": "2010-05-18"
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows \u2013 Part 1",
+      "release_date": "2010-11-11"
+    },
+    {
+      "title": "The King's Speech",
+      "release_date": "2010-09-06"
+    },
+    {
+      "title": "The Tree of Life",
+      "release_date": "2011-05-16"
+    },
+    {
+      "title": "A Better Life",
+      "release_date": "2011-06-24"
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows \u2013 Part 2",
+      "release_date": "2011-07-07"
+    },
+    {
+      "title": "The Ides of March",
+      "release_date": "2011-08-31"
+    },
+    {
+      "title": "Carnage",
+      "release_date": "2011-09-01"
+    },
+    {
+      "title": "My Week with Marilyn",
+      "release_date": "2011-10-09"
+    },
+    {
+      "title": "Extremely Loud and Incredibly Close",
+      "release_date": "2011-12-25"
+    },
+    {
+      "title": "The Well-Digger's Daughter",
+      "release_date": "2011-04-20"
+    },
+    {
+      "title": "Largo Winch II",
+      "release_date": "2011-02-16"
+    },
+    {
+      "title": "Moonrise Kingdom",
+      "release_date": "2012-05-16"
+    },
+    {
+      "title": "Argo",
+      "release_date": "2012-08-31"
+    },
+    {
+      "title": "Rise of the Guardians",
+      "release_date": "2012-10-10"
+    },
+    {
+      "title": "Zero Dark Thirty",
+      "release_date": "2012-12-10"
+    },
+    {
+      "title": "My Way",
+      "release_date": "2012-03-14"
+    },
+    {
+      "title": "Reality",
+      "release_date": "2012-05-18"
+    },
+    {
+      "title": "Renoir",
+      "release_date": "2012-05-25"
+    },
+    {
+      "title": "Rust and Bone",
+      "release_date": "2012-05-17"
+    },
+    {
+      "title": "Zulu",
+      "release_date": "2013-05-26"
+    },
+    {
+      "title": "Venus in Fur",
+      "release_date": "2013-05-25"
+    },
+    {
+      "title": "Philomena",
+      "release_date": "2013-08-31"
+    },
+    {
+      "title": "Marius",
+      "release_date": "2013-07-10"
+    },
+    {
+      "title": "Fanny",
+      "release_date": "2013-07-10"
+    },
+    {
+      "title": "The Monuments Men",
+      "release_date": "2014-02-07"
+    },
+    {
+      "title": "The Grand Budapest Hotel",
+      "release_date": "2014-02-06"
+    },
+    {
+      "title": "Godzilla",
+      "release_date": "2014-05-08"
+    },
+    {
+      "title": "The Imitation Game",
+      "release_date": "2014-08-29"
+    },
+    {
+      "title": "Unbroken",
+      "release_date": "2014-11-17"
+    },
+    {
+      "title": "Tale of Tales",
+      "release_date": "2015-05-14"
+    },
+    {
+      "title": "Every Thing Will Be Fine",
+      "release_date": "2015-02-10"
+    },
+    {
+      "title": "The Danish Girl",
+      "release_date": "2015-09-05"
+    },
+    {
+      "title": "Suffragette",
+      "release_date": "2015-09-04"
+    },
+    {
+      "title": "Suite Fran\u00e7aise",
+      "release_date": "2015-03-13"
+    },
+    {
+      "title": "Don't Tell Me the Boy Was Mad",
+      "release_date": "2015-05-20"
+    },
+    {
+      "title": "Alone in Berlin",
+      "release_date": "2016-02-15"
+    },
+    {
+      "title": "Florence Foster Jenkins",
+      "release_date": "2016-04-23"
+    },
+    {
+      "title": "The Secret Life of Pets",
+      "release_date": "2016-06-16"
+    },
+    {
+      "title": "The Light Between Oceans",
+      "release_date": "2016-09-01"
+    },
+    {
+      "title": "American Pastoral",
+      "release_date": "2016-09-09"
+    },
+    {
+      "title": "Les Habitants (film)\u00a0(fr)",
+      "release_date": "2016"
+    },
+    {
+      "title": "The Odyssey",
+      "release_date": "2016-08-23"
+    },
+    {
+      "title": "Heal the Living",
+      "release_date": "2016-09-04"
+    },
+    {
+      "title": "Valerian and the City of a Thousand Planets",
+      "release_date": "2017-07-17"
+    },
+    {
+      "title": "The Shape of Water",
+      "release_date": "2017-08-31"
+    },
+    {
+      "title": "Suburbicon",
+      "release_date": "2017-09-02"
+    },
+    {
+      "title": "Based on a True Story",
+      "release_date": "2017-05-27"
+    },
+    {
+      "title": "12 Days",
+      "release_date": "2017-03-25"
+    },
+    {
+      "title": "Endangered Species",
+      "release_date": "2017"
+    },
+    {
+      "title": "Isle of Dogs",
+      "release_date": "2018-02-15"
+    },
+    {
+      "title": "Operation Finale",
+      "release_date": "2018-08-29"
+    },
+    {
+      "title": "The Sisters Brothers",
+      "release_date": "2018-09-02"
+    },
+    {
+      "title": "Kursk",
+      "release_date": "2018-09-06"
+    },
+    {
+      "title": "The Secret Life of Pets 2",
+      "release_date": "2019-05-24"
+    },
+    {
+      "title": "Little Women",
+      "release_date": "2019-12-07"
+    },
+    {
+      "title": "An Officer and a Spy",
+      "release_date": "2019-08-30"
+    },
+    {
+      "title": "Adults in the Room",
+      "release_date": "2019-08-31"
+    },
+    {
+      "title": "The Midnight Sky",
+      "release_date": "2020-12-11"
+    },
+    {
+      "title": "The French Dispatch",
+      "release_date": "2021-07-12"
+    },
+    {
+      "title": "Eiffel",
+      "release_date": "2021-03-02"
+    },
+    {
+      "title": "The Outfit",
+      "release_date": "2022-02-14"
+    },
+    {
+      "title": "The Lost King",
+      "release_date": "2022-09-10"
+    },
+    {
+      "title": "Pinocchio",
+      "release_date": "2022"
+    },
+    {
+      "title": "Final Cut",
+      "release_date": "2022-05-17"
+    },
+    {
+      "title": "Lui (film)\u00a0(fr)",
+      "release_date": "2022"
+    },
+    {
+      "title": "Father & Soldier",
+      "release_date": "2022-05-18"
+    },
+    {
+      "title": "Asteroid City",
+      "release_date": "2023-05-23"
+    },
+    {
+      "title": "The Palace",
+      "release_date": "2023-09-02"
+    },
+    {
+      "title": "Nyad",
+      "release_date": "2023-09-01"
+    },
+    {
+      "title": "The Boys in the Boat",
+      "release_date": "2023-12-07"
+    },
+    {
+      "title": "The Most Precious of Cargoes",
+      "release_date": "2024-05-24"
+    },
+    {
+      "title": "The Piano Lesson",
+      "release_date": "2024-08-31"
+    },
+    {
+      "title": "Unstoppable",
+      "release_date": "2024-09-06"
+    },
+    {
+      "title": "The Phoenician Scheme",
+      "release_date": "2025-05-18"
+    },
+    {
+      "title": "Jurassic World Rebirth",
+      "release_date": "2025-06-17"
+    },
+    {
+      "title": "Frankenstein",
+      "release_date": "2025-08-30"
+    },
+    {
+      "title": "The Incredible Shrinking Man",
+      "release_date": "1957-02-22"
+    }
+  ]
+}

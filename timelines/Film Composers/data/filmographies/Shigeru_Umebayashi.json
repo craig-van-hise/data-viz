@@ -1,0 +1,569 @@
+{
+  "composer": "Shigeru Umebayashi",
+  "filmography": [
+    {
+      "title": "Hiroshi Yoshizawa",
+      "release_date": "1950"
+    },
+    {
+      "title": "Toshiro Mayuzumi",
+      "release_date": "1950"
+    },
+    {
+      "title": "Shinichi Takata",
+      "release_date": "1951"
+    },
+    {
+      "title": "Ichir\u014d Sait\u014d",
+      "release_date": "1952"
+    },
+    {
+      "title": "Yasushi Akutagawa",
+      "release_date": "1953"
+    },
+    {
+      "title": "Ch\u016bji Kinoshita",
+      "release_date": "1954"
+    },
+    {
+      "title": "Akira Ifukube",
+      "release_date": "1956"
+    },
+    {
+      "title": "Toshiro Mayuzumi",
+      "release_date": "1957"
+    },
+    {
+      "title": "Rokuzaemon Kineya",
+      "release_date": "1958"
+    },
+    {
+      "title": "Matsunosuke Nozawa",
+      "release_date": "1958"
+    },
+    {
+      "title": "Hikaru Hayashi",
+      "release_date": "1959"
+    },
+    {
+      "title": "Masaru Sato",
+      "release_date": "1960"
+    },
+    {
+      "title": "Toshiro Mayuzumi",
+      "release_date": "1963"
+    },
+    {
+      "title": "T\u014dru Takemitsu",
+      "release_date": "1964"
+    },
+    {
+      "title": "Toshiro Mayuzumi",
+      "release_date": "1965"
+    },
+    {
+      "title": "T\u014dru Takemitsu",
+      "release_date": "1966"
+    },
+    {
+      "title": "Seiichr\u014d Uno",
+      "release_date": "1967"
+    },
+    {
+      "title": "Masaru Sato",
+      "release_date": "1968"
+    },
+    {
+      "title": "T\u014dru Takemitsu",
+      "release_date": "1969"
+    },
+    {
+      "title": "Teizo Matsumura",
+      "release_date": "1970"
+    },
+    {
+      "title": "T\u014dru Takemitsu",
+      "release_date": "1971"
+    },
+    {
+      "title": "Teizo Matsumura",
+      "release_date": "1972"
+    },
+    {
+      "title": "T\u014dru Takemitsu",
+      "release_date": "1973"
+    },
+    {
+      "title": "Yasushi Akutagawa",
+      "release_date": "1974"
+    },
+    {
+      "title": "Mitsuaki Kanno",
+      "release_date": "1974"
+    },
+    {
+      "title": "T\u014dru Takemitsu",
+      "release_date": "1975"
+    },
+    {
+      "title": "Yuji Ohno",
+      "release_date": "1976"
+    },
+    {
+      "title": "Masaru Sato",
+      "release_date": "1977"
+    },
+    {
+      "title": "T\u014dru Takemitsu",
+      "release_date": "1978"
+    },
+    {
+      "title": "Masaru Sato",
+      "release_date": "1979"
+    },
+    {
+      "title": "Shin'ichir\u014d Ikebe",
+      "release_date": "1980"
+    },
+    {
+      "title": "Ryudo Uzaki",
+      "release_date": "1981"
+    },
+    {
+      "title": "Hikaru Hayashi",
+      "release_date": "1982"
+    },
+    {
+      "title": "Jiang Dingxian",
+      "release_date": "1982"
+    },
+    {
+      "title": "Ryuichi Sakamoto",
+      "release_date": "1983"
+    },
+    {
+      "title": "Itsuka Darekaga Korosareru",
+      "release_date": "1984"
+    },
+    {
+      "title": "Shin'ichir\u014d Ikebe",
+      "release_date": "1984"
+    },
+    {
+      "title": "Tomoyo Shizukani Nemure",
+      "release_date": "1985"
+    },
+    {
+      "title": "Sorekara",
+      "release_date": "1985-11-09"
+    },
+    {
+      "title": "Shigeru Umebayashi",
+      "release_date": "1985"
+    },
+    {
+      "title": "Sorobanzuku",
+      "release_date": "1986-08-23"
+    },
+    {
+      "title": "Shinshi Domei",
+      "release_date": "1986"
+    },
+    {
+      "title": "Saeko Suzuki",
+      "release_date": "1986"
+    },
+    {
+      "title": "Kyohu no Yacchan",
+      "release_date": "1987"
+    },
+    {
+      "title": "Toshiyuki Honda",
+      "release_date": "1987"
+    },
+    {
+      "title": "Getting Blue in Color",
+      "release_date": "1988"
+    },
+    {
+      "title": "Hiroaki Yoshino",
+      "release_date": "1988"
+    },
+    {
+      "title": "K\u014dji Ueno",
+      "release_date": "1989"
+    },
+    {
+      "title": "Hong Kong Paradise",
+      "release_date": "1990-04-28"
+    },
+    {
+      "title": "Tekken",
+      "release_date": "1990"
+    },
+    {
+      "title": "Shin'ichir\u014d Ikebe",
+      "release_date": "1990"
+    },
+    {
+      "title": "Yumeji",
+      "release_date": "1991-05-31"
+    },
+    {
+      "title": "Ote",
+      "release_date": "1991"
+    },
+    {
+      "title": "Goaisatsu",
+      "release_date": "1991"
+    },
+    {
+      "title": "Arihureta Ai ni Kansuru Chosa",
+      "release_date": "1992"
+    },
+    {
+      "title": "Byoin he Iko 2 Yamai ha Kikara",
+      "release_date": "1992"
+    },
+    {
+      "title": "Nemuranai Machi Shinjuku Zame",
+      "release_date": "1993"
+    },
+    {
+      "title": "Masaru Sato",
+      "release_date": "1993"
+    },
+    {
+      "title": "Izakaya Yurei",
+      "release_date": "1994"
+    },
+    {
+      "title": "Shigeru Umebayashi",
+      "release_date": "1994"
+    },
+    {
+      "title": "Zero Woman",
+      "release_date": "1995"
+    },
+    {
+      "title": "Kumokiri Nizaemon",
+      "release_date": "1995"
+    },
+    {
+      "title": "Boxer Joe",
+      "release_date": "1995"
+    },
+    {
+      "title": "Kitanai Yatsu",
+      "release_date": "1995"
+    },
+    {
+      "title": "Hashirana Akan Yoake Made",
+      "release_date": "1995"
+    },
+    {
+      "title": "The Christ of Nanjing",
+      "release_date": "1995-11-24"
+    },
+    {
+      "title": "Chen Ming Chang",
+      "release_date": "1995"
+    },
+    {
+      "title": "Shin Gokudo Kisha",
+      "release_date": "1996"
+    },
+    {
+      "title": "Izakaya Yurei 2",
+      "release_date": "1996"
+    },
+    {
+      "title": "Toshio Hosokawa",
+      "release_date": "1996"
+    },
+    {
+      "title": "Ichigo Domei",
+      "release_date": "1997"
+    },
+    {
+      "title": "Isana no Umi",
+      "release_date": "1997"
+    },
+    {
+      "title": "Watashitachi ga Sukidatta Koto",
+      "release_date": "1997"
+    },
+    {
+      "title": "G4 Option Zero",
+      "release_date": "1997"
+    },
+    {
+      "title": "Michiru \u014cshima",
+      "release_date": "1997"
+    },
+    {
+      "title": "Fuyajo",
+      "release_date": "1998"
+    },
+    {
+      "title": "Belle Epoch",
+      "release_date": "1998"
+    },
+    {
+      "title": "Y\u014dsuke Yamashita",
+      "release_date": "1998"
+    },
+    {
+      "title": "Haruyuki Suzuki",
+      "release_date": "1999"
+    },
+    {
+      "title": "2000 A.D.",
+      "release_date": "2000-02-03"
+    },
+    {
+      "title": "Shojo",
+      "release_date": "2000"
+    },
+    {
+      "title": "In the Mood for Love",
+      "release_date": "2000-05-20"
+    },
+    {
+      "title": "Kenichir\u014d Isoda",
+      "release_date": "2000"
+    },
+    {
+      "title": "Midnight Fly",
+      "release_date": "2001"
+    },
+    {
+      "title": "Hikari no Ame",
+      "release_date": "2001"
+    },
+    {
+      "title": "Onmyoji",
+      "release_date": "2001-10-06"
+    },
+    {
+      "title": "Joe Hisaishi",
+      "release_date": "2001"
+    },
+    {
+      "title": "Youmi Kimura",
+      "release_date": "2001"
+    },
+    {
+      "title": "Zhou Yu's Train",
+      "release_date": "2002-08-01"
+    },
+    {
+      "title": "Takashi Kako",
+      "release_date": "2002"
+    },
+    {
+      "title": "Onmyoji II",
+      "release_date": "2003-10-04"
+    },
+    {
+      "title": "Floating Land Scape",
+      "release_date": "2003"
+    },
+    {
+      "title": "Kenichir\u014d Isoda",
+      "release_date": "2003"
+    },
+    {
+      "title": "House of Flying Daggers",
+      "release_date": "2004-05-19"
+    },
+    {
+      "title": "2046",
+      "release_date": "2004-05-20"
+    },
+    {
+      "title": "Hibi",
+      "release_date": "2004"
+    },
+    {
+      "title": "Terumasa Hino",
+      "release_date": "2004"
+    },
+    {
+      "title": "Kazuhiko Kat\u014d",
+      "release_date": "2005"
+    },
+    {
+      "title": "Fearless",
+      "release_date": "2006-01-26"
+    },
+    {
+      "title": "Daisy",
+      "release_date": "2006-03-09"
+    },
+    {
+      "title": "Curse of the Golden Flower",
+      "release_date": "2006-12-21"
+    },
+    {
+      "title": "Takashi Kako",
+      "release_date": "2006"
+    },
+    {
+      "title": "Hannibal Rising",
+      "release_date": "2007-02-07"
+    },
+    {
+      "title": "Rei Harakami",
+      "release_date": "2007"
+    },
+    {
+      "title": "Absurdistan",
+      "release_date": "2008-03-20"
+    },
+    {
+      "title": "Incendiary",
+      "release_date": "2008-01-20"
+    },
+    {
+      "title": "Tears for Sale",
+      "release_date": "2008-01-30"
+    },
+    {
+      "title": "The Real Shaolin",
+      "release_date": "2008-09-07"
+    },
+    {
+      "title": "Taro Iwashiro",
+      "release_date": "2008"
+    },
+    {
+      "title": "Murderer",
+      "release_date": "2009-07-09"
+    },
+    {
+      "title": "A Single Man",
+      "release_date": "2009-09-11"
+    },
+    {
+      "title": "October 2009 video interview in Greek, from the Ghent Film Festival",
+      "release_date": "2009"
+    },
+    {
+      "title": "Shigeomi Hasumi",
+      "release_date": "2009"
+    },
+    {
+      "title": "True Legend",
+      "release_date": "2010-02-09"
+    },
+    {
+      "title": "Jim O'Rourke",
+      "release_date": "2010"
+    },
+    {
+      "title": "Days of Grace",
+      "release_date": "2011-05-17"
+    },
+    {
+      "title": "Trishna",
+      "release_date": "2011-09-09"
+    },
+    {
+      "title": "Hikaru Hayashi",
+      "release_date": "2011"
+    },
+    {
+      "title": "Michiru \u014cshima",
+      "release_date": "2012"
+    },
+    {
+      "title": "The Grandmaster",
+      "release_date": "2013-01-08"
+    },
+    {
+      "title": "Gor\u014d Yasukawa",
+      "release_date": "2013"
+    },
+    {
+      "title": "Rise of the Legend",
+      "release_date": "2014-11-21"
+    },
+    {
+      "title": "Yoshikazu Suo",
+      "release_date": "2014"
+    },
+    {
+      "title": "The Bride",
+      "release_date": "2015-09-23"
+    },
+    {
+      "title": "Ryuichi Sakamoto",
+      "release_date": "2015"
+    },
+    {
+      "title": "Crouching Tiger, Hidden Dragon: Sword of Destiny",
+      "release_date": "2016-02-18"
+    },
+    {
+      "title": "The Wasted Times",
+      "release_date": "2016-12-16"
+    },
+    {
+      "title": "Kotringo",
+      "release_date": "2016"
+    },
+    {
+      "title": "Soi48",
+      "release_date": "2017"
+    },
+    {
+      "title": "Young-G",
+      "release_date": "2017"
+    },
+    {
+      "title": "Hi'Spec",
+      "release_date": "2018"
+    },
+    {
+      "title": "Radwimps",
+      "release_date": "2019"
+    },
+    {
+      "title": "Ghost of Tsushima",
+      "release_date": "2020"
+    },
+    {
+      "title": "Keiichir\u014d Shibuya",
+      "release_date": "2020"
+    },
+    {
+      "title": "BLP articles lacking sources from November",
+      "release_date": "2020"
+    },
+    {
+      "title": "Masaki Hayashi",
+      "release_date": "2021"
+    },
+    {
+      "title": "Ichiko Aoba",
+      "release_date": "2022"
+    },
+    {
+      "title": "Jim O'Rourke",
+      "release_date": "2023"
+    },
+    {
+      "title": "In the Belly of a Tiger",
+      "release_date": "2024"
+    },
+    {
+      "title": "Eiko Ishibashi",
+      "release_date": "2024"
+    },
+    {
+      "title": "Shigeru",
+      "release_date": "2025"
+    }
+  ]
+}

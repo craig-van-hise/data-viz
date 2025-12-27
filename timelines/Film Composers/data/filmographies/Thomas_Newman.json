@@ -1,0 +1,433 @@
+{
+  "composer": "Thomas Newman",
+  "filmography": [
+    {
+      "title": "The Paper Chase",
+      "release_date": "1973-10-16"
+    },
+    {
+      "title": "Reckless",
+      "release_date": "1984-02-03"
+    },
+    {
+      "title": "Revenge of the Nerds",
+      "release_date": "1984-07-20"
+    },
+    {
+      "title": "Grandview, U.S.A.",
+      "release_date": "1984-08-03"
+    },
+    {
+      "title": "Desperately Seeking Susan",
+      "release_date": "1985-04-12"
+    },
+    {
+      "title": "Girls Just Want to Have Fun",
+      "release_date": "1985-04-12"
+    },
+    {
+      "title": "The Man with One Red Shoe",
+      "release_date": "1985-07-19"
+    },
+    {
+      "title": "Real Genius",
+      "release_date": "1985-08-07"
+    },
+    {
+      "title": "Gung Ho",
+      "release_date": "1986-03-14"
+    },
+    {
+      "title": "Jumpin' Jack Flash",
+      "release_date": "1986-10-10"
+    },
+    {
+      "title": "Light of Day",
+      "release_date": "1987-02-06"
+    },
+    {
+      "title": "The Lost Boys",
+      "release_date": "1987-07-31"
+    },
+    {
+      "title": "Less than Zero",
+      "release_date": "1987-11-06"
+    },
+    {
+      "title": "Amazing Stories",
+      "release_date": "1987"
+    },
+    {
+      "title": "The Great Outdoors",
+      "release_date": "1988-06-17"
+    },
+    {
+      "title": "The Prince of Pennsylvania",
+      "release_date": "1988-09-11"
+    },
+    {
+      "title": "Cookie",
+      "release_date": "1989-08-23"
+    },
+    {
+      "title": "Men Don't Leave",
+      "release_date": "1990-02-02"
+    },
+    {
+      "title": "Welcome Home, Roxy Carmichael",
+      "release_date": "1990-10-12"
+    },
+    {
+      "title": "Heat Wave",
+      "release_date": "1990"
+    },
+    {
+      "title": "Career Opportunities",
+      "release_date": "1991-03-29"
+    },
+    {
+      "title": "The Linguini Incident",
+      "release_date": "1991-10-30"
+    },
+    {
+      "title": "Naked Tango",
+      "release_date": "1990-09-27"
+    },
+    {
+      "title": "The Rapture",
+      "release_date": "1991-09-06"
+    },
+    {
+      "title": "Deceived",
+      "release_date": "1991-09-27"
+    },
+    {
+      "title": "Fried Green Tomatoes",
+      "release_date": "1991-12-27"
+    },
+    {
+      "title": "The Player",
+      "release_date": "1992-04-03"
+    },
+    {
+      "title": "Whispers in the Dark",
+      "release_date": "1992-08-07"
+    },
+    {
+      "title": "Scent of a Woman",
+      "release_date": "1992-12-23"
+    },
+    {
+      "title": "Those Secrets",
+      "release_date": "1992"
+    },
+    {
+      "title": "Citizen Cohn",
+      "release_date": "1992"
+    },
+    {
+      "title": "Flesh and Bone",
+      "release_date": "1993-11-05"
+    },
+    {
+      "title": "Josh and S.A.M.",
+      "release_date": "1993-11-24"
+    },
+    {
+      "title": "Threesome",
+      "release_date": "1994-04-08"
+    },
+    {
+      "title": "The Favor",
+      "release_date": "1994-04-29"
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "release_date": "1994-09-10"
+    },
+    {
+      "title": "The War",
+      "release_date": "1994-11-04"
+    },
+    {
+      "title": "Little Women",
+      "release_date": "1994-12-25"
+    },
+    {
+      "title": "Unstrung Heroes",
+      "release_date": "1995-09-15"
+    },
+    {
+      "title": "How to Make an American Quilt",
+      "release_date": "1995-10-06"
+    },
+    {
+      "title": "Up Close & Personal",
+      "release_date": "1996-03-01"
+    },
+    {
+      "title": "Phenomenon",
+      "release_date": "1996-07-03"
+    },
+    {
+      "title": "American Buffalo",
+      "release_date": "1996-09-13"
+    },
+    {
+      "title": "The People vs. Larry Flynt",
+      "release_date": "1996-10-13"
+    },
+    {
+      "title": "Red Corner",
+      "release_date": "1997-10-31"
+    },
+    {
+      "title": "Mad City",
+      "release_date": "1997-11-07"
+    },
+    {
+      "title": "Oscar and Lucinda",
+      "release_date": "1997-12-31"
+    },
+    {
+      "title": "The Horse Whisperer",
+      "release_date": "1998-05-15"
+    },
+    {
+      "title": "Meet Joe Black",
+      "release_date": "1998-11-08"
+    },
+    {
+      "title": "American Beauty",
+      "release_date": "1999-09-08"
+    },
+    {
+      "title": "The Green Mile",
+      "release_date": "1999-12-10"
+    },
+    {
+      "title": "Erin Brockovich",
+      "release_date": "2000-03-14"
+    },
+    {
+      "title": "Pay It Forward",
+      "release_date": "2000-10-20"
+    },
+    {
+      "title": "Boston Public",
+      "release_date": "2000"
+    },
+    {
+      "title": "In the Bedroom",
+      "release_date": "2001-01-19"
+    },
+    {
+      "title": "Six Feet Under",
+      "release_date": "2001"
+    },
+    {
+      "title": "The Salton Sea",
+      "release_date": "2002-04-26"
+    },
+    {
+      "title": "Road to Perdition",
+      "release_date": "2002-07-12"
+    },
+    {
+      "title": "White Oleander",
+      "release_date": "2002-10-11"
+    },
+    {
+      "title": "Finding Nemo",
+      "release_date": "2003-05-18"
+    },
+    {
+      "title": "Angels in America",
+      "release_date": "2003"
+    },
+    {
+      "title": "Lemony Snicket's A Seriesof Unfortunate Events",
+      "release_date": "2004"
+    },
+    {
+      "title": "Cinderella Man",
+      "release_date": "2005-06-03"
+    },
+    {
+      "title": "Jarhead",
+      "release_date": "2005-11-04"
+    },
+    {
+      "title": "Little Children",
+      "release_date": "2006-10-06"
+    },
+    {
+      "title": "The Good German",
+      "release_date": "2006-12-15"
+    },
+    {
+      "title": "Towelhead",
+      "release_date": "2007-09-08"
+    },
+    {
+      "title": "WALL-E",
+      "release_date": "2008-06-23"
+    },
+    {
+      "title": "Revolutionary Road",
+      "release_date": "2008-12-26"
+    },
+    {
+      "title": "Brothers",
+      "release_date": "2009-12-04"
+    },
+    {
+      "title": "The Adjustment Bureau",
+      "release_date": "2011-02-14"
+    },
+    {
+      "title": "The Help",
+      "release_date": "2011-07-30"
+    },
+    {
+      "title": "The Debt",
+      "release_date": "2010-09-04"
+    },
+    {
+      "title": "The Iron Lady",
+      "release_date": "2011-12-26"
+    },
+    {
+      "title": "The Best Exotic Marigold Hotel",
+      "release_date": "2011-11-30"
+    },
+    {
+      "title": "Skyfall",
+      "release_date": "2012-10-23"
+    },
+    {
+      "title": "The Newsroom",
+      "release_date": "2012"
+    },
+    {
+      "title": "Side Effects",
+      "release_date": "2013-02-08"
+    },
+    {
+      "title": "Saving Mr. Banks",
+      "release_date": "2013-10-20"
+    },
+    {
+      "title": "Get On Up",
+      "release_date": "2014-08-01"
+    },
+    {
+      "title": "The Judge",
+      "release_date": "2014-09-04"
+    },
+    {
+      "title": "The Second Best Exotic Marigold Hotel",
+      "release_date": "2015-02-17"
+    },
+    {
+      "title": "He Named Me Malala",
+      "release_date": "2015-09-04"
+    },
+    {
+      "title": "Bridge of Spies",
+      "release_date": "2015-10-04"
+    },
+    {
+      "title": "Spectre",
+      "release_date": "2015-10-26"
+    },
+    {
+      "title": "Finding Dory",
+      "release_date": "2016-06-08"
+    },
+    {
+      "title": "Passengers",
+      "release_date": "2016-12-14"
+    },
+    {
+      "title": "Victoria & Abdul",
+      "release_date": "2017-09-03"
+    },
+    {
+      "title": "Thank You for Your Service",
+      "release_date": "2017-10-15"
+    },
+    {
+      "title": "Five Came Back",
+      "release_date": "1939-06-23"
+    },
+    {
+      "title": "Castle Rock",
+      "release_date": "2018"
+    },
+    {
+      "title": "The Highwaymen",
+      "release_date": "2019-03-10"
+    },
+    {
+      "title": "Tolkien",
+      "release_date": "2019-05-03"
+    },
+    {
+      "title": "1917",
+      "release_date": "2019-12-04"
+    },
+    {
+      "title": "Let Them All Talk",
+      "release_date": "2020-12-10"
+    },
+    {
+      "title": "The Little Things",
+      "release_date": "2021-01-29"
+    },
+    {
+      "title": "Operation Mincemeat",
+      "release_date": "2021-11-05"
+    },
+    {
+      "title": "Dog",
+      "release_date": "2022-02-18"
+    },
+    {
+      "title": "A Man Called Otto",
+      "release_date": "2022-12-29"
+    },
+    {
+      "title": "Elemental",
+      "release_date": "2023-05-27"
+    },
+    {
+      "title": "White Bird",
+      "release_date": "2024-01-04"
+    },
+    {
+      "title": "Feud: Capote vs. The Swans",
+      "release_date": "2024"
+    },
+    {
+      "title": "Monsters: The Lyle and Erik Menendez Story",
+      "release_date": "2024"
+    },
+    {
+      "title": "The Thursday Murder Club",
+      "release_date": "2025-08-21"
+    },
+    {
+      "title": "In the Blink of an Eye",
+      "release_date": "2026-01-26"
+    },
+    {
+      "title": "Anxious People",
+      "release_date": "2026"
+    },
+    {
+      "title": "Star Wars: Starfighter",
+      "release_date": "2027-05-28"
+    }
+  ]
+}

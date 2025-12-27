@@ -1,0 +1,425 @@
+{
+  "composer": "Graeme Revell",
+  "filmography": [
+    {
+      "title": "Bangkok Hilton",
+      "release_date": "1988"
+    },
+    {
+      "title": "Dead Calm",
+      "release_date": "1989-04-07"
+    },
+    {
+      "title": "Spontaneous Combustion",
+      "release_date": "1990-02-23"
+    },
+    {
+      "title": "Child's Play 2",
+      "release_date": "1990-11-09"
+    },
+    {
+      "title": "Till There Was You",
+      "release_date": "1990"
+    },
+    {
+      "title": "Psycho IV: The Beginning",
+      "release_date": "1990"
+    },
+    {
+      "title": "Deadly",
+      "release_date": "1991"
+    },
+    {
+      "title": "The People Under the Stairs",
+      "release_date": "1991-11-01"
+    },
+    {
+      "title": "Until the End of the World",
+      "release_date": "1991-09-12"
+    },
+    {
+      "title": "The Hand That Rocks the Cradle",
+      "release_date": "1992-01-10"
+    },
+    {
+      "title": "Love Crimes",
+      "release_date": "1992-01-24"
+    },
+    {
+      "title": "Traces of Red",
+      "release_date": "1992"
+    },
+    {
+      "title": "Body of Evidence",
+      "release_date": "1992"
+    },
+    {
+      "title": "Boxing Helena",
+      "release_date": "1993-09-03"
+    },
+    {
+      "title": "Hear No Evil",
+      "release_date": "1993-03-26"
+    },
+    {
+      "title": "The Crush",
+      "release_date": "1993-04-02"
+    },
+    {
+      "title": "Faraway, So Close!",
+      "release_date": "1993-05-18"
+    },
+    {
+      "title": "Hard Target",
+      "release_date": "1993-08-20"
+    },
+    {
+      "title": "Ghost in the Machine",
+      "release_date": "1993-12-29"
+    },
+    {
+      "title": "No Escape",
+      "release_date": "1994-04-29"
+    },
+    {
+      "title": "The Crow",
+      "release_date": "1994-05-13"
+    },
+    {
+      "title": "S.F.W.",
+      "release_date": "1994-09-15"
+    },
+    {
+      "title": "Street Fighter",
+      "release_date": "1994-12-23"
+    },
+    {
+      "title": "Tank Girl",
+      "release_date": "1995-03-31"
+    },
+    {
+      "title": "The Basketball Diaries",
+      "release_date": "1995-01-27"
+    },
+    {
+      "title": "Mighty Morphin Power Rangers: The Movie",
+      "release_date": "1995-06-30"
+    },
+    {
+      "title": "Killer: A Journal of Murder",
+      "release_date": "1996-09-06"
+    },
+    {
+      "title": "The Tie That Binds",
+      "release_date": "1995"
+    },
+    {
+      "title": "Strange Days",
+      "release_date": "1995-10-07"
+    },
+    {
+      "title": "Down Came a Blackbird",
+      "release_date": "1995"
+    },
+    {
+      "title": "From Dusk till Dawn",
+      "release_date": "1996-01-17"
+    },
+    {
+      "title": "Race the Sun",
+      "release_date": "1996"
+    },
+    {
+      "title": "The Craft",
+      "release_date": "1996-05-03"
+    },
+    {
+      "title": "Fled",
+      "release_date": "1996-07-19"
+    },
+    {
+      "title": "The Crow: City of Angels",
+      "release_date": "1996-08-30"
+    },
+    {
+      "title": "The Saint",
+      "release_date": "1997-04-04"
+    },
+    {
+      "title": "Spawn",
+      "release_date": "1997-08-01"
+    },
+    {
+      "title": "Chinese Box",
+      "release_date": "1997-09-04"
+    },
+    {
+      "title": "Suicide Kings",
+      "release_date": "1997-09-06"
+    },
+    {
+      "title": "The Big Hit",
+      "release_date": "1998-04-24"
+    },
+    {
+      "title": "Phoenix",
+      "release_date": "1998-09-04"
+    },
+    {
+      "title": "All I Wanna Do",
+      "release_date": "1998-08-21"
+    },
+    {
+      "title": "The Negotiator",
+      "release_date": "1998-07-29"
+    },
+    {
+      "title": "Lulu on the Bridge",
+      "release_date": "1998-08-14"
+    },
+    {
+      "title": "Bride of Chucky",
+      "release_date": "1998-10-16"
+    },
+    {
+      "title": "The Siege",
+      "release_date": "1998-11-06"
+    },
+    {
+      "title": "Dennis the Menace Strikes Again",
+      "release_date": "1998-07-14"
+    },
+    {
+      "title": "Idle Hands",
+      "release_date": "1999-04-30"
+    },
+    {
+      "title": "Buddy Boy",
+      "release_date": "1999-09-05"
+    },
+    {
+      "title": "Three to Tango",
+      "release_date": "1999-10-22"
+    },
+    {
+      "title": "Bats",
+      "release_date": "1999-10-22"
+    },
+    {
+      "title": "The 13th Warrior",
+      "release_date": "1999-08-27"
+    },
+    {
+      "title": "Pitch Black",
+      "release_date": "2000-02-18"
+    },
+    {
+      "title": "Gossip",
+      "release_date": "2000"
+    },
+    {
+      "title": "Titan A.E.",
+      "release_date": "2000-06-16"
+    },
+    {
+      "title": "Calle 54",
+      "release_date": "2000-09-08"
+    },
+    {
+      "title": "Attraction",
+      "release_date": "2000"
+    },
+    {
+      "title": "Red Planet",
+      "release_date": "2000-11-06"
+    },
+    {
+      "title": "Frank Herbert's Dune",
+      "release_date": "2000"
+    },
+    {
+      "title": "Double Take",
+      "release_date": "2001"
+    },
+    {
+      "title": "Blow",
+      "release_date": "2001"
+    },
+    {
+      "title": "Human Nature",
+      "release_date": "2001-05-18"
+    },
+    {
+      "title": "Lara Croft: Tomb Raider",
+      "release_date": "2001-06-15"
+    },
+    {
+      "title": "Anne Frank: The Whole Story",
+      "release_date": "2001"
+    },
+    {
+      "title": "Collateral Damage",
+      "release_date": "2002-02-04"
+    },
+    {
+      "title": "High Crimes",
+      "release_date": "2002-04-05"
+    },
+    {
+      "title": "Below",
+      "release_date": "2002-10-11"
+    },
+    {
+      "title": "CSI: Miami",
+      "release_date": "2002"
+    },
+    {
+      "title": "Daredevil",
+      "release_date": "2003-02-14"
+    },
+    {
+      "title": "Freddy vs. Jason",
+      "release_date": "2003-08-15"
+    },
+    {
+      "title": "Out of Time",
+      "release_date": "2003-10-03"
+    },
+    {
+      "title": "Open Water",
+      "release_date": "2003-10-26"
+    },
+    {
+      "title": "Walking Tall",
+      "release_date": "2004-04-02"
+    },
+    {
+      "title": "The Chronicles of Riddick",
+      "release_date": "2004-06-11"
+    },
+    {
+      "title": "Assault on Precinct 13",
+      "release_date": "2005-01-19"
+    },
+    {
+      "title": "Sin City",
+      "release_date": "2005-03-28"
+    },
+    {
+      "title": "The Adventures of Sharkboy and Lavagirl in 3-D",
+      "release_date": "2005-06-04"
+    },
+    {
+      "title": "Goal!",
+      "release_date": "2005-10-01"
+    },
+    {
+      "title": "Harsh Times",
+      "release_date": "2005-09-11"
+    },
+    {
+      "title": "The Fog",
+      "release_date": "1980-02-01"
+    },
+    {
+      "title": "\u00c6on Flux",
+      "release_date": "2005-12-02"
+    },
+    {
+      "title": "Call of Duty 2",
+      "release_date": "2005"
+    },
+    {
+      "title": "Call of Duty 2: Big Red One",
+      "release_date": "2005"
+    },
+    {
+      "title": "Bordertown",
+      "release_date": "2007-02-15"
+    },
+    {
+      "title": "Man of the Year",
+      "release_date": "2006-10-13"
+    },
+    {
+      "title": "Marigold",
+      "release_date": "2007"
+    },
+    {
+      "title": "Planet Terror",
+      "release_date": "2007-04-06"
+    },
+    {
+      "title": "The Condemned",
+      "release_date": "2007-04-27"
+    },
+    {
+      "title": "Darfur Now",
+      "release_date": "2007-11-02"
+    },
+    {
+      "title": "Awake",
+      "release_date": "2007-11-30"
+    },
+    {
+      "title": "The Ruins",
+      "release_date": "2008-04-04"
+    },
+    {
+      "title": "Street Kings",
+      "release_date": "2008-04-03"
+    },
+    {
+      "title": "Pineapple Express",
+      "release_date": "2008-08-08"
+    },
+    {
+      "title": "Days of Wrath",
+      "release_date": "2008-09-17"
+    },
+    {
+      "title": "Eleventh Hour",
+      "release_date": "2008"
+    },
+    {
+      "title": "The Forgotten",
+      "release_date": "2009"
+    },
+    {
+      "title": "Dark Blue",
+      "release_date": "2002-12-21"
+    },
+    {
+      "title": "Unthinkable",
+      "release_date": "2010-06-14"
+    },
+    {
+      "title": "The Experiment",
+      "release_date": "2010-07-15"
+    },
+    {
+      "title": "Kites: The Remix",
+      "release_date": "2010-05-21"
+    },
+    {
+      "title": "Kites",
+      "release_date": "2010-05-21"
+    },
+    {
+      "title": "Shark Night",
+      "release_date": "2011-09-02"
+    },
+    {
+      "title": "The River",
+      "release_date": "2012"
+    },
+    {
+      "title": "Riddick",
+      "release_date": "2013-09-06"
+    },
+    {
+      "title": "Gotham",
+      "release_date": "2014"
+    }
+  ]
+}

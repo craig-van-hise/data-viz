@@ -1,0 +1,485 @@
+{
+  "composer": "Michael Nyman",
+  "filmography": [
+    {
+      "title": "The Cars That Ate Paris / The Great McCarthy \u2013 Bruce Smeaton",
+      "release_date": "1975"
+    },
+    {
+      "title": "No Award",
+      "release_date": "1976"
+    },
+    {
+      "title": "The Picture Show Man \u2013 Peter Best",
+      "release_date": "1977"
+    },
+    {
+      "title": "The Chant of Jimmie Blacksmith \u2013 Bruce Smeaton",
+      "release_date": "1978"
+    },
+    {
+      "title": "Mad Max \u2013 Brian May",
+      "release_date": "1979"
+    },
+    {
+      "title": "Manganinnie \u2013 Peter Sculthorpe",
+      "release_date": "1980"
+    },
+    {
+      "title": "Fatty Finn \u2013 Rory O'Donoghue and Grahame Bond",
+      "release_date": "1981"
+    },
+    {
+      "title": "The Man from Snowy River \u2013 Bruce Rowland",
+      "release_date": "1982"
+    },
+    {
+      "title": "Phar Lap \u2013 Bruce Rowland",
+      "release_date": "1983"
+    },
+    {
+      "title": "Street Hero \u2013 Garth Porter and Bruce Smeaton",
+      "release_date": "1984"
+    },
+    {
+      "title": "Rebel \u2013 Ray Cook, Chris Neal, Peter Best, Billy Byers, Bruce Rowland",
+      "release_date": "1985"
+    },
+    {
+      "title": "Young Einstein \u2013 William Motzing and Martin Armiger",
+      "release_date": "1986"
+    },
+    {
+      "title": "The Tale of Ruby Rose \u2013 Paul Sch\u00fctze",
+      "release_date": "1987"
+    },
+    {
+      "title": "The Lighthorsemen \u2013 Mario Millo",
+      "release_date": "1988"
+    },
+    {
+      "title": "Dead Calm \u2013 Graeme Revell",
+      "release_date": "1989"
+    },
+    {
+      "title": "The Big Steal \u2013 Phil Judd",
+      "release_date": "1990"
+    },
+    {
+      "title": "Dingo \u2013 Michel Legrand and Miles Davis",
+      "release_date": "1991"
+    },
+    {
+      "title": "Romper Stomper \u2013 John Clifford White",
+      "release_date": "1992"
+    },
+    {
+      "title": "The Piano \u2013 Michael Nyman",
+      "release_date": "1993"
+    },
+    {
+      "title": "Michael Nyman",
+      "release_date": "1993"
+    },
+    {
+      "title": "1991 \u2013 Prospero's Books (film music for the Michael Nyman Band), Concert Suite for chamber orchestra arranged in",
+      "release_date": "1994"
+    },
+    {
+      "title": "Traps \u2013 Douglas Stephen Rae",
+      "release_date": "1994"
+    },
+    {
+      "title": "Randy Newman",
+      "release_date": "1994"
+    },
+    {
+      "title": "Hotel Sorrento \u2013 Nerida Tyson-Chew",
+      "release_date": "1995"
+    },
+    {
+      "title": "Hans Zimmer",
+      "release_date": "1995"
+    },
+    {
+      "title": "Shine \u2013 David Hirschfelder",
+      "release_date": "1996"
+    },
+    {
+      "title": "Carter Burwell",
+      "release_date": "1996"
+    },
+    {
+      "title": "Doing Time for Patsy Cline \u2013 Peter Best",
+      "release_date": "1997"
+    },
+    {
+      "title": "James Horner",
+      "release_date": "1997"
+    },
+    {
+      "title": "Oscar and Lucinda \u2013 Thomas Newman",
+      "release_date": "1998"
+    },
+    {
+      "title": "Burkhard Dallwitz",
+      "release_date": "1998"
+    },
+    {
+      "title": "1989 \u2013 The Fall of Icarus (for the Michael Nyman Band) \u2013 reworked into The Commissar Vanishes in",
+      "release_date": "1999"
+    },
+    {
+      "title": "In a Savage Land \u2013 David Bridie",
+      "release_date": "1999"
+    },
+    {
+      "title": "Trey Parker and Marc Shaiman",
+      "release_date": "1999"
+    },
+    {
+      "title": "1987 \u2013 Vital Statistics (opera; libretto by Victoria Hardie) \u2013 withdrawn and revised into Facing Goya in",
+      "release_date": "2000"
+    },
+    {
+      "title": "Bootmen \u2013 Cezary Skubiszewski",
+      "release_date": "2000"
+    },
+    {
+      "title": "Tan Dun",
+      "release_date": "2000"
+    },
+    {
+      "title": "The Dish \u2013 Edmund Choi",
+      "release_date": "2001"
+    },
+    {
+      "title": "Howard Shore",
+      "release_date": "2001"
+    },
+    {
+      "title": "Elmer Bernstein",
+      "release_date": "2001"
+    },
+    {
+      "title": "Rabbit-Proof Fence \u2013 Peter Gabriel",
+      "release_date": "2002"
+    },
+    {
+      "title": "Elmer Bernstein",
+      "release_date": "2002"
+    },
+    {
+      "title": "George Martin",
+      "release_date": "2002"
+    },
+    {
+      "title": "Japanese Story \u2013 Elizabeth Drake",
+      "release_date": "2003"
+    },
+    {
+      "title": "Howard Shore",
+      "release_date": "2003"
+    },
+    {
+      "title": "Maurice Jarre",
+      "release_date": "2003"
+    },
+    {
+      "title": "Somersault \u2013 Decoder Ring",
+      "release_date": "2004"
+    },
+    {
+      "title": "Howard Shore",
+      "release_date": "2004"
+    },
+    {
+      "title": "Alan and Marilyn Bergman",
+      "release_date": "2004"
+    },
+    {
+      "title": "1992 \u2013 The Piano (film music for orchestra), arranged for concert suites in 2003 and",
+      "release_date": "2005"
+    },
+    {
+      "title": "2002 \u2013 Beckham Crosses, Nyman Scores (string quartet and tape), derive Exit, No Exit for bass clarinet and string quartet in",
+      "release_date": "2005"
+    },
+    {
+      "title": "The Proposition \u2013 Nick Cave and Warren Ellis",
+      "release_date": "2005"
+    },
+    {
+      "title": "Gustavo Santaolalla",
+      "release_date": "2005"
+    },
+    {
+      "title": "Jerry Leiber and Mike Stoller",
+      "release_date": "2005"
+    },
+    {
+      "title": "Suburban Mayhem \u2013 Mick Harvey",
+      "release_date": "2006"
+    },
+    {
+      "title": "Clint Mansell",
+      "release_date": "2006"
+    },
+    {
+      "title": "Peer Raben",
+      "release_date": "2006"
+    },
+    {
+      "title": "The Home Song Stories \u2013 Antony Partos",
+      "release_date": "2007"
+    },
+    {
+      "title": "Glen Hansard and Mark\u00e9ta Irglov\u00e1",
+      "release_date": "2007"
+    },
+    {
+      "title": "Mikis Theodorakis",
+      "release_date": "2007"
+    },
+    {
+      "title": "Unfinished Sky \u2013 Antony Partos",
+      "release_date": "2008"
+    },
+    {
+      "title": "Thomas Newman",
+      "release_date": "2008"
+    },
+    {
+      "title": "Angelo Badalamenti",
+      "release_date": "2008"
+    },
+    {
+      "title": "Mao's Last Dancer \u2013 Christopher Gordon",
+      "release_date": "2009"
+    },
+    {
+      "title": "Michael Giacchino",
+      "release_date": "2009"
+    },
+    {
+      "title": "Marvin Hamlisch",
+      "release_date": "2009"
+    },
+    {
+      "title": "1977 \u2013 In Re Don Giovanni (for the Michael Nyman Band) \u2013 arranged for string quartet (1991), string quintet (1997), and orchestra",
+      "release_date": "2010"
+    },
+    {
+      "title": "1981 \u2013 Think Slow, Act Fast (for Hoketus) \u2013 reworked into soundtrack for A Sixth Part of the World in",
+      "release_date": "2010"
+    },
+    {
+      "title": "2008 \u2013 Something Connected with Energy (ensemble) \u2013 reworked into soundtrack for The Eleventh Year in",
+      "release_date": "2010"
+    },
+    {
+      "title": "Animal Kingdom \u2013 Antony Partos and Sam Petty",
+      "release_date": "2010"
+    },
+    {
+      "title": "Clint Mansell",
+      "release_date": "2010"
+    },
+    {
+      "title": "John Barry",
+      "release_date": "2010"
+    },
+    {
+      "title": "The Hunter \u2013 Andrew Lancaster, Michael Lira and Matteo Zingales",
+      "release_date": "2011"
+    },
+    {
+      "title": "Cliff Martinez",
+      "release_date": "2011"
+    },
+    {
+      "title": "Giorgio Moroder",
+      "release_date": "2011"
+    },
+    {
+      "title": "Not Suitable for Children \u2013 Matteo Zingales and Jono Ma",
+      "release_date": "2012"
+    },
+    {
+      "title": "Jonny Greenwood",
+      "release_date": "2012"
+    },
+    {
+      "title": "Pino Donaggio",
+      "release_date": "2012"
+    },
+    {
+      "title": "The Great Gatsby \u2013 Craig Armstrong",
+      "release_date": "2013"
+    },
+    {
+      "title": "Arcade Fire",
+      "release_date": "2013"
+    },
+    {
+      "title": "Riz Ortolani",
+      "release_date": "2013"
+    },
+    {
+      "title": "The Railwayman \u2013 David Hirschfelder",
+      "release_date": "2014"
+    },
+    {
+      "title": "Mica Levi",
+      "release_date": "2014"
+    },
+    {
+      "title": "Francis Lai",
+      "release_date": "2014"
+    },
+    {
+      "title": "Use British English from January",
+      "release_date": "2014"
+    },
+    {
+      "title": "Mad Max: Fury Road \u2013 Tom Holkenborg",
+      "release_date": "2015"
+    },
+    {
+      "title": "Ennio Morricone",
+      "release_date": "2015"
+    },
+    {
+      "title": "Patrick Doyle and George Fenton",
+      "release_date": "2015"
+    },
+    {
+      "title": "BLP articles lacking sources from January",
+      "release_date": "2015"
+    },
+    {
+      "title": "Tanna \u2013 Antony Partos",
+      "release_date": "2016"
+    },
+    {
+      "title": "Mica Levi",
+      "release_date": "2016"
+    },
+    {
+      "title": "Ryuichi Sakamoto",
+      "release_date": "2016"
+    },
+    {
+      "title": "Lion \u2013 Volker Bertelmann and Dustin O'Halloran",
+      "release_date": "2017"
+    },
+    {
+      "title": "Jonny Greenwood",
+      "release_date": "2017"
+    },
+    {
+      "title": "David Shire",
+      "release_date": "2017"
+    },
+    {
+      "title": "Ladies in Black \u2013 Christopher Gordon",
+      "release_date": "2018"
+    },
+    {
+      "title": "Nicholas Britell",
+      "release_date": "2018"
+    },
+    {
+      "title": "Philippe Sarde",
+      "release_date": "2018"
+    },
+    {
+      "title": "Judy and Punch \u2013 Fran\u00e7ois T\u00e9taz",
+      "release_date": "2019"
+    },
+    {
+      "title": "Alexandre Desplat",
+      "release_date": "2019"
+    },
+    {
+      "title": "Krzysztof Penderecki and Fr\u00e9d\u00e9ric Devreese",
+      "release_date": "2019"
+    },
+    {
+      "title": "Babyteeth \u2013 Amanda Brown",
+      "release_date": "2020"
+    },
+    {
+      "title": "Trent Reznor, Atticus Ross, and Jon Batiste",
+      "release_date": "2020"
+    },
+    {
+      "title": "Gabriel Yared",
+      "release_date": "2020"
+    },
+    {
+      "title": "June Again \u2013 Christopher Gordon",
+      "release_date": "2021"
+    },
+    {
+      "title": "Jonny Greenwood",
+      "release_date": "2021"
+    },
+    {
+      "title": "Eleni Karaindrou",
+      "release_date": "2021"
+    },
+    {
+      "title": "Use dmy dates from October",
+      "release_date": "2021"
+    },
+    {
+      "title": "Falling for Figaro \u2013 Cezary Skubiszewski",
+      "release_date": "2022"
+    },
+    {
+      "title": "Justin Hurwitz",
+      "release_date": "2022"
+    },
+    {
+      "title": "Bruno Coulais",
+      "release_date": "2022"
+    },
+    {
+      "title": "Talk to Me \u2013 Cornel Wilczek",
+      "release_date": "2023"
+    },
+    {
+      "title": "Robbie Robertson",
+      "release_date": "2023"
+    },
+    {
+      "title": "Nicola Piovani and Laurence Rosenthal",
+      "release_date": "2023"
+    },
+    {
+      "title": "Better Man \u2013 Batu Sener",
+      "release_date": "2024"
+    },
+    {
+      "title": "Trent Reznor and Atticus Ross",
+      "release_date": "2024"
+    },
+    {
+      "title": "Elliot Goldenthal",
+      "release_date": "2024"
+    },
+    {
+      "title": "Wikipedia articles needing page number citations from August",
+      "release_date": "2024"
+    },
+    {
+      "title": "Jonny Greenwood",
+      "release_date": "2025"
+    },
+    {
+      "title": "Philip Glass and Michael Nyman",
+      "release_date": "2025"
+    }
+  ]
+}

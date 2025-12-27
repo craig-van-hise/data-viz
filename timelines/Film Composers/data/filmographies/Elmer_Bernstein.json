@@ -1,0 +1,597 @@
+{
+  "composer": "Elmer Bernstein",
+  "filmography": [
+    {
+      "title": "Saturday's Hero",
+      "release_date": "1951-09-10"
+    },
+    {
+      "title": "Battles of Chief Pontiac",
+      "release_date": "1952-12-08"
+    },
+    {
+      "title": "Sudden Fear",
+      "release_date": "1952-08-07"
+    },
+    {
+      "title": "Cat-Women of the Moon",
+      "release_date": "1953-09-03"
+    },
+    {
+      "title": "Never Wave at a WAC",
+      "release_date": "1953-01-28"
+    },
+    {
+      "title": "Robot Monster",
+      "release_date": "1953-06-24"
+    },
+    {
+      "title": "Silent Raiders",
+      "release_date": "1954-09-17"
+    },
+    {
+      "title": "The Eternal Sea",
+      "release_date": "1955-04-20"
+    },
+    {
+      "title": "The Man with the Golden Arm",
+      "release_date": "1955-12-15"
+    },
+    {
+      "title": "The View from Pompey's Head",
+      "release_date": "1955-11-04"
+    },
+    {
+      "title": "The Ten Commandments",
+      "release_date": "1956-11-08"
+    },
+    {
+      "title": "Men in War",
+      "release_date": "1957-01-26"
+    },
+    {
+      "title": "Drango",
+      "release_date": "1957"
+    },
+    {
+      "title": "Fear Strikes Out",
+      "release_date": "1957-03-20"
+    },
+    {
+      "title": "Sweet Smell of Success",
+      "release_date": "1957-06-27"
+    },
+    {
+      "title": "The Tin Star",
+      "release_date": "1957-10-23"
+    },
+    {
+      "title": "Desire Under the Elms",
+      "release_date": "1958-03-12"
+    },
+    {
+      "title": "Kings Go Forth",
+      "release_date": "1958-06-14"
+    },
+    {
+      "title": "God's Little Acre",
+      "release_date": "1958-08-13"
+    },
+    {
+      "title": "The Buccaneer",
+      "release_date": "1958-12-01"
+    },
+    {
+      "title": "Some Came Running",
+      "release_date": "1958-12-18"
+    },
+    {
+      "title": "The Miracle",
+      "release_date": "1959-11-12"
+    },
+    {
+      "title": "The Story on Page One",
+      "release_date": "1960-01-13"
+    },
+    {
+      "title": "The Magnificent Seven",
+      "release_date": "1960-10-12"
+    },
+    {
+      "title": "The Rat Race",
+      "release_date": "1960-07-10"
+    },
+    {
+      "title": "From the Terrace",
+      "release_date": "1960-07-15"
+    },
+    {
+      "title": "The Comancheros",
+      "release_date": "1961-11-01"
+    },
+    {
+      "title": "By Love Possessed",
+      "release_date": "1961"
+    },
+    {
+      "title": "The Young Doctors",
+      "release_date": "1961-08-23"
+    },
+    {
+      "title": "Summer and Smoke",
+      "release_date": "1961-11-16"
+    },
+    {
+      "title": "Walk on the Wild Side",
+      "release_date": "1962-02-21"
+    },
+    {
+      "title": "Birdman of Alcatraz",
+      "release_date": "1962-07-03"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "release_date": "1962-12-25"
+    },
+    {
+      "title": "A Girl Named Tamiko",
+      "release_date": "1962-12-27"
+    },
+    {
+      "title": "Kings of the Sun",
+      "release_date": "1963-12-18"
+    },
+    {
+      "title": "The Caretakers",
+      "release_date": "1963-08-21"
+    },
+    {
+      "title": "The Great Escape",
+      "release_date": "1963-06-20"
+    },
+    {
+      "title": "Love with the Proper Stranger",
+      "release_date": "1963-12-25"
+    },
+    {
+      "title": "Hud",
+      "release_date": "1963-05-29"
+    },
+    {
+      "title": "The World of Henry Orient",
+      "release_date": "1964-03-19"
+    },
+    {
+      "title": "The Carpetbaggers",
+      "release_date": "1964-04-09"
+    },
+    {
+      "title": "The Sons of Katie Elder",
+      "release_date": "1965-06-24"
+    },
+    {
+      "title": "The Hallelujah Trail",
+      "release_date": "1965"
+    },
+    {
+      "title": "Baby the Rain Must Fall",
+      "release_date": "1965-01-13"
+    },
+    {
+      "title": "7 Women",
+      "release_date": "1966-01-05"
+    },
+    {
+      "title": "The Silencers",
+      "release_date": "1966-02-18"
+    },
+    {
+      "title": "Cast A Giant Shadow",
+      "release_date": "1966"
+    },
+    {
+      "title": "Hawaii",
+      "release_date": "1966-10-10"
+    },
+    {
+      "title": "Return of the Seven",
+      "release_date": "1966-10-19"
+    },
+    {
+      "title": "Thoroughly Modern Millie",
+      "release_date": "1967-03-21"
+    },
+    {
+      "title": "The Scalphunters",
+      "release_date": "1968-04-02"
+    },
+    {
+      "title": "I Love You, Alice B. Toklas",
+      "release_date": "1968-08-29"
+    },
+    {
+      "title": "Powers of Ten",
+      "release_date": "1977-09-04"
+    },
+    {
+      "title": "Guns of the Magnificent Seven",
+      "release_date": "1969-05-28"
+    },
+    {
+      "title": "True Grit",
+      "release_date": "1969-06-12"
+    },
+    {
+      "title": "The Bridge at Remagen",
+      "release_date": "1969-06-25"
+    },
+    {
+      "title": "The Gypsy Moths",
+      "release_date": "1969-08-28"
+    },
+    {
+      "title": "The Liberation of L.B. Jones",
+      "release_date": "1970-03-18"
+    },
+    {
+      "title": "Cannon for Cordoba",
+      "release_date": "1970"
+    },
+    {
+      "title": "A Walk in the Spring Rain",
+      "release_date": "1970-04-09"
+    },
+    {
+      "title": "Big Jake",
+      "release_date": "1971-05-26"
+    },
+    {
+      "title": "Doctors' Wives",
+      "release_date": "1971-02-03"
+    },
+    {
+      "title": "See No Evil",
+      "release_date": "1971-09-02"
+    },
+    {
+      "title": "The Amazing Mr. Blunden",
+      "release_date": "1972"
+    },
+    {
+      "title": "Cahill U.S. Marshal",
+      "release_date": "1973-07-11"
+    },
+    {
+      "title": "The Magnificent Seven Ride!",
+      "release_date": "1972-08-01"
+    },
+    {
+      "title": "Gold",
+      "release_date": "1974-09-05"
+    },
+    {
+      "title": "McQ",
+      "release_date": "1974"
+    },
+    {
+      "title": "Nightmare Honeymoon",
+      "release_date": "1974-09-20"
+    },
+    {
+      "title": "The Trial of Billy Jack",
+      "release_date": "1974-11-13"
+    },
+    {
+      "title": "Mr Quilp",
+      "release_date": "1975-11-20"
+    },
+    {
+      "title": "Report to the Commissioner",
+      "release_date": "1975-02-05"
+    },
+    {
+      "title": "From Noon Till Three",
+      "release_date": "1976"
+    },
+    {
+      "title": "The Incredible Sarah",
+      "release_date": "1976"
+    },
+    {
+      "title": "The Shootist",
+      "release_date": "1976-07-21"
+    },
+    {
+      "title": "Billy Jack Goes to Washington",
+      "release_date": "1977-04-16"
+    },
+    {
+      "title": "Slap Shot",
+      "release_date": "1977-02-25"
+    },
+    {
+      "title": "Powers of Ten",
+      "release_date": "1977-09-04"
+    },
+    {
+      "title": "National Lampoon's Animal House",
+      "release_date": "1978"
+    },
+    {
+      "title": "Bloodbrothers",
+      "release_date": "1978-10-06"
+    },
+    {
+      "title": "Casey's Shadow",
+      "release_date": "1978-03-17"
+    },
+    {
+      "title": "Zulu Dawn",
+      "release_date": "1979-05-15"
+    },
+    {
+      "title": "The Great Santini",
+      "release_date": "1979-10-26"
+    },
+    {
+      "title": "Meatballs",
+      "release_date": "1979-06-29"
+    },
+    {
+      "title": "Airplane!",
+      "release_date": "1980-06-27"
+    },
+    {
+      "title": "The Blues Brothers",
+      "release_date": "1980-06-20"
+    },
+    {
+      "title": "Saturn 3",
+      "release_date": "1980-02-15"
+    },
+    {
+      "title": "Heavy Metal",
+      "release_date": "1981-08-07"
+    },
+    {
+      "title": "Honky Tonk Freeway",
+      "release_date": "1981-08-21"
+    },
+    {
+      "title": "Going Ape!",
+      "release_date": "1981-04-10"
+    },
+    {
+      "title": "The Chosen",
+      "release_date": "1982-04-30"
+    },
+    {
+      "title": "An American Werewolf in London",
+      "release_date": "1981-08-21"
+    },
+    {
+      "title": "Stripes",
+      "release_date": "1981-06-26"
+    },
+    {
+      "title": "Genocide",
+      "release_date": "1982"
+    },
+    {
+      "title": "Five Days One Summer",
+      "release_date": "1982-11-12"
+    },
+    {
+      "title": "Our House",
+      "release_date": "1982"
+    },
+    {
+      "title": "Airplane II: The Sequel",
+      "release_date": "1982-12-10"
+    },
+    {
+      "title": "Michael Jackson's Thriller",
+      "release_date": "1983"
+    },
+    {
+      "title": "Class",
+      "release_date": "1983-07-22"
+    },
+    {
+      "title": "Trading Places",
+      "release_date": "1983-06-08"
+    },
+    {
+      "title": "Spacehunter: Adventures in the Forbidden Zone",
+      "release_date": "1983-05-20"
+    },
+    {
+      "title": "Prince Jack",
+      "release_date": "1984"
+    },
+    {
+      "title": "Marie Ward",
+      "release_date": "1984"
+    },
+    {
+      "title": "Bolero",
+      "release_date": "1984-08-31"
+    },
+    {
+      "title": "Ghostbusters",
+      "release_date": "1984-06-08"
+    },
+    {
+      "title": "The Black Cauldron",
+      "release_date": "1985-07-24"
+    },
+    {
+      "title": "Spies Like Us",
+      "release_date": "1985-12-03"
+    },
+    {
+      "title": "The Journey of Natty Gann",
+      "release_date": "1985-09-27"
+    },
+    {
+      "title": "\u00a1Three Amigos!",
+      "release_date": "1986-12-12"
+    },
+    {
+      "title": "Legal Eagles",
+      "release_date": "1986-06-18"
+    },
+    {
+      "title": "Leonard Part 6",
+      "release_date": "1987-12-18"
+    },
+    {
+      "title": "Amazing Grace and Chuck",
+      "release_date": "1987-05-22"
+    },
+    {
+      "title": "Funny Farm",
+      "release_date": "1988-06-03"
+    },
+    {
+      "title": "The Good Mother",
+      "release_date": "1988-11-04"
+    },
+    {
+      "title": "A Night in the Life of Jimmy Reardon",
+      "release_date": "1988-02-26"
+    },
+    {
+      "title": "Da",
+      "release_date": "1988-04-29"
+    },
+    {
+      "title": "My Left Foot",
+      "release_date": "1989-02-24"
+    },
+    {
+      "title": "Slipstream",
+      "release_date": "1989-02-10"
+    },
+    {
+      "title": "The Field",
+      "release_date": "1990-09-21"
+    },
+    {
+      "title": "The Grifters",
+      "release_date": "1990-09-14"
+    },
+    {
+      "title": "Cape Fear",
+      "release_date": "1991-11-15"
+    },
+    {
+      "title": "Rambling Rose",
+      "release_date": "1991-09-20"
+    },
+    {
+      "title": "A Rage in Harlem",
+      "release_date": "1991-05-03"
+    },
+    {
+      "title": "Oscar",
+      "release_date": "1991-04-26"
+    },
+    {
+      "title": "A River Runs Through It",
+      "release_date": "1992-09-11"
+    },
+    {
+      "title": "Innocent Blood",
+      "release_date": "1992-09-25"
+    },
+    {
+      "title": "Mad Dog and Glory",
+      "release_date": "1993-03-05"
+    },
+    {
+      "title": "The Age of Innocence",
+      "release_date": "1993-09-17"
+    },
+    {
+      "title": "Lost in Yonkers",
+      "release_date": "1993-05-14"
+    },
+    {
+      "title": "The Cemetery Club",
+      "release_date": "1993-02-03"
+    },
+    {
+      "title": "The Good Son",
+      "release_date": "1993-09-24"
+    },
+    {
+      "title": "Roommates",
+      "release_date": "1995-03-03"
+    },
+    {
+      "title": "The Scarlet Letter",
+      "release_date": "1995-10-13"
+    },
+    {
+      "title": "Search and Destroy",
+      "release_date": "1995-04-28"
+    },
+    {
+      "title": "Canadian Bacon",
+      "release_date": "1995-09-22"
+    },
+    {
+      "title": "Devil in a Blue Dress",
+      "release_date": "1995-09-16"
+    },
+    {
+      "title": "Frankie Starlight",
+      "release_date": "1995-11-22"
+    },
+    {
+      "title": "Bulletproof",
+      "release_date": "1996-09-06"
+    },
+    {
+      "title": "Buddy",
+      "release_date": "1997-06-06"
+    },
+    {
+      "title": "The Rainmaker",
+      "release_date": "1997-11-21"
+    },
+    {
+      "title": "Hoodlum",
+      "release_date": "1997-08-27"
+    },
+    {
+      "title": "Twilight",
+      "release_date": "1998-03-06"
+    },
+    {
+      "title": "Bringing Out the Dead",
+      "release_date": "1999-10-22"
+    },
+    {
+      "title": "Wild Wild West",
+      "release_date": "1999-06-30"
+    },
+    {
+      "title": "The Deep End of the Ocean",
+      "release_date": "1999-03-12"
+    },
+    {
+      "title": "Keeping the Faith",
+      "release_date": "2000-04-14"
+    },
+    {
+      "title": "Far from Heaven",
+      "release_date": "2002-09-02"
+    },
+    {
+      "title": "Gangs of New York",
+      "release_date": "2002-12-20"
+    }
+  ]
+}

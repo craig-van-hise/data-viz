@@ -1,0 +1,369 @@
+{
+  "composer": "George Fenton",
+  "filmography": [
+    {
+      "title": "Private Road",
+      "release_date": "1971-09-30"
+    },
+    {
+      "title": "Bloody Kids",
+      "release_date": "1980"
+    },
+    {
+      "title": "Hussy",
+      "release_date": "1980"
+    },
+    {
+      "title": "Gandhi",
+      "release_date": "1982-11-30"
+    },
+    {
+      "title": "Runners",
+      "release_date": "1983"
+    },
+    {
+      "title": "The Company of Wolves",
+      "release_date": "1984-09-15"
+    },
+    {
+      "title": "Clockwise",
+      "release_date": "1986-03-14"
+    },
+    {
+      "title": "84 Charing Cross Road",
+      "release_date": "1987-02-13"
+    },
+    {
+      "title": "Billy the Kid and the Green Baize Vampire",
+      "release_date": "1986-05-09"
+    },
+    {
+      "title": "Cry Freedom",
+      "release_date": "1987-11-06"
+    },
+    {
+      "title": "White Mischief",
+      "release_date": "1987-11-10"
+    },
+    {
+      "title": "A Handful of Dust",
+      "release_date": "1988-06-14"
+    },
+    {
+      "title": "High Spirits",
+      "release_date": "1988-11-18"
+    },
+    {
+      "title": "Dangerous Liaisons",
+      "release_date": "1988-12-21"
+    },
+    {
+      "title": "The Dressmaker",
+      "release_date": "1988-10-16"
+    },
+    {
+      "title": "We're No Angels",
+      "release_date": "1989-12-15"
+    },
+    {
+      "title": "Memphis Belle",
+      "release_date": "1990-09-05"
+    },
+    {
+      "title": "The Long Walk Home",
+      "release_date": "1990-12-21"
+    },
+    {
+      "title": "White Palace",
+      "release_date": "1990-10-19"
+    },
+    {
+      "title": "The Fisher King",
+      "release_date": "1991-09-20"
+    },
+    {
+      "title": "Final Analysis",
+      "release_date": "1992-02-07"
+    },
+    {
+      "title": "Hero",
+      "release_date": "1992-10-02"
+    },
+    {
+      "title": "Groundhog Day",
+      "release_date": "1993-02-04"
+    },
+    {
+      "title": "Born Yesterday",
+      "release_date": "1993-03-26"
+    },
+    {
+      "title": "Shadowlands",
+      "release_date": "1993-12-25"
+    },
+    {
+      "title": "China Moon",
+      "release_date": "1994-03-04"
+    },
+    {
+      "title": "Ladybird, Ladybird",
+      "release_date": "1994-06-16"
+    },
+    {
+      "title": "Mixed Nuts",
+      "release_date": "1994-12-21"
+    },
+    {
+      "title": "Land and Freedom",
+      "release_date": "1995-10-06"
+    },
+    {
+      "title": "Mary Reilly",
+      "release_date": "1996-02-23"
+    },
+    {
+      "title": "Heaven's Prisoners",
+      "release_date": "1996-05-17"
+    },
+    {
+      "title": "Multiplicity",
+      "release_date": "1996-07-17"
+    },
+    {
+      "title": "Carla's Song",
+      "release_date": "1996-09-20"
+    },
+    {
+      "title": "The Crucible",
+      "release_date": "1996-11-27"
+    },
+    {
+      "title": "In Love and War",
+      "release_date": "1996-12-18"
+    },
+    {
+      "title": "The Woodlanders",
+      "release_date": "1997"
+    },
+    {
+      "title": "Dangerous Beauty",
+      "release_date": "1998-02-20"
+    },
+    {
+      "title": "The Object of My Affection",
+      "release_date": "1998-04-17"
+    },
+    {
+      "title": "My Name Is Joe",
+      "release_date": "1998-05-15"
+    },
+    {
+      "title": "Ever After",
+      "release_date": "1998-07-31"
+    },
+    {
+      "title": "Living Out Loud",
+      "release_date": "1998-09-15"
+    },
+    {
+      "title": "You've Got Mail",
+      "release_date": "1998-12-18"
+    },
+    {
+      "title": "Entropy",
+      "release_date": "1999"
+    },
+    {
+      "title": "Grey Owl",
+      "release_date": "1999-09-10"
+    },
+    {
+      "title": "Anna and the King",
+      "release_date": "1999-12-17"
+    },
+    {
+      "title": "Bread and Roses",
+      "release_date": "2000-05-10"
+    },
+    {
+      "title": "Center Stage",
+      "release_date": "2000-05-12"
+    },
+    {
+      "title": "Lucky Numbers",
+      "release_date": "2000-10-27"
+    },
+    {
+      "title": "Summer Catch",
+      "release_date": "2001-08-24"
+    },
+    {
+      "title": "The Navigators",
+      "release_date": "2001-11-16"
+    },
+    {
+      "title": "Sweet Sixteen",
+      "release_date": "2002-05-21"
+    },
+    {
+      "title": "Sweet Home Alabama",
+      "release_date": "2002-09-27"
+    },
+    {
+      "title": "Imagining Argentina",
+      "release_date": "2003-09-12"
+    },
+    {
+      "title": "Deep Blue",
+      "release_date": "2003"
+    },
+    {
+      "title": "Ae Fond Kiss...",
+      "release_date": "2004"
+    },
+    {
+      "title": "Stage Beauty",
+      "release_date": "2004-05-08"
+    },
+    {
+      "title": "Hitch",
+      "release_date": "2005-02-11"
+    },
+    {
+      "title": "Tickets",
+      "release_date": "2005"
+    },
+    {
+      "title": "Valiant",
+      "release_date": "2005-03-25"
+    },
+    {
+      "title": "Bewitched",
+      "release_date": "2005-06-24"
+    },
+    {
+      "title": "Mrs Henderson Presents",
+      "release_date": "2005-11-25"
+    },
+    {
+      "title": "Last Holiday",
+      "release_date": "2006"
+    },
+    {
+      "title": "The Wind That Shakes the Barley",
+      "release_date": "2006-05-18"
+    },
+    {
+      "title": "The History Boys",
+      "release_date": "2006-10-13"
+    },
+    {
+      "title": "Earth",
+      "release_date": "2007"
+    },
+    {
+      "title": "It's a Free World...",
+      "release_date": "2007-09-24"
+    },
+    {
+      "title": "Fool's Gold",
+      "release_date": "2008-02-08"
+    },
+    {
+      "title": "Looking for Eric",
+      "release_date": "2009"
+    },
+    {
+      "title": "The Bounty Hunter",
+      "release_date": "2010-03-19"
+    },
+    {
+      "title": "Route Irish",
+      "release_date": "2010"
+    },
+    {
+      "title": "One Life",
+      "release_date": "2011-07-22"
+    },
+    {
+      "title": "The Angels' Share",
+      "release_date": "2012"
+    },
+    {
+      "title": "The Spirit of '45",
+      "release_date": "2013-03-15"
+    },
+    {
+      "title": "Muhammad Ali's Greatest Fight",
+      "release_date": "2013"
+    },
+    {
+      "title": "The Zero Theorem",
+      "release_date": "2013-09-02"
+    },
+    {
+      "title": "Bears",
+      "release_date": "2014-04-18"
+    },
+    {
+      "title": "Jimmy's Hall",
+      "release_date": "2014-05-22"
+    },
+    {
+      "title": "Absolutely Anything",
+      "release_date": "2015-08-14"
+    },
+    {
+      "title": "The Lady in the Van",
+      "release_date": "2015-09-12"
+    },
+    {
+      "title": "I, Daniel Blake",
+      "release_date": "2016"
+    },
+    {
+      "title": "Wild Oats",
+      "release_date": "2016-08-22"
+    },
+    {
+      "title": "Woman Walks Ahead",
+      "release_date": "2017-09-10"
+    },
+    {
+      "title": "Red Joan",
+      "release_date": "2018-09-07"
+    },
+    {
+      "title": "Cold Pursuit",
+      "release_date": "2019-02-08"
+    },
+    {
+      "title": "Sorry We Missed You",
+      "release_date": "2019-05-16"
+    },
+    {
+      "title": "The Secret: Dare to Dream",
+      "release_date": "2020"
+    },
+    {
+      "title": "The United Way",
+      "release_date": "2021-05-10"
+    },
+    {
+      "title": "The Duke",
+      "release_date": "2021"
+    },
+    {
+      "title": "Allelujah",
+      "release_date": "2022-09-11"
+    },
+    {
+      "title": "Elizabeth: A Portrait in Parts",
+      "release_date": "2022"
+    },
+    {
+      "title": "The Old Oak",
+      "release_date": "2023-05-26"
+    }
+  ]
+}

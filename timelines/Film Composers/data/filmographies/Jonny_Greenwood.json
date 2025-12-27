@@ -1,0 +1,45 @@
+{
+  "composer": "Jonny Greenwood",
+  "filmography": [
+    {
+      "title": "Bodysong",
+      "release_date": "2003"
+    },
+    {
+      "title": "There Will Be Blood",
+      "release_date": "2007-09-27"
+    },
+    {
+      "title": "Norwegian Wood",
+      "release_date": "2010-09-02"
+    },
+    {
+      "title": "The Master",
+      "release_date": "2012-09-01"
+    },
+    {
+      "title": "Inherent Vice",
+      "release_date": "2014-10-04"
+    },
+    {
+      "title": "Phantom Thread",
+      "release_date": "2017-12-11"
+    },
+    {
+      "title": "You Were Never Really Here",
+      "release_date": "2017-05-27"
+    },
+    {
+      "title": "Spencer",
+      "release_date": "2021-09-03"
+    },
+    {
+      "title": "The Power of the Dog",
+      "release_date": "2021-09-02"
+    },
+    {
+      "title": "One Battle After Another",
+      "release_date": "2025-09-08"
+    }
+  ]
+}

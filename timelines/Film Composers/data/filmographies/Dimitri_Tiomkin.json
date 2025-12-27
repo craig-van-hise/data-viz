@@ -1,0 +1,105 @@
+{
+  "composer": "Dimitri Tiomkin",
+  "filmography": [
+    {
+      "title": "King Kong",
+      "release_date": "1933-03-02"
+    },
+    {
+      "title": "The Adventures of Robin Hood",
+      "release_date": "1938-05-14"
+    },
+    {
+      "title": "Gone with the Wind",
+      "release_date": "1939-12-15"
+    },
+    {
+      "title": "Laura",
+      "release_date": "1944-10-11"
+    },
+    {
+      "title": "Sunset Boulevard",
+      "release_date": "1950-08-10"
+    },
+    {
+      "title": "A Streetcar Named Desire",
+      "release_date": "1951-09-19"
+    },
+    {
+      "title": "High Noon",
+      "release_date": "1952-07-24"
+    },
+    {
+      "title": "On the Waterfront",
+      "release_date": "1954-07-28"
+    },
+    {
+      "title": "Vertigo",
+      "release_date": "1958-05-09"
+    },
+    {
+      "title": "Ben-Hur",
+      "release_date": "1959-11-18"
+    },
+    {
+      "title": "Psycho",
+      "release_date": "1960-06-16"
+    },
+    {
+      "title": "The Magnificent Seven",
+      "release_date": "1960-10-12"
+    },
+    {
+      "title": "Lawrence of Arabia",
+      "release_date": "1962-12-10"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "release_date": "1962-12-25"
+    },
+    {
+      "title": "How the West Was Won",
+      "release_date": "1962-11-01"
+    },
+    {
+      "title": "The Pink Panther",
+      "release_date": "1963-12-18"
+    },
+    {
+      "title": "Planet of the Apes",
+      "release_date": "1968-02-08"
+    },
+    {
+      "title": "The Godfather",
+      "release_date": "1972-03-14"
+    },
+    {
+      "title": "Chinatown",
+      "release_date": "1974-06-20"
+    },
+    {
+      "title": "Jaws",
+      "release_date": "1975-06-20"
+    },
+    {
+      "title": "Star Wars",
+      "release_date": "1977-05-25"
+    },
+    {
+      "title": "On Golden Pond",
+      "release_date": "1981-12-04"
+    },
+    {
+      "title": "E.T. the Extra-Terrestrial",
+      "release_date": "1982-05-26"
+    },
+    {
+      "title": "Out of Africa",
+      "release_date": "1985-12-18"
+    },
+    {
+      "title": "The Mission",
+      "release_date": "1986-05-16"
+    }
+  ]
+}

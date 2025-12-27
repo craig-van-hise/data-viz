@@ -1,0 +1,513 @@
+{
+  "composer": "Maurice Jarre",
+  "filmography": [
+    {
+      "title": "Burning Fuse",
+      "release_date": "1957-02-27"
+    },
+    {
+      "title": "Head Against the Wall",
+      "release_date": "1959-03-20"
+    },
+    {
+      "title": "Les Dragueurs",
+      "release_date": "1959-04-29"
+    },
+    {
+      "title": "Beast at Bay",
+      "release_date": "1959"
+    },
+    {
+      "title": "Stars at Noon",
+      "release_date": "1959"
+    },
+    {
+      "title": "Vous n'avez rien \u00e0 d\u00e9clarer?",
+      "release_date": "1959"
+    },
+    {
+      "title": "Eyes Without a Face",
+      "release_date": "1960-03-02"
+    },
+    {
+      "title": "La main chaude",
+      "release_date": "1960"
+    },
+    {
+      "title": "Lovers on a Tightrope",
+      "release_date": "1960-04-06"
+    },
+    {
+      "title": "Crack in the Mirror",
+      "release_date": "1960"
+    },
+    {
+      "title": "Recourse in Grace",
+      "release_date": "1960"
+    },
+    {
+      "title": "The President",
+      "release_date": "1961-03-01"
+    },
+    {
+      "title": "Spotlight on a Murderer",
+      "release_date": "1961"
+    },
+    {
+      "title": "The Big Gamble",
+      "release_date": "1961"
+    },
+    {
+      "title": "Three Faces of Sin",
+      "release_date": "1961"
+    },
+    {
+      "title": "Famous Love Affairs",
+      "release_date": "1961"
+    },
+    {
+      "title": "Les oliviers de la justice",
+      "release_date": "1962"
+    },
+    {
+      "title": "Sun in Your Eyes",
+      "release_date": "1962"
+    },
+    {
+      "title": "Th\u00e9r\u00e8se Desqueyroux",
+      "release_date": "1962-09-21"
+    },
+    {
+      "title": "The Longest Day",
+      "release_date": "1962-09-25"
+    },
+    {
+      "title": "Sundays and Cybele",
+      "release_date": "1962"
+    },
+    {
+      "title": "L'oiseau de paradis",
+      "release_date": "1962"
+    },
+    {
+      "title": "Lawrence of Arabia",
+      "release_date": "1962-12-10"
+    },
+    {
+      "title": "To Die in Madrid",
+      "release_date": "1963-04-18"
+    },
+    {
+      "title": "A King Without Distraction",
+      "release_date": "1963-08-30"
+    },
+    {
+      "title": "Judex",
+      "release_date": "1963-12-04"
+    },
+    {
+      "title": "Mort, o\u00f9 est ta victoire?",
+      "release_date": "1964"
+    },
+    {
+      "title": "Behold a Pale Horse",
+      "release_date": "1964-08-14"
+    },
+    {
+      "title": "The Train",
+      "release_date": "1964-09-24"
+    },
+    {
+      "title": "Weekend at Dunkirk",
+      "release_date": "1964-12-18"
+    },
+    {
+      "title": "The Collector",
+      "release_date": "1965-05-20"
+    },
+    {
+      "title": "Doctor Zhivago",
+      "release_date": "1965-12-22"
+    },
+    {
+      "title": "The Professionals",
+      "release_date": "1966-11-04"
+    },
+    {
+      "title": "Is Paris Burning?",
+      "release_date": "1966"
+    },
+    {
+      "title": "Gambit",
+      "release_date": "1966-12-21"
+    },
+    {
+      "title": "Grand Prix",
+      "release_date": "1966-12-21"
+    },
+    {
+      "title": "The Night of the Generals",
+      "release_date": "1967-01-29"
+    },
+    {
+      "title": "The 25th Hour",
+      "release_date": "1967-02-16"
+    },
+    {
+      "title": "Villa Rides",
+      "release_date": "1968-05-29"
+    },
+    {
+      "title": "5 Card Stud",
+      "release_date": "1968-07-12"
+    },
+    {
+      "title": "The Fixer",
+      "release_date": "1968-12-08"
+    },
+    {
+      "title": "Isadora",
+      "release_date": "1968-12-18"
+    },
+    {
+      "title": "The Extraordinary Seaman",
+      "release_date": "1969-12-11"
+    },
+    {
+      "title": "The Damned",
+      "release_date": "1969-10-14"
+    },
+    {
+      "title": "Topaz",
+      "release_date": "1969-12-19"
+    },
+    {
+      "title": "The Only Game in Town",
+      "release_date": "1970"
+    },
+    {
+      "title": "El Condor",
+      "release_date": "1970-09-23"
+    },
+    {
+      "title": "Ryan's Daughter",
+      "release_date": "1970-11-09"
+    },
+    {
+      "title": "Plaza Suite",
+      "release_date": "1971-05-12"
+    },
+    {
+      "title": "Red Sun",
+      "release_date": "1971-09-15"
+    },
+    {
+      "title": "A Season in Hell",
+      "release_date": "1971"
+    },
+    {
+      "title": "Pope Joan",
+      "release_date": "1972-08-16"
+    },
+    {
+      "title": "The Life and Times of Judge Roy Bean",
+      "release_date": "1972-12-18"
+    },
+    {
+      "title": "The Effect of Gamma Rays on Man-in-the-Moon Marigolds",
+      "release_date": "1972"
+    },
+    {
+      "title": "Ash Wednesday",
+      "release_date": "1973-11-21"
+    },
+    {
+      "title": "The Mackintosh Man",
+      "release_date": "1973-07-25"
+    },
+    {
+      "title": "The Island at the Top of the World",
+      "release_date": "1974-12-20"
+    },
+    {
+      "title": "Mandingo",
+      "release_date": "1975-07-25"
+    },
+    {
+      "title": "Posse",
+      "release_date": "1975-06-04"
+    },
+    {
+      "title": "The Man Who Would Be King",
+      "release_date": "1975-11-26"
+    },
+    {
+      "title": "Mr. Sycamore",
+      "release_date": "1975"
+    },
+    {
+      "title": "Shout at the Devil",
+      "release_date": "1976-04-13"
+    },
+    {
+      "title": "The Last Tycoon",
+      "release_date": "1976-11-17"
+    },
+    {
+      "title": "The Message",
+      "release_date": "1976-07-29"
+    },
+    {
+      "title": "The Prince and the Pauper",
+      "release_date": "1977-06-03"
+    },
+    {
+      "title": "March or Die",
+      "release_date": "1977-08-05"
+    },
+    {
+      "title": "Like a Turtle on Its Back",
+      "release_date": "1978"
+    },
+    {
+      "title": "Two Solitudes",
+      "release_date": "1978"
+    },
+    {
+      "title": "The Tin Drum",
+      "release_date": "1979-05-03"
+    },
+    {
+      "title": "Winter Kills",
+      "release_date": "1979-05-17"
+    },
+    {
+      "title": "The Magician of Lublin",
+      "release_date": "1979"
+    },
+    {
+      "title": "The American Success Company",
+      "release_date": "1980"
+    },
+    {
+      "title": "The Black Marble",
+      "release_date": "1980-03-07"
+    },
+    {
+      "title": "The Last Flight of Noah's Ark",
+      "release_date": "1980-07-09"
+    },
+    {
+      "title": "Resurrection",
+      "release_date": "1980"
+    },
+    {
+      "title": "Lion of the Desert",
+      "release_date": "1981-04-17"
+    },
+    {
+      "title": "Chu Chu and the Philly Flash",
+      "release_date": "1981-08-28"
+    },
+    {
+      "title": "Circle of Deceit",
+      "release_date": "1981"
+    },
+    {
+      "title": "Taps",
+      "release_date": "1981-12-18"
+    },
+    {
+      "title": "Don't Cry, It's Only Thunder",
+      "release_date": "1982"
+    },
+    {
+      "title": "Firefox",
+      "release_date": "1982-06-13"
+    },
+    {
+      "title": "Young Doctors in Love",
+      "release_date": "1982-07-16"
+    },
+    {
+      "title": "The Year of Living Dangerously",
+      "release_date": "1982-12-16"
+    },
+    {
+      "title": "For Those I Loved",
+      "release_date": "1983-11-09"
+    },
+    {
+      "title": "Top Secret!",
+      "release_date": "1984-06-22"
+    },
+    {
+      "title": "Dreamscape",
+      "release_date": "1984-08-15"
+    },
+    {
+      "title": "A Passage to India",
+      "release_date": "1984-12-14"
+    },
+    {
+      "title": "Witness",
+      "release_date": "1985-02-08"
+    },
+    {
+      "title": "Mad Max Beyond Thunderdome",
+      "release_date": "1985-07-10"
+    },
+    {
+      "title": "The Bride",
+      "release_date": "1985"
+    },
+    {
+      "title": "Enemy Mine",
+      "release_date": "1985-12-20"
+    },
+    {
+      "title": "Tai-Pan",
+      "release_date": "1986-11-07"
+    },
+    {
+      "title": "The Mosquito Coast",
+      "release_date": "1986-11-26"
+    },
+    {
+      "title": "Solarbabies",
+      "release_date": "1986-11-26"
+    },
+    {
+      "title": "Tokyo Blackout",
+      "release_date": "1987"
+    },
+    {
+      "title": "No Way Out",
+      "release_date": "1987-08-14"
+    },
+    {
+      "title": "Julia and Julia",
+      "release_date": "1987-09-03"
+    },
+    {
+      "title": "Gaby: A True Story",
+      "release_date": "1987-10-30"
+    },
+    {
+      "title": "Fatal Attraction",
+      "release_date": "1987-09-18"
+    },
+    {
+      "title": "Distant Thunder",
+      "release_date": "1988-11-11"
+    },
+    {
+      "title": "Wildfire",
+      "release_date": "1988"
+    },
+    {
+      "title": "Moon over Parador",
+      "release_date": "1988-09-04"
+    },
+    {
+      "title": "Gorillas in the Mist",
+      "release_date": "1988-09-23"
+    },
+    {
+      "title": "Le palanquin des larmes",
+      "release_date": "1988"
+    },
+    {
+      "title": "Cocktail",
+      "release_date": "1988-07-29"
+    },
+    {
+      "title": "Chances Are",
+      "release_date": "1989-03-10"
+    },
+    {
+      "title": "Dead Poets Society",
+      "release_date": "1989-06-02"
+    },
+    {
+      "title": "Prancer",
+      "release_date": "1989-11-17"
+    },
+    {
+      "title": "Enemies, A Love Story",
+      "release_date": "1989-12-13"
+    },
+    {
+      "title": "Solar Crisis",
+      "release_date": "1990-07-14"
+    },
+    {
+      "title": "Ghost",
+      "release_date": "1990-07-13"
+    },
+    {
+      "title": "Jacob's Ladder",
+      "release_date": "1990"
+    },
+    {
+      "title": "Almost an Angel",
+      "release_date": "1990-12-19"
+    },
+    {
+      "title": "Only the Lonely",
+      "release_date": "1991-05-24"
+    },
+    {
+      "title": "Fires Within",
+      "release_date": "1991"
+    },
+    {
+      "title": "The Setting Sun",
+      "release_date": "1992-09-15"
+    },
+    {
+      "title": "School Ties",
+      "release_date": "1992-09-18"
+    },
+    {
+      "title": "Shadow of the Wolf",
+      "release_date": "1993-03-05"
+    },
+    {
+      "title": "Mr. Jones",
+      "release_date": "1993-10-08"
+    },
+    {
+      "title": "Fearless",
+      "release_date": "1993-10-15"
+    },
+    {
+      "title": "The River Wild",
+      "release_date": "1994-09-30"
+    },
+    {
+      "title": "A Walk in the Clouds",
+      "release_date": "1995-05-27"
+    },
+    {
+      "title": "The Sunchaser",
+      "release_date": "1996-05-29"
+    },
+    {
+      "title": "White Squall",
+      "release_date": "1996-02-02"
+    },
+    {
+      "title": "Day and Night",
+      "release_date": "1997-02-12"
+    },
+    {
+      "title": "Sunshine",
+      "release_date": "1999-09-13"
+    },
+    {
+      "title": "I Dreamed of Africa",
+      "release_date": "2000-05-05"
+    }
+  ]
+}

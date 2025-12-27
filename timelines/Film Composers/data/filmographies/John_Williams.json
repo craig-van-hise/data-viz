@@ -1,0 +1,457 @@
+{
+  "composer": "John Williams",
+  "filmography": [
+    {
+      "title": "Daddy-O",
+      "release_date": "1958"
+    },
+    {
+      "title": "I Passed for White",
+      "release_date": "1960-03-18"
+    },
+    {
+      "title": "Because They're Young",
+      "release_date": "1960"
+    },
+    {
+      "title": "The Secret Ways",
+      "release_date": "1961"
+    },
+    {
+      "title": "Bachelor Flat",
+      "release_date": "1962-01-12"
+    },
+    {
+      "title": "Diamond Head",
+      "release_date": "1962-12-27"
+    },
+    {
+      "title": "Gidget Goes to Rome",
+      "release_date": "1963-07-31"
+    },
+    {
+      "title": "The Killers",
+      "release_date": "1964-07-07"
+    },
+    {
+      "title": "None but the Brave",
+      "release_date": "1965-01-15"
+    },
+    {
+      "title": "John Goldfarb, Please Come Home!",
+      "release_date": "1965-03-24"
+    },
+    {
+      "title": "The Rare Breed",
+      "release_date": "1966-02-02"
+    },
+    {
+      "title": "How to Steal a Million",
+      "release_date": "1966-07-13"
+    },
+    {
+      "title": "The Plainsman",
+      "release_date": "1966"
+    },
+    {
+      "title": "Not with My Wife, You Don't!",
+      "release_date": "1966-11-02"
+    },
+    {
+      "title": "Penelope",
+      "release_date": "1966-11-10"
+    },
+    {
+      "title": "Valley of the Dolls",
+      "release_date": "1967-11-16"
+    },
+    {
+      "title": "A Guide for the Married Man",
+      "release_date": "1967-05-25"
+    },
+    {
+      "title": "Fitzwilly",
+      "release_date": "1967"
+    },
+    {
+      "title": "Sergeant Ryker",
+      "release_date": "1968-02-01"
+    },
+    {
+      "title": "Daddy's Gone A-Hunting",
+      "release_date": "1969-07-02"
+    },
+    {
+      "title": "Goodbye, Mr. Chips",
+      "release_date": "1969-11-05"
+    },
+    {
+      "title": "The Reivers",
+      "release_date": "1969-12-25"
+    },
+    {
+      "title": "Story of a Woman",
+      "release_date": "1970-02-13"
+    },
+    {
+      "title": "Fiddler on the Roof",
+      "release_date": "1971-11-03"
+    },
+    {
+      "title": "The Cowboys",
+      "release_date": "1972-01-13"
+    },
+    {
+      "title": "The Poseidon Adventure",
+      "release_date": "1972-12-12"
+    },
+    {
+      "title": "Pete 'n' Tillie",
+      "release_date": "1972-12-17"
+    },
+    {
+      "title": "Images",
+      "release_date": "1972-05-09"
+    },
+    {
+      "title": "The Long Goodbye",
+      "release_date": "1973-03-07"
+    },
+    {
+      "title": "Tom Sawyer",
+      "release_date": "1973"
+    },
+    {
+      "title": "The Man Who Loved Cat Dancing",
+      "release_date": "1973-06-28"
+    },
+    {
+      "title": "The Paper Chase",
+      "release_date": "1973-10-16"
+    },
+    {
+      "title": "Cinderella Liberty",
+      "release_date": "1973-12-18"
+    },
+    {
+      "title": "Conrack",
+      "release_date": "1974-03-15"
+    },
+    {
+      "title": "The Sugarland Express",
+      "release_date": "1974-03-29"
+    },
+    {
+      "title": "Earthquake",
+      "release_date": "1974-11-15"
+    },
+    {
+      "title": "The Towering Inferno",
+      "release_date": "1974-12-16"
+    },
+    {
+      "title": "The Eiger Sanction",
+      "release_date": "1975-05-21"
+    },
+    {
+      "title": "Jaws",
+      "release_date": "1975-06-20"
+    },
+    {
+      "title": "Family Plot",
+      "release_date": "1976-04-09"
+    },
+    {
+      "title": "The Missouri Breaks",
+      "release_date": "1976-05-19"
+    },
+    {
+      "title": "Midway",
+      "release_date": "1976-06-18"
+    },
+    {
+      "title": "Black Sunday",
+      "release_date": "1977-04-01"
+    },
+    {
+      "title": "Star Wars",
+      "release_date": "1977-05-25"
+    },
+    {
+      "title": "Close Encounters of the Third Kind",
+      "release_date": "1977-11-16"
+    },
+    {
+      "title": "The Fury",
+      "release_date": "1978-03-10"
+    },
+    {
+      "title": "Jaws 2",
+      "release_date": "1978-06-16"
+    },
+    {
+      "title": "Superman",
+      "release_date": "1978-12-10"
+    },
+    {
+      "title": "Dracula",
+      "release_date": "1979-07-13"
+    },
+    {
+      "title": "The Empire Strikes Back",
+      "release_date": "1980-05-06"
+    },
+    {
+      "title": "Raiders of the Lost Ark",
+      "release_date": "1981-06-12"
+    },
+    {
+      "title": "Heartbeeps",
+      "release_date": "1981-12-18"
+    },
+    {
+      "title": "E.T. The Extra-Terrestrial",
+      "release_date": "1982-05-26"
+    },
+    {
+      "title": "Yes, Giorgio",
+      "release_date": "1982-09-24"
+    },
+    {
+      "title": "Monsignor",
+      "release_date": "1982-10-22"
+    },
+    {
+      "title": "Return of the Jedi",
+      "release_date": "1983-05-25"
+    },
+    {
+      "title": "Indiana Jones and the Temple of Doom",
+      "release_date": "1984-04-23"
+    },
+    {
+      "title": "The River",
+      "release_date": "1984-12-19"
+    },
+    {
+      "title": "SpaceCamp",
+      "release_date": "1986-06-06"
+    },
+    {
+      "title": "The Witches of Eastwick",
+      "release_date": "1987-06-12"
+    },
+    {
+      "title": "Empire of the Sun",
+      "release_date": "1987-12-11"
+    },
+    {
+      "title": "Superman IV: The Quest for Peace",
+      "release_date": "1987-07-23"
+    },
+    {
+      "title": "The Accidental Tourist",
+      "release_date": "1988-12-23"
+    },
+    {
+      "title": "Indiana Jones and the Last Crusade",
+      "release_date": "1989-05-24"
+    },
+    {
+      "title": "Born on the Fourth of July",
+      "release_date": "1989-12-20"
+    },
+    {
+      "title": "Always",
+      "release_date": "1989-12-22"
+    },
+    {
+      "title": "Stanley & Iris",
+      "release_date": "1990-02-09"
+    },
+    {
+      "title": "Presumed Innocent",
+      "release_date": "1990-07-25"
+    },
+    {
+      "title": "Home Alone",
+      "release_date": "1990-11-10"
+    },
+    {
+      "title": "Hook",
+      "release_date": "1991-12-11"
+    },
+    {
+      "title": "JFK",
+      "release_date": "1991-12-20"
+    },
+    {
+      "title": "Far and Away",
+      "release_date": "1992-05-22"
+    },
+    {
+      "title": "Home Alone 2: Lost in New York",
+      "release_date": "1992-11-20"
+    },
+    {
+      "title": "Jurassic Park",
+      "release_date": "1993-06-09"
+    },
+    {
+      "title": "Schindler's List",
+      "release_date": "1993-11-30"
+    },
+    {
+      "title": "Sabrina",
+      "release_date": "1995-12-15"
+    },
+    {
+      "title": "Nixon",
+      "release_date": "1995-12-22"
+    },
+    {
+      "title": "Sleepers",
+      "release_date": "1996-10-18"
+    },
+    {
+      "title": "Rosewood",
+      "release_date": "1997-02-21"
+    },
+    {
+      "title": "The Lost World: Jurassic Park",
+      "release_date": "1997-05-19"
+    },
+    {
+      "title": "Seven Years in Tibet",
+      "release_date": "1997-09-13"
+    },
+    {
+      "title": "Amistad",
+      "release_date": "1997-12-10"
+    },
+    {
+      "title": "Saving Private Ryan",
+      "release_date": "1998-07-24"
+    },
+    {
+      "title": "Stepmom",
+      "release_date": "1998-12-25"
+    },
+    {
+      "title": "Star Wars: Episode I \u2013 The Phantom Menace",
+      "release_date": "1999-05-16"
+    },
+    {
+      "title": "Angela's Ashes",
+      "release_date": "1999-12-25"
+    },
+    {
+      "title": "The Patriot",
+      "release_date": "2000-06-27"
+    },
+    {
+      "title": "A.I. Artificial Intelligence",
+      "release_date": "2001-06-29"
+    },
+    {
+      "title": "Harry Potter and the Philosopher's Stone",
+      "release_date": "2001-11-04"
+    },
+    {
+      "title": "Star Wars: Episode II \u2013 Attack of the Clones",
+      "release_date": "2002-05-12"
+    },
+    {
+      "title": "Minority Report",
+      "release_date": "2002-06-17"
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets",
+      "release_date": "2002-11-03"
+    },
+    {
+      "title": "Catch Me If You Can",
+      "release_date": "2002-12-18"
+    },
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "release_date": "2004-05-23"
+    },
+    {
+      "title": "The Terminal",
+      "release_date": "2004-06-18"
+    },
+    {
+      "title": "Star Wars: Episode III \u2013 Revenge of the Sith",
+      "release_date": "2005-05-16"
+    },
+    {
+      "title": "War of the Worlds",
+      "release_date": "2005-06-23"
+    },
+    {
+      "title": "Memoirs of a Geisha",
+      "release_date": "2005-11-29"
+    },
+    {
+      "title": "Munich",
+      "release_date": "2005-12-23"
+    },
+    {
+      "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "release_date": "2008-05-18"
+    },
+    {
+      "title": "The Adventures of Tintin",
+      "release_date": "2011-10-22"
+    },
+    {
+      "title": "War Horse",
+      "release_date": "2011-12-05"
+    },
+    {
+      "title": "Lincoln",
+      "release_date": "2012-10-08"
+    },
+    {
+      "title": "The Book Thief",
+      "release_date": "2013-10-03"
+    },
+    {
+      "title": "Star Wars: The Force Awakens",
+      "release_date": "2015-12-14"
+    },
+    {
+      "title": "The BFG",
+      "release_date": "2016-05-14"
+    },
+    {
+      "title": "Star Wars: The Last Jedi",
+      "release_date": "2017-12-09"
+    },
+    {
+      "title": "The Post",
+      "release_date": "2017-12-14"
+    },
+    {
+      "title": "Solo: A Star Wars Story",
+      "release_date": "2018-05-10"
+    },
+    {
+      "title": "Star Wars: The Rise of Skywalker",
+      "release_date": "2019-12-16"
+    },
+    {
+      "title": "The Fabelmans",
+      "release_date": "2022-09-10"
+    },
+    {
+      "title": "Indiana Jones and the Dial of Destiny",
+      "release_date": "2023-05-18"
+    },
+    {
+      "title": "Disclosure Day",
+      "release_date": "2026-06-12"
+    }
+  ]
+}

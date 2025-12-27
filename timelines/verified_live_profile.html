@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Composer Profile</title>
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@200;300;400;500;600&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #0f0f13;
+            --surface-dark: #1a1a20;
+            --surface-light: #2a2a35;
+            --primary: #8ab4f8;
+            --text-main: #e8eaed;
+            --text-muted: #9aa0a6;
+            --marker-color: #8ab4f8;
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text-main);
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        header {
+            width: 100%;
+            padding: 40px 0;
+            text-align: center;
+            background: linear-gradient(180deg, rgba(15, 15, 19, 0.95) 0%, rgba(15, 15, 19, 0.8) 100%);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        h1 {
+            font-family: 'Outfit', sans-serif;
+            font-weight: 300;
+            font-size: 3rem;
+            margin: 0;
+            letter-spacing: -0.02em;
+        }
+
+        .stats {
+            margin-top: 10px;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        #timeline-container {
+            width: 90%;
+            max-width: 1400px;
+            margin-top: 60px;
+            position: relative;
+            padding-bottom: 200px;
+            /* Space for tooltips */
+        }
+
+        .year-axis {
+            position: relative;
+            height: 40px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            margin-bottom: 20px;
+        }
+
+        .year-mark {
+            position: absolute;
+            bottom: 5px;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            transform: translateX(-50%);
+        }
+
+        .year-tick {
+            position: absolute;
+            bottom: 0;
+            height: 5px;
+            width: 1px;
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+
+        .timeline-track {
+            position: relative;
+            height: 60px;
+            background: rgba(255, 255, 255, 0.02);
+            border-radius: 30px;
+            margin-top: 20px;
+        }
+
+        /* Marker Styles */
+        .film-marker {
+            position: absolute;
+            top: 50%;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background-color: var(--marker-color);
+            transform: translate(-50%, -50%);
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+            box-shadow: 0 0 10px rgba(138, 180, 248, 0.3);
+            z-index: 10;
+        }
+
+        .film-marker:hover {
+            transform: translate(-50%, -50%) scale(1.5);
+            background-color: #fff;
+            box-shadow: 0 0 20px rgba(138, 180, 248, 0.6);
+            z-index: 100;
+        }
+
+        /* Tooltip */
+        .film-tooltip {
+            position: absolute;
+            /* Above marker */
+            left: 50%;
+            transform: translateX(-50%) translateY(10px);
+            width: 120px;
+            background: rgba(20, 20, 25, 0.95);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            padding: 10px;
+            opacity: 0;
+            pointer-events: none;
+            transition: all 0.2s ease;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(12px);
+            z-index: 1000;
+            text-align: center;
+            overflow-y: auto;
+            scrollbar-width: thin;
+            scrollbar-color: rgba(255, 255, 255, 0.3) transparent;
+        }
+
+        .film-tooltip.tooltip-up {
+            bottom: 35px;
+            top: auto;
+        }
+
+        .film-tooltip.tooltip-down {
+            top: 35px;
+            bottom: auto;
+        }
+
+        .film-marker:hover .film-tooltip {
+            opacity: 1;
+            transform: translateX(-50%) translateY(0);
+            pointer-events: auto;
+        }
+
+        .tooltip-img {
+            width: 100%;
+            border-radius: 8px;
+            margin-bottom: 8px;
+            aspect-ratio: 2/3;
+            object-fit: cover;
+            background: #000;
+        }
+
+        .tooltip-title {
+            font-weight: 600;
+            font-size: 0.85rem;
+            color: #fff;
+            margin-bottom: 2px;
+            line-height: 1.2;
+        }
+
+        .tooltip-year {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+
+        .tooltip-meta {
+            font-size: 0.7rem;
+            color: var(--primary);
+            margin-top: 4px;
+            display: block;
+        }
+
+        /* Vertical Staggering will set different 'top' values inline */
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1 id="composer-name">Composer Name</h1>
+        <div class="stats" id="composer-stats">Loading...</div>
+    </header>
+
+    <div id="timeline-container">
+        <div class="year-axis" id="year-axis"></div>
+        <div class="timeline-track" id="track"></div>
+    </div>
+
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const composerName = params.get('name') || "Miklós_Rózsa"; // Default for testing
+
+        // Metadata for filtering (Death Years)
+        const COMPOSER_META = {
+            "Miklós_Rózsa": { death: 1995 },
+            "Bernard_Herrmann": { death: 1975 },
+            "Alfred_Newman": { death: 1970 },
+            "Max_Steiner": { death: 1971 },
+            "Dimitri_Tiomkin": { death: 1979 },
+            "Franz_Waxman": { death: 1967 },
+            "Erich_Wolfgang_Korngold": { death: 1957 },
+            "Jerry_Goldsmith": { death: 2004 },
+            "James_Horner": { death: 2015 },
+            "Michael_Kamen": { death: 2003 },
+            "Elmer_Bernstein": { death: 2004 },
+            "Maurice_Jarre": { death: 2009 },
+            "John_Barry": { death: 2011 },
+            "Henry_Mancini": { death: 1994 },
+            "Nino_Rota": { death: 1979 },
+            "Ennio_Morricone": { death: 2020 },
+            "Vangelis": { death: 2022 },
+            "Ryuichi_Sakamoto": { death: 2023 }
+        };
+
+        const jsonPath = `data/filmographies/${composerName}.json`;
+        const thumbBase = `thumbnails/${composerName.replace(/_/g, " ")}/`;
+
+        document.getElementById('composer-name').textContent = composerName.replace(/_/g, " ");
+
+        fetch(jsonPath)
+            .then(r => r.json())
+            .then(data => initTimeline(data))
+            .catch(e => {
+                document.getElementById('composer-stats').textContent = "Error loading data.";
+                console.error(e);
+            });
+
+        function initTimeline(data) {
+            const films = data.filmography;
+            // Filter invalid dates AND non-film works
+            const concertKeywords = ["Op.", "Concerto", "Sonata", "Symphony", "Quartet", "Trio", "Quintet", "Variations", "Motet", "Cantata", "Mass", "Psalm", "Overture"];
+            const junkKeywords = ["Articles lacking sources", "Category:", "Template:"];
+
+            const meta = COMPOSER_META[composerName] || { death: 9999 };
+
+            const validFilms = films.filter(f => {
+                if (!f.release_date || f.release_date.length < 4) return false;
+
+                // Exclude concert works
+                if (concertKeywords.some(kw => f.title.includes(kw))) return false;
+
+                // Exclude junk
+                if (junkKeywords.some(kw => f.title.includes(kw))) return false;
+
+                // Exclude post-death works
+                const year = parseInt(f.release_date.substring(0, 4));
+                if (year > meta.death) return false;
+
+                return true;
+            });
+
+            // Sort
+            validFilms.sort((a, b) => a.release_date.localeCompare(b.release_date));
+
+            // Stats
+            const startYear = parseInt(validFilms[0].release_date.substring(0, 4));
+            const endYear = parseInt(validFilms[validFilms.length - 1].release_date.substring(0, 4)) + 1;
+            document.getElementById('composer-stats').textContent = `${validFilms.length} Films | Active ${startYear} - ${endYear - 1}`;
+
+            drawAxis(startYear, endYear);
+            drawMarkers(validFilms, startYear, endYear);
+        }
+
+        function drawAxis(start, end) {
+            const container = document.getElementById('year-axis');
+            const range = end - start;
+
+            for (let y = start; y <= end; y++) {
+                if (y % 5 === 0) { // Tick every 5 years
+                    const pct = ((y - start) / range) * 100;
+
+                    const mark = document.createElement('div');
+                    mark.className = 'year-mark';
+                    mark.textContent = y;
+                    mark.style.left = `${pct}%`;
+                    container.appendChild(mark);
+
+                    const tick = document.createElement('div');
+                    tick.className = 'year-tick';
+                    tick.style.left = `${pct}%`;
+                    container.appendChild(tick);
+                }
+            }
+        }
+
+        function getPercent(dateStr, start, end) {
+            const y = parseInt(dateStr.substring(0, 4));
+            let m = 0; // 0-indexed month
+            let d = 0;
+
+            if (dateStr.length >= 7) m = parseInt(dateStr.substring(5, 7)) - 1;
+            if (dateStr.length >= 10) d = parseInt(dateStr.substring(8, 10)) - 1;
+
+            // Day of year approx
+            const dayOfYear = (m * 30) + d;
+            const decimalYear = y + (dayOfYear / 365);
+
+            return ((decimalYear - start) / (end - start)) * 100;
+        }
+
+        function cleanTitle(t) {
+            return t.replace(/['":\.\?!]/g, "").trim();
+        }
+
+        function drawMarkers(films, start, end) {
+            const track = document.getElementById('track');
+            const markers = []; // Store for collision detection
+
+            films.forEach(film => {
+                const pct = getPercent(film.release_date, start, end);
+                const safeTitle = cleanTitle(film.title);
+                const thumbUrl = `${thumbBase}${safeTitle}.jpg`;
+
+                const marker = document.createElement('div');
+                marker.className = 'film-marker';
+                marker.style.left = `${pct}%`;
+
+                // Content
+                let html = `
+                    <div class="film-tooltip">
+                        <img src="${thumbUrl}" class="tooltip-img" onerror="this.src='https://placehold.co/200x300?text=No+Image'">
+                        <div class="tooltip-title">${film.title}</div>
+                        <div class="tooltip-year">${film.release_date}</div>
+                `;
+                if (film.youtube_link) {
+                    html += `<a href="${film.youtube_link}" target="_blank" class="tooltip-meta">▶ Play Theme</a>`;
+                    marker.onclick = () => window.open(film.youtube_link, '_blank');
+                }
+                html += `</div>`;
+                marker.innerHTML = html;
+
+                // Tooltip Positioning Logic (Robust Geometry)
+                marker.addEventListener('mouseenter', function () {
+                    const tooltip = this.querySelector('.film-tooltip');
+
+                    // Define the sizing logic as a reusable function
+                    const recalcPosition = () => {
+                        // 1. Reset Vertical Constraints
+                        tooltip.style.maxHeight = 'none';
+                        tooltip.classList.remove('tooltip-down', 'tooltip-up');
+
+                        // 2. Clear Horizontal Constraints
+                        tooltip.style.left = '50%';
+                        tooltip.style.right = 'auto';
+                        tooltip.style.transform = 'translateX(-50%)';
+
+                        requestAnimationFrame(() => {
+                            const tooltipRect = tooltip.getBoundingClientRect();
+                            const markerRect = marker.getBoundingClientRect();
+                            const viewportWidth = window.innerWidth;
+                            const viewportHeight = window.innerHeight;
+
+                            // --- VERTICAL LOGIC ---
+                            const cssGap = 45;
+                            const screenPadding = 15;
+                            const spaceAbove = markerRect.top - cssGap - screenPadding;
+                            const spaceBelow = viewportHeight - markerRect.bottom - cssGap - screenPadding;
+
+                            let goUp = true;
+                            if (tooltipRect.height <= spaceAbove) { goUp = true; }
+                            else if (tooltipRect.height <= spaceBelow) { goUp = false; }
+                            else { goUp = (spaceAbove >= spaceBelow); }
+
+                            if (goUp) {
+                                tooltip.classList.add('tooltip-up');
+                                if (tooltipRect.height > spaceAbove) {
+                                    tooltip.style.maxHeight = Math.max(100, spaceAbove) + 'px';
+                                }
+                            } else {
+                                tooltip.classList.add('tooltip-down');
+                                if (tooltipRect.height > spaceBelow) {
+                                    tooltip.style.maxHeight = Math.max(100, spaceBelow) + 'px';
+                                }
+                            }
+
+                            // --- HORIZONTAL LOGIC ---
+                            const finalRect = tooltip.getBoundingClientRect();
+                            if (finalRect.left < screenPadding) {
+                                tooltip.style.left = '0';
+                                tooltip.style.transform = 'translateX(0)';
+                            }
+                            else if (finalRect.right > viewportWidth - screenPadding) {
+                                tooltip.style.left = 'auto';
+                                tooltip.style.right = '0';
+                                tooltip.style.transform = 'translateX(0)';
+                            }
+                        });
+                    };
+
+                    // Initial calculation
+                    recalcPosition();
+
+                    // Observe for size changes (e.g. image loading) and re-calc
+                    const observer = new ResizeObserver(() => {
+                        recalcPosition();
+                    });
+                    observer.observe(tooltip);
+
+                    // Clean up observer when mouse leaves
+                    marker.addEventListener('mouseleave', () => {
+                        observer.disconnect();
+                    }, { once: true });
+                });
+
+                track.appendChild(marker);
+
+                // Basic Staggering?
+                // For this dedicated view, we can just alternate top/bottom heavily or use random
+                // Let's use simple Collision logic like before
+                markers.push({ el: marker, pct: pct, row: 0 });
+            });
+
+            // Apply Staggering
+            markers.sort((a, b) => a.pct - b.pct);
+
+            markers.forEach((m, i) => {
+                // Check neighbors
+                if (i > 0) {
+                    const prev = markers[i - 1];
+                    // If too close (< 2%)
+                    if (m.pct - prev.pct < 2.0) {
+                        // Move to different row
+                        m.row = (prev.row + 1) % 3; // 3 rows
+                    }
+                }
+
+                // Apply row offset
+                // row 0: center (50%)
+                // row 1: higher (30%)
+                // row 2: lower (70%)
+                const offsets = ["50%", "25%", "75%"];
+                m.el.style.top = offsets[m.row];
+            });
+        }
+    </script>
+</body>
+
+</html>

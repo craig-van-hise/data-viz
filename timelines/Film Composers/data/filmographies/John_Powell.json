@@ -1,0 +1,337 @@
+{
+  "composer": "John Powell",
+  "filmography": [
+    {
+      "title": "Stay Lucky",
+      "release_date": "1989"
+    },
+    {
+      "title": "High Incident",
+      "release_date": "1996"
+    },
+    {
+      "title": "Face/Off",
+      "release_date": "1997-06-27"
+    },
+    {
+      "title": "With Friends Like These...",
+      "release_date": "1998"
+    },
+    {
+      "title": "Endurance",
+      "release_date": "1998"
+    },
+    {
+      "title": "Antz",
+      "release_date": "1998-09-19"
+    },
+    {
+      "title": "Forces of Nature",
+      "release_date": "1999-03-19"
+    },
+    {
+      "title": "Chill Factor",
+      "release_date": "1999-09-01"
+    },
+    {
+      "title": "The Road to El Dorado",
+      "release_date": "2000-03-31"
+    },
+    {
+      "title": "Chicken Run",
+      "release_date": "2000-06-23"
+    },
+    {
+      "title": "Just Visiting",
+      "release_date": "2001-04-06"
+    },
+    {
+      "title": "Shrek",
+      "release_date": "2001-04-22"
+    },
+    {
+      "title": "Evolution",
+      "release_date": "2001-06-08"
+    },
+    {
+      "title": "Rat Race",
+      "release_date": "2001-08-17"
+    },
+    {
+      "title": "I Am Sam",
+      "release_date": "2001-12-28"
+    },
+    {
+      "title": "D-Tox",
+      "release_date": "2002-02-01"
+    },
+    {
+      "title": "The Bourne Identity",
+      "release_date": "2002-06-06"
+    },
+    {
+      "title": "Drumline",
+      "release_date": "2002-12-13"
+    },
+    {
+      "title": "The Adventures of Pluto Nash",
+      "release_date": "2002-08-16"
+    },
+    {
+      "title": "Two Weeks Notice",
+      "release_date": "2002-12-20"
+    },
+    {
+      "title": "Agent Cody Banks",
+      "release_date": "2003-03-14"
+    },
+    {
+      "title": "The Italian Job",
+      "release_date": "1969-06-05"
+    },
+    {
+      "title": "Gigli",
+      "release_date": "2003-08-01"
+    },
+    {
+      "title": "Paycheck",
+      "release_date": "2003-12-25"
+    },
+    {
+      "title": "Stealing Sinatra",
+      "release_date": "2003"
+    },
+    {
+      "title": "The Bourne Supremacy",
+      "release_date": "2004-07-15"
+    },
+    {
+      "title": "Mr. 3000",
+      "release_date": "2004-09-17"
+    },
+    {
+      "title": "Alfie",
+      "release_date": "2004"
+    },
+    {
+      "title": "Be Cool",
+      "release_date": "2005-03-04"
+    },
+    {
+      "title": "Robots",
+      "release_date": "2005-03-06"
+    },
+    {
+      "title": "Mr. & Mrs. Smith",
+      "release_date": "2005-06-07"
+    },
+    {
+      "title": "Ice Age: The Meltdown",
+      "release_date": "2006"
+    },
+    {
+      "title": "United 93",
+      "release_date": "2006-02-26"
+    },
+    {
+      "title": "X-Men: The Last Stand",
+      "release_date": "2006-05-24"
+    },
+    {
+      "title": "Happy Feet",
+      "release_date": "2006-11-17"
+    },
+    {
+      "title": "The Bourne Ultimatum",
+      "release_date": "2007-07-25"
+    },
+    {
+      "title": "P.S. I Love You",
+      "release_date": "2007-12-21"
+    },
+    {
+      "title": "Jumper",
+      "release_date": "2008-02-14"
+    },
+    {
+      "title": "Dr. Seuss' Horton Hears a Who!",
+      "release_date": "2008-03-14"
+    },
+    {
+      "title": "Stop-Loss",
+      "release_date": "2008-03-13"
+    },
+    {
+      "title": "Kung Fu Panda",
+      "release_date": "2008-05-15"
+    },
+    {
+      "title": "Hancock",
+      "release_date": "2008-07-02"
+    },
+    {
+      "title": "Bolt",
+      "release_date": "2008-11-17"
+    },
+    {
+      "title": "Ice Age: Dawn of the Dinosaurs",
+      "release_date": "2009-07-01"
+    },
+    {
+      "title": "Green Zone",
+      "release_date": "2010-02-26"
+    },
+    {
+      "title": "How to Train Your Dragon",
+      "release_date": "2010-03-21"
+    },
+    {
+      "title": "Fair Game",
+      "release_date": "2010-05-20"
+    },
+    {
+      "title": "Knight and Day",
+      "release_date": "2010-06-16"
+    },
+    {
+      "title": "Mars Needs Moms",
+      "release_date": "2011-03-06"
+    },
+    {
+      "title": "Rio",
+      "release_date": "2011-03-22"
+    },
+    {
+      "title": "Kung Fu Panda 2",
+      "release_date": "2011-05-22"
+    },
+    {
+      "title": "Happy Feet Two",
+      "release_date": "2011-11-13"
+    },
+    {
+      "title": "Dr. Seuss' The Lorax",
+      "release_date": "2012-02-19"
+    },
+    {
+      "title": "Ice Age: Continental Drift",
+      "release_date": "2012-06-20"
+    },
+    {
+      "title": "Rio 2",
+      "release_date": "2014-03-20"
+    },
+    {
+      "title": "How to Train Your Dragon 2",
+      "release_date": "2014-05-16"
+    },
+    {
+      "title": "Pan",
+      "release_date": "2015-09-20"
+    },
+    {
+      "title": "Jason Bourne",
+      "release_date": "2016-07-11"
+    },
+    {
+      "title": "Ferdinand",
+      "release_date": "2017-12-10"
+    },
+    {
+      "title": "Solo: A Star Wars Story",
+      "release_date": "2018-05-10"
+    },
+    {
+      "title": "Hubris: Choral Works by John Powell",
+      "release_date": "2018"
+    },
+    {
+      "title": "How to Train Your Dragon: The Hidden World",
+      "release_date": "2019-01-03"
+    },
+    {
+      "title": "The Call of the Wild",
+      "release_date": "2020-02-21"
+    },
+    {
+      "title": "Piano Solos from \"How to Train Your Dragon: The Hidden World\"",
+      "release_date": "2020"
+    },
+    {
+      "title": "Piano Solos from \"The Call of the Wild\"",
+      "release_date": "2020"
+    },
+    {
+      "title": "Film Suites, Vol. 1",
+      "release_date": "2020"
+    },
+    {
+      "title": "Forces of Nature (Music from the Motion Picture)",
+      "release_date": "2020"
+    },
+    {
+      "title": "How to Train Your Dragon (The Deluxe Edition)",
+      "release_date": "2020"
+    },
+    {
+      "title": "Solo: A Star Wars Story (Deluxe Edition)",
+      "release_date": "2020"
+    },
+    {
+      "title": "Locked Down",
+      "release_date": "2021-01-14"
+    },
+    {
+      "title": "Paycheck: The Deluxe Edition (Music From The Motion Picture)",
+      "release_date": "2021"
+    },
+    {
+      "title": "Don't Worry Darling",
+      "release_date": "2022-09-05"
+    },
+    {
+      "title": "Ice Age: Scrat Tales",
+      "release_date": "2022"
+    },
+    {
+      "title": "How to Train Your Dragon 2 (The Deluxe Edition)",
+      "release_date": "2022"
+    },
+    {
+      "title": "The Bourne Identity (Tumescent Edition)",
+      "release_date": "2022"
+    },
+    {
+      "title": "Still: A Michael J. Fox Movie",
+      "release_date": "2023-01-20"
+    },
+    {
+      "title": "Migration",
+      "release_date": "2023-10-19"
+    },
+    {
+      "title": "Thelma the Unicorn",
+      "release_date": "2024-05-17"
+    },
+    {
+      "title": "Wicked",
+      "release_date": "2024-11-03"
+    },
+    {
+      "title": "That Christmas",
+      "release_date": "2024-10-19"
+    },
+    {
+      "title": "How to Train Your Dragon: The Hidden World (The Deluxe Edition)",
+      "release_date": "2024"
+    },
+    {
+      "title": "How to Train Your Dragon",
+      "release_date": "2025-04-02"
+    },
+    {
+      "title": "Wicked: For Good",
+      "release_date": "2025-11-04"
+    }
+  ]
+}

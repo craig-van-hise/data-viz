@@ -1,0 +1,581 @@
+{
+  "composer": "Bronislaw Kaper",
+  "filmography": [
+    {
+      "title": "The Big Attraction",
+      "release_date": "1931-04-23"
+    },
+    {
+      "title": "His Highness Love",
+      "release_date": "1931-11-01"
+    },
+    {
+      "title": "Marriage with Limited Liability",
+      "release_date": "1931-12-31"
+    },
+    {
+      "title": "A Mad Idea",
+      "release_date": "1932-05-13"
+    },
+    {
+      "title": "Scandal on Park Street",
+      "release_date": "1932-03-26"
+    },
+    {
+      "title": "Three on a Honeymoon",
+      "release_date": "1932-12-29"
+    },
+    {
+      "title": "Things Are Getting Better Already",
+      "release_date": "1932-02-06"
+    },
+    {
+      "title": "Honeymoon Trip",
+      "release_date": "1933-01-06"
+    },
+    {
+      "title": "Madame Wants No Children",
+      "release_date": "1933-01-16"
+    },
+    {
+      "title": "A Song for You",
+      "release_date": "1933-04-15"
+    },
+    {
+      "title": "Today Is the Day",
+      "release_date": "1933-03-17"
+    },
+    {
+      "title": "All for Love",
+      "release_date": "1933-09-15"
+    },
+    {
+      "title": "A Man Has Been Stolen",
+      "release_date": "1934-03-13"
+    },
+    {
+      "title": "Moscow Nights",
+      "release_date": "1934-11-21"
+    },
+    {
+      "title": "Louis Silvers",
+      "release_date": "1934"
+    },
+    {
+      "title": "Max Steiner",
+      "release_date": "1935"
+    },
+    {
+      "title": "Leo F. Forbstein",
+      "release_date": "1936"
+    },
+    {
+      "title": "A Day at the Races",
+      "release_date": "1937-06-11"
+    },
+    {
+      "title": "Charles Previn",
+      "release_date": "1937"
+    },
+    {
+      "title": "Erich Wolfgang Korngold / Alfred Newman",
+      "release_date": "1938"
+    },
+    {
+      "title": "Herbert Stothart / Richard Hageman, W. Franke Harling, John Leipold and Leo Shuken",
+      "release_date": "1939"
+    },
+    {
+      "title": "The Captain Is a Lady",
+      "release_date": "1940-06-21"
+    },
+    {
+      "title": "Leigh Harline, Paul J. Smith and Ned Washington / Alfred Newman",
+      "release_date": "1940"
+    },
+    {
+      "title": "Bernard Herrmann / Frank Churchill and Oliver Wallace",
+      "release_date": "1941"
+    },
+    {
+      "title": "Max Steiner / Ray Heindorf and Heinz Roemheld",
+      "release_date": "1942"
+    },
+    {
+      "title": "Above Suspicion",
+      "release_date": "1943"
+    },
+    {
+      "title": "Alfred Newman / Ray Heindorf",
+      "release_date": "1943"
+    },
+    {
+      "title": "Gaslight",
+      "release_date": "1944-05-04"
+    },
+    {
+      "title": "Mrs. Parkington",
+      "release_date": "1944-10-12"
+    },
+    {
+      "title": "Max Steiner / Morris Stoloff and Carmen Dragon",
+      "release_date": "1944"
+    },
+    {
+      "title": "Polonaise",
+      "release_date": "1989-10-06"
+    },
+    {
+      "title": "Miklos Rozsa / Georgie Stoll",
+      "release_date": "1945"
+    },
+    {
+      "title": "The Stranger",
+      "release_date": "1946-07-02"
+    },
+    {
+      "title": "Hugo Friedhofer / Morris Stoloff",
+      "release_date": "1946"
+    },
+    {
+      "title": "Miklos Rozsa / Alfred Newman",
+      "release_date": "1947"
+    },
+    {
+      "title": "Brian Easdale / Johnny Green and Roger Edens",
+      "release_date": "1948"
+    },
+    {
+      "title": "The Great Sinner",
+      "release_date": "1949-06-29"
+    },
+    {
+      "title": "Aaron Copland / Roger Edens and Lennie Hayton",
+      "release_date": "1949"
+    },
+    {
+      "title": "A Life of Her Own",
+      "release_date": "1950-09-01"
+    },
+    {
+      "title": "To Please a Lady",
+      "release_date": "1950-10-05"
+    },
+    {
+      "title": "Franz Waxman / Adolph Deutsch and Roger Edens",
+      "release_date": "1950"
+    },
+    {
+      "title": "The Red Badge of Courage",
+      "release_date": "1951-09-27"
+    },
+    {
+      "title": "Franz Waxman / Johnny Green and Saul Chaplin",
+      "release_date": "1951"
+    },
+    {
+      "title": "Dimitri Tiomkin / Alfred Newman",
+      "release_date": "1952"
+    },
+    {
+      "title": "The Naked Spur",
+      "release_date": "1953-02-01"
+    },
+    {
+      "title": "Lili",
+      "release_date": "1953-03-10"
+    },
+    {
+      "title": "Bronislau Kaper / Alfred Newman",
+      "release_date": "1953"
+    },
+    {
+      "title": "Them!",
+      "release_date": "1954-06-16"
+    },
+    {
+      "title": "Dimitri Tiomkin / Adolph Deutsch and Saul Chaplin",
+      "release_date": "1954"
+    },
+    {
+      "title": "The Prodigal",
+      "release_date": "1955-05-06"
+    },
+    {
+      "title": "The Glass Slipper",
+      "release_date": "1955-03-24"
+    },
+    {
+      "title": "The Adventures of Quentin Durward",
+      "release_date": "1956-03-01"
+    },
+    {
+      "title": "Alfred Newman / Robert Russell Bennett, Jay Blackton and Adolph Deutsch",
+      "release_date": "1955"
+    },
+    {
+      "title": "The Swan",
+      "release_date": "1956-04-18"
+    },
+    {
+      "title": "Somebody Up There Likes Me",
+      "release_date": "1956-07-03"
+    },
+    {
+      "title": "Victor Young / Alfred Newman and Ken Darby",
+      "release_date": "1956"
+    },
+    {
+      "title": "The Barretts of Wimpole Street",
+      "release_date": "1957-01-17"
+    },
+    {
+      "title": "Jet Pilot",
+      "release_date": "1957-09-25"
+    },
+    {
+      "title": "Don't Go Near the Water",
+      "release_date": "1957-11-14"
+    },
+    {
+      "title": "Malcolm Arnold",
+      "release_date": "1957"
+    },
+    {
+      "title": "The Brothers Karamazov",
+      "release_date": "1958-02-20"
+    },
+    {
+      "title": "Auntie Mame",
+      "release_date": "1958-12-04"
+    },
+    {
+      "title": "Dimitri Tiomkin / Andr\u00e9 Previn",
+      "release_date": "1958"
+    },
+    {
+      "title": "Green Mansions",
+      "release_date": "1959-03-19"
+    },
+    {
+      "title": "The Scapegoat",
+      "release_date": "1959-08-06"
+    },
+    {
+      "title": "Miklos Rozsa / Andr\u00e9 Previn and Ken Darby",
+      "release_date": "1959"
+    },
+    {
+      "title": "Home from the Hill",
+      "release_date": "1960-03-03"
+    },
+    {
+      "title": "BUtterfield 8",
+      "release_date": "1960-11-02"
+    },
+    {
+      "title": "Ernest Gold / Morris Stoloff and Harry Sukman",
+      "release_date": "1960"
+    },
+    {
+      "title": "Ada",
+      "release_date": "1961-08-25"
+    },
+    {
+      "title": "Henry Mancini / Saul Chaplin, Johnny Green, Sid Ramin and Irwin Kostal",
+      "release_date": "1961"
+    },
+    {
+      "title": "Mutiny on the Bounty",
+      "release_date": "1962-11-08"
+    },
+    {
+      "title": "Maurice Jarre / Ray Heindorf",
+      "release_date": "1962"
+    },
+    {
+      "title": "John Addison / Andr\u00e9 Previn",
+      "release_date": "1963"
+    },
+    {
+      "title": "Kisses for My President",
+      "release_date": "1964-12-04"
+    },
+    {
+      "title": "Richard M. Sherman and Robert B. Sherman / Andr\u00e9 Previn",
+      "release_date": "1964"
+    },
+    {
+      "title": "Lord Jim",
+      "release_date": "1965-02-15"
+    },
+    {
+      "title": "Maurice Jarre / Irwin Kostal",
+      "release_date": "1965"
+    },
+    {
+      "title": "John Barry / Ken Thorne",
+      "release_date": "1966"
+    },
+    {
+      "title": "Tobruk",
+      "release_date": "1967-02-07"
+    },
+    {
+      "title": "The Way West",
+      "release_date": "1967-05-24"
+    },
+    {
+      "title": "Elmer Bernstein / Alfred Newman and Ken Darby",
+      "release_date": "1967"
+    },
+    {
+      "title": "Counterpoint",
+      "release_date": "1968-03-13"
+    },
+    {
+      "title": "A Flea in Her Ear",
+      "release_date": "1968-10-19"
+    },
+    {
+      "title": "John Barry / Johnny Green",
+      "release_date": "1968"
+    },
+    {
+      "title": "Burt Bacharach / Lennie Hayton and Lionel Newman",
+      "release_date": "1969"
+    },
+    {
+      "title": "Francis Lai / The Beatles (John Lennon, Paul McCartney, George Harrison and Ringo Starr)",
+      "release_date": "1970"
+    },
+    {
+      "title": "Michel Legrand / John Williams",
+      "release_date": "1971"
+    },
+    {
+      "title": "Charlie Chaplin, Raymond Rasch and Larry Russell / Ralph Burns",
+      "release_date": "1972"
+    },
+    {
+      "title": "Marvin Hamlisch / Marvin Hamlisch",
+      "release_date": "1973"
+    },
+    {
+      "title": "Nino Rota and Carmine Coppola / Nelson Riddle",
+      "release_date": "1974"
+    },
+    {
+      "title": "John Williams / Leonard Rosenman",
+      "release_date": "1975"
+    },
+    {
+      "title": "Jerry Goldsmith / Leonard Rosenman",
+      "release_date": "1976"
+    },
+    {
+      "title": "John Williams / Jonathan Tunick",
+      "release_date": "1977"
+    },
+    {
+      "title": "Giorgio Moroder / Joe Renzetti",
+      "release_date": "1978"
+    },
+    {
+      "title": "Georges Delerue / Ralph Burns",
+      "release_date": "1979"
+    },
+    {
+      "title": "Michael Gore",
+      "release_date": "1980"
+    },
+    {
+      "title": "Vangelis",
+      "release_date": "1981"
+    },
+    {
+      "title": "John Williams / Henry Mancini and Leslie Bricusse",
+      "release_date": "1982"
+    },
+    {
+      "title": "Bill Conti / Michel Legrand, Alan and Marilyn Bergman",
+      "release_date": "1983"
+    },
+    {
+      "title": "Maurice Jarre / Prince",
+      "release_date": "1984"
+    },
+    {
+      "title": "John Barry",
+      "release_date": "1985"
+    },
+    {
+      "title": "Herbie Hancock",
+      "release_date": "1986"
+    },
+    {
+      "title": "Ryuichi Sakamoto, David Byrne and Cong Su",
+      "release_date": "1987"
+    },
+    {
+      "title": "Dave Grusin",
+      "release_date": "1988"
+    },
+    {
+      "title": "Alan Menken",
+      "release_date": "1989"
+    },
+    {
+      "title": "John Barry",
+      "release_date": "1990"
+    },
+    {
+      "title": "Alan Menken",
+      "release_date": "1991"
+    },
+    {
+      "title": "Alan Menken",
+      "release_date": "1992"
+    },
+    {
+      "title": "John Williams",
+      "release_date": "1993"
+    },
+    {
+      "title": "Hans Zimmer",
+      "release_date": "1994"
+    },
+    {
+      "title": "Luis Bacalov / Alan Menken and Stephen Schwartz",
+      "release_date": "1995"
+    },
+    {
+      "title": "Gabriel Yared / Rachel Portman",
+      "release_date": "1996"
+    },
+    {
+      "title": "James Horner / Anne Dudley",
+      "release_date": "1997"
+    },
+    {
+      "title": "Nicola Piovani / Stephen Warbeck",
+      "release_date": "1998"
+    },
+    {
+      "title": "John Corigliano",
+      "release_date": "1999"
+    },
+    {
+      "title": "Tan Dun",
+      "release_date": "2000"
+    },
+    {
+      "title": "Howard Shore",
+      "release_date": "2001"
+    },
+    {
+      "title": "Mostly Sondheim",
+      "release_date": "2002"
+    },
+    {
+      "title": "Elliot Goldenthal",
+      "release_date": "2002"
+    },
+    {
+      "title": "Howard Shore",
+      "release_date": "2003"
+    },
+    {
+      "title": "Jan A. P. Kaczmarek",
+      "release_date": "2004"
+    },
+    {
+      "title": "Gustavo Santaolalla",
+      "release_date": "2005"
+    },
+    {
+      "title": "Gustavo Santaolalla",
+      "release_date": "2006"
+    },
+    {
+      "title": "Dario Marianelli",
+      "release_date": "2007"
+    },
+    {
+      "title": "A. R. Rahman",
+      "release_date": "2008"
+    },
+    {
+      "title": "Michael Giacchino",
+      "release_date": "2009"
+    },
+    {
+      "title": "Trent Reznor and Atticus Ross",
+      "release_date": "2010"
+    },
+    {
+      "title": "Articles with unsourced statements from July",
+      "release_date": "2010"
+    },
+    {
+      "title": "Ludovic Bource",
+      "release_date": "2011"
+    },
+    {
+      "title": "Mychael Danna",
+      "release_date": "2012"
+    },
+    {
+      "title": "Steven Price",
+      "release_date": "2013"
+    },
+    {
+      "title": "Articles lacking in-text citations from March",
+      "release_date": "2013"
+    },
+    {
+      "title": "Alexandre Desplat",
+      "release_date": "2014"
+    },
+    {
+      "title": "Ennio Morricone",
+      "release_date": "2015"
+    },
+    {
+      "title": "Justin Hurwitz",
+      "release_date": "2016"
+    },
+    {
+      "title": "Alexandre Desplat",
+      "release_date": "2017"
+    },
+    {
+      "title": "Ludwig G\u00f6ransson",
+      "release_date": "2018"
+    },
+    {
+      "title": "Hildur Gu\u00f0nad\u00f3ttir",
+      "release_date": "2019"
+    },
+    {
+      "title": "Trent Reznor, Atticus Ross and Jon Batiste",
+      "release_date": "2020"
+    },
+    {
+      "title": "Hans Zimmer",
+      "release_date": "2021"
+    },
+    {
+      "title": "Volker Bertelmann",
+      "release_date": "2022"
+    },
+    {
+      "title": "Ludwig G\u00f6ransson",
+      "release_date": "2023"
+    },
+    {
+      "title": "Daniel Blumberg",
+      "release_date": "2024"
+    }
+  ]
+}

@@ -1,0 +1,665 @@
+{
+  "composer": "Mark Isham",
+  "filmography": [
+    {
+      "title": "Never Cry Wolf",
+      "release_date": "1983-10-07"
+    },
+    {
+      "title": "Country",
+      "release_date": "1984-09-28"
+    },
+    {
+      "title": "Mrs. Soffel",
+      "release_date": "1984-12-26"
+    },
+    {
+      "title": "The Times of Harvey Milk",
+      "release_date": "1984-10-26"
+    },
+    {
+      "title": "Trouble in Mind",
+      "release_date": "1985-12-11"
+    },
+    {
+      "title": "Portraits of Anorexia",
+      "release_date": "1985"
+    },
+    {
+      "title": "Rabbit Ears: The Steadfast Tin Soldier",
+      "release_date": "1985"
+    },
+    {
+      "title": "The Making of Liberty",
+      "release_date": "1986"
+    },
+    {
+      "title": "The Hitcher",
+      "release_date": "1986-02-21"
+    },
+    {
+      "title": "Made in Heaven",
+      "release_date": "1987-11-06"
+    },
+    {
+      "title": "The Moderns",
+      "release_date": "1988"
+    },
+    {
+      "title": "C.A.T. Squad: Python Wolf",
+      "release_date": "1988"
+    },
+    {
+      "title": "The Beast",
+      "release_date": "1988-09-16"
+    },
+    {
+      "title": "Everybody Wins",
+      "release_date": "1990-01-19"
+    },
+    {
+      "title": "Love at Large",
+      "release_date": "1990-03-09"
+    },
+    {
+      "title": "Reversal of Fortune",
+      "release_date": "1990-09-12"
+    },
+    {
+      "title": "Tibet",
+      "release_date": "1990"
+    },
+    {
+      "title": "Mortal Thoughts",
+      "release_date": "1991-04-19"
+    },
+    {
+      "title": "Crooked Hearts",
+      "release_date": "1991-09-06"
+    },
+    {
+      "title": "Point Break",
+      "release_date": "1991-07-10"
+    },
+    {
+      "title": "Little Man Tate",
+      "release_date": "1991-10-18"
+    },
+    {
+      "title": "Billy Bathgate",
+      "release_date": "1991-11-01"
+    },
+    {
+      "title": "A Midnight Clear",
+      "release_date": "1992-04-24"
+    },
+    {
+      "title": "Sketch Artist",
+      "release_date": "1992"
+    },
+    {
+      "title": "Cool World",
+      "release_date": "1992"
+    },
+    {
+      "title": "A River Runs Through It",
+      "release_date": "1992-09-11"
+    },
+    {
+      "title": "The Public Eye",
+      "release_date": "1992-09-15"
+    },
+    {
+      "title": "Of Mice and Men",
+      "release_date": "1992-10-02"
+    },
+    {
+      "title": "Nowhere to Run",
+      "release_date": "1993-01-14"
+    },
+    {
+      "title": "Fire in the Sky",
+      "release_date": "1993-03-12"
+    },
+    {
+      "title": "Made in America",
+      "release_date": "1993-05-28"
+    },
+    {
+      "title": "Short Cuts",
+      "release_date": "1993-10-03"
+    },
+    {
+      "title": "Romeo Is Bleeding",
+      "release_date": "1993"
+    },
+    {
+      "title": "Hawaii: Born in Paradise",
+      "release_date": "1993"
+    },
+    {
+      "title": "Hidden Hawaii",
+      "release_date": "1993"
+    },
+    {
+      "title": "The Getaway",
+      "release_date": "1994-02-11"
+    },
+    {
+      "title": "The Browning Version",
+      "release_date": "1994"
+    },
+    {
+      "title": "Mrs. Parker and the Vicious Circle",
+      "release_date": "1994-09-07"
+    },
+    {
+      "title": "Quiz Show",
+      "release_date": "1994-09-14"
+    },
+    {
+      "title": "Timecop",
+      "release_date": "1994-09-16"
+    },
+    {
+      "title": "Nell",
+      "release_date": "1994-12-16"
+    },
+    {
+      "title": "Safe Passage",
+      "release_date": "1994-12-23"
+    },
+    {
+      "title": "Chicago Hope",
+      "release_date": "1994"
+    },
+    {
+      "title": "Miami Rhapsody",
+      "release_date": "1995"
+    },
+    {
+      "title": "Waterworld",
+      "release_date": "1995-07-28"
+    },
+    {
+      "title": "Losing Isaiah",
+      "release_date": "1995-03-17"
+    },
+    {
+      "title": "The Net",
+      "release_date": "1995-07-28"
+    },
+    {
+      "title": "Home for the Holidays",
+      "release_date": "1995-11-03"
+    },
+    {
+      "title": "Last Dance",
+      "release_date": "1996-05-03"
+    },
+    {
+      "title": "Gotti",
+      "release_date": "1996"
+    },
+    {
+      "title": "Fly Away Home",
+      "release_date": "1996-09-13"
+    },
+    {
+      "title": "Night Falls on Manhattan",
+      "release_date": "1996-10-18"
+    },
+    {
+      "title": "EZ Streets",
+      "release_date": "1996"
+    },
+    {
+      "title": "Afterglow",
+      "release_date": "1997"
+    },
+    {
+      "title": "Kiss the Girls",
+      "release_date": "1997-10-03"
+    },
+    {
+      "title": "The Defenders: Payback",
+      "release_date": "1997"
+    },
+    {
+      "title": "The Education of Little Tree",
+      "release_date": "1997-12-25"
+    },
+    {
+      "title": "Michael Hayes",
+      "release_date": "1997"
+    },
+    {
+      "title": "The Defenders: Choice of Evils",
+      "release_date": "1998"
+    },
+    {
+      "title": "The Gingerbread Man",
+      "release_date": "1998-01-23"
+    },
+    {
+      "title": "Blade",
+      "release_date": "1998-08-21"
+    },
+    {
+      "title": "The Defenders: Taking the First",
+      "release_date": "1998"
+    },
+    {
+      "title": "Free Money",
+      "release_date": "1998-12-03"
+    },
+    {
+      "title": "From the Earth to the Moon",
+      "release_date": "1958-11-06"
+    },
+    {
+      "title": "The Blood Tide",
+      "release_date": "1998"
+    },
+    {
+      "title": "The Cowboy and the Ballerina",
+      "release_date": "1998"
+    },
+    {
+      "title": "At First Sight",
+      "release_date": "1999"
+    },
+    {
+      "title": "Varsity Blues",
+      "release_date": "1999-01-15"
+    },
+    {
+      "title": "Breakfast of Champions",
+      "release_date": "1999-09-17"
+    },
+    {
+      "title": "October Sky",
+      "release_date": "1999-02-19"
+    },
+    {
+      "title": "Body Shots",
+      "release_date": "1999-10-07"
+    },
+    {
+      "title": "Family Law",
+      "release_date": "1999"
+    },
+    {
+      "title": "Galapagos",
+      "release_date": "1999"
+    },
+    {
+      "title": "Rules of Engagement",
+      "release_date": "2000-04-07"
+    },
+    {
+      "title": "Where the Money Is",
+      "release_date": "2000-04-14"
+    },
+    {
+      "title": "Trixie",
+      "release_date": "2000-06-28"
+    },
+    {
+      "title": "Men of Honor",
+      "release_date": "2000-11-10"
+    },
+    {
+      "title": "Save the Last Dance",
+      "release_date": "2001-01-12"
+    },
+    {
+      "title": "Life as a House",
+      "release_date": "2001-10-26"
+    },
+    {
+      "title": "Hardball",
+      "release_date": "2001"
+    },
+    {
+      "title": "Don't Say a Word",
+      "release_date": "2001"
+    },
+    {
+      "title": "The Majestic",
+      "release_date": "2001-12-21"
+    },
+    {
+      "title": "From the Ground Up",
+      "release_date": "2001"
+    },
+    {
+      "title": "Impostor",
+      "release_date": "2001-10-27"
+    },
+    {
+      "title": "Moonlight Mile",
+      "release_date": "2002-09-27"
+    },
+    {
+      "title": "The Cooler",
+      "release_date": "2003-01-17"
+    },
+    {
+      "title": "Spartan",
+      "release_date": "2004-01-31"
+    },
+    {
+      "title": "Miracle",
+      "release_date": "2004-02-06"
+    },
+    {
+      "title": "Highwaymen",
+      "release_date": "2004-02-13"
+    },
+    {
+      "title": "Twisted",
+      "release_date": "2004-02-27"
+    },
+    {
+      "title": "Crash",
+      "release_date": "2004-09-10"
+    },
+    {
+      "title": "Racing Stripes",
+      "release_date": "2005-01-08"
+    },
+    {
+      "title": "Kicking & Screaming",
+      "release_date": "2005-05-01"
+    },
+    {
+      "title": "In Her Shoes",
+      "release_date": "2005-09-14"
+    },
+    {
+      "title": "Running Scared",
+      "release_date": "2006"
+    },
+    {
+      "title": "Eight Below",
+      "release_date": "2006-02-17"
+    },
+    {
+      "title": "Invincible",
+      "release_date": "2006-08-25"
+    },
+    {
+      "title": "Bobby",
+      "release_date": "2006-09-14"
+    },
+    {
+      "title": "The Black Dahlia",
+      "release_date": "2006-08-30"
+    },
+    {
+      "title": "Freedom Writers",
+      "release_date": "2007-01-04"
+    },
+    {
+      "title": "In the Valley of Elah",
+      "release_date": "2007-09-01"
+    },
+    {
+      "title": "Lions for Lambs",
+      "release_date": "2007-11-08"
+    },
+    {
+      "title": "Gracie",
+      "release_date": "2007-06-01"
+    },
+    {
+      "title": "Reservation Road",
+      "release_date": "2007-09-13"
+    },
+    {
+      "title": "No Reservations",
+      "release_date": "2007-07-27"
+    },
+    {
+      "title": "Next",
+      "release_date": "2007-04-27"
+    },
+    {
+      "title": "The Mist",
+      "release_date": "2007-10-18"
+    },
+    {
+      "title": "The Black Donnellys",
+      "release_date": "2007"
+    },
+    {
+      "title": "Pride and Glory",
+      "release_date": "2008-10-24"
+    },
+    {
+      "title": "The Express: The Ernie Davis Story",
+      "release_date": "2008-10-10"
+    },
+    {
+      "title": "The Secret Life of Bees",
+      "release_date": "2008-10-17"
+    },
+    {
+      "title": "Crash",
+      "release_date": "2008"
+    },
+    {
+      "title": "Crossing Over",
+      "release_date": "2009-02-27"
+    },
+    {
+      "title": "Not Forgotten",
+      "release_date": "2009-05-01"
+    },
+    {
+      "title": "Bad Lieutenant: Port of Call New Orleans",
+      "release_date": "2009-11-20"
+    },
+    {
+      "title": "Fame",
+      "release_date": "2009-09-23"
+    },
+    {
+      "title": "The Crazies",
+      "release_date": "2010-02-26"
+    },
+    {
+      "title": "The Conspirator",
+      "release_date": "2010-09-11"
+    },
+    {
+      "title": "The Mechanic",
+      "release_date": "2011-01-28"
+    },
+    {
+      "title": "Dolphin Tale",
+      "release_date": "2011-09-23"
+    },
+    {
+      "title": "Warrior",
+      "release_date": "2011-09-09"
+    },
+    {
+      "title": "Once Upon a Time",
+      "release_date": "2011"
+    },
+    {
+      "title": "\"Morning\"",
+      "release_date": "2011"
+    },
+    {
+      "title": "The Factory",
+      "release_date": "2012-10-20"
+    },
+    {
+      "title": "The Lucky One",
+      "release_date": "2012-04-20"
+    },
+    {
+      "title": "Beauty and the Beast",
+      "release_date": "2012"
+    },
+    {
+      "title": "The Conjuring",
+      "release_date": "2013-07-15"
+    },
+    {
+      "title": "The Inevitable Defeat of Mister and Pete",
+      "release_date": "2013-01-25"
+    },
+    {
+      "title": "42",
+      "release_date": "2013-04-12"
+    },
+    {
+      "title": "Homefront",
+      "release_date": "2013-11-27"
+    },
+    {
+      "title": "Once Upon a Time in Wonderland",
+      "release_date": "2013"
+    },
+    {
+      "title": "Beyond the Lights",
+      "release_date": "2014-09-06"
+    },
+    {
+      "title": "The Longest Ride",
+      "release_date": "2015-04-10"
+    },
+    {
+      "title": "Blood & Oil",
+      "release_date": "2015"
+    },
+    {
+      "title": "American Crime",
+      "release_date": "2015"
+    },
+    {
+      "title": "A Family Man",
+      "release_date": "2016-09-13"
+    },
+    {
+      "title": "Mr. Church",
+      "release_date": "2016-04-22"
+    },
+    {
+      "title": "Mechanic: Resurrection",
+      "release_date": "2016-08-22"
+    },
+    {
+      "title": "The Accountant",
+      "release_date": "2016-10-10"
+    },
+    {
+      "title": "Fallen",
+      "release_date": "2016-08-25"
+    },
+    {
+      "title": "Megan Leavey",
+      "release_date": "2017-06-05"
+    },
+    {
+      "title": "Dirty Dancing",
+      "release_date": "1987-05-12"
+    },
+    {
+      "title": "Black Mirror",
+      "release_date": "2017"
+    },
+    {
+      "title": "Philip K. Dick's Electric Dreams",
+      "release_date": "2017"
+    },
+    {
+      "title": "Let It Fall: Los Angeles 1982\u20131992",
+      "release_date": "2017-04-21"
+    },
+    {
+      "title": "Duck Duck Goose",
+      "release_date": "2018-03-09"
+    },
+    {
+      "title": "Marvel's Cloak & Dagger",
+      "release_date": "2018"
+    },
+    {
+      "title": "Bolden",
+      "release_date": "2019-05-03"
+    },
+    {
+      "title": "A Dog's Journey",
+      "release_date": "2019-05-17"
+    },
+    {
+      "title": "Togo",
+      "release_date": "2019-12-20"
+    },
+    {
+      "title": "Godfather of Harlem",
+      "release_date": "2019"
+    },
+    {
+      "title": "Bill & Ted Face the Music",
+      "release_date": "2020-08-28"
+    },
+    {
+      "title": "Honest Thief",
+      "release_date": "2020-10-16"
+    },
+    {
+      "title": "Little Fires Everywhere",
+      "release_date": "2020"
+    },
+    {
+      "title": "Amazing Stories",
+      "release_date": "2020"
+    },
+    {
+      "title": "Judas and the Black Messiah",
+      "release_date": "2021-02-01"
+    },
+    {
+      "title": "Needle in a Timestack",
+      "release_date": "2021-10-15"
+    },
+    {
+      "title": "The Nevers",
+      "release_date": "2021"
+    },
+    {
+      "title": "Sex/Life",
+      "release_date": "2021"
+    },
+    {
+      "title": "Blacklight",
+      "release_date": "2022-02-10"
+    },
+    {
+      "title": "The Unbearable Weight of Massive Talent",
+      "release_date": "2022-03-12"
+    },
+    {
+      "title": "The Cleaning Lady",
+      "release_date": "2022"
+    },
+    {
+      "title": "Shooting Stars",
+      "release_date": "2023-06-02"
+    },
+    {
+      "title": "Justified: City Primeval",
+      "release_date": "2023"
+    },
+    {
+      "title": "Soul on Fire",
+      "release_date": "2025-10-10"
+    }
+  ]
+}

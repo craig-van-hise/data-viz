@@ -1,0 +1,509 @@
+{
+  "composer": "Marco Beltrami",
+  "filmography": [
+    {
+      "title": "Death Match",
+      "release_date": "1994"
+    },
+    {
+      "title": "The Whispering",
+      "release_date": "1995"
+    },
+    {
+      "title": "Land's End",
+      "release_date": "1995"
+    },
+    {
+      "title": "Scream",
+      "release_date": "1996-12-18"
+    },
+    {
+      "title": "Mimic",
+      "release_date": "1997-08-22"
+    },
+    {
+      "title": "Nightwatch",
+      "release_date": "1998-04-17"
+    },
+    {
+      "title": "Scream 2",
+      "release_date": "1997-12-10"
+    },
+    {
+      "title": "Dellaventura",
+      "release_date": "1997"
+    },
+    {
+      "title": "Halloween H20: 20 Years Later",
+      "release_date": "1998-07-27"
+    },
+    {
+      "title": "54",
+      "release_date": "1998-08-28"
+    },
+    {
+      "title": "The Faculty",
+      "release_date": "1998-12-25"
+    },
+    {
+      "title": "The Minus Man",
+      "release_date": "1999-01-25"
+    },
+    {
+      "title": "The Florentine",
+      "release_date": "1999-04-19"
+    },
+    {
+      "title": "The Crow: Salvation",
+      "release_date": "2001-01-23"
+    },
+    {
+      "title": "Scream 3",
+      "release_date": "2000-02-03"
+    },
+    {
+      "title": "The Incorporated",
+      "release_date": "2000"
+    },
+    {
+      "title": "Dracula 2000",
+      "release_date": "2000-12-22"
+    },
+    {
+      "title": "The Watcher",
+      "release_date": "2000-09-08"
+    },
+    {
+      "title": "Highway 395",
+      "release_date": "2000"
+    },
+    {
+      "title": "The Practice",
+      "release_date": "2000"
+    },
+    {
+      "title": "Angel Eyes",
+      "release_date": "2001-05-18"
+    },
+    {
+      "title": "Joy Ride",
+      "release_date": "2001-09-09"
+    },
+    {
+      "title": "The Dangerous Lives of Altar Boys",
+      "release_date": "2002"
+    },
+    {
+      "title": "I Am Dina",
+      "release_date": "2002"
+    },
+    {
+      "title": "Resident Evil",
+      "release_date": "2002-03-15"
+    },
+    {
+      "title": "Blade II",
+      "release_date": "2002-03-22"
+    },
+    {
+      "title": "Glory Days",
+      "release_date": "2002"
+    },
+    {
+      "title": "Terminator 3: Rise of the Machines",
+      "release_date": "2003-06-30"
+    },
+    {
+      "title": "I, Robot",
+      "release_date": "2004-07-07"
+    },
+    {
+      "title": "Hellboy",
+      "release_date": "2004-03-30"
+    },
+    {
+      "title": "Flight of the Phoenix",
+      "release_date": "2004-12-17"
+    },
+    {
+      "title": "Alien vs. Predator",
+      "release_date": "2004-08-12"
+    },
+    {
+      "title": "Cursed",
+      "release_date": "2005-02-25"
+    },
+    {
+      "title": "XXX: State of the Union",
+      "release_date": "2005-04-29"
+    },
+    {
+      "title": "The Three Burials of Melquiades Estrada",
+      "release_date": "2005-05-20"
+    },
+    {
+      "title": "Red Eye",
+      "release_date": "2005"
+    },
+    {
+      "title": "Underworld: Evolution",
+      "release_date": "2006-01-11"
+    },
+    {
+      "title": "The Omen",
+      "release_date": "1976-06-06"
+    },
+    {
+      "title": "The Substitute",
+      "release_date": "1996-04-19"
+    },
+    {
+      "title": "TMNT",
+      "release_date": "2007-03-17"
+    },
+    {
+      "title": "Captivity",
+      "release_date": "2007"
+    },
+    {
+      "title": "The Invisible",
+      "release_date": "2007-04-27"
+    },
+    {
+      "title": "3:10 to Yuma",
+      "release_date": "2007-08-21"
+    },
+    {
+      "title": "Live Free or Die Hard",
+      "release_date": "2007-06-12"
+    },
+    {
+      "title": "The Ballad of Esequiel Hernandez",
+      "release_date": "2007-04-27"
+    },
+    {
+      "title": "The Eye",
+      "release_date": "2008-02-01"
+    },
+    {
+      "title": "Max Payne",
+      "release_date": "2008-10-17"
+    },
+    {
+      "title": "Amusement",
+      "release_date": "2008-10-09"
+    },
+    {
+      "title": "Mesrine",
+      "release_date": "2008-10-22"
+    },
+    {
+      "title": "In the Electric Mist",
+      "release_date": "2009-02-07"
+    },
+    {
+      "title": "The Hurt Locker",
+      "release_date": "2009"
+    },
+    {
+      "title": "Knowing",
+      "release_date": "2009-03-20"
+    },
+    {
+      "title": "V",
+      "release_date": "2009"
+    },
+    {
+      "title": "Repo Men",
+      "release_date": "2010-03-19"
+    },
+    {
+      "title": "Jonah Hex",
+      "release_date": "2010-06-18"
+    },
+    {
+      "title": "Don't Be Afraid of the Dark",
+      "release_date": "2010-11-06"
+    },
+    {
+      "title": "My Soul to Take",
+      "release_date": "2010-10-08"
+    },
+    {
+      "title": "Soul Surfer",
+      "release_date": "2011-04-08"
+    },
+    {
+      "title": "The Thing",
+      "release_date": "2011-10-10"
+    },
+    {
+      "title": "Scream 4",
+      "release_date": "2011-04-11"
+    },
+    {
+      "title": "Trouble with the Curve",
+      "release_date": "2012-09-21"
+    },
+    {
+      "title": "The Woman in Black",
+      "release_date": "2012-01-24"
+    },
+    {
+      "title": "The Sessions",
+      "release_date": "2012-01-23"
+    },
+    {
+      "title": "Warm Bodies",
+      "release_date": "2013-01-16"
+    },
+    {
+      "title": "A Good Day to Die Hard",
+      "release_date": "2013-01-31"
+    },
+    {
+      "title": "Snowpiercer",
+      "release_date": "2013-07-29"
+    },
+    {
+      "title": "The Wolverine",
+      "release_date": "2013-07-26"
+    },
+    {
+      "title": "World War Z",
+      "release_date": "2013-06-02"
+    },
+    {
+      "title": "Carrie",
+      "release_date": "2013-10-07"
+    },
+    {
+      "title": "The Homesman",
+      "release_date": "2014-05-18"
+    },
+    {
+      "title": "The Giver",
+      "release_date": "2014-08-11"
+    },
+    {
+      "title": "The November Man",
+      "release_date": "2014-08-27"
+    },
+    {
+      "title": "The Drop",
+      "release_date": "2014-09-12"
+    },
+    {
+      "title": "Seventh Son",
+      "release_date": "2014-12-17"
+    },
+    {
+      "title": "The Woman in Black: Angel of Death",
+      "release_date": "2014-12-30"
+    },
+    {
+      "title": "Turn: Washington's Spies",
+      "release_date": "2014"
+    },
+    {
+      "title": "The Gunman",
+      "release_date": "2015-02-16"
+    },
+    {
+      "title": "Hitman: Agent 47",
+      "release_date": "2015-08-13"
+    },
+    {
+      "title": "Fantastic Four",
+      "release_date": "2015-08-04"
+    },
+    {
+      "title": "True Story",
+      "release_date": "2015-01-23"
+    },
+    {
+      "title": "No Escape",
+      "release_date": "2015-08-17"
+    },
+    {
+      "title": "The Night Before",
+      "release_date": "2015-11-16"
+    },
+    {
+      "title": "Lucifer",
+      "release_date": "2015"
+    },
+    {
+      "title": "Gods of Egypt",
+      "release_date": "2016-02-25"
+    },
+    {
+      "title": "The Shallows",
+      "release_date": "2016"
+    },
+    {
+      "title": "Ben-Hur",
+      "release_date": "2016-08-09"
+    },
+    {
+      "title": "First They Killed My Father",
+      "release_date": "2017-02-18"
+    },
+    {
+      "title": "Matilda",
+      "release_date": "2017-10-26"
+    },
+    {
+      "title": "Logan",
+      "release_date": "2017-02-17"
+    },
+    {
+      "title": "Little Evil",
+      "release_date": "2017-09-01"
+    },
+    {
+      "title": "The Snowman",
+      "release_date": "2017-10-07"
+    },
+    {
+      "title": "Six",
+      "release_date": "2017"
+    },
+    {
+      "title": "Fortnite",
+      "release_date": "2017"
+    },
+    {
+      "title": "A Quiet Place",
+      "release_date": "2018-03-09"
+    },
+    {
+      "title": "Free Solo",
+      "release_date": "2018-08-31"
+    },
+    {
+      "title": "The Emperor of Paris",
+      "release_date": "2018-11-03"
+    },
+    {
+      "title": "Extremely Wicked, Shockingly Evil and Vile",
+      "release_date": "2019"
+    },
+    {
+      "title": "Velvet Buzzsaw",
+      "release_date": "2019-01-27"
+    },
+    {
+      "title": "Long Shot",
+      "release_date": "2019-03-09"
+    },
+    {
+      "title": "Ford v Ferrari",
+      "release_date": "2019-08-30"
+    },
+    {
+      "title": "Gemini Man",
+      "release_date": "2019-10-01"
+    },
+    {
+      "title": "Scary Stories to Tell in the Dark",
+      "release_date": "2019-08-09"
+    },
+    {
+      "title": "The Twilight Zone",
+      "release_date": "1983-06-24"
+    },
+    {
+      "title": "Bubble Guppies",
+      "release_date": "2019"
+    },
+    {
+      "title": "Underwater",
+      "release_date": "2020-01-10"
+    },
+    {
+      "title": "A Quiet Place Part II",
+      "release_date": "2020-03-08"
+    },
+    {
+      "title": "Love and Monsters",
+      "release_date": "2020-10-16"
+    },
+    {
+      "title": "The Way I See It",
+      "release_date": "2020-09-11"
+    },
+    {
+      "title": "Chaos Walking",
+      "release_date": "2021-02-24"
+    },
+    {
+      "title": "Fear Street Part One: 1994",
+      "release_date": "2021-06-28"
+    },
+    {
+      "title": "Fear Street Part Two: 1978",
+      "release_date": "2021-07-08"
+    },
+    {
+      "title": "Fear Street Part Three: 1666",
+      "release_date": "2021"
+    },
+    {
+      "title": "American Night",
+      "release_date": "2021-09-09"
+    },
+    {
+      "title": "Venom: Let There Be Carnage",
+      "release_date": "2021-09-14"
+    },
+    {
+      "title": "The Shadow in My Eye",
+      "release_date": "2021"
+    },
+    {
+      "title": "Nine Perfect Strangers",
+      "release_date": "2021"
+    },
+    {
+      "title": "No Exit",
+      "release_date": "2022-02-25"
+    },
+    {
+      "title": "Deep Water",
+      "release_date": "2022-03-18"
+    },
+    {
+      "title": "Pantheon",
+      "release_date": "2022"
+    },
+    {
+      "title": "Scream",
+      "release_date": "2022-01-14"
+    },
+    {
+      "title": "Plane",
+      "release_date": "2023-01-13"
+    },
+    {
+      "title": "Renfield",
+      "release_date": "2023-03-30"
+    },
+    {
+      "title": "The Nun II",
+      "release_date": "2023-09-08"
+    },
+    {
+      "title": "Silent Night",
+      "release_date": "2023-12-01"
+    },
+    {
+      "title": "MotoGP",
+      "release_date": "2023"
+    },
+    {
+      "title": "Scream 7",
+      "release_date": "2026-02-27"
+    }
+  ]
+}

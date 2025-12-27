@@ -1,0 +1,45 @@
+{
+  "composer": "Herbert Stothart",
+  "filmography": [
+    {
+      "title": "Marie Antoinette",
+      "release_date": "1938-07-08"
+    },
+    {
+      "title": "Sweethearts",
+      "release_date": "1938-12-22"
+    },
+    {
+      "title": "The Wizard of Oz",
+      "release_date": "1939-08-10"
+    },
+    {
+      "title": "Waterloo Bridge",
+      "release_date": "1940-05-17"
+    },
+    {
+      "title": "The Chocolate Soldier",
+      "release_date": "1941-10-31"
+    },
+    {
+      "title": "Random Harvest",
+      "release_date": "1942-12-17"
+    },
+    {
+      "title": "Madame Curie",
+      "release_date": "1943-12-15"
+    },
+    {
+      "title": "Thousands Cheer",
+      "release_date": "1943-09-13"
+    },
+    {
+      "title": "Kismet",
+      "release_date": "1944-08-22"
+    },
+    {
+      "title": "The Valley of Decision",
+      "release_date": "1945-05-03"
+    }
+  ]
+}

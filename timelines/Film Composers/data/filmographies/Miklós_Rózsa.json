@@ -1,0 +1,525 @@
+{
+  "composer": "Mikl\u00f3s R\u00f3zsa",
+  "filmography": [
+    {
+      "title": "Knight Without Armour",
+      "release_date": "1937-06-01",
+      "youtube_link": "https://www.youtube.com/watch?v=onOG1frSrNs"
+    },
+    {
+      "title": "The Squeaker (Murder on Diamond Row)",
+      "release_date": "1937",
+      "youtube_link": "https://www.youtube.com/watch?v=9x1rG9YD4A0"
+    },
+    {
+      "title": "Thunder in the City",
+      "release_date": "1937-01-13",
+      "youtube_link": "https://www.youtube.com/watch?v=bHDFjRxwynI"
+    },
+    {
+      "title": "The Green Cockatoo",
+      "release_date": "1937",
+      "youtube_link": "https://www.youtube.com/watch?v=4xHLtGsKez4"
+    },
+    {
+      "title": "The Divorce of Lady X",
+      "release_date": "1938",
+      "youtube_link": "https://www.youtube.com/watch?v=mPtnn23C4Dc"
+    },
+    {
+      "title": "The Four Feathers",
+      "release_date": "1939-04-20",
+      "youtube_link": "https://www.youtube.com/watch?v=UbnvjlTCADs"
+    },
+    {
+      "title": "On the Night of the Fire (The Fugitive)",
+      "release_date": "1939",
+      "youtube_link": "https://www.youtube.com/watch?v=wyQrlox7Ybs"
+    },
+    {
+      "title": "The Spy in Black",
+      "release_date": "1939-08-03",
+      "youtube_link": "https://www.youtube.com/watch?v=vJzmoGbuuBE"
+    },
+    {
+      "title": "The Thief of Baghdad",
+      "release_date": "1940-12-05",
+      "youtube_link": "https://www.youtube.com/watch?v=afL31gUSLbA"
+    },
+    {
+      "title": "Ten Days in Paris",
+      "release_date": "1940",
+      "youtube_link": "https://www.youtube.com/watch?v=bXh5dSgiPGo"
+    },
+    {
+      "title": "The Thief of Bagdad",
+      "release_date": "1940",
+      "youtube_link": "https://www.youtube.com/watch?v=afL31gUSLbA"
+    },
+    {
+      "title": "Love Theme from Lady Hamilton",
+      "release_date": "1941",
+      "youtube_link": "https://www.youtube.com/watch?v=igJ1Q4GTjK4"
+    },
+    {
+      "title": "Love Theme and Waltz from Lady Hamilton",
+      "release_date": "1941",
+      "youtube_link": "https://www.youtube.com/watch?v=yA-kJRp_uT8"
+    },
+    {
+      "title": "New Wine (The Great Awakening)",
+      "release_date": "1941",
+      "youtube_link": "https://www.youtube.com/watch?v=ElOxKlU6gAY"
+    },
+    {
+      "title": "Lydia",
+      "release_date": "1941-09-18",
+      "youtube_link": "https://www.youtube.com/watch?v=ZbTkY1Rss6I"
+    },
+    {
+      "title": "Sundown",
+      "release_date": "1941",
+      "youtube_link": "https://www.youtube.com/watch?v=mXygodSjmdc"
+    },
+    {
+      "title": "That Hamilton Woman",
+      "release_date": "1941-04-30",
+      "youtube_link": "https://www.youtube.com/watch?v=igJ1Q4GTjK4"
+    },
+    {
+      "title": "Jacar\u00e9 (As musical director)",
+      "release_date": "1942",
+      "youtube_link": "https://www.youtube.com/watch?v=9L_z2OcL8-U"
+    },
+    {
+      "title": "Jungle Book",
+      "release_date": "1942-04-03",
+      "youtube_link": "https://www.youtube.com/watch?v=WbwfAQtAVS0"
+    },
+    {
+      "title": "To Be or Not to Be",
+      "release_date": "1942-02-19",
+      "youtube_link": "https://www.youtube.com/watch?v=EMbvh9KurqE"
+    },
+    {
+      "title": "Sahara",
+      "release_date": "1943",
+      "youtube_link": "https://www.youtube.com/watch?v=mXygodSjmdc"
+    },
+    {
+      "title": "Five Graves to Cairo",
+      "release_date": "1943-05-04",
+      "youtube_link": "https://www.youtube.com/watch?v=6JS9vKMp8JA"
+    },
+    {
+      "title": "So Proudly We Hail!",
+      "release_date": "1943-09-09",
+      "youtube_link": "https://www.youtube.com/watch?v=Gjw3mPwtI2k"
+    },
+    {
+      "title": "The Woman of the Town",
+      "release_date": "1943-12-31",
+      "youtube_link": "https://www.youtube.com/watch?v=igJ1Q4GTjK4"
+    },
+    {
+      "title": "Double Indemnity",
+      "release_date": "1944-07-03",
+      "youtube_link": "https://www.youtube.com/watch?v=Cbf44knA1vY"
+    },
+    {
+      "title": "Dark Waters",
+      "release_date": "1944-11-21",
+      "youtube_link": "https://www.youtube.com/watch?v=stCc_UuSw9c"
+    },
+    {
+      "title": "The Hour Before the Dawn",
+      "release_date": "1944-05-10",
+      "youtube_link": "https://www.youtube.com/watch?v=RCuafuIJDEI"
+    },
+    {
+      "title": "The Lost Weekend",
+      "release_date": "1945-11-29",
+      "youtube_link": "https://www.youtube.com/watch?v=UXN_sDgNvuw"
+    },
+    {
+      "title": "Blood on the Sun",
+      "release_date": "1945-05-02",
+      "youtube_link": "https://www.youtube.com/watch?v=BffX1fZnN6M"
+    },
+    {
+      "title": "Lady on a Train",
+      "release_date": "1945-08-03",
+      "youtube_link": "https://www.youtube.com/watch?v=igJ1Q4GTjK4"
+    },
+    {
+      "title": "The Man in Half Moon Street",
+      "release_date": "1945-01-19",
+      "youtube_link": "https://www.youtube.com/watch?v=ErXPed1S6zU"
+    },
+    {
+      "title": "A Song to Remember",
+      "release_date": "1945-01-18",
+      "youtube_link": "https://www.youtube.com/watch?v=LhQm--SrQ3A"
+    },
+    {
+      "title": "Spellbound",
+      "release_date": "1945-10-31",
+      "youtube_link": "https://www.youtube.com/watch?v=LhQm--SrQ3A"
+    },
+    {
+      "title": "The Strange Love of Martha Ivers",
+      "release_date": "1946-06-13",
+      "youtube_link": "https://www.youtube.com/watch?v=V8nKWREnseI"
+    },
+    {
+      "title": "The Killers",
+      "release_date": "1946-08-30",
+      "youtube_link": "https://www.youtube.com/watch?v=92VrMhPZNoE"
+    },
+    {
+      "title": "Because of Him",
+      "release_date": "1946-01-18",
+      "youtube_link": "https://www.youtube.com/watch?v=0qFiRzRKXgw"
+    },
+    {
+      "title": "The Red House",
+      "release_date": "1946-12-30",
+      "youtube_link": "https://www.youtube.com/watch?v=LRamcm1MDRc"
+    },
+    {
+      "title": "Brute Force",
+      "release_date": "1947",
+      "youtube_link": "https://www.youtube.com/watch?v=EMbvh9KurqE"
+    },
+    {
+      "title": "Desert Fury",
+      "release_date": "1947-07-23",
+      "youtube_link": "https://www.youtube.com/watch?v=VSrZ9KEDVNY"
+    },
+    {
+      "title": "A Double Life",
+      "release_date": "1947-02-19",
+      "youtube_link": "https://www.youtube.com/watch?v=CFN0FA-_2D0"
+    },
+    {
+      "title": "The Macomber Affair",
+      "release_date": "1947-04-20",
+      "youtube_link": "https://www.youtube.com/watch?v=yfdt1MKegX4"
+    },
+    {
+      "title": "The Other Love",
+      "release_date": "1947-05-14",
+      "youtube_link": "https://www.youtube.com/watch?v=V8nKWREnseI"
+    },
+    {
+      "title": "Song of Scheherazade",
+      "release_date": "1947-02-26",
+      "youtube_link": "https://www.youtube.com/watch?v=zY4w4_W30aQ"
+    },
+    {
+      "title": "Time Out of Mind",
+      "release_date": "1947-05-03",
+      "youtube_link": "https://www.youtube.com/watch?v=nrP3hNSglAc"
+    },
+    {
+      "title": "Mark Hellinger",
+      "release_date": "1948",
+      "youtube_link": "https://www.youtube.com/watch?v=EKF4GfAYzjY"
+    },
+    {
+      "title": "Kiss the Blood Off My Hands",
+      "release_date": "1948",
+      "youtube_link": "https://www.youtube.com/watch?v=UFX3YuPjrig"
+    },
+    {
+      "title": "The Naked City",
+      "release_date": "1948-03-04",
+      "youtube_link": "https://www.youtube.com/watch?v=Fjtn8aZo1MY"
+    },
+    {
+      "title": "Secret Beyond the Door",
+      "release_date": "1947-12-24",
+      "youtube_link": "https://www.youtube.com/watch?v=XmmgLoa6FNA"
+    },
+    {
+      "title": "A Woman's Vengeance",
+      "release_date": "1948-03-02",
+      "youtube_link": "https://www.youtube.com/watch?v=oMXghlG_uXY"
+    },
+    {
+      "title": "The Madame Bovary Waltz",
+      "release_date": "1949",
+      "youtube_link": "https://www.youtube.com/watch?v=EMo0KZ4q2n4"
+    },
+    {
+      "title": "Adam's Rib",
+      "release_date": "1949-11-18",
+      "youtube_link": "https://www.youtube.com/watch?v=E9Uzi-Zlae0"
+    },
+    {
+      "title": "The Bribe",
+      "release_date": "1949-02-03",
+      "youtube_link": "https://www.youtube.com/watch?v=5rOTocXhBJA"
+    },
+    {
+      "title": "Command Decision",
+      "release_date": "1949",
+      "youtube_link": "https://www.youtube.com/watch?v=yfdt1MKegX4"
+    },
+    {
+      "title": "Criss Cross",
+      "release_date": "1949-01-19",
+      "youtube_link": "https://www.youtube.com/watch?v=iiItQ6tVhjg"
+    },
+    {
+      "title": "East Side, West Side",
+      "release_date": "1949-12-22",
+      "youtube_link": "https://www.youtube.com/watch?v=x94cW7A6qs0"
+    },
+    {
+      "title": "Madame Bovary",
+      "release_date": "1949-08-25",
+      "youtube_link": "https://www.youtube.com/watch?v=EMo0KZ4q2n4"
+    },
+    {
+      "title": "The Red Danube",
+      "release_date": "1949-10-14",
+      "youtube_link": "https://www.youtube.com/watch?v=oFovRuC8GFQ"
+    },
+    {
+      "title": "The Asphalt Jungle",
+      "release_date": "1950-05-12",
+      "youtube_link": "https://www.youtube.com/watch?v=ArtdoJrKl-A"
+    },
+    {
+      "title": "Crisis",
+      "release_date": "1950-06-29",
+      "youtube_link": "https://www.youtube.com/watch?v=PRDWy6CYhH8"
+    },
+    {
+      "title": "The Miniver Story",
+      "release_date": "1950",
+      "youtube_link": "https://www.youtube.com/watch?v=Pw_OssEgYoE"
+    },
+    {
+      "title": "Quo Vadis",
+      "release_date": "1951-11-02",
+      "youtube_link": "https://www.youtube.com/watch?v=F57Dd-wZj8Y"
+    },
+    {
+      "title": "Ivanhoe",
+      "release_date": "1952-07-31",
+      "youtube_link": "https://www.youtube.com/watch?v=rIpcIcFp6Wg"
+    },
+    {
+      "title": "The Light Touch",
+      "release_date": "1951-12-06",
+      "youtube_link": "https://www.youtube.com/watch?v=7cn4bRElRFw"
+    },
+    {
+      "title": "Plymouth Adventure",
+      "release_date": "1952",
+      "youtube_link": "https://www.youtube.com/watch?v=qQznNzBLGPw"
+    },
+    {
+      "title": "All the Brothers Were Valiant",
+      "release_date": "1953-11-13",
+      "youtube_link": "https://www.youtube.com/watch?v=kQHGSrBsxzY"
+    },
+    {
+      "title": "Julius Caesar",
+      "release_date": "1953-06-03",
+      "youtube_link": "https://www.youtube.com/watch?v=1reL-IeT2j0"
+    },
+    {
+      "title": "Knights of the Round Table",
+      "release_date": "1953-12-22",
+      "youtube_link": "https://www.youtube.com/watch?v=hOn0MWchCes"
+    },
+    {
+      "title": "The Story of Three Loves",
+      "release_date": "1953-03-26",
+      "youtube_link": "https://www.youtube.com/watch?v=-r7_13VjSmo"
+    },
+    {
+      "title": "Young Bess",
+      "release_date": "1953-05-21",
+      "youtube_link": "https://www.youtube.com/watch?v=iDYATt1TFSA"
+    },
+    {
+      "title": "Beau Brummell",
+      "release_date": "1954",
+      "youtube_link": "https://www.youtube.com/watch?v=bIRN-x5a-zQ"
+    },
+    {
+      "title": "Green Fire",
+      "release_date": "1954",
+      "youtube_link": "https://www.youtube.com/watch?v=WYqhNLDPF20"
+    },
+    {
+      "title": "Men of the Fighting Lady",
+      "release_date": "1954-05-07",
+      "youtube_link": "https://www.youtube.com/watch?v=ElOxKlU6gAY"
+    },
+    {
+      "title": "Seagulls Over Sorrento",
+      "release_date": "1954-07-13",
+      "youtube_link": "https://www.youtube.com/watch?v=nrP3hNSglAc"
+    },
+    {
+      "title": "Valley of the Kings",
+      "release_date": "1954-07-21",
+      "youtube_link": "https://www.youtube.com/watch?v=UN4U8CUeQCg"
+    },
+    {
+      "title": "The King's Thief",
+      "release_date": "1955",
+      "youtube_link": "https://www.youtube.com/watch?v=0Zu0oXC2Mfw"
+    },
+    {
+      "title": "Moonfleet",
+      "release_date": "1955-06-24",
+      "youtube_link": "https://www.youtube.com/watch?v=8FmrIT9qDoQ"
+    },
+    {
+      "title": "Lust for Life",
+      "release_date": "1956-09-17",
+      "youtube_link": "https://www.youtube.com/watch?v=c6VX166ph_U"
+    },
+    {
+      "title": "Bhowani Junction",
+      "release_date": "1956-10-29",
+      "youtube_link": "https://www.youtube.com/watch?v=CsqGiPq1aIo"
+    },
+    {
+      "title": "Diane",
+      "release_date": "1956-01-12",
+      "youtube_link": "https://www.youtube.com/watch?v=ElOxKlU6gAY"
+    },
+    {
+      "title": "Tribute to a Bad Man",
+      "release_date": "1956-04-13",
+      "youtube_link": "https://www.youtube.com/watch?v=zVPE5MLVKjg"
+    },
+    {
+      "title": "Something of Value",
+      "release_date": "1957-05-10",
+      "youtube_link": "https://www.youtube.com/watch?v=11EDdeXkU-I"
+    },
+    {
+      "title": "Tip on a Dead Jockey",
+      "release_date": "1957-09-06",
+      "youtube_link": "https://www.youtube.com/watch?v=rVJDzV9NnIc"
+    },
+    {
+      "title": "The Seventh Sin",
+      "release_date": "1957-06-28",
+      "youtube_link": "https://www.youtube.com/watch?v=faLN1ynAeA8"
+    },
+    {
+      "title": "A Time to Love and a Time to Die",
+      "release_date": "1958-07-05",
+      "youtube_link": "https://www.youtube.com/watch?v=jjbzTDxEMh0"
+    },
+    {
+      "title": "Ben-Hur",
+      "release_date": "1959-11-18",
+      "youtube_link": "https://www.youtube.com/watch?v=fmoWJ4R8c-E"
+    },
+    {
+      "title": "The World, the Flesh and the Devil",
+      "release_date": "1959-04-23",
+      "youtube_link": "https://www.youtube.com/watch?v=QKxCGHpeFU4"
+    },
+    {
+      "title": "King of Kings",
+      "release_date": "1961-10-11",
+      "youtube_link": "https://www.youtube.com/watch?v=0ZCbMSOCigU"
+    },
+    {
+      "title": "El Cid",
+      "release_date": "1961-12-06",
+      "youtube_link": "https://www.youtube.com/watch?v=nrP3hNSglAc"
+    },
+    {
+      "title": "Sodom and Gomorrah",
+      "release_date": "1963",
+      "youtube_link": "https://www.youtube.com/watch?v=bpsocpoUjac"
+    },
+    {
+      "title": "The V.I.P.s",
+      "release_date": "1963-09-02",
+      "youtube_link": "https://www.youtube.com/watch?v=Vdk0HSNpi7c"
+    },
+    {
+      "title": "The Power",
+      "release_date": "1968-02-21",
+      "youtube_link": "https://www.youtube.com/watch?v=yemM6U2SBGw"
+    },
+    {
+      "title": "The Green Berets",
+      "release_date": "1968-06-19",
+      "youtube_link": "https://www.youtube.com/watch?v=5rOTocXhBJA"
+    },
+    {
+      "title": "The Private Life of Sherlock Holmes",
+      "release_date": "1970-10-29",
+      "youtube_link": "https://www.youtube.com/watch?v=EKF4GfAYzjY"
+    },
+    {
+      "title": "My Little Town",
+      "release_date": "1972",
+      "youtube_link": "https://www.youtube.com/watch?v=yfdt1MKegX4"
+    },
+    {
+      "title": "The Land Where My Heart Lies",
+      "release_date": "1972",
+      "youtube_link": "https://www.youtube.com/watch?v=V8nKWREnseI"
+    },
+    {
+      "title": "The Golden Voyage of Sinbad",
+      "release_date": "1973-12-20",
+      "youtube_link": "https://www.youtube.com/watch?v=C9eJnX0nOpM"
+    },
+    {
+      "title": "Festive Flourish",
+      "release_date": "1975",
+      "youtube_link": "https://www.youtube.com/watch?v=K64Ip9sCQCk"
+    },
+    {
+      "title": "The Private Files of J. Edgar Hoover",
+      "release_date": "1977",
+      "youtube_link": "https://www.youtube.com/watch?v=RHTYenz2n20"
+    },
+    {
+      "title": "Providence",
+      "release_date": "1977-01-25",
+      "youtube_link": "https://www.youtube.com/watch?v=ZBxsQD3boGw"
+    },
+    {
+      "title": "Fedora",
+      "release_date": "1978-06-29",
+      "youtube_link": "https://www.youtube.com/watch?v=gmHsJkzV2VA"
+    },
+    {
+      "title": "Last Embrace",
+      "release_date": "1979-05-04",
+      "youtube_link": "https://www.youtube.com/watch?v=ihl5wJFrQLU"
+    },
+    {
+      "title": "Time After Time",
+      "release_date": "1979-09-07",
+      "youtube_link": "https://www.youtube.com/watch?v=bJULthho6p4"
+    },
+    {
+      "title": "Eye of the Needle",
+      "release_date": "1981-07-24",
+      "youtube_link": "https://www.youtube.com/watch?v=JRSZ1_EGgek"
+    },
+    {
+      "title": "Dead Men Don't Wear Plaid",
+      "release_date": "1982-05-21",
+      "youtube_link": "https://www.youtube.com/watch?v=iItkbbZf-6A"
+    }
+  ]
+}

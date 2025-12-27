@@ -1,0 +1,317 @@
+{
+  "composer": "Marc Shaiman",
+  "filmography": [
+    {
+      "title": "Saturday Night Live",
+      "release_date": "1984"
+    },
+    {
+      "title": "Comic Relief",
+      "release_date": "1986"
+    },
+    {
+      "title": "Big Business",
+      "release_date": "1988-06-10"
+    },
+    {
+      "title": "Beaches",
+      "release_date": "1988-12-21"
+    },
+    {
+      "title": "The Mondo Beyondo Show",
+      "release_date": "1988"
+    },
+    {
+      "title": "When Harry Met Sally...",
+      "release_date": "1989-07-21"
+    },
+    {
+      "title": "Misery",
+      "release_date": "1990-11-30"
+    },
+    {
+      "title": "Scenes from a Mall",
+      "release_date": "1991-02-22"
+    },
+    {
+      "title": "City Slickers",
+      "release_date": "1991-06-07"
+    },
+    {
+      "title": "The Addams Family",
+      "release_date": "1991-11-22"
+    },
+    {
+      "title": "Hot Shots!",
+      "release_date": "1991-07-31"
+    },
+    {
+      "title": "For the Boys",
+      "release_date": "1991-11-22"
+    },
+    {
+      "title": "Sister Act",
+      "release_date": "1992-05-29"
+    },
+    {
+      "title": "Mr. Saturday Night",
+      "release_date": "1992-09-23"
+    },
+    {
+      "title": "A Few Good Men",
+      "release_date": "1992-12-09"
+    },
+    {
+      "title": "The Tonight Show Starring Johnny Carson",
+      "release_date": "1992"
+    },
+    {
+      "title": "Sleepless in Seattle",
+      "release_date": "1993-06-25"
+    },
+    {
+      "title": "Heart and Souls",
+      "release_date": "1993-08-13"
+    },
+    {
+      "title": "Hocus Pocus",
+      "release_date": "1993-07-16"
+    },
+    {
+      "title": "Life with Mikey",
+      "release_date": "1993-06-04"
+    },
+    {
+      "title": "Addams Family Values",
+      "release_date": "1993-11-19"
+    },
+    {
+      "title": "Sister Act 2: Back in the Habit",
+      "release_date": "1993-12-10"
+    },
+    {
+      "title": "City Slickers II: The Legend of Curly's Gold",
+      "release_date": "1994-06-10"
+    },
+    {
+      "title": "North",
+      "release_date": "1994-07-22"
+    },
+    {
+      "title": "Speechless",
+      "release_date": "1994-12-16"
+    },
+    {
+      "title": "That's Entertainment! III",
+      "release_date": "1994-07-06"
+    },
+    {
+      "title": "Stuart Saves His Family",
+      "release_date": "1995-04-12"
+    },
+    {
+      "title": "Forget Paris",
+      "release_date": "1995-05-19"
+    },
+    {
+      "title": "The American President",
+      "release_date": "1995-11-17"
+    },
+    {
+      "title": "Bogus",
+      "release_date": "1996-09-06"
+    },
+    {
+      "title": "Mother",
+      "release_date": "1996-12-25"
+    },
+    {
+      "title": "The First Wives Club",
+      "release_date": "1996-09-20"
+    },
+    {
+      "title": "Ghosts of Mississippi",
+      "release_date": "1996-12-20"
+    },
+    {
+      "title": "George of the Jungle",
+      "release_date": "1997-07-16"
+    },
+    {
+      "title": "In & Out",
+      "release_date": "1997"
+    },
+    {
+      "title": "Bette Midler in Concert: Diva Las Vegas",
+      "release_date": "1997"
+    },
+    {
+      "title": "My Giant",
+      "release_date": "1998-04-10"
+    },
+    {
+      "title": "Simon Birch",
+      "release_date": "1998-09-11"
+    },
+    {
+      "title": "Patch Adams",
+      "release_date": "1998-12-25"
+    },
+    {
+      "title": "From the Earth to the Moon",
+      "release_date": "1958-11-06"
+    },
+    {
+      "title": "The Out-of-Towners",
+      "release_date": "1999-04-02"
+    },
+    {
+      "title": "South Park: Bigger, Longer & Uncut",
+      "release_date": "1999-06-23"
+    },
+    {
+      "title": "The Story of Us",
+      "release_date": "1999-10-13"
+    },
+    {
+      "title": "Get Bruce",
+      "release_date": "1999-01-24"
+    },
+    {
+      "title": "South Park",
+      "release_date": "1999-06-23"
+    },
+    {
+      "title": "The Kid",
+      "release_date": "2000-07-07"
+    },
+    {
+      "title": "Bette",
+      "release_date": "2000"
+    },
+    {
+      "title": "Get Over It",
+      "release_date": "2001-03-09"
+    },
+    {
+      "title": "One Night at McCool's",
+      "release_date": "2001"
+    },
+    {
+      "title": "The Wedding Planner",
+      "release_date": "2001-01-26"
+    },
+    {
+      "title": "Greg the Bunny",
+      "release_date": "2002"
+    },
+    {
+      "title": "Down with Love",
+      "release_date": "2003-05-09"
+    },
+    {
+      "title": "Alex & Emma",
+      "release_date": "2003-06-20"
+    },
+    {
+      "title": "The Cat in the Hat",
+      "release_date": "2003-11-08"
+    },
+    {
+      "title": "Marci X",
+      "release_date": "2003-08-22"
+    },
+    {
+      "title": "Charlie Lawrence",
+      "release_date": "2003"
+    },
+    {
+      "title": "The Score",
+      "release_date": "2003"
+    },
+    {
+      "title": "Team America: World Police",
+      "release_date": "2004-10-11"
+    },
+    {
+      "title": "Biography",
+      "release_date": "2004"
+    },
+    {
+      "title": "Rumor Has It...",
+      "release_date": "2005-12-25"
+    },
+    {
+      "title": "Hairspray",
+      "release_date": "2007-07-10"
+    },
+    {
+      "title": "The Bucket List",
+      "release_date": "2007-12-15"
+    },
+    {
+      "title": "Bee Movie",
+      "release_date": "2007-10-25"
+    },
+    {
+      "title": "Flipped",
+      "release_date": "2010-09-10"
+    },
+    {
+      "title": "The Magic of Belle Isle",
+      "release_date": "2012-07-06"
+    },
+    {
+      "title": "Parental Guidance",
+      "release_date": "2012-12-25"
+    },
+    {
+      "title": "Smash",
+      "release_date": "2012"
+    },
+    {
+      "title": "And So It Goes",
+      "release_date": "2014-07-25"
+    },
+    {
+      "title": "LBJ",
+      "release_date": "2016-09-09"
+    },
+    {
+      "title": "The Star",
+      "release_date": "2017-11-12"
+    },
+    {
+      "title": "Mary Poppins Returns",
+      "release_date": "2018-11-29"
+    },
+    {
+      "title": "Tick, Tick... Boom!",
+      "release_date": "2021-11-10"
+    },
+    {
+      "title": "The Prince",
+      "release_date": "2021"
+    },
+    {
+      "title": "Hawkeye",
+      "release_date": "2021"
+    },
+    {
+      "title": "Bros",
+      "release_date": "2022-09-09"
+    },
+    {
+      "title": "Hocus Pocus 2",
+      "release_date": "2022-09-30"
+    },
+    {
+      "title": "Albert Brooks: Defending My Life",
+      "release_date": "2023-10-26"
+    },
+    {
+      "title": "Only Murders in the Building",
+      "release_date": "2023"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "composer": "Leonard Bernstein",
+  "filmography": [
+    {
+      "title": "On the Town",
+      "release_date": "1949-12-08"
+    },
+    {
+      "title": "On the Waterfront",
+      "release_date": "1954-07-28"
+    },
+    {
+      "title": "West Side Story",
+      "release_date": "1961-10-18"
+    }
+  ]
+}
