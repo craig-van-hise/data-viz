@@ -1,44 +1,180 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Bandwidth Visualizer Pro</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <style>
-      /* Custom scrollbar for dark theme */
-      ::-webkit-scrollbar {
-        width: 8px;
-        height: 8px;
-      }
-      ::-webkit-scrollbar-track {
-        background: #0f172a; 
-      }
-      ::-webkit-scrollbar-thumb {
-        background: #334155; 
-        border-radius: 4px;
-      }
-      ::-webkit-scrollbar-thumb:hover {
-        background: #475569; 
-      }
-    </style>
 
-<link rel="stylesheet" href="/index.css">
-  <script type="importmap">
-{
-  "imports": {
-    "react/": "https://esm.sh/react@^19.2.3/",
-    "react": "https://esm.sh/react@^19.2.3",
-    "framer-motion": "https://esm.sh/framer-motion@^12.23.26",
-    "recharts": "https://esm.sh/recharts@^3.6.0",
-    "lucide-react": "https://esm.sh/lucide-react@^0.562.0",
-    "react-dom/": "https://esm.sh/react-dom@^19.2.3/"
-  }
-}
-</script>
-  <script type="module" crossorigin src="./assets/index-DGTpzso9.js"></script>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Data Viz Projects</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-gradient: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+      --card-bg: rgba(255, 255, 255, 0.05);
+      --card-hover: rgba(255, 255, 255, 0.1);
+      --text-primary: #f8fafc;
+      --text-secondary: #94a3b8;
+      --accent: #38bdf8;
+    }
+
+    body {
+      font-family: 'Outfit', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: var(--bg-gradient);
+      color: var(--text-primary);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    header {
+      text-align: center;
+      padding: 4rem 1rem;
+      animation: fadeInDown 0.8s ease-out;
+    }
+
+    h1 {
+      font-weight: 600;
+      font-size: 3rem;
+      margin-bottom: 0.5rem;
+      background: linear-gradient(to right, #38bdf8, #818cf8);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    p.subtitle {
+      color: var(--text-secondary);
+      font-size: 1.2rem;
+      font-weight: 300;
+    }
+
+    main {
+      width: 100%;
+      max-width: 1000px;
+      padding: 0 1rem;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 2rem;
+      animation: fadeInUp 1s ease-out 0.3s backwards;
+    }
+
+    a.card {
+      background: var(--card-bg);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 16px;
+      padding: 2rem;
+      text-decoration: none;
+      transition: all 0.3s ease;
+      backdrop-filter: blur(10px);
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    a.card:hover {
+      background: var(--card-hover);
+      transform: translateY(-5px);
+      box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5);
+      border-color: var(--accent);
+    }
+
+    .card h2 {
+      margin: 0 0 0.5rem 0;
+      font-size: 1.5rem;
+      color: var(--text-primary);
+    }
+
+    .card p {
+      margin: 0;
+      color: var(--text-secondary);
+      line-height: 1.6;
+    }
+
+    .card .arrow {
+      margin-top: 1.5rem;
+      color: var(--accent);
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .card .arrow span {
+      transition: transform 0.3s ease;
+    }
+
+    a.card:hover .arrow span {
+      transform: translateX(5px);
+    }
+
+    @keyframes fadeInDown {
+      from {
+        opacity: 0;
+        transform: translateY(-20px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
 </head>
-  <body class="bg-slate-950 text-slate-100 antialiased selection:bg-cyan-500 selection:text-white">
-    <div id="root"></div>
+
+<body>
+  <header>
+    <h1>Data Viz Projects</h1>
+    <p class="subtitle">A collection of visualizations and tools</p>
+  </header>
+
+  <main>
+    <a href="timelines/Film Composers/composers.html?v=1.70" class="card">
+      <div>
+        <h2>Film Composers</h2>
+        <p>Timeline of active years for major film composers, visualizing their lifespans and career overlaps.</p>
+      </div>
+      <div class="arrow">View Timeline <span>&rarr;</span></div>
+    </a>
+
+    <a href="timelines/Spatial%20Audio/%23%20Spatial%20Audio%20Technologies%3A%20A%20Chronology%20v2.md" class="card">
+      <div>
+        <h2>Spatial Audio</h2>
+        <p>A comprehensive chronology of innovations in spatial audio technology.</p>
+      </div>
+      <div class="arrow">View Report <span>&rarr;</span></div>
+    </a>
+
+    <a href="digital-bandwidth/index.html" class="card">
+      <div>
+        <h2>What's Your Bottleneck?</h2>
+        <p>Bandwidth Visualizer Pro - Analyse digital bandwidth and identify system bottlenecks.</p>
+      </div>
+      <div class="arrow">View Tool <span>&rarr;</span></div>
+    </a>
+
+    <a href="open-alex-topics/index.html" class="card">
+      <div>
+        <h2>OpenAlex Topic Tree</h2>
+        <p>Interactive tree visualization of research topics from OpenAlex.</p>
+      </div>
+      <div class="arrow">View Visualization <span>&rarr;</span></div>
+    </a>
+  </main>
 </body>
+
 </html>
