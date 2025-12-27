@@ -1,38 +1,34 @@
-# Data Visualization Portfolio
+# Data Viz Projects
 
-A collection of interactive charts and technical comparisons created by **[Your Name]**.
+A collection of interactive experiments in data visualization, exploring topics from cinema history to network infrastructure.
 
-### 🚀 [View the Live Portfolio](https://craig-van-hise.github.io/data-visualizations/)
-
-## 📂 Projects in this Repository
-
-### 1. [What is your Bottleneck? (Digital Bandwidth)](./bandwidth-visualizer/)
-**Technology:** React, Vite, Framer Motion, Recharts
-An interactive analysis comparing the theoretical vs. real-world speeds of common digital interfaces.
-* **Key Features:** Logarithmic scaling, dynamic filtering by category (Storage, Network, etc.), and bottleneck analysis.
-* [View Live Chart](https://craig-van-hise.github.io/data-visualizations/)
+### 🚀 [Launch Interactive Portfolio](https://craig-van-hise.github.io/data-viz/)
 
 ---
 
-## 🔗 My Other Visualization Repositories
+## 📂 Projects
 
-### 🎞️ [Film Composer Timelines](https://github.com/craig-van-hise/timelines)
-A separate project dedicated to interactive historical timelines of film composers.
-* **Live Site:** [https://craig-van-hise.github.io/timelines/](https://craig-van-hise.github.io/timelines/)
-* **Repository:** [github.com/craig-van-hise/timelines](https://github.com/craig-van-hise/timelines)
+### 🎵 [Film Composer Timelines](./timelines/Film%20Composers/composers.html?v=1.70)
+An interactive timeline visualizing the active years and lifespans of major film composers.
+* **Key Features:** Chronological visualization, overlap analysis, and biographical data.
+
+### 🎧 [Spatial Audio Chronology](./timelines/Spatial%20Audio/)
+A comprehensive chronological report on the evolution of spatial audio technologies.
+* **Format:** Technical report and historical analysis.
+
+### 📉 [What is your Bottleneck?](./bandwidth-visualizer/dist/index.html)
+**Digital Bandwidth Visualizer**
+An interactive tool to visualize and compare the theoretical vs. real-world speeds of various digital interfaces (USB, Thunderbolt, PCIe, etc.).
+* **Key Features:** Logarithmic scaling, category filtering, and bottleneck identification.
+
+### 🧠 [OpenAlex Topic Tree](./open-alex-topics/index.html)
+A visualization of research topics derived from the OpenAlex database.
+* **Key Features:** Hierarchical tree view of connected research concepts.
 
 ---
 
-## 🛠️ About This Repository
-This repository serves as a home for my standalone data visualization experiments.
+## 🔗 Connect
+* **Portfolio:** [virtualvirgin.net](https://www.virtualvirgin.net/)
+* **GitHub:** [craig-van-hise](https://github.com/craig-van-hise)
 
-* **Host:** GitHub Pages
-* **Languages:** HTML, CSS, Python, JavaScript
-* **Tools:** Plotly, Pandas, Google Colab
-
-## 🔗 Links
-* **My Music Portfolio:** [virtualvirgin.net](https://www.virtualvirgin.net/)
-* **GitHub Profile:** [craig-van-hise](https://github.com/craig-van-hise)
-
----
-*© 2025 Craig Van Hise. All Rights Reserved.*
+*© 2025 Craig Van Hise.*
