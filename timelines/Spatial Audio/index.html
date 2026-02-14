@@ -1,5 +1,262 @@
-# Spatial Audio Technologies: A Chronology
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spatial Audio Technologies: A Chronology</title>
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --accent: #38bdf8;
+            --line-color: #334155;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            padding-right: 120px;
+            /* Space for the fixed scroller */
+            overflow-x: hidden;
+        }
+
+        header {
+            text-align: center;
+            padding: 4rem 1rem;
+            background: linear-gradient(180deg, #020617 0%, var(--bg-color) 100%);
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin: 0;
+            color: var(--accent);
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        header p {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+            margin-top: 10px;
+        }
+
+        /* Timeline Container */
+        .timeline {
+            position: relative;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem 0;
+        }
+
+        /* The vertical line */
+        .timeline::after {
+            content: '';
+            position: absolute;
+            width: 4px;
+            background-color: var(--line-color);
+            top: 0;
+            bottom: 0;
+            left: 50%;
+            margin-left: -2px;
+            border-radius: 2px;
+        }
+
+        /* Container for each item */
+        .container {
+            padding: 10px 40px;
+            position: relative;
+            background-color: inherit;
+            width: 50%;
+            box-sizing: border-box;
+            opacity: 0;
+            /* For animation */
+            transform: translateY(30px);
+            transition: all 0.6s ease-out;
+        }
+
+        .container.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* Left and Right alignments */
+        .left {
+            left: 0;
+        }
+
+        .right {
+            left: 50%;
+        }
+
+        /* The circles on the timeline */
+        .container::after {
+            content: '';
+            position: absolute;
+            width: 20px;
+            height: 20px;
+            right: -10px;
+            background-color: var(--bg-color);
+            border: 4px solid var(--accent);
+            top: 25px;
+            border-radius: 50%;
+            z-index: 1;
+        }
+
+        .right::after {
+            left: -10px;
+        }
+
+        /* The actual content card */
+        .content {
+            padding: 20px 30px;
+            background-color: var(--card-bg);
+            position: relative;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+            border-left: 4px solid var(--accent);
+            transition: transform 0.2s;
+        }
+
+        .content:hover {
+            transform: scale(1.02);
+        }
+
+        .content h2 {
+            margin: 0 0 10px 0;
+            font-size: 1.4rem;
+            color: #ffffff;
+        }
+
+        .content h3 {
+            margin: 0 0 15px 0;
+            font-size: 1rem;
+            color: var(--accent);
+            font-weight: 600;
+        }
+
+        .content p {
+            margin: 0;
+            line-height: 1.6;
+            color: var(--text-muted);
+            font-size: 0.95rem;
+        }
+
+        /* Media Queries for Mobile */
+        @media screen and (max-width: 800px) {
+            .timeline::after {
+                left: 31px;
+            }
+
+            .container {
+                width: 100%;
+                padding-left: 70px;
+                padding-right: 25px;
+            }
+
+            .container::after {
+                left: 21px;
+            }
+
+            .right {
+                left: 0%;
+            }
+        }
+
+        /* Decade Navigator Styles */
+        .nav-scroller {
+            position: fixed;
+            right: 20px;
+            top: 50%;
+            transform: translateY(-50%);
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            z-index: 100;
+            padding: 10px;
+        }
+
+        .nav-item {
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            opacity: 0.6;
+        }
+
+        .nav-item:hover,
+        .nav-item.active {
+            opacity: 1;
+            transform: translateX(-5px);
+        }
+
+        .nav-label {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            margin-right: 12px;
+            font-weight: 500;
+            transition: color 0.3s;
+            text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+        }
+
+        .nav-item.active .nav-label {
+            color: var(--accent);
+            font-weight: 700;
+            font-size: 1rem;
+        }
+
+        /* The Dot */
+        .nav-dot {
+            width: 8px;
+            height: 8px;
+            background-color: var(--line-color);
+            border-radius: 50%;
+            transition: all 0.3s;
+            position: relative;
+        }
+
+        .nav-item:hover .nav-dot {
+            background-color: var(--accent);
+            transform: scale(1.2);
+        }
+
+        .nav-item.active .nav-dot {
+            background-color: var(--accent);
+            box-shadow: 0 0 10px var(--accent);
+            transform: scale(1.4);
+        }
+
+        @media screen and (max-width: 900px) {
+            body {
+                padding-right: 0;
+            }
+
+            .nav-scroller {
+                display: none;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Spatial Audio Technologies</h1>
+        <p>A Chronology: 1878 - 2026</p>
+    </header>
+
+    <div class="timeline" id="timeline">
+    </div>
+
+    <div class="nav-scroller" id="navScroller"></div>
+
+    <script type="text/markdown" id="markdown-data">
 * **Technology:** Binaural Beats Theory (1878)
     * **Author/Creator:** Silvanus P. Thompson
     * **Description:** Paper describing the phenomenon of binaural phase differences.
@@ -58,7 +315,7 @@
 
 * **Technology:** Fantasound (1940)
     * **Author/Creator:** Walt Disney Studios (William Garity, John N.A. Hawkins)
-    * **Description:** The first cinematic surround sound system created for Fantasia. It used a control track (Tone-operated gain-adjusting device) to automatically pan audio across 54+ speakers in the theater, introducing the "pan pot" and the concept of dynamic sound movement for immersion. 
+    * **Description:** The first cinematic surround sound system created for Fantasia. It used a control track (Tone-operated gain-adjusting device) to automatically pan audio across 54+ speakers in the theater, introducing the "pan pot" and the concept of dynamic sound movement for immersion.
 
 * **Technology:** 3-Gang Pan Pot (1941)
     * **Author/Creator:** Disney Engineers
@@ -102,7 +359,7 @@
 
 * **Technology:** Philips Pavilion (Poème Électronique) (1958)
     * **Author/Creator:** Le Corbusier / Iannis Xenakis / Edgard Varèse
-    * **Description:** An architectural spatial audio installation for the Brussels World's Fair. The building's hyperbolic paraboloid shell contained ~350-400 loudspeakers. Audio was routed through physical "sound routes" on the walls, creating complex spatial polyphony where sound movement was a compositional element. 
+    * **Description:** An architectural spatial audio installation for the Brussels World's Fair. The building's hyperbolic paraboloid shell contained ~350-400 loudspeakers. Audio was routed through physical "sound routes" on the walls, creating complex spatial polyphony where sound movement was a compositional element.
 
 * **Technology:** Stereo LP Launch (1958)
     * **Author/Creator:** RIAA / Westrex
@@ -146,7 +403,7 @@
 
 * **Technology:** Simulation of Moving Sound Sources (1971)
     * **Author/Creator:** John Chowning (Stanford University)
-    * **Description:** A computer music breakthrough that algorithmically simulated Doppler shift and the ratio of direct-to-reverberant sound. This allowed for the digital synthesis of sound sources moving in 3D space with accurate velocity and distance cues, independent of physical recording. 
+    * **Description:** A computer music breakthrough that algorithmically simulated Doppler shift and the ratio of direct-to-reverberant sound. This allowed for the digital synthesis of sound sources moving in 3D space with accurate velocity and distance cues, independent of physical recording.
 
 * **Technology:** SQ Matrix (1971)
     * **Author/Creator:** CBS
@@ -159,6 +416,10 @@
 * **Technology:** CD-4 Format (1972)
     * **Author/Creator:** JVC
     * **Description:** Discrete 4-channel vinyl using ultrasonic carrier (30kHz).
+
+* **Technology:** KEMAR (Knowles Electronics Manikin for Acoustic Research) (1972)
+    * **Author/Creator:** Knowles Electronics (M.D. Burkhard & R.M. Sachs)
+    * **Description:** The first commercially successful and industry-standard head and torso simulator. Originally designed for hearing aid development, its anthropometric accuracy based on average human dimensions made it the definitive reference dummy head for in-situ HRTF measurements and binaural research worldwide.
 
 * **Technology:** Neumann KU 80 (1973)
     * **Author/Creator:** Georg Neumann GmbH
@@ -272,6 +533,10 @@
     * **Author/Creator:** Roland
     * **Description:** "Roland Sound Space" 3D processing hardware.
 
+* **Technology:** In-Ear Binaural Microphones (1990s)
+    * **Author/Creator:** Soundman (e.g., OKM II) / Various
+    * **Description:** The commercialization of wearable, omnidirectional electret condenser microphones shaped like earbuds. By placing microphones directly inside the recordist's own ear canals, these devices utilize the natural acoustics of the user's specific head and pinnae to produce highly realistic, personalized 3D sound recordings.
+
 * **Technology:** Auralization (1991)
     * **Author/Creator:** Mendel Kleiner / Bengt-Inge Dalenbäck / Peter Svensson
     * **Description:** The formal definition and technique of "rendering audible" a sound field derived from computer data. It allows architects and acousticians to listen to a simulated room ("auralize" it) through convolution of dry audio with simulated impulse responses.
@@ -374,7 +639,7 @@
 
 * **Technology:** EAX (Environmental Audio Extensions) (1999)
     * **Author/Creator:** Creative Technology
-    * **Description:** A DSP standard for gaming that simulated environmental effects (cave, hallway, underwater) and occlusion. It became the dominant standard for PC game audio in the 2000s, processing reverb effects based on the player's location. 
+    * **Description:** A DSP standard for gaming that simulated environmental effects (cave, hallway, underwater) and occlusion. It became the dominant standard for PC game audio in the 2000s, processing reverb effects based on the player's location.
 
 * **Technology:** Dolby Digital EX (1999)
     * **Author/Creator:** Dolby / Lucasfilm
@@ -478,7 +743,7 @@
 
 * **Technology:** DBAP (Distance-Based Amplitude Panning) (2009)
     * **Author/Creator:** Trond Lossius
-    * **Description:** A panning algorithm designed for irregular speaker layouts (e.g., museums, installations). It sets gain based on the distance of the virtual source to the speaker, ignoring the listener's position to avoid "sweet spot" limitations common in VBAP. 
+    * **Description:** A panning algorithm designed for irregular speaker layouts (e.g., museums, installations). It sets gain based on the distance of the virtual source to the speaker, ignoring the listener's position to avoid "sweet spot" limitations common in VBAP.
 
 * **Technology:** Dolby Pro Logic IIz (2009)
     * **Author/Creator:** Dolby Labs
@@ -531,6 +796,10 @@
 * **Technology:** Alien: Isolation (2014)
     * **Author/Creator:** Creative Assembly
     * **Description:** Dynamic ray-traced occlusion for stealth gameplay.
+
+* **Technology:** ADM BWF (Audio Definition Model) (2014)
+    * **Author/Creator:** European Broadcasting Union (EBU) / ITU
+    * **Description:** An open-standard metadata model (ITU-R BS.2076) developed to reliably describe the technical format and content of audio files. By extending the Broadcast Wave Format (BW64) to carry XML metadata, it became the universal, open standard for the storage and exchange of object-based, channel-based, and scene-based immersive audio, essential for Dolby Atmos and MPEG-H workflows.
 
 * **Technology:** SOFA (Spatially Oriented Format for Acoustics) (2015)
     * **Author/Creator:** AES Standards Committee (Piotr Majdak et al.)
@@ -596,6 +865,10 @@
     * **Author/Creator:** Ninja Theory
     * **Description:** Game using binaural recording for "voices in head".
 
+* **Technology:** IEM Plug-in Suite (2017)
+    * **Author/Creator:** Institute of Electronic Music and Acoustics (IEM), Graz
+    * **Description:** A comprehensive, free, and open-source collection of Ambisonic audio plug-ins developed by staff and students at Kunstuni Graz. Capable of handling up to 7th-order High-Order Ambisonics (HOA), it provided the audio community with highly accessible tools for spatial encoding, decoding, rotation, and visualization, heavily accelerating grassroots immersive production.
+
 * **Technology:** Magic Leap One Audio (2018)
     * **Author/Creator:** Magic Leap
     * **Description:** Wave acoustics rendering for near-field AR.
@@ -608,19 +881,28 @@
     * **Author/Creator:** Android (Google)
     * **Description:** Introduction of native spatial support in Android 13+.
 
+* **Technology:** Core Sound OctoMic (2018)
+    * **Author/Creator:** Core Sound, Len Moskowitz
+    * **Description:** A commercially available second-order Ambisonic microphone utilizing an array of eight capsules. By capturing second-order spatial data, it provided a significantly larger "sweet spot" and improved localization accuracy over traditional first-order tetrahedral arrays, advancing the fidelity of VR and surround recording.
+
 * **Technology:** Microsoft Project Acoustics (Triton) (2019)
     * **Author/Creator:** Microsoft Research (Nikunj Raghuvanshi)
     * **Description:** A wave-physics simulation for gaming that "bakes" (pre-computes) complex wave effects like diffraction and portaling into the game level data. It allows for cinema-quality acoustic realism in real-time interactive environments on standard CPUs.
 
 * **Technology:** Sony 360 Reality Audio (2019)
     * **Author/Creator:** Sony (based on MPEG-H)
-    * **Description:** An object-based spatial music format designed for music streaming. It uses the MPEG-H 3D Audio standard to map vocals and instruments in a spherical field, optimized for headphone listening via mobile apps. 
-
-## 2020s: Personalization, Cloud Simulation, and Mass Adoption
+    * **Description:** An object-based spatial music format designed for music streaming. It uses the MPEG-H 3D Audio standard to map vocals and instruments in a spherical field, optimized for headphone listening via mobile apps.
 
 * **Technology:** Soundscape (2019)
     * **Author/Creator:** d&b audiotechnik
     * **Description:** Live object positioning system with En-Scene/En-Space.
+
+* **Technology:** SPARTA and COMPASS (2019)
+    * **Author/Creator:** Leo McCormack & Archontis Politis (Aalto University)
+    * **Description:** An open-source VST audio plug-in suite for spatial audio reproduction and processing. SPARTA focuses on linear processing and panning methods, while COMPASS (Coding and Multidirectional Parameterisation of Ambisonic Sound Scenes) introduces parametric techniques that decompose the sound field into multi-source and ambient components, enabling complex spatial effects like directional warping and spatial side-chaining.
+
+
+## 2020s: Personalization, Cloud Simulation, and Mass Adoption
 
 * **Technology:** Apple Spatial Audio (2020)
     * **Author/Creator:** Apple
@@ -658,6 +940,14 @@
     * **Author/Creator:** CD Projekt Red
     * **Description:** Use of ray-traced audio occlusion.
 
+* **Technology:** Personal Sound Zones (PSZ) (2020s)
+    * **Author/Creator:** Various Research Labs (e.g., Princeton 3D3A Lab)
+    * **Description:** The advancement of acoustic contrast control and crosstalk cancellation technologies aimed at delivering independent audio programs to multiple listeners within a shared acoustic space without physical barriers. Recent developments utilize head-tracking and spatially adaptive neural networks (SANN) to dynamically update filters, minimizing interference even as listeners move.
+
+* **Technology:** Orthogonal Bilateral Ambisonics (2020s)
+    * **Author/Creator:** Spatial Audio Researchers
+    * **Description:** An advanced formulation extending the principles of Bilateral Ambisonics. By leveraging orthogonal basis functions for the mathematical decomposition of the sound field at the ears, this technique further optimizes computational efficiency and the spatial accuracy of binaural rendering for virtual and augmented reality applications.
+
 * **Technology:** Apple Music Spatial (2021)
     * **Author/Creator:** Apple
     * **Description:** Dolby Atmos integration for music streaming.
@@ -669,6 +959,14 @@
 * **Technology:** THX Spatial Audio (2021)
     * **Author/Creator:** THX
     * **Description:** System-level spatialization app for Windows.
+
+* **Technology:** Bilateral Ambisonics (2021)
+    * **Author/Creator:** Zamir Ben-Hur et al.
+    * **Description:** A novel approach to binaural reproduction that formulates an Ambisonics representation of the sound field directly at the two ears. By ear-aligning the HRTFs to manipulate their phase components, it significantly reduces the effective spherical-harmonic order required, dramatically mitigating truncation errors and improving the perceived quality of limited-order Ambisonic reproduction.
+
+* **Technology:** Google Beam (formerly Project Starline) (2021–2025)
+    * **Author/Creator:** Google / HP
+    * **Description:** An AI-first 3D video communication platform that creates the illusion of a face-to-face conversation. It utilizes a multi-camera array, real-time depth estimation, and a 65-inch light-field display. Crucially, it employs immersive spatial audio paired with real-time head tracking so that voices sound perfectly anchored to the 3D digital twin of the speaker as they move, requiring no VR headsets.
 
 * **Technology:** Meta Presence Platform (Audio SDK) (2022)
     * **Author/Creator:** Meta (Facebook Reality Labs)
@@ -762,6 +1060,10 @@
     * **Author/Creator:** Apple
     * **Description:** A major feature update allowing musicians to create and mix in Personalized Spatial Audio with head tracking directly via a USB-C cable. This enabled ultra-low latency and lossless audio delivery for professional use.
 
+* **Technology:** APAC (Apple Positional Audio Codec) (2025)
+    * **Author/Creator:** Apple
+    * **Description:** Introduced alongside the Apple Spatial Audio Format (ASAF), APAC is a highly efficient codec supporting immersive audio, including up to 3rd-order Ambisonics and complex channel layouts. Designed heavily for Vision Pro and the Apple ecosystem, it embeds metadata for dynamic range control and interacts with on-device rendering to adjust reverb, volume, and positioning in real-time based on the listener's virtual or physical environment.
+
 * **Technology:** Pioneer SPHERA (2026)
     * **Author/Creator:** Pioneer
     * **Description:** Introduced at CES 2026, it is the world's first aftermarket spatial audio in-dash receiver featuring Dolby Atmos playback via Apple CarPlay. It utilizes proprietary PURE Autotuning technology to optimize a vehicle's existing 4-channel speaker setup for 3D sound, avoiding the need for specialized immersive hardware.
@@ -785,3 +1087,169 @@
 * **Technology:** Spatial Audio Tidepool Conference (2026)
     * **Author/Creator:** Virginia Tech (ICAT)
     * **Description:** An immersive sound research initiative utilizing world-leading high-density loudspeaker arrays. It provides a forum to explore next-generation methodologies in immersive sound and music creation.
+
+
+    </script>
+
+    <script>
+        // The script reads the markdown text inside the script tag above and generates the HTML
+        document.addEventListener('DOMContentLoaded', () => {
+            const rawData = document.getElementById('markdown-data').textContent;
+            const timelineContainer = document.getElementById('timeline');
+
+            // Split by "* **Technology:**" to isolate each entry
+            const entries = rawData.split('* **Technology:**').map(e => e.trim()).filter(e => e.length > 0);
+
+            entries.forEach((entry, index) => {
+                const lines = entry.split('\n').map(l => l.trim());
+
+                // First line is the title/year
+                const title = lines[0];
+                let author = 'Unknown';
+                let description = '';
+
+                // Extract Author and Description using simple matching
+                lines.forEach(line => {
+                    if (line.startsWith('* **Author/Creator:**')) {
+                        author = line.replace('* **Author/Creator:**', '').trim();
+                    } else if (line.startsWith('* **Description:**')) {
+                        description = line.replace('* **Description:**', '').trim();
+                    }
+                });
+
+                // Alternate left and right placements
+                const sideClass = index % 2 === 0 ? 'left' : 'right';
+
+                // Create the DOM nodes
+                const containerDiv = document.createElement('div');
+                containerDiv.className = `container ${sideClass}`;
+
+                const contentDiv = document.createElement('div');
+                contentDiv.className = 'content';
+
+                const h2 = document.createElement('h2');
+                h2.textContent = title;
+
+                const h3 = document.createElement('h3');
+                h3.textContent = author;
+
+                const p = document.createElement('p');
+                p.textContent = description;
+
+                contentDiv.appendChild(h2);
+                contentDiv.appendChild(h3);
+                contentDiv.appendChild(p);
+                containerDiv.appendChild(contentDiv);
+
+                timelineContainer.appendChild(containerDiv);
+            });
+
+            // Intersection Observer to handle the scroll-in fade animation
+            const observer = new IntersectionObserver((entries, obs) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('visible');
+                        obs.unobserve(entry.target); // Stop observing once it's visible
+                    }
+                });
+            }, {
+                threshold: 0.1,
+                rootMargin: "0px 0px -50px 0px"
+            });
+
+            // Attach observer to all containers
+            document.querySelectorAll('.container').forEach(container => {
+                observer.observe(container);
+            });
+
+            // Decade Navigator Logic
+            const navScroller = document.getElementById('navScroller');
+            const allContainers = document.querySelectorAll('.container');
+            const decadeMap = new Map(); // decade -> first container element
+
+            allContainers.forEach((container) => {
+                const titleText = container.querySelector('h2').textContent;
+                // Text is "Technology Name (Year)"
+                // Regex to find year in parentheses
+                const match = titleText.match(/\((\d{4})/);
+                if (match) {
+                    const year = parseInt(match[1]);
+                    const decade = Math.floor(year / 10) * 10;
+
+                    // Only store the first occurrence of a decade
+                    if (!decadeMap.has(decade)) {
+                        decadeMap.set(decade, container);
+                    }
+                }
+            });
+
+            // Build the nav items
+            const sortedDecades = Array.from(decadeMap.keys()).sort((a, b) => a - b);
+
+            sortedDecades.forEach(decade => {
+                const targetContainer = decadeMap.get(decade);
+
+                const navItem = document.createElement('div');
+                navItem.className = 'nav-item';
+
+                const label = document.createElement('span');
+                label.className = 'nav-label';
+                label.textContent = `${decade}s`;
+
+                const dot = document.createElement('div');
+                dot.className = 'nav-dot';
+
+                navItem.appendChild(label);
+                navItem.appendChild(dot);
+
+                navItem.addEventListener('click', () => {
+                    targetContainer.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'center'
+                    });
+                });
+
+                navScroller.appendChild(navItem);
+            });
+
+            // Advanced Active State Detection
+            const containerDecadeObserver = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        const titleText = entry.target.querySelector('h2').textContent;
+                        const match = titleText.match(/\((\d{4})/);
+                        if (match) {
+                            const year = parseInt(match[1]);
+                            const decade = Math.floor(year / 10) * 10;
+                            updateActiveDecade(decade);
+                        }
+                    }
+                });
+            }, {
+                threshold: 0.5,
+                rootMargin: "-10% 0px -10% 0px"
+            });
+
+            allContainers.forEach(c => containerDecadeObserver.observe(c));
+
+            function updateActiveDecade(activeDecade) {
+                // Remove active from all
+                document.querySelectorAll('.nav-item').forEach(item => {
+                    item.classList.remove('active');
+                });
+
+                // Find and activate the correct nav item
+                const items = document.querySelectorAll('.nav-item');
+                for (let item of items) {
+                    if (item.querySelector('.nav-label').textContent === `${activeDecade}s`) {
+                        item.classList.add('active');
+                        break;
+                    }
+                }
+            }
+        });
+    </script>
+
+</body>
+
+</html>

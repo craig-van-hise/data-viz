@@ -12,9 +12,9 @@ A collection of interactive experiments in data visualization, exploring topics 
 An interactive timeline visualizing the active years and lifespans of major film composers.
 * **Key Features:** Chronological visualization, overlap analysis, and biographical data.
 
-### 🎧 [Spatial Audio Chronology](./timelines/Spatial%20Audio/)
-A comprehensive chronological report on the evolution of spatial audio technologies.
-* **Format:** Technical report and historical analysis.
+### 🎧 [Spatial Audio Chronology](./timelines/Spatial%20Audio/index.html)
+A comprehensive interactive chronology of spatial audio technologies from 1878 to 2026.
+* **Key Features:** Scrollable timeline with detailed entries on technological milestones.
 
 ### 📉 [What is your Bottleneck?](./bandwidth-visualizer/dist/index.html)
 **Digital Bandwidth Visualizer**

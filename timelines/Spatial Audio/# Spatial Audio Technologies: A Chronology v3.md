@@ -1,5 +1,3 @@
-# Spatial Audio Technologies: A Chronology
-
 * **Technology:** Binaural Beats Theory (1878)
     * **Author/Creator:** Silvanus P. Thompson
     * **Description:** Paper describing the phenomenon of binaural phase differences.
@@ -58,7 +56,7 @@
 
 * **Technology:** Fantasound (1940)
     * **Author/Creator:** Walt Disney Studios (William Garity, John N.A. Hawkins)
-    * **Description:** The first cinematic surround sound system created for Fantasia. It used a control track (Tone-operated gain-adjusting device) to automatically pan audio across 54+ speakers in the theater, introducing the "pan pot" and the concept of dynamic sound movement for immersion. 
+    * **Description:** The first cinematic surround sound system created for Fantasia. It used a control track (Tone-operated gain-adjusting device) to automatically pan audio across 54+ speakers in the theater, introducing the "pan pot" and the concept of dynamic sound movement for immersion.
 
 * **Technology:** 3-Gang Pan Pot (1941)
     * **Author/Creator:** Disney Engineers
@@ -102,7 +100,7 @@
 
 * **Technology:** Philips Pavilion (Poème Électronique) (1958)
     * **Author/Creator:** Le Corbusier / Iannis Xenakis / Edgard Varèse
-    * **Description:** An architectural spatial audio installation for the Brussels World's Fair. The building's hyperbolic paraboloid shell contained ~350-400 loudspeakers. Audio was routed through physical "sound routes" on the walls, creating complex spatial polyphony where sound movement was a compositional element. 
+    * **Description:** An architectural spatial audio installation for the Brussels World's Fair. The building's hyperbolic paraboloid shell contained ~350-400 loudspeakers. Audio was routed through physical "sound routes" on the walls, creating complex spatial polyphony where sound movement was a compositional element.
 
 * **Technology:** Stereo LP Launch (1958)
     * **Author/Creator:** RIAA / Westrex
@@ -146,7 +144,7 @@
 
 * **Technology:** Simulation of Moving Sound Sources (1971)
     * **Author/Creator:** John Chowning (Stanford University)
-    * **Description:** A computer music breakthrough that algorithmically simulated Doppler shift and the ratio of direct-to-reverberant sound. This allowed for the digital synthesis of sound sources moving in 3D space with accurate velocity and distance cues, independent of physical recording. 
+    * **Description:** A computer music breakthrough that algorithmically simulated Doppler shift and the ratio of direct-to-reverberant sound. This allowed for the digital synthesis of sound sources moving in 3D space with accurate velocity and distance cues, independent of physical recording.
 
 * **Technology:** SQ Matrix (1971)
     * **Author/Creator:** CBS
@@ -159,6 +157,10 @@
 * **Technology:** CD-4 Format (1972)
     * **Author/Creator:** JVC
     * **Description:** Discrete 4-channel vinyl using ultrasonic carrier (30kHz).
+
+* **Technology:** KEMAR (Knowles Electronics Manikin for Acoustic Research) (1972)
+    * **Author/Creator:** Knowles Electronics (M.D. Burkhard & R.M. Sachs)
+    * **Description:** The first commercially successful and industry-standard head and torso simulator. Originally designed for hearing aid development, its anthropometric accuracy based on average human dimensions made it the definitive reference dummy head for in-situ HRTF measurements and binaural research worldwide.
 
 * **Technology:** Neumann KU 80 (1973)
     * **Author/Creator:** Georg Neumann GmbH
@@ -272,6 +274,10 @@
     * **Author/Creator:** Roland
     * **Description:** "Roland Sound Space" 3D processing hardware.
 
+* **Technology:** In-Ear Binaural Microphones (1990s)
+    * **Author/Creator:** Soundman (e.g., OKM II) / Various
+    * **Description:** The commercialization of wearable, omnidirectional electret condenser microphones shaped like earbuds. By placing microphones directly inside the recordist's own ear canals, these devices utilize the natural acoustics of the user's specific head and pinnae to produce highly realistic, personalized 3D sound recordings.
+
 * **Technology:** Auralization (1991)
     * **Author/Creator:** Mendel Kleiner / Bengt-Inge Dalenbäck / Peter Svensson
     * **Description:** The formal definition and technique of "rendering audible" a sound field derived from computer data. It allows architects and acousticians to listen to a simulated room ("auralize" it) through convolution of dry audio with simulated impulse responses.
@@ -374,7 +380,7 @@
 
 * **Technology:** EAX (Environmental Audio Extensions) (1999)
     * **Author/Creator:** Creative Technology
-    * **Description:** A DSP standard for gaming that simulated environmental effects (cave, hallway, underwater) and occlusion. It became the dominant standard for PC game audio in the 2000s, processing reverb effects based on the player's location. 
+    * **Description:** A DSP standard for gaming that simulated environmental effects (cave, hallway, underwater) and occlusion. It became the dominant standard for PC game audio in the 2000s, processing reverb effects based on the player's location.
 
 * **Technology:** Dolby Digital EX (1999)
     * **Author/Creator:** Dolby / Lucasfilm
@@ -478,7 +484,7 @@
 
 * **Technology:** DBAP (Distance-Based Amplitude Panning) (2009)
     * **Author/Creator:** Trond Lossius
-    * **Description:** A panning algorithm designed for irregular speaker layouts (e.g., museums, installations). It sets gain based on the distance of the virtual source to the speaker, ignoring the listener's position to avoid "sweet spot" limitations common in VBAP. 
+    * **Description:** A panning algorithm designed for irregular speaker layouts (e.g., museums, installations). It sets gain based on the distance of the virtual source to the speaker, ignoring the listener's position to avoid "sweet spot" limitations common in VBAP.
 
 * **Technology:** Dolby Pro Logic IIz (2009)
     * **Author/Creator:** Dolby Labs
@@ -531,6 +537,10 @@
 * **Technology:** Alien: Isolation (2014)
     * **Author/Creator:** Creative Assembly
     * **Description:** Dynamic ray-traced occlusion for stealth gameplay.
+
+* **Technology:** ADM BWF (Audio Definition Model) (2014)
+    * **Author/Creator:** European Broadcasting Union (EBU) / ITU
+    * **Description:** An open-standard metadata model (ITU-R BS.2076) developed to reliably describe the technical format and content of audio files. By extending the Broadcast Wave Format (BW64) to carry XML metadata, it became the universal, open standard for the storage and exchange of object-based, channel-based, and scene-based immersive audio, essential for Dolby Atmos and MPEG-H workflows.
 
 * **Technology:** SOFA (Spatially Oriented Format for Acoustics) (2015)
     * **Author/Creator:** AES Standards Committee (Piotr Majdak et al.)
@@ -596,6 +606,10 @@
     * **Author/Creator:** Ninja Theory
     * **Description:** Game using binaural recording for "voices in head".
 
+* **Technology:** IEM Plug-in Suite (2017)
+    * **Author/Creator:** Institute of Electronic Music and Acoustics (IEM), Graz
+    * **Description:** A comprehensive, free, and open-source collection of Ambisonic audio plug-ins developed by staff and students at Kunstuni Graz. Capable of handling up to 7th-order High-Order Ambisonics (HOA), it provided the audio community with highly accessible tools for spatial encoding, decoding, rotation, and visualization, heavily accelerating grassroots immersive production.
+
 * **Technology:** Magic Leap One Audio (2018)
     * **Author/Creator:** Magic Leap
     * **Description:** Wave acoustics rendering for near-field AR.
@@ -608,19 +622,28 @@
     * **Author/Creator:** Android (Google)
     * **Description:** Introduction of native spatial support in Android 13+.
 
+* **Technology:** Core Sound OctoMic (2018)
+    * **Author/Creator:** Core Sound, Len Moskowitz
+    * **Description:** A commercially available second-order Ambisonic microphone utilizing an array of eight capsules. By capturing second-order spatial data, it provided a significantly larger "sweet spot" and improved localization accuracy over traditional first-order tetrahedral arrays, advancing the fidelity of VR and surround recording.
+
 * **Technology:** Microsoft Project Acoustics (Triton) (2019)
     * **Author/Creator:** Microsoft Research (Nikunj Raghuvanshi)
     * **Description:** A wave-physics simulation for gaming that "bakes" (pre-computes) complex wave effects like diffraction and portaling into the game level data. It allows for cinema-quality acoustic realism in real-time interactive environments on standard CPUs.
 
 * **Technology:** Sony 360 Reality Audio (2019)
     * **Author/Creator:** Sony (based on MPEG-H)
-    * **Description:** An object-based spatial music format designed for music streaming. It uses the MPEG-H 3D Audio standard to map vocals and instruments in a spherical field, optimized for headphone listening via mobile apps. 
-
-## 2020s: Personalization, Cloud Simulation, and Mass Adoption
+    * **Description:** An object-based spatial music format designed for music streaming. It uses the MPEG-H 3D Audio standard to map vocals and instruments in a spherical field, optimized for headphone listening via mobile apps.
 
 * **Technology:** Soundscape (2019)
     * **Author/Creator:** d&b audiotechnik
     * **Description:** Live object positioning system with En-Scene/En-Space.
+
+* **Technology:** SPARTA and COMPASS (2019)
+    * **Author/Creator:** Leo McCormack & Archontis Politis (Aalto University)
+    * **Description:** An open-source VST audio plug-in suite for spatial audio reproduction and processing. SPARTA focuses on linear processing and panning methods, while COMPASS (Coding and Multidirectional Parameterisation of Ambisonic Sound Scenes) introduces parametric techniques that decompose the sound field into multi-source and ambient components, enabling complex spatial effects like directional warping and spatial side-chaining.
+
+
+## 2020s: Personalization, Cloud Simulation, and Mass Adoption
 
 * **Technology:** Apple Spatial Audio (2020)
     * **Author/Creator:** Apple
@@ -658,6 +681,14 @@
     * **Author/Creator:** CD Projekt Red
     * **Description:** Use of ray-traced audio occlusion.
 
+* **Technology:** Personal Sound Zones (PSZ) (2020s)
+    * **Author/Creator:** Various Research Labs (e.g., Princeton 3D3A Lab)
+    * **Description:** The advancement of acoustic contrast control and crosstalk cancellation technologies aimed at delivering independent audio programs to multiple listeners within a shared acoustic space without physical barriers. Recent developments utilize head-tracking and spatially adaptive neural networks (SANN) to dynamically update filters, minimizing interference even as listeners move.
+
+* **Technology:** Orthogonal Bilateral Ambisonics (2020s)
+    * **Author/Creator:** Spatial Audio Researchers
+    * **Description:** An advanced formulation extending the principles of Bilateral Ambisonics. By leveraging orthogonal basis functions for the mathematical decomposition of the sound field at the ears, this technique further optimizes computational efficiency and the spatial accuracy of binaural rendering for virtual and augmented reality applications.
+
 * **Technology:** Apple Music Spatial (2021)
     * **Author/Creator:** Apple
     * **Description:** Dolby Atmos integration for music streaming.
@@ -669,6 +700,14 @@
 * **Technology:** THX Spatial Audio (2021)
     * **Author/Creator:** THX
     * **Description:** System-level spatialization app for Windows.
+
+* **Technology:** Bilateral Ambisonics (2021)
+    * **Author/Creator:** Zamir Ben-Hur et al.
+    * **Description:** A novel approach to binaural reproduction that formulates an Ambisonics representation of the sound field directly at the two ears. By ear-aligning the HRTFs to manipulate their phase components, it significantly reduces the effective spherical-harmonic order required, dramatically mitigating truncation errors and improving the perceived quality of limited-order Ambisonic reproduction.
+
+* **Technology:** Google Beam (formerly Project Starline) (2021–2025)
+    * **Author/Creator:** Google / HP
+    * **Description:** An AI-first 3D video communication platform that creates the illusion of a face-to-face conversation. It utilizes a multi-camera array, real-time depth estimation, and a 65-inch light-field display. Crucially, it employs immersive spatial audio paired with real-time head tracking so that voices sound perfectly anchored to the 3D digital twin of the speaker as they move, requiring no VR headsets.
 
 * **Technology:** Meta Presence Platform (Audio SDK) (2022)
     * **Author/Creator:** Meta (Facebook Reality Labs)
@@ -762,6 +801,10 @@
     * **Author/Creator:** Apple
     * **Description:** A major feature update allowing musicians to create and mix in Personalized Spatial Audio with head tracking directly via a USB-C cable. This enabled ultra-low latency and lossless audio delivery for professional use.
 
+* **Technology:** APAC (Apple Positional Audio Codec) (2025)
+    * **Author/Creator:** Apple
+    * **Description:** Introduced alongside the Apple Spatial Audio Format (ASAF), APAC is a highly efficient codec supporting immersive audio, including up to 3rd-order Ambisonics and complex channel layouts. Designed heavily for Vision Pro and the Apple ecosystem, it embeds metadata for dynamic range control and interacts with on-device rendering to adjust reverb, volume, and positioning in real-time based on the listener's virtual or physical environment.
+
 * **Technology:** Pioneer SPHERA (2026)
     * **Author/Creator:** Pioneer
     * **Description:** Introduced at CES 2026, it is the world's first aftermarket spatial audio in-dash receiver featuring Dolby Atmos playback via Apple CarPlay. It utilizes proprietary PURE Autotuning technology to optimize a vehicle's existing 4-channel speaker setup for 3D sound, avoiding the need for specialized immersive hardware.
@@ -785,3 +828,4 @@
 * **Technology:** Spatial Audio Tidepool Conference (2026)
     * **Author/Creator:** Virginia Tech (ICAT)
     * **Description:** An immersive sound research initiative utilizing world-leading high-density loudspeaker arrays. It provides a forum to explore next-generation methodologies in immersive sound and music creation.
+
