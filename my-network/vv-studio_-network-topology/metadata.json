@@ -1,0 +1,6 @@
+{
+  "name": "VV Studio: Network Topology",
+  "description": "Interactive network diagram and infrastructure map for VV Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

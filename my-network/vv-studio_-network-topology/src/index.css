@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "JetBrains Mono", "Courier New", monospace;
+}
+
+@layer base {
+  :root {
+    --bg-color: #0D0E10;
+    --panel-bg: #1A1C1E;
+    --border-color: #2D3135;
+    --text-primary: #E1E3E6;
+    --text-secondary: #9BA1A6;
+    
+    /* Node Colors */
+    --color-mac: #5E5CE6; /* Indigo */
+    --color-win: #00A4EF; /* Windows Blue */
+    --color-network: #FF9500; /* Orange */
+    --color-storage: #9BA1A6;
+    
+    /* Connection Colors */
+    --line-tailscale: #34C759;
+    --line-thunderbolt: #FFD60A; /* Yellow */
+    --line-ethernet: #AF52DE;
+    --line-wifi: #FF9500; /* Orange */
+    --line-usb: #00E5FF; /* Cyan */
+  }
+
+  body {
+    background-color: var(--bg-color);
+    color: var(--text-primary);
+    font-family: var(--font-sans);
+    overflow: hidden;
+  }
+}
+
+@layer utilities {
+  .text-mac { color: var(--color-mac); }
+  .text-win { color: var(--color-win); }
+  .text-network { color: var(--color-network); }
+  .text-storage { color: var(--color-storage); }
+  
+  .border-mac { border-color: var(--color-mac); }
+  .border-win { border-color: var(--color-win); }
+  .border-network { border-color: var(--color-network); }
+  .border-storage { border-color: var(--color-storage); }
+}
+
+/* SVG Line Animations */
+@keyframes dash {
+  to {
+    stroke-dashoffset: -20;
+  }
+}
+
+.line-animated {
+  animation: dash 1s linear infinite;
+}
+

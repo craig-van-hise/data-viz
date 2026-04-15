@@ -1,0 +1,64 @@
+App stacks:
+
+## MAC-LAPTOP:
+Software development:
+- Antigravity
+- Claude Code
+- VS Code
+
+## WIN-WORKSTATION:
+
+Agent Workflows:
+- Ollama
+- n8n
+- Langflow
+- Docker
+
+Content creation:
+Music:
+- Reaper
+- Nuendo
+- Bidule
+- VSL
+- SWAM
+- Sample Modeling
+
+Spatial Audio:
+- SPARTA
+- IEM 
+- MIR PRO 3D
+- Wwise
+
+Video Game Engine/3D Modeling:
+- Unity
+- Blender
+
+Video:
+- OBS Studio
+- DaVinci Resolve
+
+## MAC-MINI:
+Security:
+- Custom Fortress Security Control Center application for 
+Software development:
+- Antigravity
+- Claude Code
+- VS Code
+- Xcode
+
+Content creation:
+Music:
+- Dorico
+- Notion 
+- Reaper
+- Nuendo
+- Bidule
+
+- Blender
+
+## WIN-LAPTOP
+Music:
+- Dorico
+- Notion 
+- Reaper
+- Nuendo
