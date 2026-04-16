@@ -1,509 +1,746 @@
-{
-  "composer": "Marco Beltrami",
-  "filmography": [
+[
     {
-      "title": "Death Match",
-      "release_date": "1994"
+        "title": "Death Match",
+        "year": 1994,
+        "id": 145923,
+        "poster": "https://image.tmdb.org/t/p/w200/x2R7xF7V1paiM1dKdbi9RJRJFKh.jpg"
     },
     {
-      "title": "The Whispering",
-      "release_date": "1995"
+        "title": "The Whispering",
+        "year": 1995,
+        "id": 396396,
+        "poster": "https://image.tmdb.org/t/p/w200/aVEIkeKm0LaDPPVfWOV6WPOfdya.jpg"
     },
     {
-      "title": "Land's End",
-      "release_date": "1995"
+        "title": "Scream",
+        "year": 1996,
+        "id": 4232,
+        "poster": "https://image.tmdb.org/t/p/w200/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg"
     },
     {
-      "title": "Scream",
-      "release_date": "1996-12-18"
+        "title": "Inhumanoid",
+        "year": 1996,
+        "id": 223263,
+        "poster": "https://image.tmdb.org/t/p/w200/uYfkEe8nVNdzeJyXf1fdW7uSFOW.jpg"
     },
     {
-      "title": "Mimic",
-      "release_date": "1997-08-22"
+        "title": "Scream 2",
+        "year": 1997,
+        "id": 4233,
+        "poster": "https://image.tmdb.org/t/p/w200/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg"
     },
     {
-      "title": "Nightwatch",
-      "release_date": "1998-04-17"
+        "title": "Mimic",
+        "year": 1997,
+        "id": 4961,
+        "poster": "https://image.tmdb.org/t/p/w200/ieRRo78f8JzEKxfiCKqJyFg6l8o.jpg"
     },
     {
-      "title": "Scream 2",
-      "release_date": "1997-12-10"
+        "title": "Stranger in My Home",
+        "year": 1997,
+        "id": 336513,
+        "poster": "https://image.tmdb.org/t/p/w200/qCKAVwmkyqIbBq9yy00cWfPigu.jpg"
     },
     {
-      "title": "Dellaventura",
-      "release_date": "1997"
+        "title": "54",
+        "year": 1998,
+        "id": 3682,
+        "poster": "https://image.tmdb.org/t/p/w200/gLjt54vow8CEOHdgRkQCyXwbq52.jpg"
     },
     {
-      "title": "Halloween H20: 20 Years Later",
-      "release_date": "1998-07-27"
+        "title": "The Faculty",
+        "year": 1998,
+        "id": 9276,
+        "poster": "https://image.tmdb.org/t/p/w200/5XetJwmAiDC0EtH23NIXaqFn3Wl.jpg"
     },
     {
-      "title": "54",
-      "release_date": "1998-08-28"
+        "title": "David and Lisa",
+        "year": 1998,
+        "id": 77246,
+        "poster": "https://image.tmdb.org/t/p/w200/wQFMB6aRYBFGDjfVjIgqLUjwyiV.jpg"
     },
     {
-      "title": "The Faculty",
-      "release_date": "1998-12-25"
+        "title": "The Minus Man",
+        "year": 1999,
+        "id": 21719,
+        "poster": "https://image.tmdb.org/t/p/w200/xrui0mDUWY3poirLrjHtoOU1rGA.jpg"
     },
     {
-      "title": "The Minus Man",
-      "release_date": "1999-01-25"
+        "title": "The Florentine",
+        "year": 1999,
+        "id": 123455,
+        "poster": "https://image.tmdb.org/t/p/w200/sErgwOIFeP4cvg93HotWEyDMGhi.jpg"
     },
     {
-      "title": "The Florentine",
-      "release_date": "1999-04-19"
+        "title": "Tuesdays with Morrie",
+        "year": 1999,
+        "id": 26133,
+        "poster": "https://image.tmdb.org/t/p/w200/agRmUjQBHVA1b0QmZDWyS5o2f4d.jpg"
     },
     {
-      "title": "The Crow: Salvation",
-      "release_date": "2001-01-23"
+        "title": "Goodnight Moon & Other Sleepytime Tales",
+        "year": 1999,
+        "id": 96899,
+        "poster": "https://image.tmdb.org/t/p/w200/yYQ9UiFwEqyP2Pl6w2FCLWmSeut.jpg"
     },
     {
-      "title": "Scream 3",
-      "release_date": "2000-02-03"
+        "title": "Walking Across Egypt",
+        "year": 1999,
+        "id": 32090,
+        "poster": "https://image.tmdb.org/t/p/w200/vW7tJUxCgCWAQW31feb4syzEXtE.jpg"
     },
     {
-      "title": "The Incorporated",
-      "release_date": "2000"
+        "title": "Scream 3",
+        "year": 2000,
+        "id": 4234,
+        "poster": "https://image.tmdb.org/t/p/w200/qpH8ToZVlFD1bakL04LkEKodyDI.jpg"
     },
     {
-      "title": "Dracula 2000",
-      "release_date": "2000-12-22"
+        "title": "Dracula 2000",
+        "year": 2000,
+        "id": 10577,
+        "poster": "https://image.tmdb.org/t/p/w200/jnAfl6GSZbBMigL98RJGbOSk4V1.jpg"
     },
     {
-      "title": "The Watcher",
-      "release_date": "2000-09-08"
+        "title": "The Watcher",
+        "year": 2000,
+        "id": 10685,
+        "poster": "https://image.tmdb.org/t/p/w200/hsMvndtd3KPAvJ3q7zKZuNSB1R3.jpg"
     },
     {
-      "title": "Highway 395",
-      "release_date": "2000"
+        "title": "The Crow: Salvation",
+        "year": 2000,
+        "id": 9456,
+        "poster": "https://image.tmdb.org/t/p/w200/5JkLJ0HS1hGxZHok9pjBcLCpLuX.jpg"
     },
     {
-      "title": "The Practice",
-      "release_date": "2000"
+        "title": "Goodbye, Casanova",
+        "year": 2000,
+        "id": 1184877,
+        "poster": "https://image.tmdb.org/t/p/w200/4c4Nx9NltqrtK2NWsNYEshjMSho.jpg"
     },
     {
-      "title": "Angel Eyes",
-      "release_date": "2001-05-18"
+        "title": "Highway 395",
+        "year": 2000,
+        "id": 1168968,
+        "poster": "https://image.tmdb.org/t/p/w200/rAE86J13ddQEB0SfgZ1rLHlul0D.jpg"
     },
     {
-      "title": "Joy Ride",
-      "release_date": "2001-09-09"
+        "title": "Joy Ride",
+        "year": 2001,
+        "id": 10866,
+        "poster": "https://image.tmdb.org/t/p/w200/1LVGjf1QWgkNNPQssZtuT1GYKoP.jpg"
     },
     {
-      "title": "The Dangerous Lives of Altar Boys",
-      "release_date": "2002"
+        "title": "Angel Eyes",
+        "year": 2001,
+        "id": 5852,
+        "poster": "https://image.tmdb.org/t/p/w200/6ZeMoynnz4pRweKKZ9c2G1absMJ.jpg"
     },
     {
-      "title": "I Am Dina",
-      "release_date": "2002"
+        "title": "I Am Dina",
+        "year": 2002,
+        "id": 36561,
+        "poster": "https://image.tmdb.org/t/p/w200/hXNkYhRm1JjxYNRylGwhHKqICmY.jpg"
     },
     {
-      "title": "Resident Evil",
-      "release_date": "2002-03-15"
+        "title": "Blade II",
+        "year": 2002,
+        "id": 36586,
+        "poster": "https://image.tmdb.org/t/p/w200/yDHwo3eWcMiy5LnnEnlGV9iLu9k.jpg"
     },
     {
-      "title": "Blade II",
-      "release_date": "2002-03-22"
+        "title": "Resident Evil",
+        "year": 2002,
+        "id": 1576,
+        "poster": "https://image.tmdb.org/t/p/w200/1UKNef590A0ZaMnxsscIcWuK1Em.jpg"
     },
     {
-      "title": "Glory Days",
-      "release_date": "2002"
+        "title": "The Dangerous Lives of Altar Boys",
+        "year": 2002,
+        "id": 16857,
+        "poster": "https://image.tmdb.org/t/p/w200/4uTWXZ2Rvizl3ycMHtODfRjks4W.jpg"
     },
     {
-      "title": "Terminator 3: Rise of the Machines",
-      "release_date": "2003-06-30"
+        "title": "The First $20 Million Is Always the Hardest",
+        "year": 2002,
+        "id": 23855,
+        "poster": "https://image.tmdb.org/t/p/w200/mPW9AdDakbPKSPv0emzw64Jence.jpg"
     },
     {
-      "title": "I, Robot",
-      "release_date": "2004-07-07"
+        "title": "Terminator 3: Rise of the Machines",
+        "year": 2003,
+        "id": 296,
+        "poster": "https://image.tmdb.org/t/p/w200/nvsoLAclNfpyJSp73TiGKwZoqJW.jpg"
     },
     {
-      "title": "Hellboy",
-      "release_date": "2004-03-30"
+        "title": "Dracula II: Ascension",
+        "year": 2003,
+        "id": 10578,
+        "poster": "https://image.tmdb.org/t/p/w200/7WEL4USgIrkJAY7Kh4yzMYy6znL.jpg"
     },
     {
-      "title": "Flight of the Phoenix",
-      "release_date": "2004-12-17"
+        "title": "Hellboy",
+        "year": 2004,
+        "id": 1487,
+        "poster": "https://image.tmdb.org/t/p/w200/lbaTEneOofwvAyg77R8HbFML2zT.jpg"
     },
     {
-      "title": "Alien vs. Predator",
-      "release_date": "2004-08-12"
+        "title": "Hellboy: The Seeds of Creation",
+        "year": 2004,
+        "id": 72867,
+        "poster": "https://image.tmdb.org/t/p/w200/4qg5u2mLRMaTIs1rClhpjlcv7qc.jpg"
     },
     {
-      "title": "Cursed",
-      "release_date": "2005-02-25"
+        "title": "I, Robot",
+        "year": 2004,
+        "id": 2048,
+        "poster": "https://image.tmdb.org/t/p/w200/efwv6F2lGaghjPpBRSINHtoEiZB.jpg"
     },
     {
-      "title": "XXX: State of the Union",
-      "release_date": "2005-04-29"
+        "title": "Flight of the Phoenix",
+        "year": 2004,
+        "id": 11866,
+        "poster": "https://image.tmdb.org/t/p/w200/pcj6unMsKCw0ogWFlUXmbc9gKap.jpg"
     },
     {
-      "title": "The Three Burials of Melquiades Estrada",
-      "release_date": "2005-05-20"
+        "title": "Cursed",
+        "year": 2005,
+        "id": 10012,
+        "poster": "https://image.tmdb.org/t/p/w200/em45jL4CfTMyj5V83kj7rhdorJu.jpg"
     },
     {
-      "title": "Red Eye",
-      "release_date": "2005"
+        "title": "Red Eye",
+        "year": 2005,
+        "id": 11460,
+        "poster": "https://image.tmdb.org/t/p/w200/j33szyBdJjrmnItyUgPBsqaBECE.jpg"
     },
     {
-      "title": "Underworld: Evolution",
-      "release_date": "2006-01-11"
+        "title": "The Three Burials of Melquiades Estrada",
+        "year": 2005,
+        "id": 8053,
+        "poster": "https://image.tmdb.org/t/p/w200/uHOEb6mo45qMSJaZqbkVa7oW1Y7.jpg"
     },
     {
-      "title": "The Omen",
-      "release_date": "1976-06-06"
+        "title": "xXx: State of the Union",
+        "year": 2005,
+        "id": 11679,
+        "poster": "https://image.tmdb.org/t/p/w200/nL9J0N3HJSdZTKRsd5xcE6IzL5s.jpg"
     },
     {
-      "title": "The Substitute",
-      "release_date": "1996-04-19"
+        "title": "Underworld: Evolution",
+        "year": 2006,
+        "id": 834,
+        "poster": "https://image.tmdb.org/t/p/w200/oJaQG353uOzOqffQ5K2hg03k4Vp.jpg"
     },
     {
-      "title": "TMNT",
-      "release_date": "2007-03-17"
+        "title": "The Omen",
+        "year": 2006,
+        "id": 806,
+        "poster": "https://image.tmdb.org/t/p/w200/kf1Qq9b32jn4umll9qD2ue5ftnh.jpg"
     },
     {
-      "title": "Captivity",
-      "release_date": "2007"
+        "title": "Live Free or Die Hard",
+        "year": 2007,
+        "id": 1571,
+        "poster": "https://image.tmdb.org/t/p/w200/31TT47YjBl7a7uvJ3ff1nrirXhP.jpg"
     },
     {
-      "title": "The Invisible",
-      "release_date": "2007-04-27"
+        "title": "The Substitute",
+        "year": 2007,
+        "id": 12416,
+        "poster": "https://image.tmdb.org/t/p/w200/zHApRXaV1NckNtZh6PnKChie2l1.jpg"
     },
     {
-      "title": "3:10 to Yuma",
-      "release_date": "2007-08-21"
+        "title": "The Invisible",
+        "year": 2007,
+        "id": 9785,
+        "poster": "https://image.tmdb.org/t/p/w200/vSJloUNJSKWJzQ4RbxBFKOA2p2m.jpg"
     },
     {
-      "title": "Live Free or Die Hard",
-      "release_date": "2007-06-12"
+        "title": "Captivity",
+        "year": 2007,
+        "id": 14125,
+        "poster": "https://image.tmdb.org/t/p/w200/diP1wQRnmvKHPFcHGoi0WkUSHXw.jpg"
     },
     {
-      "title": "The Ballad of Esequiel Hernandez",
-      "release_date": "2007-04-27"
+        "title": "3:10 to Yuma",
+        "year": 2007,
+        "id": 5176,
+        "poster": "https://image.tmdb.org/t/p/w200/voMB69AsLnPNmtfbrBl0lbeFKDH.jpg"
     },
     {
-      "title": "The Eye",
-      "release_date": "2008-02-01"
+        "title": "Max Payne",
+        "year": 2008,
+        "id": 13051,
+        "poster": "https://image.tmdb.org/t/p/w200/3cWnCG5NyXJYARO2hmNqfbbgrMA.jpg"
     },
     {
-      "title": "Max Payne",
-      "release_date": "2008-10-17"
+        "title": "The Hurt Locker",
+        "year": 2008,
+        "id": 12162,
+        "poster": "https://image.tmdb.org/t/p/w200/io2dfBJhasvGbgkCX9cCGVOiA99.jpg"
     },
     {
-      "title": "Amusement",
-      "release_date": "2008-10-09"
+        "title": "The Eye",
+        "year": 2008,
+        "id": 9030,
+        "poster": "https://image.tmdb.org/t/p/w200/9N3znJ8sHH2EQjARCrUpxMj3hWd.jpg"
     },
     {
-      "title": "Mesrine",
-      "release_date": "2008-10-22"
+        "title": "Amusement",
+        "year": 2008,
+        "id": 13803,
+        "poster": "https://image.tmdb.org/t/p/w200/1XosEzjwTxL4NrVhn7ldunA3kfr.jpg"
     },
     {
-      "title": "In the Electric Mist",
-      "release_date": "2009-02-07"
+        "title": "Mesrine: Killer Instinct",
+        "year": 2008,
+        "id": 13635,
+        "poster": "https://image.tmdb.org/t/p/w200/zCyuiyIhbhgEOZde81qTgXbO0pw.jpg"
     },
     {
-      "title": "The Hurt Locker",
-      "release_date": "2009"
+        "title": "Mesrine: Public Enemy #1",
+        "year": 2008,
+        "id": 15362,
+        "poster": "https://image.tmdb.org/t/p/w200/k9lhZ0PhY78nzwG034rNpsLXlpW.jpg"
     },
     {
-      "title": "Knowing",
-      "release_date": "2009-03-20"
+        "title": "Knowing",
+        "year": 2009,
+        "id": 13811,
+        "poster": "https://image.tmdb.org/t/p/w200/OG0mxQt4YaNIWiz8EKJSHe9lPh.jpg"
     },
     {
-      "title": "V",
-      "release_date": "2009"
+        "title": "In the Electric Mist",
+        "year": 2009,
+        "id": 13975,
+        "poster": "https://image.tmdb.org/t/p/w200/gsyUJovik2t5vzPyXL5tq5VWLym.jpg"
     },
     {
-      "title": "Repo Men",
-      "release_date": "2010-03-19"
+        "title": "Jonah Hex",
+        "year": 2010,
+        "id": 20533,
+        "poster": "https://image.tmdb.org/t/p/w200/xwAdu0lOO2Y5sXjK87glhJg3c6r.jpg"
     },
     {
-      "title": "Jonah Hex",
-      "release_date": "2010-06-18"
+        "title": "Don't Be Afraid of the Dark",
+        "year": 2010,
+        "id": 46261,
+        "poster": "https://image.tmdb.org/t/p/w200/jMBMm1jwqvILV8p1K44brBnmwLK.jpg"
     },
     {
-      "title": "Don't Be Afraid of the Dark",
-      "release_date": "2010-11-06"
+        "title": "My Soul to Take",
+        "year": 2010,
+        "id": 43931,
+        "poster": "https://image.tmdb.org/t/p/w200/3dOFUWCue0ovlGpUhuEDmOikTPk.jpg"
     },
     {
-      "title": "My Soul to Take",
-      "release_date": "2010-10-08"
+        "title": "Repo Men",
+        "year": 2010,
+        "id": 31867,
+        "poster": "https://image.tmdb.org/t/p/w200/1ZA5kEKuA6HgbyzZXXlyU4piNI.jpg"
     },
     {
-      "title": "Soul Surfer",
-      "release_date": "2011-04-08"
+        "title": "The Thing",
+        "year": 2011,
+        "id": 60935,
+        "poster": "https://image.tmdb.org/t/p/w200/dmn2nVo8h7LMnk694JxCRIwK06p.jpg"
     },
     {
-      "title": "The Thing",
-      "release_date": "2011-10-10"
+        "title": "The Sunset Limited",
+        "year": 2011,
+        "id": 56831,
+        "poster": "https://image.tmdb.org/t/p/w200/8cwqylJVbCfMflcjXQ71CwsXdpf.jpg"
     },
     {
-      "title": "Scream 4",
-      "release_date": "2011-04-11"
+        "title": "Scream 4",
+        "year": 2011,
+        "id": 41446,
+        "poster": "https://image.tmdb.org/t/p/w200/g0YcSd5QpgGXOjg9tl0if0soOkE.jpg"
     },
     {
-      "title": "Trouble with the Curve",
-      "release_date": "2012-09-21"
+        "title": "Soul Surfer",
+        "year": 2011,
+        "id": 43959,
+        "poster": "https://image.tmdb.org/t/p/w200/cvgRxrEupUFeJ0xzUExJo4dMXbL.jpg"
     },
     {
-      "title": "The Woman in Black",
-      "release_date": "2012-01-24"
+        "title": "Trouble with the Curve",
+        "year": 2012,
+        "id": 87825,
+        "poster": "https://image.tmdb.org/t/p/w200/zLZQVmxOj5kICbS5Pq7rB1cbPvP.jpg"
     },
     {
-      "title": "The Sessions",
-      "release_date": "2012-01-23"
+        "title": "Deadfall",
+        "year": 2012,
+        "id": 97614,
+        "poster": "https://image.tmdb.org/t/p/w200/5ZM6uKhuEzWZD3xklmqKPuvq1Nj.jpg"
     },
     {
-      "title": "Warm Bodies",
-      "release_date": "2013-01-16"
+        "title": "The Woman in Black",
+        "year": 2012,
+        "id": 65086,
+        "poster": "https://image.tmdb.org/t/p/w200/nghQnDZE4EsQJ4J4zxR3UqItTpO.jpg"
     },
     {
-      "title": "A Good Day to Die Hard",
-      "release_date": "2013-01-31"
+        "title": "The Sessions",
+        "year": 2012,
+        "id": 113947,
+        "poster": "https://image.tmdb.org/t/p/w200/57o1DBc5DfJXVc8wArAblSbZ8sD.jpg"
     },
     {
-      "title": "Snowpiercer",
-      "release_date": "2013-07-29"
+        "title": "World War Z",
+        "year": 2013,
+        "id": 72190,
+        "poster": "https://image.tmdb.org/t/p/w200/aCnVdvExw6UWSeQfr0tUH3jr4qG.jpg"
     },
     {
-      "title": "The Wolverine",
-      "release_date": "2013-07-26"
+        "title": "The Wolverine",
+        "year": 2013,
+        "id": 76170,
+        "poster": "https://image.tmdb.org/t/p/w200/t2wVAcoRlKvEIVSbiYDb8d0QqqS.jpg"
     },
     {
-      "title": "World War Z",
-      "release_date": "2013-06-02"
+        "title": "Snowpiercer",
+        "year": 2013,
+        "id": 110415,
+        "poster": "https://image.tmdb.org/t/p/w200/kw6YQudA0TMcNmGUGy5XIw7zbnV.jpg"
     },
     {
-      "title": "Carrie",
-      "release_date": "2013-10-07"
+        "title": "Warm Bodies",
+        "year": 2013,
+        "id": 82654,
+        "poster": "https://image.tmdb.org/t/p/w200/i8vCO3uszvlfBJVEyuIZVUDlt60.jpg"
     },
     {
-      "title": "The Homesman",
-      "release_date": "2014-05-18"
+        "title": "A Good Day to Die Hard",
+        "year": 2013,
+        "id": 47964,
+        "poster": "https://image.tmdb.org/t/p/w200/qJ0csDXAVFMsNn0cRcjy6W6PxAK.jpg"
     },
     {
-      "title": "The Giver",
-      "release_date": "2014-08-11"
+        "title": "Carrie",
+        "year": 2013,
+        "id": 133805,
+        "poster": "https://image.tmdb.org/t/p/w200/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg"
     },
     {
-      "title": "The November Man",
-      "release_date": "2014-08-27"
+        "title": "The Giver",
+        "year": 2014,
+        "id": 227156,
+        "poster": "https://image.tmdb.org/t/p/w200/dul62Av4pgi5x8LP7ELHzNyka9Z.jpg"
     },
     {
-      "title": "The Drop",
-      "release_date": "2014-09-12"
+        "title": "The Homesman",
+        "year": 2014,
+        "id": 264656,
+        "poster": "https://image.tmdb.org/t/p/w200/eGpuOhkm1wG2AxEJShazH5NVGAO.jpg"
     },
     {
-      "title": "Seventh Son",
-      "release_date": "2014-12-17"
+        "title": "The Drop",
+        "year": 2014,
+        "id": 154400,
+        "poster": "https://image.tmdb.org/t/p/w200/olQInYvVCW2wycMSU1ogo9Jshml.jpg"
     },
     {
-      "title": "The Woman in Black: Angel of Death",
-      "release_date": "2014-12-30"
+        "title": "The Woman in Black 2: Angel of Death",
+        "year": 2014,
+        "id": 288158,
+        "poster": "https://image.tmdb.org/t/p/w200/9NcUFNCSzw4IFci3OhbX8ZyzoFn.jpg"
     },
     {
-      "title": "Turn: Washington's Spies",
-      "release_date": "2014"
+        "title": "The November Man",
+        "year": 2014,
+        "id": 254904,
+        "poster": "https://image.tmdb.org/t/p/w200/4ejNFbCgLMDAuy7jFQmc7cr6UAW.jpg"
     },
     {
-      "title": "The Gunman",
-      "release_date": "2015-02-16"
+        "title": "Seventh Son",
+        "year": 2014,
+        "id": 68737,
+        "poster": "https://image.tmdb.org/t/p/w200/7Q8DfXSjcFSSQDOxz1Sk865wNqI.jpg"
     },
     {
-      "title": "Hitman: Agent 47",
-      "release_date": "2015-08-13"
+        "title": "1864: Br\u00f8dre i krig",
+        "year": 2014,
+        "id": 381630,
+        "poster": "https://image.tmdb.org/t/p/w200/eOrLERHeUWvfZJ2vdJhpfwvS4RO.jpg"
     },
     {
-      "title": "Fantastic Four",
-      "release_date": "2015-08-04"
+        "title": "True Story",
+        "year": 2015,
+        "id": 245706,
+        "poster": "https://image.tmdb.org/t/p/w200/ncP8XQ0bXP0xSpJmMsRt8mUcEXd.jpg"
     },
     {
-      "title": "True Story",
-      "release_date": "2015-01-23"
+        "title": "The Gunman",
+        "year": 2015,
+        "id": 266396,
+        "poster": "https://image.tmdb.org/t/p/w200/lnUozDnDANTsDYEdsNsHC6b8IiS.jpg"
     },
     {
-      "title": "No Escape",
-      "release_date": "2015-08-17"
+        "title": "No Escape",
+        "year": 2015,
+        "id": 192141,
+        "poster": "https://image.tmdb.org/t/p/w200/jIXZEvL4dmgkjyhD5JUDeOaASKB.jpg"
     },
     {
-      "title": "The Night Before",
-      "release_date": "2015-11-16"
+        "title": "Hitman: Agent 47",
+        "year": 2015,
+        "id": 249070,
+        "poster": "https://image.tmdb.org/t/p/w200/cx9AOBOv9Qf5ufZYQMbfTV7w7VY.jpg"
     },
     {
-      "title": "Lucifer",
-      "release_date": "2015"
+        "title": "The Night Before",
+        "year": 2015,
+        "id": 296100,
+        "poster": "https://image.tmdb.org/t/p/w200/rfeNBaiMBg0UQsBQFv1qsjTjZWn.jpg"
     },
     {
-      "title": "Gods of Egypt",
-      "release_date": "2016-02-25"
+        "title": "Fantastic Four",
+        "year": 2015,
+        "id": 166424,
+        "poster": "https://image.tmdb.org/t/p/w200/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg"
     },
     {
-      "title": "The Shallows",
-      "release_date": "2016"
+        "title": "The Shallows",
+        "year": 2016,
+        "id": 332567,
+        "poster": "https://image.tmdb.org/t/p/w200/bnBV7hZmLuA0Si5Aop481sPF2RY.jpg"
     },
     {
-      "title": "Ben-Hur",
-      "release_date": "2016-08-09"
+        "title": "Gods of Egypt",
+        "year": 2016,
+        "id": 205584,
+        "poster": "https://image.tmdb.org/t/p/w200/hzH7fwaTyQNITLo40Hu3R7cVMqv.jpg"
     },
     {
-      "title": "First They Killed My Father",
-      "release_date": "2017-02-18"
+        "title": "Ben-Hur",
+        "year": 2016,
+        "id": 271969,
+        "poster": "https://image.tmdb.org/t/p/w200/c9CoGrBA5yw8A7YBMz0hGzfzpNq.jpg"
     },
     {
-      "title": "Matilda",
-      "release_date": "2017-10-26"
+        "title": "The Snowman",
+        "year": 2017,
+        "id": 372343,
+        "poster": "https://image.tmdb.org/t/p/w200/mKsQ8KMOk0VBX26Ev0Lj6EmfGJu.jpg"
     },
     {
-      "title": "Logan",
-      "release_date": "2017-02-17"
+        "title": "First They Killed My Father",
+        "year": 2017,
+        "id": 433247,
+        "poster": "https://image.tmdb.org/t/p/w200/5370jxJfZQY8TUZiiGkpNgvRwU9.jpg"
     },
     {
-      "title": "Little Evil",
-      "release_date": "2017-09-01"
+        "title": "Logan",
+        "year": 2017,
+        "id": 263115,
+        "poster": "https://image.tmdb.org/t/p/w200/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg"
     },
     {
-      "title": "The Snowman",
-      "release_date": "2017-10-07"
+        "title": "Little Evil",
+        "year": 2017,
+        "id": 346671,
+        "poster": "https://image.tmdb.org/t/p/w200/na7hmXernwsm59rEBwewJ0mf53m.jpg"
     },
     {
-      "title": "Six",
-      "release_date": "2017"
+        "title": "Mathilde",
+        "year": 2017,
+        "id": 376540,
+        "poster": "https://image.tmdb.org/t/p/w200/kFXGRh6zIgX4e9x4ym4C4l5aVLo.jpg"
     },
     {
-      "title": "Fortnite",
-      "release_date": "2017"
+        "title": "A Quiet Place",
+        "year": 2018,
+        "id": 447332,
+        "poster": "https://image.tmdb.org/t/p/w200/nAU74GmpUk7t5iklEp3bufwDq4n.jpg"
     },
     {
-      "title": "A Quiet Place",
-      "release_date": "2018-03-09"
+        "title": "Free Solo",
+        "year": 2018,
+        "id": 515042,
+        "poster": "https://image.tmdb.org/t/p/w200/v4QfYZMACODlWul9doN9RxE99ag.jpg"
     },
     {
-      "title": "Free Solo",
-      "release_date": "2018-08-31"
+        "title": "The Emperor of Paris",
+        "year": 2018,
+        "id": 478820,
+        "poster": "https://image.tmdb.org/t/p/w200/7mZBfj3dFIzQgMVfkDwi9u4JBxI.jpg"
     },
     {
-      "title": "The Emperor of Paris",
-      "release_date": "2018-11-03"
+        "title": "Long Shot",
+        "year": 2019,
+        "id": 459992,
+        "poster": "https://image.tmdb.org/t/p/w200/1F9AItQ6fhrfhBVQlmC8ReOQAFG.jpg"
     },
     {
-      "title": "Extremely Wicked, Shockingly Evil and Vile",
-      "release_date": "2019"
+        "title": "Velvet Buzzsaw",
+        "year": 2019,
+        "id": 463684,
+        "poster": "https://image.tmdb.org/t/p/w200/3rViQPcrWthMNecp5XnkKev6BzW.jpg"
     },
     {
-      "title": "Velvet Buzzsaw",
-      "release_date": "2019-01-27"
+        "title": "Ford v Ferrari",
+        "year": 2019,
+        "id": 359724,
+        "poster": "https://image.tmdb.org/t/p/w200/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg"
     },
     {
-      "title": "Long Shot",
-      "release_date": "2019-03-09"
+        "title": "Extremely Wicked, Shockingly Evil and Vile",
+        "year": 2019,
+        "id": 457799,
+        "poster": "https://image.tmdb.org/t/p/w200/a7dVwEBU3vupg3hZQMeyL6ksz0F.jpg"
     },
     {
-      "title": "Ford v Ferrari",
-      "release_date": "2019-08-30"
+        "title": "Scary Stories to Tell in the Dark",
+        "year": 2019,
+        "id": 417384,
+        "poster": "https://image.tmdb.org/t/p/w200/uy0dNFbhRhHBLwpOGpcTw9UEwdX.jpg"
     },
     {
-      "title": "Gemini Man",
-      "release_date": "2019-10-01"
+        "title": "Underwater",
+        "year": 2020,
+        "id": 443791,
+        "poster": "https://image.tmdb.org/t/p/w200/gzlbb3yeVISpQ3REd3Ga1scWGTU.jpg"
     },
     {
-      "title": "Scary Stories to Tell in the Dark",
-      "release_date": "2019-08-09"
+        "title": "The Way I See It",
+        "year": 2020,
+        "id": 729779,
+        "poster": "https://image.tmdb.org/t/p/w200/jxbjC3Pzs9WTD7yz7aMMzm6fBIE.jpg"
     },
     {
-      "title": "The Twilight Zone",
-      "release_date": "1983-06-24"
+        "title": "Love and Monsters",
+        "year": 2020,
+        "id": 590223,
+        "poster": "https://image.tmdb.org/t/p/w200/718NnyxyQuBQcGWt9sdelA1Zc3h.jpg"
     },
     {
-      "title": "Bubble Guppies",
-      "release_date": "2019"
+        "title": "The Shadow in My Eye",
+        "year": 2021,
+        "id": 650031,
+        "poster": "https://image.tmdb.org/t/p/w200/jCKvbH3a4V5IPoRAG85eDaniNqO.jpg"
     },
     {
-      "title": "Underwater",
-      "release_date": "2020-01-10"
+        "title": "Fear Street: 1994",
+        "year": 2021,
+        "id": 591273,
+        "poster": "https://image.tmdb.org/t/p/w200/9J9Wy39ZjrVmfk7yMkulpcI5sy0.jpg"
     },
     {
-      "title": "A Quiet Place Part II",
-      "release_date": "2020-03-08"
+        "title": "Fear Street: 1978",
+        "year": 2021,
+        "id": 591274,
+        "poster": "https://image.tmdb.org/t/p/w200/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg"
     },
     {
-      "title": "Love and Monsters",
-      "release_date": "2020-10-16"
+        "title": "Fear Street: 1666",
+        "year": 2021,
+        "id": 591275,
+        "poster": "https://image.tmdb.org/t/p/w200/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg"
     },
     {
-      "title": "The Way I See It",
-      "release_date": "2020-09-11"
+        "title": "American Night",
+        "year": 2021,
+        "id": 695080,
+        "poster": "https://image.tmdb.org/t/p/w200/isN2CPsxUNyU8z5ig1xxoXfHOF5.jpg"
     },
     {
-      "title": "Chaos Walking",
-      "release_date": "2021-02-24"
+        "title": "A Quiet Place Part II",
+        "year": 2021,
+        "id": 520763,
+        "poster": "https://image.tmdb.org/t/p/w200/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg"
     },
     {
-      "title": "Fear Street Part One: 1994",
-      "release_date": "2021-06-28"
+        "title": "Chaos Walking",
+        "year": 2021,
+        "id": 412656,
+        "poster": "https://image.tmdb.org/t/p/w200/xAYGdGBGptNkisXRpmhZSry6SPF.jpg"
     },
     {
-      "title": "Fear Street Part Two: 1978",
-      "release_date": "2021-07-08"
+        "title": "Venom: Let There Be Carnage",
+        "year": 2021,
+        "id": 580489,
+        "poster": "https://image.tmdb.org/t/p/w200/pzKsRuKLFmYrW5Q0q8E8G78Tcgo.jpg"
     },
     {
-      "title": "Fear Street Part Three: 1666",
-      "release_date": "2021"
+        "title": "No Exit",
+        "year": 2022,
+        "id": 833425,
+        "poster": "https://image.tmdb.org/t/p/w200/5cnLoWq9o5tuLe1Zq4BTX4LwZ2B.jpg"
     },
     {
-      "title": "American Night",
-      "release_date": "2021-09-09"
+        "title": "Deep Water",
+        "year": 2022,
+        "id": 619979,
+        "poster": "https://image.tmdb.org/t/p/w200/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg"
     },
     {
-      "title": "Venom: Let There Be Carnage",
-      "release_date": "2021-09-14"
+        "title": "Silent Night",
+        "year": 2023,
+        "id": 891699,
+        "poster": "https://image.tmdb.org/t/p/w200/tlcuhdNMKNGEVpGqBZrAaOOf1A6.jpg"
     },
     {
-      "title": "The Shadow in My Eye",
-      "release_date": "2021"
+        "title": "Plane",
+        "year": 2023,
+        "id": 646389,
+        "poster": "https://image.tmdb.org/t/p/w200/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg"
     },
     {
-      "title": "Nine Perfect Strangers",
-      "release_date": "2021"
+        "title": "Renfield",
+        "year": 2023,
+        "id": 649609,
+        "poster": "https://image.tmdb.org/t/p/w200/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg"
     },
     {
-      "title": "No Exit",
-      "release_date": "2022-02-25"
+        "title": "The Nun II",
+        "year": 2023,
+        "id": 968051,
+        "poster": "https://image.tmdb.org/t/p/w200/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg"
     },
     {
-      "title": "Deep Water",
-      "release_date": "2022-03-18"
+        "title": "The Killer",
+        "year": 2024,
+        "id": 970347,
+        "poster": "https://image.tmdb.org/t/p/w200/6PCnxKZZIVRanWb710pNpYVkCSw.jpg"
     },
     {
-      "title": "Pantheon",
-      "release_date": "2022"
+        "title": "Deaf President Now!",
+        "year": 2025,
+        "id": 1400288,
+        "poster": "https://image.tmdb.org/t/p/w200/hbTq1jfuGtLo1pdAY0gcbJcCWlF.jpg"
     },
     {
-      "title": "Scream",
-      "release_date": "2022-01-14"
+        "title": "The Unholy Trinity",
+        "year": 2025,
+        "id": 1195518,
+        "poster": "https://image.tmdb.org/t/p/w200/gXYYIX5VesrDtR1iYJfvUnJBPLB.jpg"
     },
     {
-      "title": "Plane",
-      "release_date": "2023-01-13"
+        "title": "Scream 7",
+        "year": 2026,
+        "id": 1159559,
+        "poster": "https://image.tmdb.org/t/p/w200/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg"
     },
     {
-      "title": "Renfield",
-      "release_date": "2023-03-30"
+        "title": "The Truth and Tragedy of Moriah Wilson",
+        "year": 2026,
+        "id": 1629369,
+        "poster": "https://image.tmdb.org/t/p/w200/zoa2XatA43nKhF1kx8nVcVyH1M0.jpg"
     },
     {
-      "title": "The Nun II",
-      "release_date": "2023-09-08"
+        "title": "Quasimodo",
+        "year": 9999,
+        "id": 1480665,
+        "poster": null
     },
     {
-      "title": "Silent Night",
-      "release_date": "2023-12-01"
-    },
-    {
-      "title": "MotoGP",
-      "release_date": "2023"
-    },
-    {
-      "title": "Scream 7",
-      "release_date": "2026-02-27"
+        "title": "Ally",
+        "year": 9999,
+        "id": 829202,
+        "poster": "https://image.tmdb.org/t/p/w200/bRrRysb0INIRmB8gSXkAKqf8O9r.jpg"
     }
-  ]
-}
+]

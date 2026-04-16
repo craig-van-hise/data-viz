@@ -1,385 +1,302 @@
-{
-  "composer": "Angelo Badalamenti",
-  "filmography": [
+[
     {
-      "title": "Old Spice",
-      "release_date": "1962"
+        "title": "Gordon's War",
+        "year": 1973,
+        "id": 43077,
+        "poster": "https://image.tmdb.org/t/p/w200/izNblreK3oqRDQ4fU4HDJrXDmkj.jpg"
     },
     {
-      "title": "I Went By Our House Today",
-      "release_date": "1964"
+        "title": "Law and Disorder",
+        "year": 1974,
+        "id": 119532,
+        "poster": "https://image.tmdb.org/t/p/w200/rCcfN723l9RQ324tJK6Ac8kSsHf.jpg"
     },
     {
-      "title": "Escapade",
-      "release_date": "1964"
+        "title": "Blue Velvet",
+        "year": 1986,
+        "id": 793,
+        "poster": "https://image.tmdb.org/t/p/w200/6v1zYh2FKOYVddY5pCQhd4PO9uX.jpg"
     },
     {
-      "title": "Today Will Be Yesterday Tomorrow",
-      "release_date": "1965"
+        "title": "A Nightmare on Elm Street 3: Dream Warriors",
+        "year": 1987,
+        "id": 10072,
+        "poster": "https://image.tmdb.org/t/p/w200/qbtZewU6EGvxi8yFVzwZ31NijLX.jpg"
     },
     {
-      "title": "I Hold No Grudge",
-      "release_date": "1966"
+        "title": "Weeds",
+        "year": 1987,
+        "id": 96333,
+        "poster": "https://image.tmdb.org/t/p/w200/1GVWnb769243POxPy3f9OiyWdK5.jpg"
     },
     {
-      "title": "He Ain't Comin' Home No More",
-      "release_date": "1966"
+        "title": "Tough Guys Don't Dance",
+        "year": 1987,
+        "id": 78146,
+        "poster": "https://image.tmdb.org/t/p/w200/9gK01a3u2W3AFa2RFC6LZpReb2t.jpg"
     },
     {
-      "title": "Sugar Me Sweet",
-      "release_date": "1966"
+        "title": "National Lampoon's Christmas Vacation",
+        "year": 1989,
+        "id": 5825,
+        "poster": "https://image.tmdb.org/t/p/w200/oat42hUw8XzKYUmfy0YLAxYd484.jpg"
     },
     {
-      "title": "Something On My Mind",
-      "release_date": "1966"
+        "title": "Wait Until Spring, Bandini",
+        "year": 1989,
+        "id": 76202,
+        "poster": "https://image.tmdb.org/t/p/w200/lTD6MRdDMvfF75GbhrC5B0b1tgq.jpg"
     },
     {
-      "title": "She's Got A Heart",
-      "release_date": "1966"
+        "title": "Cousins",
+        "year": 1989,
+        "id": 31674,
+        "poster": "https://image.tmdb.org/t/p/w200/d8dgW6b17JGaBYC9vzQ3Em0f6Kx.jpg"
     },
     {
-      "title": "Visa To The Stars",
-      "release_date": "1966"
+        "title": "Parents",
+        "year": 1989,
+        "id": 27607,
+        "poster": "https://image.tmdb.org/t/p/w200/uGRD9xksz3t4qdOMXcrf6NWtNsO.jpg"
     },
     {
-      "title": "My Love Is Gone From Me",
-      "release_date": "1967"
+        "title": "Twin Peaks",
+        "year": 1989,
+        "id": 452522,
+        "poster": "https://image.tmdb.org/t/p/w200/Apg4fMfr1Wi19Ilu5HXh4nClCv9.jpg"
     },
     {
-      "title": "I Want To Love You For What You Are",
-      "release_date": "1967"
+        "title": "Wild at Heart",
+        "year": 1990,
+        "id": 483,
+        "poster": "https://image.tmdb.org/t/p/w200/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg"
     },
     {
-      "title": "Dancin' Out of My Heart",
-      "release_date": "1967"
+        "title": "The Comfort of Strangers",
+        "year": 1990,
+        "id": 41925,
+        "poster": "https://image.tmdb.org/t/p/w200/iMhWT5wdVLnDiz4hUEAOYcTqbGf.jpg"
     },
     {
-      "title": "I Had To Know My Way Around",
-      "release_date": "1967"
+        "title": "Twin Peaks: Fire Walk with Me",
+        "year": 1992,
+        "id": 1923,
+        "poster": "https://image.tmdb.org/t/p/w200/mxsGXqetGnirf99qapYd5MMY1VL.jpg"
     },
     {
-      "title": "Pioneers of The Stars",
-      "release_date": "1967"
+        "title": "Naked in New York",
+        "year": 1993,
+        "id": 11800,
+        "poster": "https://image.tmdb.org/t/p/w200/gAufFGm2Qly8TYrhy4me9X35B7m.jpg"
     },
     {
-      "title": "But Only Sometimes",
-      "release_date": "1967"
+        "title": "Witch Hunt",
+        "year": 1994,
+        "id": 41595,
+        "poster": "https://image.tmdb.org/t/p/w200/dmOXxbrAN013vKE2BJXIyl46hLL.jpg"
     },
     {
-      "title": "Face It Girl, It's Over",
-      "release_date": "1968"
+        "title": "The City of Lost Children",
+        "year": 1995,
+        "id": 902,
+        "poster": "https://image.tmdb.org/t/p/w200/whwT3Q9JxbAYzEc3t7uYYcCbTMf.jpg"
     },
     {
-      "title": "Pendant Que Nous Chantons",
-      "release_date": "1968"
+        "title": "Lost Highway",
+        "year": 1997,
+        "id": 638,
+        "poster": "https://image.tmdb.org/t/p/w200/fdTtij6H0sX9AzIjUeynh5zbfm7.jpg"
     },
     {
-      "title": "I Had To Know My Way Around",
-      "release_date": "1968"
+        "title": "The Blood Oranges",
+        "year": 1997,
+        "id": 125958,
+        "poster": "https://image.tmdb.org/t/p/w200/t0jhxfoctatYYYpIQzFyKS98w9l.jpg"
     },
     {
-      "title": "Livin' For Your Lovin'",
-      "release_date": "1968"
+        "title": "Arlington Road",
+        "year": 1999,
+        "id": 1073,
+        "poster": "https://image.tmdb.org/t/p/w200/4yYHyZuyTTQaEZuHKS7561jXjtR.jpg"
     },
     {
-      "title": "I've Been Here All The Time",
-      "release_date": "1968"
+        "title": "Holy Smoke",
+        "year": 1999,
+        "id": 13787,
+        "poster": "https://image.tmdb.org/t/p/w200/utBNYz1cX43SQKZFH1JmMZU34Dy.jpg"
     },
     {
-      "title": "Fa-Fa-Fa (Live For Today)",
-      "release_date": "1969"
+        "title": "Forever Mine",
+        "year": 1999,
+        "id": 18553,
+        "poster": "https://image.tmdb.org/t/p/w200/87ypWc4siloySz32xiTORN9oH46.jpg"
     },
     {
-      "title": "Passport To The Future",
-      "release_date": "1969"
+        "title": "The Straight Story",
+        "year": 1999,
+        "id": 404,
+        "poster": "https://image.tmdb.org/t/p/w200/tT9cMiVDdtlcdZxOoFy3VRmEoKk.jpg"
     },
     {
-      "title": "Mary France",
-      "release_date": "1969"
+        "title": "The Beach",
+        "year": 2000,
+        "id": 1907,
+        "poster": "https://image.tmdb.org/t/p/w200/4y7LxD8TSi6AtsM2xSYqUm1gu7u.jpg"
     },
     {
-      "title": "We're Living To Give (To Give To Each Other)",
-      "release_date": "1969"
+        "title": "Suspended Animation",
+        "year": 2001,
+        "id": 28446,
+        "poster": "https://image.tmdb.org/t/p/w200/gmc2L8rouQElPgynA486ZhuHMqs.jpg"
     },
     {
-      "title": "That Love That A Woman Should Give To A Man",
-      "release_date": "1969"
+        "title": "Story of a Bad Boy",
+        "year": 2001,
+        "id": 44382,
+        "poster": "https://image.tmdb.org/t/p/w200/6ZeFRiGWw9weKJxZCsQpRhQVG9u.jpg"
     },
     {
-      "title": "World of No Return",
-      "release_date": "1969"
+        "title": "Mulholland Drive",
+        "year": 2001,
+        "id": 1018,
+        "poster": "https://image.tmdb.org/t/p/w200/x7A59t6ySylr1L7aubOQEA480vM.jpg"
     },
     {
-      "title": "Thank You Love",
-      "release_date": "1969"
+        "title": "Secretary",
+        "year": 2002,
+        "id": 11013,
+        "poster": "https://image.tmdb.org/t/p/w200/mdRXSE7ho185SZlXj0JSwuecEd3.jpg"
     },
     {
-      "title": "Artificial Light (Of All The Living Lies)",
-      "release_date": "1969"
+        "title": "Mysteries of Love",
+        "year": 2002,
+        "id": 142455,
+        "poster": "https://image.tmdb.org/t/p/w200/83x8IRsD0u3uCMs18rowMDRyZwP.jpg"
     },
     {
-      "title": "Look What You're Doing To The Man",
-      "release_date": "1970"
+        "title": "Rabbits",
+        "year": 2002,
+        "id": 44351,
+        "poster": "https://image.tmdb.org/t/p/w200/8LHeas839avkylUmw1Q4uutZeR4.jpg"
     },
     {
-      "title": "I Love Making Love To You",
-      "release_date": "1970"
+        "title": "Auto Focus",
+        "year": 2002,
+        "id": 14112,
+        "poster": "https://image.tmdb.org/t/p/w200/71CQUn4vtpDQtAPXtaLP7IGH0Sg.jpg"
     },
     {
-      "title": "Moog Indigo",
-      "release_date": "1970"
+        "title": "The Adversary",
+        "year": 2002,
+        "id": 52999,
+        "poster": "https://image.tmdb.org/t/p/w200/aszdSOpOskv1THDeOvLKiQQwdJc.jpg"
     },
     {
-      "title": "Sing Away The World",
-      "release_date": "1970"
+        "title": "Cabin Fever",
+        "year": 2003,
+        "id": 11547,
+        "poster": "https://image.tmdb.org/t/p/w200/vaUkSL7PbeeKfdFKOh9TYR9M1ds.jpg"
     },
     {
-      "title": "Gordon's War",
-      "release_date": "1973-08-09"
+        "title": "Resistance",
+        "year": 2003,
+        "id": 69299,
+        "poster": "https://image.tmdb.org/t/p/w200/5Q6S3RCVDzPCFW0ROBIDfxvqWgF.jpg"
     },
     {
-      "title": "Child of Tomorrow",
-      "release_date": "1973"
+        "title": "A Very Long Engagement",
+        "year": 2004,
+        "id": 2841,
+        "poster": "https://image.tmdb.org/t/p/w200/jZ3Ir3d69dsyxif8dTVh3DjKzKH.jpg"
     },
     {
-      "title": "I Miss You Gordon",
-      "release_date": "1973"
+        "title": "Before the Fall",
+        "year": 2004,
+        "id": 9393,
+        "poster": "https://image.tmdb.org/t/p/w200/dhTTscZkiQefuq6OeYp9rnvhCBW.jpg"
     },
     {
-      "title": "Come On And Dream Some Paradise",
-      "release_date": "1973"
+        "title": "Evilenko",
+        "year": 2004,
+        "id": 46342,
+        "poster": "https://image.tmdb.org/t/p/w200/rbSjcMoWAijPqdhqhbBJd6WcYgQ.jpg"
     },
     {
-      "title": "Hot Wheels  b/w Harlem Dreams",
-      "release_date": "1973"
+        "title": "Dominion: Prequel to The Exorcist",
+        "year": 2005,
+        "id": 12700,
+        "poster": "https://image.tmdb.org/t/p/w200/nEkB6Y7DdEvWNCKWsHis76XYciR.jpg"
     },
     {
-      "title": "Law and Disorder",
-      "release_date": "1974-10-09"
+        "title": "Dark Water",
+        "year": 2005,
+        "id": 9009,
+        "poster": "https://image.tmdb.org/t/p/w200/cm4M9xaBu78IjuAVNG4LCXdXsg.jpg"
     },
     {
-      "title": "Les Trois Pierres Blanches",
-      "release_date": "1974"
+        "title": "The Wicker Man",
+        "year": 2006,
+        "id": 9708,
+        "poster": "https://image.tmdb.org/t/p/w200/9G6TBckQUKdx3dnn55abUCmonRX.jpg"
     },
     {
-      "title": "Man Was Made To Love Woman",
-      "release_date": "1975"
+        "title": "The Edge of Love",
+        "year": 2008,
+        "id": 14061,
+        "poster": "https://image.tmdb.org/t/p/w200/uo7ZDvipL2OZu6G44hDP0sjDZ9n.jpg"
     },
     {
-      "title": "How Do You Like Them Apples  b/w Ain't No Room In My Bed",
-      "release_date": "1976"
+        "title": "44 Inch Chest",
+        "year": 2009,
+        "id": 29182,
+        "poster": "https://image.tmdb.org/t/p/w200/vKuW2TzCyNstKcAGnWLXsFJxmjM.jpg"
     },
     {
-      "title": "Special Treat: \"It's a Brand New World\"",
-      "release_date": "1977"
+        "title": "A Woman",
+        "year": 2010,
+        "id": 129597,
+        "poster": "https://image.tmdb.org/t/p/w200/AbYf8i69eTXeleV6SEqkVzXlscV.jpg"
     },
     {
-      "title": "Let Me Down Easy",
-      "release_date": "1977"
+        "title": "A Butterfly Kiss",
+        "year": 2011,
+        "id": 77697,
+        "poster": "https://image.tmdb.org/t/p/w200/p08HK2gozPxOFDxMqHeMuU656i9.jpg"
     },
     {
-      "title": "Another Spring",
-      "release_date": "1950-04-27"
+        "title": "A Late Quartet",
+        "year": 2012,
+        "id": 121879,
+        "poster": "https://image.tmdb.org/t/p/w200/yuoVwE4CFDDqdQyHj3Ur8A6ViOT.jpg"
     },
     {
-      "title": "Nashville Beer Garden",
-      "release_date": "1979"
+        "title": "A Dream in the Making",
+        "year": 2012,
+        "id": 1603899,
+        "poster": "https://image.tmdb.org/t/p/w200/wDfb2y9J7kgWthJMCWCQqy1tsmT.jpg"
     },
     {
-      "title": "The Story About Ping",
-      "release_date": "1981"
+        "title": "Stalingrad",
+        "year": 2013,
+        "id": 203793,
+        "poster": "https://image.tmdb.org/t/p/w200/pk2d5ahR9g4R3YDlhNA5m1vHhFv.jpg"
     },
     {
-      "title": "Bony-Legs",
-      "release_date": "1984"
+        "title": "Twin Peaks: The Missing Pieces",
+        "year": 2014,
+        "id": 284457,
+        "poster": "https://image.tmdb.org/t/p/w200/xQevnHeRxlQTfXQ5RxXJE4PnVUO.jpg"
     },
     {
-      "title": "Blue Velvet",
-      "release_date": "1986-09-12"
+        "title": "Gold Coast",
+        "year": 2015,
+        "id": 346763,
+        "poster": "https://image.tmdb.org/t/p/w200/qe8WGllciOZSRpQ1VaEKUxlj1dk.jpg"
     },
     {
-      "title": "A Nightmare on Elm Street 3: Dream Warriors",
-      "release_date": "1987-02-27"
-    },
-    {
-      "title": "Tough Guys Don't Dance",
-      "release_date": "1987-09-18"
-    },
-    {
-      "title": "Weeds",
-      "release_date": "1987-10-16"
-    },
-    {
-      "title": "Cousins",
-      "release_date": "1989-02-10"
-    },
-    {
-      "title": "National Lampoon's Christmas Vacation",
-      "release_date": "1989-12-01"
-    },
-    {
-      "title": "Wait Until Spring, Bandini",
-      "release_date": "1989-06-29"
-    },
-    {
-      "title": "The Comfort of Strangers",
-      "release_date": "1990-09-01"
-    },
-    {
-      "title": "Wild at Heart",
-      "release_date": "1990-05-19"
-    },
-    {
-      "title": "Twin Peaks: Fire Walk with Me",
-      "release_date": "1992-05-16"
-    },
-    {
-      "title": "Naked in New York",
-      "release_date": "1994-04-13"
-    },
-    {
-      "title": "Witch Hunt",
-      "release_date": "1994"
-    },
-    {
-      "title": "The City of Lost Children",
-      "release_date": "1995-05-17"
-    },
-    {
-      "title": "A Secret Life",
-      "release_date": "1995"
-    },
-    {
-      "title": "Booth and the Bad Angel",
-      "release_date": "1996"
-    },
-    {
-      "title": "The Blood Oranges",
-      "release_date": "1997"
-    },
-    {
-      "title": "Lost Highway",
-      "release_date": "1997-01-15"
-    },
-    {
-      "title": "Arlington Road",
-      "release_date": "1999-03-19"
-    },
-    {
-      "title": "Forever Mine",
-      "release_date": "1999-09-12"
-    },
-    {
-      "title": "Holy Smoke!",
-      "release_date": "1999-09-04"
-    },
-    {
-      "title": "The Straight Story",
-      "release_date": "1999-05-21"
-    },
-    {
-      "title": "A Piece of Eden",
-      "release_date": "2000"
-    },
-    {
-      "title": "The Beach",
-      "release_date": "2000-02-11"
-    },
-    {
-      "title": "Mulholland Drive",
-      "release_date": "2001-05-16"
-    },
-    {
-      "title": "Cet amour-l\u00e0",
-      "release_date": "2001"
-    },
-    {
-      "title": "The Adversary",
-      "release_date": "2002-08-28"
-    },
-    {
-      "title": "Auto Focus",
-      "release_date": "2002-10-18"
-    },
-    {
-      "title": "Cabin Fever",
-      "release_date": "2002-09-14"
-    },
-    {
-      "title": "Secretary",
-      "release_date": "2002-01-11"
-    },
-    {
-      "title": "Suspended Animation",
-      "release_date": "2002"
-    },
-    {
-      "title": "Resistance",
-      "release_date": "2003-06-12"
-    },
-    {
-      "title": "Before the Fall",
-      "release_date": "2004-07-04"
-    },
-    {
-      "title": "Evilenko",
-      "release_date": "2004-04-16"
-    },
-    {
-      "title": "A Very Long Engagement",
-      "release_date": "2004-10-27"
-    },
-    {
-      "title": "Dark Water",
-      "release_date": "2005-07-08"
-    },
-    {
-      "title": "Dominion: Prequel to the Exorcist",
-      "release_date": "2005-03-18"
-    },
-    {
-      "title": "Fahrenheit",
-      "release_date": "2005"
-    },
-    {
-      "title": "The Wicker Man",
-      "release_date": "1973-12-06"
-    },
-    {
-      "title": "The Edge of Love",
-      "release_date": "2008-06-18"
-    },
-    {
-      "title": "44 Inch Chest",
-      "release_date": "2009-10-19"
-    },
-    {
-      "title": "A Woman",
-      "release_date": "2010-09-04"
-    },
-    {
-      "title": "A Butterfly Kiss",
-      "release_date": "2011"
-    },
-    {
-      "title": "A Late Quartet",
-      "release_date": "2012-09-10"
-    },
-    {
-      "title": "Stalingrad",
-      "release_date": "2013-09-27"
-    },
-    {
-      "title": "Gold Coast",
-      "release_date": "2015"
-    },
-    {
-      "title": "Between Worlds",
-      "release_date": "2018-12-21"
-    },
-    {
-      "title": "Thought Gang",
-      "release_date": "2018"
+        "title": "Faraway Eyes",
+        "year": 2021,
+        "id": 534038,
+        "poster": "https://image.tmdb.org/t/p/w200/rIyEZ1L2eR6337usDnzwpmOQyI3.jpg"
     }
-  ]
-}
+]

@@ -1,253 +1,260 @@
-{
-  "composer": "Max Richter",
-  "filmography": [
+[
     {
-      "title": "Geheime Geschichten",
-      "release_date": "2003"
+        "title": "Secret Stories",
+        "year": 2004,
+        "id": 374431,
+        "poster": null
     },
     {
-      "title": "Soundproof",
-      "release_date": "2006"
+        "title": "Soundproof",
+        "year": 2006,
+        "id": 402679,
+        "poster": "https://image.tmdb.org/t/p/w200/272JwfUQZ7zkW0m9P5YuDiFpKo6.jpg"
     },
     {
-      "title": "Work",
-      "release_date": "1915-06-21"
+        "title": "Hope",
+        "year": 2007,
+        "id": 277730,
+        "poster": "https://image.tmdb.org/t/p/w200/gWSTzErrejBpTU9rykm75bQKVvP.jpg"
     },
     {
-      "title": "Hope",
-      "release_date": "2007-06-24"
+        "title": "Lost and Found",
+        "year": 2008,
+        "id": 33572,
+        "poster": "https://image.tmdb.org/t/p/w200/rNUDcAuNjB26oUeWjpBs8NBkwLe.jpg"
     },
     {
-      "title": "Frankie Howerd: Rather You Than Me",
-      "release_date": "2008"
+        "title": "Waltz with Bashir",
+        "year": 2008,
+        "id": 8885,
+        "poster": "https://image.tmdb.org/t/p/w200/zQaCv7lKwHsh0YSHkt1QNjIOZ1c.jpg"
     },
     {
-      "title": "Henry May Long",
-      "release_date": "2008"
+        "title": "Frankie Howerd: Rather You Than Me",
+        "year": 2008,
+        "id": 208222,
+        "poster": "https://image.tmdb.org/t/p/w200/2IX4nKEuxCOdRshTAw5VCQZubvO.jpg"
     },
     {
-      "title": "Waltz with Bashir(Vals im Bashir)",
-      "release_date": "2008"
+        "title": "The Front Line",
+        "year": 2009,
+        "id": 34788,
+        "poster": "https://image.tmdb.org/t/p/w200/dJlHXDLQ0XVLkXctKqgIecnjs2x.jpg"
     },
     {
-      "title": "Lost and Found",
-      "release_date": "2008-01-18"
+        "title": "My Trip to Al-Qaeda",
+        "year": 2010,
+        "id": 48019,
+        "poster": "https://image.tmdb.org/t/p/w200/9CUKKY0lx9uO6lt9zviFjUfqHz7.jpg"
     },
     {
-      "title": "Henry May Long (shared with Ben Wolf and Eric Friedewald)",
-      "release_date": "2008"
+        "title": "Sarah's Key",
+        "year": 2010,
+        "id": 53457,
+        "poster": "https://image.tmdb.org/t/p/w200/peGUaf6HrX7jSi1HifX64QJb7pm.jpg"
     },
     {
-      "title": "Henry May Long (shared with Paul Carbonara, Annette Kudrak and Randy Sharp)",
-      "release_date": "2008"
+        "title": "When We Leave",
+        "year": 2010,
+        "id": 44246,
+        "poster": "https://image.tmdb.org/t/p/w200/197eFhJueeI9RZk29PGWFc09ruy.jpg"
     },
     {
-      "title": "Henry May Long (shared with Annette Kudrak)",
-      "release_date": "2008"
+        "title": "Womb",
+        "year": 2010,
+        "id": 59457,
+        "poster": "https://image.tmdb.org/t/p/w200/raTEzBZBflPyVhOls4PmrryvPos.jpg"
     },
     {
-      "title": "Waltz with Bashir",
-      "release_date": "2008-05-13"
+        "title": "Unforgivable",
+        "year": 2011,
+        "id": 82817,
+        "poster": "https://image.tmdb.org/t/p/w200/pwwdFVOggVpQ7jPr4HdJVuSwpA1.jpg"
     },
     {
-      "title": "Penelope(Penelopa)",
-      "release_date": "2009"
+        "title": "Edwin Boyd: Citizen Gangster",
+        "year": 2011,
+        "id": 92493,
+        "poster": "https://image.tmdb.org/t/p/w200/hTY0Wst8Gwm8tfVjw4J24i0L28q.jpg"
     },
     {
-      "title": "La vie sauvage des animaux domestiques(Die wilde Farm)",
-      "release_date": "2009"
+        "title": "Written in Ink",
+        "year": 2011,
+        "id": 615981,
+        "poster": null
     },
     {
-      "title": "The Front Line(La prima linea)",
-      "release_date": "2009"
+        "title": "Perfect Sense",
+        "year": 2011,
+        "id": 51999,
+        "poster": "https://image.tmdb.org/t/p/w200/2UuuO6MX1AzD61zX6NHiHQODoI1.jpg"
     },
     {
-      "title": "My Words, My Lies \u2013 My Love(Lila, Lila)",
-      "release_date": "2009"
+        "title": "Lore",
+        "year": 2012,
+        "id": 121835,
+        "poster": "https://image.tmdb.org/t/p/w200/1yWoAyREEPDfyVnOgHUVfLVitmZ.jpg"
     },
     {
-      "title": "Waltz with Bashir",
-      "release_date": "2008-05-13"
+        "title": "Wadjda",
+        "year": 2012,
+        "id": 129112,
+        "poster": "https://image.tmdb.org/t/p/w200/w4iCIZ1kWSOCt0yELjfUMNAToUF.jpg"
     },
     {
-      "title": "When We Leave(Die Fremde)",
-      "release_date": "2010"
+        "title": "Disconnect",
+        "year": 2013,
+        "id": 127517,
+        "poster": "https://image.tmdb.org/t/p/w200/mAStXq4ncbLBnujd3LG4KDd7Z3a.jpg"
     },
     {
-      "title": "My Trip to Al-Qaeda",
-      "release_date": "2010"
+        "title": "The Nun",
+        "year": 2013,
+        "id": 159967,
+        "poster": "https://image.tmdb.org/t/p/w200/yr1xovsr57JBdEEN9SrajE0ogxB.jpg"
     },
     {
-      "title": "Womb",
-      "release_date": "2010-07-15"
+        "title": "The Last Days on Mars",
+        "year": 2013,
+        "id": 190847,
+        "poster": "https://image.tmdb.org/t/p/w200/kxcQkAhpn8cvJTsU8PXblI5Qq8F.jpg"
     },
     {
-      "title": "Sarah's Key(Elle s'appelait Sarah)",
-      "release_date": "2010"
+        "title": "The Lunchbox",
+        "year": 2013,
+        "id": 191714,
+        "poster": "https://image.tmdb.org/t/p/w200/jSOiz1h97i3qwjZJXY8SeLvjPsl.jpg"
     },
     {
-      "title": "The Gift",
-      "release_date": "2010"
+        "title": "The Patience Stone",
+        "year": 2013,
+        "id": 128158,
+        "poster": "https://image.tmdb.org/t/p/w200/1Ed2STYKoR8zLQGBdPZsmf65xsb.jpg"
     },
     {
-      "title": "How to Die in Oregon",
-      "release_date": "2011-01-23"
+        "title": "The Congress",
+        "year": 2013,
+        "id": 152795,
+        "poster": "https://image.tmdb.org/t/p/w200/oeT9rwfCBayxgVoUn1yZGmkZlUq.jpg"
     },
     {
-      "title": "Die Fremde",
-      "release_date": "2010-02-13"
+        "title": "Miserere",
+        "year": 2013,
+        "id": 201759,
+        "poster": "https://image.tmdb.org/t/p/w200/6LCEXCm3rZl785ZKelxMpJFuZcw.jpg"
     },
     {
-      "title": "Perfect Sense",
-      "release_date": "2011-01-24"
+        "title": "Escobar: Paradise Lost",
+        "year": 2014,
+        "id": 255343,
+        "poster": "https://image.tmdb.org/t/p/w200/4HngNLzCmUYCPB8FbxSZWN0eDKM.jpg"
     },
     {
-      "title": "Unforgivable",
-      "release_date": "2011-08-17"
+        "title": "Testament of Youth",
+        "year": 2015,
+        "id": 284689,
+        "poster": "https://image.tmdb.org/t/p/w200/a6kFsaDCulCLfYHmKLDKTYaddM4.jpg"
     },
     {
-      "title": "Nach der Stille",
-      "release_date": "2011"
+        "title": "Into the Forest",
+        "year": 2016,
+        "id": 334538,
+        "poster": "https://image.tmdb.org/t/p/w200/3xBUU6pYZPe9tqVH2R430y6psEm.jpg"
     },
     {
-      "title": "Citizen Gangster",
-      "release_date": "2011-09-10"
+        "title": "Miss Sloane",
+        "year": 2016,
+        "id": 376290,
+        "poster": "https://image.tmdb.org/t/p/w200/ptfvQlqe2xJiMSewSj52qAVq5z0.jpg"
     },
     {
-      "title": "Jiro Dreams of Sushi",
-      "release_date": "2011-06-11"
+        "title": "Morgan",
+        "year": 2016,
+        "id": 377264,
+        "poster": "https://image.tmdb.org/t/p/w200/iqEFG5ldyeLIFPp7mMI7ZmS7Upm.jpg"
     },
     {
-      "title": "The Patience Stone/Syngue Sabour",
-      "release_date": "2012"
+        "title": "Hostiles",
+        "year": 2017,
+        "id": 384680,
+        "poster": "https://image.tmdb.org/t/p/w200/rqoezyB51GfhiloOB5ZErg5HXas.jpg"
     },
     {
-      "title": "Spanien",
-      "release_date": "2012"
+        "title": "The Sense of an Ending",
+        "year": 2017,
+        "id": 354285,
+        "poster": "https://image.tmdb.org/t/p/w200/gvW0Ki7pEv4iZYbtGwgcvqR6s1c.jpg"
     },
     {
-      "title": "Lore",
-      "release_date": "2012-09-10"
+        "title": "White Boy Rick",
+        "year": 2018,
+        "id": 438808,
+        "poster": "https://image.tmdb.org/t/p/w200/l15r2aLqdifXM9GFsJLkOq5Y8SI.jpg"
     },
     {
-      "title": "Wadjda",
-      "release_date": "2012-08-31"
+        "title": "Never Look Away",
+        "year": 2018,
+        "id": 423612,
+        "poster": "https://image.tmdb.org/t/p/w200/fn0Tp9SG0IQ3Nx8iHPYPiseLMWd.jpg"
     },
     {
-      "title": "Disconnect",
-      "release_date": "2012-09-11"
+        "title": "Mary Queen of Scots",
+        "year": 2018,
+        "id": 457136,
+        "poster": "https://image.tmdb.org/t/p/w200/b5RMzLAyq5QW6GtN9sIeAEMLlBI.jpg"
     },
     {
-      "title": "The Nun",
-      "release_date": "2013-02-10"
+        "title": "Ad Astra",
+        "year": 2019,
+        "id": 419704,
+        "poster": "https://image.tmdb.org/t/p/w200/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg"
     },
     {
-      "title": "The Congress",
-      "release_date": "2013-05-15"
+        "title": "The Forbidden City Concert: Carmina Burana",
+        "year": 2019,
+        "id": 593866,
+        "poster": "https://image.tmdb.org/t/p/w200/rXY6VPuxIn8vUZ2ms3H1sZeQ28f.jpg"
     },
     {
-      "title": "The Lunchbox",
-      "release_date": "2013-05-19"
+        "title": "Max Richter's Sleep",
+        "year": 2020,
+        "id": 649812,
+        "poster": "https://image.tmdb.org/t/p/w200/iCJ93G2sfYamV5CwTUonEuytWbZ.jpg"
     },
     {
-      "title": "The Last Days on Mars",
-      "release_date": "2013-05-20"
+        "title": "Weightlessness",
+        "year": 2020,
+        "id": 744249,
+        "poster": null
     },
     {
-      "title": "The Mark of the Angels \u2013 Miserere",
-      "release_date": "2013-06-26"
+        "title": "Spaceman",
+        "year": 2024,
+        "id": 636706,
+        "poster": "https://image.tmdb.org/t/p/w200/f46WvKEsBn98WJbPJcO47ZoKn6B.jpg"
     },
     {
-      "title": "Prison Terminal: The Last Days of Private Jack Hall",
-      "release_date": "2013"
+        "title": "Dance of the Seasons",
+        "year": 2024,
+        "id": 1477708,
+        "poster": "https://image.tmdb.org/t/p/w200/hotmbNJOhy1L8qnSAeW7DTWOIK4.jpg"
     },
     {
-      "title": "Lore",
-      "release_date": "2012-09-10"
+        "title": "The Coal's Daughter",
+        "year": 2024,
+        "id": 1360781,
+        "poster": "https://image.tmdb.org/t/p/w200/lna4nTniaEnuAvBWIdB6rNEzbaS.jpg"
     },
     {
-      "title": "The Green Prince",
-      "release_date": "2014"
+        "title": "Hamnet",
+        "year": 2025,
+        "id": 858024,
+        "poster": "https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
     },
     {
-      "title": "96 hours",
-      "release_date": "2014"
-    },
-    {
-      "title": "Escobar: Paradise Lost",
-      "release_date": "2014"
-    },
-    {
-      "title": "Testament of Youth",
-      "release_date": "2014-10-14"
-    },
-    {
-      "title": "The Leftovers",
-      "release_date": "2014"
-    },
-    {
-      "title": "Into the Forest",
-      "release_date": "2015-09-12"
-    },
-    {
-      "title": "The Golden Age \u2013 Woodkid featuring Max Richter",
-      "release_date": "2015"
-    },
-    {
-      "title": "Morgan",
-      "release_date": "2016-09-02"
-    },
-    {
-      "title": "Arrival",
-      "release_date": "2016-09-01"
-    },
-    {
-      "title": "Miss Sloane",
-      "release_date": "2016-11-11"
-    },
-    {
-      "title": "Return to Montauk",
-      "release_date": "2017"
-    },
-    {
-      "title": "The Sense of an Ending",
-      "release_date": "2017-01-02"
-    },
-    {
-      "title": "Hostiles",
-      "release_date": "2017-09-02"
-    },
-    {
-      "title": "Taboo",
-      "release_date": "2017"
-    },
-    {
-      "title": "White Boy Rick",
-      "release_date": "2018-08-31"
-    },
-    {
-      "title": "Never Look Away",
-      "release_date": "2018-09-04"
-    },
-    {
-      "title": "Mary Queen of Scots",
-      "release_date": "2018-11-15"
-    },
-    {
-      "title": "Ad Astra",
-      "release_date": "2019-08-29"
-    },
-    {
-      "title": "Ad Astra",
-      "release_date": "2019-08-29"
-    },
-    {
-      "title": "Spaceman",
-      "release_date": "2024-02-20"
-    },
-    {
-      "title": "Hamnet",
-      "release_date": "2025-08-29"
+        "title": "Max Richter's Sleep: Live at the Sydney Opera House",
+        "year": 9999,
+        "id": 432170,
+        "poster": "https://image.tmdb.org/t/p/w200/6ffsaTUp3qfylRtDrcqgEnQhgy8.jpg"
     }
-  ]
-}
+]

@@ -1,117 +1,176 @@
-{
-  "composer": "Randy Newman",
-  "filmography": [
+[
     {
-      "title": "Peyton Place",
-      "release_date": "1957-12-11"
+        "title": "Cold Turkey",
+        "year": 1971,
+        "id": 42493,
+        "poster": "https://image.tmdb.org/t/p/w200/k1NBOkxBS3v6y7bdNAS2KcymPpl.jpg"
     },
     {
-      "title": "Ragtime",
-      "release_date": "1981-11-20"
+        "title": "Ragtime",
+        "year": 1981,
+        "id": 25566,
+        "poster": "https://image.tmdb.org/t/p/w200/vRjyakxRrMfj6sgyUJte9mVI1D9.jpg"
     },
     {
-      "title": "The Natural",
-      "release_date": "1984-05-11"
+        "title": "The Natural",
+        "year": 1984,
+        "id": 11393,
+        "poster": "https://image.tmdb.org/t/p/w200/fwn1gYeOkS1XHKVFdNorKSIpix8.jpg"
     },
     {
-      "title": "Parenthood",
-      "release_date": "1989-08-02"
+        "title": "Parenthood",
+        "year": 1989,
+        "id": 1552,
+        "poster": "https://image.tmdb.org/t/p/w200/e51tNNQBJpJi9xkyuj0QFhyBcz7.jpg"
     },
     {
-      "title": "Avalon",
-      "release_date": "1990-10-05"
+        "title": "Avalon",
+        "year": 1990,
+        "id": 2302,
+        "poster": "https://image.tmdb.org/t/p/w200/lsyPs8pU6hIJCS5sw0H9Q8Tl1nJ.jpg"
     },
     {
-      "title": "Awakenings",
-      "release_date": "1990-12-10"
+        "title": "Awakenings",
+        "year": 1990,
+        "id": 11005,
+        "poster": "https://image.tmdb.org/t/p/w200/9gztZXuHLG6AJ0fgqGd7Q43cWRI.jpg"
     },
     {
-      "title": "The Paper",
-      "release_date": "1994-03-18"
+        "title": "The Paper",
+        "year": 1994,
+        "id": 12280,
+        "poster": "https://image.tmdb.org/t/p/w200/pGPrFbucRLwVtCKCeinwAklAl0l.jpg"
     },
     {
-      "title": "Maverick",
-      "release_date": "1994-05-20"
+        "title": "Maverick",
+        "year": 1994,
+        "id": 9359,
+        "poster": "https://image.tmdb.org/t/p/w200/mTVbGGi5PIexmxVzeyFd2RYKwfM.jpg"
     },
     {
-      "title": "Toy Story",
-      "release_date": "1995-11-19"
+        "title": "Toy Story",
+        "year": 1995,
+        "id": 862,
+        "poster": "https://image.tmdb.org/t/p/w200/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg"
     },
     {
-      "title": "James and the Giant Peach",
-      "release_date": "1996-04-12"
+        "title": "Michael",
+        "year": 1996,
+        "id": 2928,
+        "poster": "https://image.tmdb.org/t/p/w200/oprNZ2BvJG9ZV2g3JYeWQgsOZHe.jpg"
     },
     {
-      "title": "Michael",
-      "release_date": "1996-12-25"
+        "title": "James and the Giant Peach",
+        "year": 1996,
+        "id": 10539,
+        "poster": "https://image.tmdb.org/t/p/w200/vNEGobe23vW43mSPYVaVaBLP6qV.jpg"
     },
     {
-      "title": "A Bug's Life",
-      "release_date": "1998-11-14"
+        "title": "Pleasantville",
+        "year": 1998,
+        "id": 2657,
+        "poster": "https://image.tmdb.org/t/p/w200/m1hhYP6OScjKU5Z9iZaWirSn4I6.jpg"
     },
     {
-      "title": "Pleasantville",
-      "release_date": "1998-10-23"
+        "title": "A Bug's Life",
+        "year": 1998,
+        "id": 9487,
+        "poster": "https://image.tmdb.org/t/p/w200/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg"
     },
     {
-      "title": "Toy Story 2",
-      "release_date": "1999-11-13"
+        "title": "Toy Story 2",
+        "year": 1999,
+        "id": 863,
+        "poster": "https://image.tmdb.org/t/p/w200/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg"
     },
     {
-      "title": "Meet the Parents",
-      "release_date": "2000-10-06"
+        "title": "Meet the Parents",
+        "year": 2000,
+        "id": 1597,
+        "poster": "https://image.tmdb.org/t/p/w200/5tXJ9ctuyEOMUFLaeqRisbXowWs.jpg"
     },
     {
-      "title": "Monsters, Inc.",
-      "release_date": "2001-10-28"
+        "title": "Monsters, Inc.",
+        "year": 2001,
+        "id": 585,
+        "poster": "https://image.tmdb.org/t/p/w200/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg"
     },
     {
-      "title": "Seabiscuit",
-      "release_date": "2003-07-25"
+        "title": "Seabiscuit",
+        "year": 2003,
+        "id": 4464,
+        "poster": "https://image.tmdb.org/t/p/w200/5m7NfZvxYsSm2YBCJ2VPQf8ziKr.jpg"
     },
     {
-      "title": "Meet the Fockers",
-      "release_date": "2004-12-22"
+        "title": "Meet the Fockers",
+        "year": 2004,
+        "id": 693,
+        "poster": "https://image.tmdb.org/t/p/w200/59fXm6N2x7QSbvt6BaBxTNBXGL8.jpg"
     },
     {
-      "title": "Cars",
-      "release_date": "2006-05-26"
+        "title": "Cars",
+        "year": 2006,
+        "id": 920,
+        "poster": "https://image.tmdb.org/t/p/w200/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg"
     },
     {
-      "title": "Cold Turkey",
-      "release_date": "2007"
+        "title": "Leatherheads",
+        "year": 2008,
+        "id": 4942,
+        "poster": "https://image.tmdb.org/t/p/w200/dl2yu8iuwG3dqbpjalm2odadRaH.jpg"
     },
     {
-      "title": "Leatherheads",
-      "release_date": "2008-04-04"
+        "title": "The Princess and the Frog",
+        "year": 2009,
+        "id": 10198,
+        "poster": "https://image.tmdb.org/t/p/w200/v6nAUs62OJ4DXmnnmPFeVmMz8H9.jpg"
     },
     {
-      "title": "The Princess and the Frog",
-      "release_date": "2009-11-15"
+        "title": "Toy Story 3",
+        "year": 2010,
+        "id": 10193,
+        "poster": "https://image.tmdb.org/t/p/w200/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg"
     },
     {
-      "title": "Toy Story 3",
-      "release_date": "2010-06-12"
+        "title": "Monsters University",
+        "year": 2013,
+        "id": 62211,
+        "poster": "https://image.tmdb.org/t/p/w200/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg"
     },
     {
-      "title": "Monsters University",
-      "release_date": "2013-06-05"
+        "title": "The Meyerowitz Stories (New and Selected)",
+        "year": 2017,
+        "id": 396398,
+        "poster": "https://image.tmdb.org/t/p/w200/c9teDTgwxgnb7wnZjZo4oNcF80R.jpg"
     },
     {
-      "title": "Cars 3",
-      "release_date": "2017-05-23"
+        "title": "Cars 3",
+        "year": 2017,
+        "id": 260514,
+        "poster": "https://image.tmdb.org/t/p/w200/zg5RDxvIIAKsucjuU2EZJIHEIvz.jpg"
     },
     {
-      "title": "The Meyerowitz Stories",
-      "release_date": "2017-05-21"
+        "title": "Toy Story 4",
+        "year": 2019,
+        "id": 301528,
+        "poster": "https://image.tmdb.org/t/p/w200/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg"
     },
     {
-      "title": "Toy Story 4",
-      "release_date": "2019-06-11"
+        "title": "Marriage Story",
+        "year": 2019,
+        "id": 492188,
+        "poster": "https://image.tmdb.org/t/p/w200/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg"
     },
     {
-      "title": "Marriage Story",
-      "release_date": "2019-08-29"
+        "title": "Piano Cin\u00e9ma",
+        "year": 2022,
+        "id": 1185299,
+        "poster": "https://image.tmdb.org/t/p/w200/aW0QN4ELhmWGnWtkLlyLIMrd1vR.jpg"
+    },
+    {
+        "title": "Toy Story 5",
+        "year": 2026,
+        "id": 1084244,
+        "poster": "https://image.tmdb.org/t/p/w200/dWIAOC9EKFehGs3CYvDQih3hxaG.jpg"
     }
-  ]
-}
+]

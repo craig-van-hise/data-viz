@@ -1,253 +1,356 @@
-{
-  "composer": "Daniel Pemberton",
-  "filmography": [
+[
     {
-      "title": "That'll Teach 'Em",
-      "release_date": "2003"
+        "title": "Wild Horses of Mongolia with Julia Roberts",
+        "year": 2000,
+        "id": 1526007,
+        "poster": "https://image.tmdb.org/t/p/w200/9f1zuDvMK6Pns36KHA1xTuAtePW.jpg"
     },
     {
-      "title": "Peep Show",
-      "release_date": "2003"
+        "title": "Fat Girls and Feeders",
+        "year": 2003,
+        "id": 182597,
+        "poster": null
     },
     {
-      "title": "The Movies",
-      "release_date": "1925-10-04"
+        "title": "Pissed on the Job",
+        "year": 2004,
+        "id": 1361798,
+        "poster": "https://image.tmdb.org/t/p/w200/7TgCcq2mMnoYewtDO2jFIyBBNup.jpg"
     },
     {
-      "title": "Great British Menu",
-      "release_date": "2006"
+        "title": "Hiroshima",
+        "year": 2005,
+        "id": 68297,
+        "poster": "https://image.tmdb.org/t/p/w200/jHIyA9zRm6nEo4P8pYwTa3zCsJt.jpg"
     },
     {
-      "title": "Factory Farmed",
-      "release_date": "2008"
+        "title": "Born With Two Mothers",
+        "year": 2005,
+        "id": 885028,
+        "poster": "https://image.tmdb.org/t/p/w200/sxWr66abf2iHMgiJ7TKwNSW4cVo.jpg"
     },
     {
-      "title": "LittleBigPlanet",
-      "release_date": "2008"
+        "title": "Cult Killer",
+        "year": 2006,
+        "id": 291142,
+        "poster": "https://image.tmdb.org/t/p/w200/i64DIlV5IjMmYAbKcp3VFIPd2Pz.jpg"
     },
     {
-      "title": "Enemies of the People",
-      "release_date": "2009-11-24"
+        "title": "The Haunted Airman",
+        "year": 2006,
+        "id": 21505,
+        "poster": "https://image.tmdb.org/t/p/w200/71PbHyrUdowV9HhW7fixWAPwH2l.jpg"
     },
     {
-      "title": "Commanders at War",
-      "release_date": "2009"
+        "title": "Heroes & Villains: Napoleon",
+        "year": 2007,
+        "id": 816897,
+        "poster": "https://image.tmdb.org/t/p/w200/ztzgQIE4TEQyyoWBKbeZ8wq1dJ3.jpg"
     },
     {
-      "title": "The Lost World of Communism",
-      "release_date": "2009"
+        "title": "1983: The Brink of Apocalypse",
+        "year": 2007,
+        "id": 324018,
+        "poster": "https://image.tmdb.org/t/p/w200/s5lYcLhlSxxH4OFtwIV92RYkXW4.jpg"
     },
     {
-      "title": "Runaway",
-      "release_date": "2009"
+        "title": "Clash of the Santas",
+        "year": 2008,
+        "id": 63597,
+        "poster": "https://image.tmdb.org/t/p/w200/rj7sn9iRpT1P4DqZGuUh5UcnjN5.jpg"
     },
     {
-      "title": "Occupation",
-      "release_date": "2009"
+        "title": "Factory Farmed",
+        "year": 2008,
+        "id": 126355,
+        "poster": "https://image.tmdb.org/t/p/w200/2YPRQ0uebcYxcL9w5OkVKv24YYC.jpg"
     },
     {
-      "title": "Desperate Romantics",
-      "release_date": "2009"
+        "title": "Enemies of the People",
+        "year": 2009,
+        "id": 75450,
+        "poster": "https://image.tmdb.org/t/p/w200/wRpW39np3275vOtLzrU89SNkWfy.jpg"
     },
     {
-      "title": "Wildest Dreams",
-      "release_date": "2009"
+        "title": "The Awakening",
+        "year": 2011,
+        "id": 77949,
+        "poster": "https://image.tmdb.org/t/p/w200/txmiJkl8su0jkEABLIHZBqVHrTj.jpg"
     },
     {
-      "title": "Dirk Gently",
-      "release_date": "2010"
+        "title": "Blood",
+        "year": 2012,
+        "id": 136278,
+        "poster": "https://image.tmdb.org/t/p/w200/wtHDMP6VPNF2Vc8YNCHwz4sJtNo.jpg"
     },
     {
-      "title": "Kinect Adventures!",
-      "release_date": "2010"
+        "title": "Ghost Recon: Alpha",
+        "year": 2012,
+        "id": 107170,
+        "poster": "https://image.tmdb.org/t/p/w200/dVP2QZl7XL55jDMFBWJqMhM9js2.jpg"
     },
     {
-      "title": "The Awakening",
-      "release_date": "2011-09-16"
+        "title": "The Counselor",
+        "year": 2013,
+        "id": 109091,
+        "poster": "https://image.tmdb.org/t/p/w200/aNiLkGnzVb5CorZHKk16w9S4COt.jpg"
     },
     {
-      "title": "LittleBigPlanet 2",
-      "release_date": "2011"
+        "title": "In Fear",
+        "year": 2013,
+        "id": 159095,
+        "poster": "https://image.tmdb.org/t/p/w200/9GpmoAAp1LTMx8byVLlpjumOzgj.jpg"
     },
     {
-      "title": "Blood",
-      "release_date": "2012-10-11"
+        "title": "Complicit",
+        "year": 2013,
+        "id": 172008,
+        "poster": "https://image.tmdb.org/t/p/w200/4nyFnpD1jAST0sC2pVyNUa0DJSc.jpg"
     },
     {
-      "title": "Public Enemies",
-      "release_date": "2012"
+        "title": "Cuban Fury",
+        "year": 2014,
+        "id": 201086,
+        "poster": "https://image.tmdb.org/t/p/w200/xuRAyIUJmgXwI1ba06AxYBAQMTc.jpg"
     },
     {
-      "title": "Prisoners' Wives",
-      "release_date": "2012"
+        "title": "Steve Jobs",
+        "year": 2015,
+        "id": 321697,
+        "poster": "https://image.tmdb.org/t/p/w200/ljiRO29Y9khEERRqMluptUYunJ9.jpg"
     },
     {
-      "title": "Pramface",
-      "release_date": "2012"
+        "title": "The Man from U.N.C.L.E.",
+        "year": 2015,
+        "id": 203801,
+        "poster": "https://image.tmdb.org/t/p/w200/y5yZaForGSJbPD66Cvq9AT5WMAD.jpg"
     },
     {
-      "title": "Ghost Recon: Alpha",
-      "release_date": "2012"
+        "title": "From the Land of the Moon",
+        "year": 2016,
+        "id": 376166,
+        "poster": "https://image.tmdb.org/t/p/w200/l6CQmiMBi1z6BIEC2XpUaOpfsc4.jpg"
     },
     {
-      "title": "In Fear",
-      "release_date": "2013-01-20"
+        "title": "Gold",
+        "year": 2016,
+        "id": 334524,
+        "poster": "https://image.tmdb.org/t/p/w200/ukMXAdr325Tn1mLGkxdG8Lab16l.jpg"
     },
     {
-      "title": "The Counselor",
-      "release_date": "2013-10-03"
+        "title": "All the Money in the World",
+        "year": 2017,
+        "id": 446791,
+        "poster": "https://image.tmdb.org/t/p/w200/q6nE9Hf0ezszjI4DbCxwzQ73MMy.jpg"
     },
     {
-      "title": "Ambassadors",
-      "release_date": "2013"
+        "title": "King Arthur: Legend of the Sword",
+        "year": 2017,
+        "id": 274857,
+        "poster": "https://image.tmdb.org/t/p/w200/9kKXH6eJpzoFGhCbTN3FVwSQK3n.jpg"
     },
     {
-      "title": "Cuban Fury",
-      "release_date": "2014-02-14"
+        "title": "Mark Felt: The Man Who Brought Down the White House",
+        "year": 2017,
+        "id": 390061,
+        "poster": "https://image.tmdb.org/t/p/w200/6Oq2lQaePXJJwcguc8aqB7EpduZ.jpg"
     },
     {
-      "title": "The Game",
-      "release_date": "2014"
+        "title": "Molly's Game",
+        "year": 2017,
+        "id": 396371,
+        "poster": "https://image.tmdb.org/t/p/w200/zrGQwKNmAz5awZI2V1k5M4eTTTN.jpg"
     },
     {
-      "title": "The Man from U.N.C.L.E.",
-      "release_date": "2015-08-02"
+        "title": "Eve Before",
+        "year": 2018,
+        "id": 780660,
+        "poster": null
     },
     {
-      "title": "Steve Jobs",
-      "release_date": "2015-09-05"
+        "title": "Ocean's Eight",
+        "year": 2018,
+        "id": 402900,
+        "poster": "https://image.tmdb.org/t/p/w200/MvYpKlpFukTivnlBhizGbkAe3v.jpg"
     },
     {
-      "title": "From the Land of the Moon",
-      "release_date": "2016-05-15"
+        "title": "Spider-Man: Into the Spider-Verse",
+        "year": 2018,
+        "id": 324857,
+        "poster": "https://image.tmdb.org/t/p/w200/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
     },
     {
-      "title": "Gold",
-      "release_date": "2016-12-30"
+        "title": "Brexit: The Uncivil War",
+        "year": 2019,
+        "id": 536176,
+        "poster": "https://image.tmdb.org/t/p/w200/AcEPeTBU6UoCi8PgSjRxAi8pEy1.jpg"
     },
     {
-      "title": "King Arthur: Legend of the Sword",
-      "release_date": "2017-05-08"
+        "title": "Scarborough",
+        "year": 2019,
+        "id": 497865,
+        "poster": "https://image.tmdb.org/t/p/w200/8kshwubYfwLbvZXN4JXY0uKhviC.jpg"
     },
     {
-      "title": "Mark Felt: The Man Who Brought Down the White House",
-      "release_date": "2017-09-08"
+        "title": "Yesterday",
+        "year": 2019,
+        "id": 515195,
+        "poster": "https://image.tmdb.org/t/p/w200/9fYka5CQt9nrb6LOtKicysUf9NA.jpg"
     },
     {
-      "title": "Molly's Game",
-      "release_date": "2017-09-08"
+        "title": "Motherless Brooklyn",
+        "year": 2019,
+        "id": 504562,
+        "poster": "https://image.tmdb.org/t/p/w200/2wm20cbkH1L8nA54Gtwfgz2hTqo.jpg"
     },
     {
-      "title": "All the Money in the World",
-      "release_date": "2017-12-18"
+        "title": "Rising Phoenix",
+        "year": 2020,
+        "id": 726887,
+        "poster": "https://image.tmdb.org/t/p/w200/oso09gID2bFk9q3Cni8GNOuzTWZ.jpg"
     },
     {
-      "title": "Black Mirror",
-      "release_date": "2017"
+        "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+        "year": 2020,
+        "id": 495764,
+        "poster": "https://image.tmdb.org/t/p/w200/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg"
     },
     {
-      "title": "Ocean's 8",
-      "release_date": "2018-06-05"
+        "title": "Enola Holmes",
+        "year": 2020,
+        "id": 497582,
+        "poster": "https://image.tmdb.org/t/p/w200/riYInlsq2kf1AWoGm80JQW5dLKp.jpg"
     },
     {
-      "title": "Scarborough",
-      "release_date": "2018-10-13"
+        "title": "The Trial of the Chicago 7",
+        "year": 2020,
+        "id": 556984,
+        "poster": "https://image.tmdb.org/t/p/w200/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg"
     },
     {
-      "title": "Spider-Man: Into the Spider-Verse",
-      "release_date": "2018-12-01"
+        "title": "Being the Ricardos",
+        "year": 2021,
+        "id": 517088,
+        "poster": "https://image.tmdb.org/t/p/w200/oztBLWdRk5gApYmNdADXvXkLT5m.jpg"
     },
     {
-      "title": "Yesterday",
-      "release_date": "2019-05-04"
+        "title": "The Rescue",
+        "year": 2021,
+        "id": 680058,
+        "poster": "https://image.tmdb.org/t/p/w200/kC7fVtCkJACwPBaRr2hlj2whfKX.jpg"
     },
     {
-      "title": "Motherless Brooklyn",
-      "release_date": "2019-08-30"
+        "title": "See How They Run",
+        "year": 2022,
+        "id": 766475,
+        "poster": "https://image.tmdb.org/t/p/w200/r3rpSAi2yukZwr9H2km0WKGODWo.jpg"
     },
     {
-      "title": "Knights and Bikes",
-      "release_date": "2019"
+        "title": "Amsterdam",
+        "year": 2022,
+        "id": 664469,
+        "poster": "https://image.tmdb.org/t/p/w200/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg"
     },
     {
-      "title": "Birds of Prey",
-      "release_date": "2020-01-25"
+        "title": "The Bad Guys",
+        "year": 2022,
+        "id": 629542,
+        "poster": "https://image.tmdb.org/t/p/w200/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg"
     },
     {
-      "title": "Enola Holmes",
-      "release_date": "2020-09-23"
+        "title": "Brian and Charles",
+        "year": 2022,
+        "id": 913814,
+        "poster": "https://image.tmdb.org/t/p/w200/pzP3N9qRo3S91QjfBFWNI0ph0AY.jpg"
     },
     {
-      "title": "The Trial of the Chicago 7",
-      "release_date": "2020-09-25"
+        "title": "Maraschino Ruby",
+        "year": 2022,
+        "id": 981424,
+        "poster": "https://image.tmdb.org/t/p/w200/1DDDExz4DJj4abqLgtc8xWrDcXR.jpg"
     },
     {
-      "title": "Rising Phoenix",
-      "release_date": "2020-08-26"
+        "title": "Enola Holmes 2",
+        "year": 2022,
+        "id": 829280,
+        "poster": "https://image.tmdb.org/t/p/w200/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg"
     },
     {
-      "title": "The Rescue",
-      "release_date": "2021-09-02"
+        "title": "Spider-Man: Across the Spider-Verse",
+        "year": 2023,
+        "id": 569094,
+        "poster": "https://image.tmdb.org/t/p/w200/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
     },
     {
-      "title": "Being the Ricardos",
-      "release_date": "2021-12-07"
+        "title": "Ferrari",
+        "year": 2023,
+        "id": 365620,
+        "poster": "https://image.tmdb.org/t/p/w200/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg"
     },
     {
-      "title": "The Bad Guys",
-      "release_date": "2022-04-12"
+        "title": "Fly Me to the Moon",
+        "year": 2024,
+        "id": 956842,
+        "poster": "https://image.tmdb.org/t/p/w200/lb0XDH6LbkYwzbHTqjsUNZTLXMS.jpg"
     },
     {
-      "title": "Brian and Charles",
-      "release_date": "2022-01-23"
+        "title": "Endurance",
+        "year": 2024,
+        "id": 947763,
+        "poster": "https://image.tmdb.org/t/p/w200/7LPRuJ7pSxUB559ac8SS5mdElz8.jpg"
     },
     {
-      "title": "See How They Run",
-      "release_date": "2022-09-09"
+        "title": "The Bad Guys 2",
+        "year": 2025,
+        "id": 1175942,
+        "poster": "https://image.tmdb.org/t/p/w200/26oSPnq0ct59l07QOXZKyzsiRtN.jpg"
     },
     {
-      "title": "Amsterdam",
-      "release_date": "2022-09-18"
+        "title": "The Bad Guys: Little Lies and Alibis",
+        "year": 2025,
+        "id": 1417421,
+        "poster": "https://image.tmdb.org/t/p/w200/9mLRpo992kIpnYQJKqfLFsrXr3m.jpg"
     },
     {
-      "title": "Enola Holmes 2",
-      "release_date": "2022-11-04"
+        "title": "Materialists",
+        "year": 2025,
+        "id": 1136867,
+        "poster": "https://image.tmdb.org/t/p/w200/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg"
     },
     {
-      "title": "Spider-Man: Across the Spider-Verse",
-      "release_date": "2023-05-30"
+        "title": "Deep Cover",
+        "year": 2025,
+        "id": 1239193,
+        "poster": "https://image.tmdb.org/t/p/w200/yYfaChljpg6eo9ZlFyTmI81PMZC.jpg"
     },
     {
-      "title": "Ferrari",
-      "release_date": "2023-08-31"
+        "title": "Eddington",
+        "year": 2025,
+        "id": 648878,
+        "poster": "https://image.tmdb.org/t/p/w200/4GIqZUgPZ146BhibsPHMHef2nXX.jpg"
     },
     {
-      "title": "Fly Me to the Moon",
-      "release_date": "2024-07-08"
+        "title": "Project Hail Mary",
+        "year": 2026,
+        "id": 687163,
+        "poster": "https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg"
     },
     {
-      "title": "Concord",
-      "release_date": "2024"
+        "title": "The Drama",
+        "year": 2026,
+        "id": 1325734,
+        "poster": "https://image.tmdb.org/t/p/w200/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
     },
     {
-      "title": "Materialists",
-      "release_date": "2025-06-13"
+        "title": "Masters of the Universe",
+        "year": 2026,
+        "id": 454639,
+        "poster": "https://image.tmdb.org/t/p/w200/nm2ianYVp7OXElUZVeeAbNTqBLr.jpg"
     },
     {
-      "title": "Eddington",
-      "release_date": "2025-05-16"
-    },
-    {
-      "title": "The Bad Guys 2",
-      "release_date": "2025-07-24"
-    },
-    {
-      "title": "Project Hail Mary \u2020",
-      "release_date": "2026"
-    },
-    {
-      "title": "Spider-Man: Beyond the Spider-Verse \u2020",
-      "release_date": "2027"
+        "title": "Spider-Man: Beyond the Spider-Verse",
+        "year": 2027,
+        "id": 911916,
+        "poster": "https://image.tmdb.org/t/p/w200/9PIhQqqI6Q4a5YjwMjxvzZcPJhf.jpg"
     }
-  ]
-}
+]

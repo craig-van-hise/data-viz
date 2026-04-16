@@ -1,393 +1,146 @@
-{
-  "composer": "Shirley Walker",
-  "filmography": [
+[
     {
-      "title": "The Black Stallion",
-      "release_date": "1979-10-17"
+        "title": "The End of August",
+        "year": 1981,
+        "id": 567899,
+        "poster": "https://image.tmdb.org/t/p/w200/a0XLdr5vlDSRgmqY5RP4EqpOPPy.jpg"
     },
     {
-      "title": "Lou Grant",
-      "release_date": "1980"
+        "title": "The Dungeonmaster",
+        "year": 1984,
+        "id": 27244,
+        "poster": "https://image.tmdb.org/t/p/w200/j30Tq1tWkVlVfkw2moVg4OtBe0l.jpg"
     },
     {
-      "title": "Murder in Coweta Country (TV)",
-      "release_date": "1980"
+        "title": "Ghoulies",
+        "year": 1985,
+        "id": 18498,
+        "poster": "https://image.tmdb.org/t/p/w200/yV8z6deULhH4oJAUj2YdhITPwfc.jpg"
     },
     {
-      "title": "Amber Waves (TV)",
-      "release_date": "1980"
+        "title": "The Flash",
+        "year": 1990,
+        "id": 232842,
+        "poster": "https://image.tmdb.org/t/p/w200/v0c45VGHU5qxcfveQIjzL8nJBUR.jpg"
     },
     {
-      "title": "Cagney & Lacey",
-      "release_date": "1981"
+        "title": "Strike It Rich",
+        "year": 1990,
+        "id": 123781,
+        "poster": "https://image.tmdb.org/t/p/w200/m2OgpThvdC8AhJOhQ9qE0nxYacn.jpg"
     },
     {
-      "title": "The End of August",
-      "release_date": "1982"
+        "title": "Born to Ride",
+        "year": 1991,
+        "id": 54843,
+        "poster": "https://image.tmdb.org/t/p/w200/g2Rb9ZsBFWJnQwwAXFqV3ruisA4.jpg"
     },
     {
-      "title": "Tucker's Witch",
-      "release_date": "1982"
+        "title": "The Flash II: Revenge of the Trickster",
+        "year": 1991,
+        "id": 222619,
+        "poster": "https://image.tmdb.org/t/p/w200/qqyeOrfwCEZiIjxnSUVPJs1QcMM.jpg"
     },
     {
-      "title": "Touched",
-      "release_date": "1983"
+        "title": "Memoirs of an Invisible Man",
+        "year": 1992,
+        "id": 2687,
+        "poster": "https://image.tmdb.org/t/p/w200/zbplzn4WrBkKDmmWlQkWdsacmNa.jpg"
     },
     {
-      "title": "Right of Way (TV)",
-      "release_date": "1983"
+        "title": "Batman: Mask of the Phantasm",
+        "year": 1993,
+        "id": 14919,
+        "poster": "https://image.tmdb.org/t/p/w200/hT4ehUteagUrhUOHAtmYiY7mp5l.jpg"
     },
     {
-      "title": "Metalstorm: The Destruction of Jared-Syn",
-      "release_date": "1983-08-19"
+        "title": "The Haunting of Seacliff Inn",
+        "year": 1994,
+        "id": 189299,
+        "poster": "https://image.tmdb.org/t/p/w200/xsiKiFTc7HaS1PSItt0AcSZ9eUI.jpg"
     },
     {
-      "title": "Swordkill",
-      "release_date": "1983"
+        "title": "Prelude to Eden",
+        "year": 1995,
+        "id": 257631,
+        "poster": null
     },
     {
-      "title": "Cujo",
-      "release_date": "1983-08-12"
+        "title": "It Came from Outer Space II",
+        "year": 1995,
+        "id": 212306,
+        "poster": "https://image.tmdb.org/t/p/w200/fNd0HxEAqQyXVWqRYiks3aCSIvy.jpg"
     },
     {
-      "title": "The Dungeonmaster",
-      "release_date": "1984-08-24"
+        "title": "The Adventures of Captain Zoom in Outer Space",
+        "year": 1995,
+        "id": 134859,
+        "poster": "https://image.tmdb.org/t/p/w200/7tUxNu9xH7Op17yRwUUDgeeLCsi.jpg"
     },
     {
-      "title": "Violated",
-      "release_date": "1984"
+        "title": "Escape from L.A.",
+        "year": 1996,
+        "id": 10061,
+        "poster": "https://image.tmdb.org/t/p/w200/3L9lL2eUsmLNNfENPwNOc82Hzpw.jpg"
     },
     {
-      "title": "Falcon Crest",
-      "release_date": "1984"
+        "title": "Turbulence",
+        "year": 1997,
+        "id": 34314,
+        "poster": "https://image.tmdb.org/t/p/w200/gnsxWkxWHPXMOAzXvS7aKMSKP0N.jpg"
     },
     {
-      "title": "Ragewar",
-      "release_date": "1984-08-24"
+        "title": "Asteroid",
+        "year": 1997,
+        "id": 36609,
+        "poster": "https://image.tmdb.org/t/p/w200/5J99UfKU8xv66OF3uqi8sqlEAVO.jpg"
     },
     {
-      "title": "Anatomy of an Illness (TV)",
-      "release_date": "1984"
+        "title": "The Garbage Picking Field Goal Kicking Philadelphia Phenomenon",
+        "year": 1998,
+        "id": 328661,
+        "poster": "https://image.tmdb.org/t/p/w200/aauEHRHy0yhLgmgrPmdxDQQd5k6.jpg"
     },
     {
-      "title": "Ghoulies",
-      "release_date": "1985-01-18"
+        "title": "Final Destination",
+        "year": 2000,
+        "id": 9532,
+        "poster": "https://image.tmdb.org/t/p/w200/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg"
     },
     {
-      "title": "Berrenger's",
-      "release_date": "1985"
+        "title": "Willard",
+        "year": 2003,
+        "id": 10929,
+        "poster": "https://image.tmdb.org/t/p/w200/hRVP8Ud9ehv7tp5WWQ4CHk2XNus.jpg"
     },
     {
-      "title": "Fluppy Dogs",
-      "release_date": "1986"
+        "title": "Final Destination 2",
+        "year": 2003,
+        "id": 9358,
+        "poster": "https://image.tmdb.org/t/p/w200/vnFgxRlLTA9fDNcGXLiHmgwmIEo.jpg"
     },
     {
-      "title": "Children of a Lesser God",
-      "release_date": "1986-10-03"
+        "title": "Bits and Pieces: Bringing Death to Life",
+        "year": 2003,
+        "id": 284473,
+        "poster": "https://image.tmdb.org/t/p/w200/4mx0jWGICdfSc5Puj2ts2u53S9B.jpg"
     },
     {
-      "title": "Malone",
-      "release_date": "1987-05-01"
+        "title": "Cheating Death: Beyond and Back",
+        "year": 2003,
+        "id": 1229195,
+        "poster": null
     },
     {
-      "title": "Knots Landing",
-      "release_date": "1988"
+        "title": "Final Destination 3",
+        "year": 2006,
+        "id": 9286,
+        "poster": "https://image.tmdb.org/t/p/w200/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg"
     },
     {
-      "title": "The Accused",
-      "release_date": "1988-10-14"
-    },
-    {
-      "title": "Scrooged",
-      "release_date": "1988-11-23"
-    },
-    {
-      "title": "Ernest Saves Christmas",
-      "release_date": "1988-11-11"
-    },
-    {
-      "title": "Little Miss 4th of July (TV)",
-      "release_date": "1988"
-    },
-    {
-      "title": "Nightbreed",
-      "release_date": "1990-02-16"
-    },
-    {
-      "title": "National Lampoon's Christmas Vacation",
-      "release_date": "1989-12-01"
-    },
-    {
-      "title": "Batman",
-      "release_date": "1989-06-19"
-    },
-    {
-      "title": "Fletch Lives",
-      "release_date": "1989-03-17"
-    },
-    {
-      "title": "Immediate Family",
-      "release_date": "1989-10-27"
-    },
-    {
-      "title": "Red Earth, White Earth (TV)",
-      "release_date": "1989"
-    },
-    {
-      "title": "Paint It Black",
-      "release_date": "1990-03-28"
-    },
-    {
-      "title": "Kill Me Again",
-      "release_date": "1989-10-27"
-    },
-    {
-      "title": "Black Rain",
-      "release_date": "1989"
-    },
-    {
-      "title": "Chicago Joe and the Showgirl",
-      "release_date": "1990-07-27"
-    },
-    {
-      "title": "Pacific Heights",
-      "release_date": "1990-09-28"
-    },
-    {
-      "title": "Strike It Rich",
-      "release_date": "1990-01-26"
-    },
-    {
-      "title": "Tiny Toons",
-      "release_date": "1990"
-    },
-    {
-      "title": "The Flash",
-      "release_date": "2023-06-12"
-    },
-    {
-      "title": "Teenage Mutant Ninja Turtles",
-      "release_date": "1990-03-30"
-    },
-    {
-      "title": "Nightbreed",
-      "release_date": "1990-02-16"
-    },
-    {
-      "title": "Dick Tracy",
-      "release_date": "1990-06-14"
-    },
-    {
-      "title": "Darkman",
-      "release_date": "1990-08-24"
-    },
-    {
-      "title": "Edward Scissorhands",
-      "release_date": "1990-12-06"
-    },
-    {
-      "title": "Defending Your Life",
-      "release_date": "1991-03-22"
-    },
-    {
-      "title": "Arachnophobia",
-      "release_date": "1990-07-18"
-    },
-    {
-      "title": "El Diablo (TV)",
-      "release_date": "1990"
-    },
-    {
-      "title": "Child's Play 2",
-      "release_date": "1990-11-09"
-    },
-    {
-      "title": "Bird on a Wire",
-      "release_date": "1990-05-18"
-    },
-    {
-      "title": "Days of Thunder",
-      "release_date": "1990-06-27"
-    },
-    {
-      "title": "Born to Ride",
-      "release_date": "1991-05-03"
-    },
-    {
-      "title": "White Fang",
-      "release_date": "1991-01-18"
-    },
-    {
-      "title": "The Butcher's Wife",
-      "release_date": "1991-10-25"
-    },
-    {
-      "title": "True Identity",
-      "release_date": "1991-08-23"
-    },
-    {
-      "title": "Backdraft",
-      "release_date": "1991-05-24"
-    },
-    {
-      "title": "Memoirs of an Invisible Man",
-      "release_date": "1992-02-28"
-    },
-    {
-      "title": "Batman: The Animated Series",
-      "release_date": "1992"
-    },
-    {
-      "title": "Article 99",
-      "release_date": "1992-02-26"
-    },
-    {
-      "title": "Gladiator",
-      "release_date": "1992-03-05"
-    },
-    {
-      "title": "Straight Talk",
-      "release_date": "1992-04-03"
-    },
-    {
-      "title": "Radio Flyer",
-      "release_date": "1992-02-21"
-    },
-    {
-      "title": "A League of Their Own",
-      "release_date": "1992-07-01"
-    },
-    {
-      "title": "Toys",
-      "release_date": "1992-12-18"
-    },
-    {
-      "title": "Batman: Mask of the Phantasm",
-      "release_date": "1993-12-25"
-    },
-    {
-      "title": "The Real McCoy",
-      "release_date": "1993-09-10"
-    },
-    {
-      "title": "Striking Distance",
-      "release_date": "1993-09-17"
-    },
-    {
-      "title": "True Lies",
-      "release_date": "1994-07-12"
-    },
-    {
-      "title": "M.A.N.T.I.S.",
-      "release_date": "1994"
-    },
-    {
-      "title": "Viper",
-      "release_date": "1994"
-    },
-    {
-      "title": "Renaissance Man",
-      "release_date": "1994-06-03"
-    },
-    {
-      "title": "Space: Above and Beyond",
-      "release_date": "1995"
-    },
-    {
-      "title": "The Adventures of Captain Zoom in Outer Space",
-      "release_date": "1995"
-    },
-    {
-      "title": "Bad Company",
-      "release_date": "1995-01-20"
-    },
-    {
-      "title": "A Goofy Movie",
-      "release_date": "1995-04-07"
-    },
-    {
-      "title": "Johnny Mnemonic",
-      "release_date": "1995-04-15"
-    },
-    {
-      "title": "Batman Forever",
-      "release_date": "1995-06-09"
-    },
-    {
-      "title": "Free Willy 2: The Adventure Home",
-      "release_date": "1995-07-19"
-    },
-    {
-      "title": "Escape from L.A.",
-      "release_date": "1996-08-09"
-    },
-    {
-      "title": "Superman: The Animated Series",
-      "release_date": "1996"
-    },
-    {
-      "title": "Fear",
-      "release_date": "1996-04-12"
-    },
-    {
-      "title": "Eden",
-      "release_date": "1996"
-    },
-    {
-      "title": "Rasputin (TV)",
-      "release_date": "1996"
-    },
-    {
-      "title": "Turbulence",
-      "release_date": "1997-01-10"
-    },
-    {
-      "title": "Spawn: The Animated Series",
-      "release_date": "1997"
-    },
-    {
-      "title": "The Love Bug",
-      "release_date": "1968-12-24"
-    },
-    {
-      "title": "Baby Monitor: Sound of Fear",
-      "release_date": "1998"
-    },
-    {
-      "title": "Mystery Men",
-      "release_date": "1999-07-22"
-    },
-    {
-      "title": "Final Destination",
-      "release_date": "2000-03-17"
-    },
-    {
-      "title": "The Others",
-      "release_date": "2000"
-    },
-    {
-      "title": "Ritual",
-      "release_date": "2002-09-18"
-    },
-    {
-      "title": "Disappearance",
-      "release_date": "2002"
-    },
-    {
-      "title": "Final Destination 2",
-      "release_date": "2003-01-31"
-    },
-    {
-      "title": "Willard",
-      "release_date": "2003-03-14"
-    },
-    {
-      "title": "Final Destination 3",
-      "release_date": "2006-02-02"
-    },
-    {
-      "title": "Black Christmas",
-      "release_date": "2006-12-15"
+        "title": "Black Christmas",
+        "year": 2006,
+        "id": 9656,
+        "poster": "https://image.tmdb.org/t/p/w200/ggxi18MGqi0lucWvfsdYkzSdGUJ.jpg"
     }
-  ]
-}
+]

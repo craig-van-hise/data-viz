@@ -1,441 +1,626 @@
-{
-  "composer": "John Barry",
-  "filmography": [
+[
     {
-      "title": "Drumbeat (TV series theme music)",
-      "release_date": "1959"
+        "title": "Never Let Go",
+        "year": 1960,
+        "id": 36631,
+        "poster": "https://image.tmdb.org/t/p/w200/7F3QYIboc5JFy58wMXxJwCypQIs.jpg"
     },
     {
-      "title": "Juke Box Jury (TV series theme music)",
-      "release_date": "1959"
+        "title": "Beat Girl",
+        "year": 1960,
+        "id": 43092,
+        "poster": "https://image.tmdb.org/t/p/w200/hCA0ecn9LjRWbXXu1E1jUIUi0JV.jpg"
     },
     {
-      "title": "Never Let Go",
-      "release_date": "1960-06-07"
+        "title": "The Amorous Prawn",
+        "year": 1962,
+        "id": 273848,
+        "poster": "https://image.tmdb.org/t/p/w200/38UjoMAojH7N7kEKzmBliLjlAso.jpg"
     },
     {
-      "title": "Beat Girl",
-      "release_date": "1960-10-28"
+        "title": "The L-Shaped Room",
+        "year": 1962,
+        "id": 76000,
+        "poster": "https://image.tmdb.org/t/p/w200/ie8EArW3CjO2gLMYtJEMLU4CAQN.jpg"
     },
     {
-      "title": "Dateline London(TV series theme music)",
-      "release_date": "1962"
+        "title": "Mix Me a Person",
+        "year": 1962,
+        "id": 426976,
+        "poster": "https://image.tmdb.org/t/p/w200/7qVluHy17TjEmUVkh5buplFzDZw.jpg"
     },
     {
-      "title": "The Amorous Prawn",
-      "release_date": "1962"
+        "title": "From Russia with Love",
+        "year": 1963,
+        "id": 657,
+        "poster": "https://image.tmdb.org/t/p/w200/zx4V17FP8oclNvOpTgs2iCCtiYk.jpg"
     },
     {
-      "title": "The L-Shaped Room",
-      "release_date": "1962-11-20"
+        "title": "Goldfinger",
+        "year": 1964,
+        "id": 658,
+        "poster": "https://image.tmdb.org/t/p/w200/aKNFzaqQgPzsGXnsMc4kJH5hFIV.jpg"
     },
     {
-      "title": "Elizabeth Taylor in London",
-      "release_date": "1963"
+        "title": "Seance on a Wet Afternoon",
+        "year": 1964,
+        "id": 3092,
+        "poster": "https://image.tmdb.org/t/p/w200/dHu7nuNwXTXoPdpNOEPKhHfCBk5.jpg"
     },
     {
-      "title": "From Russia with Love (film)",
-      "release_date": "1963-10-10"
+        "title": "Zulu",
+        "year": 1964,
+        "id": 14433,
+        "poster": "https://image.tmdb.org/t/p/w200/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg"
     },
     {
-      "title": "Zulu",
-      "release_date": "1964-01-22"
+        "title": "Man in the Middle",
+        "year": 1964,
+        "id": 111752,
+        "poster": "https://image.tmdb.org/t/p/w200/bKp5KFm1BGCUAye5qWIuezN2Bsg.jpg"
     },
     {
-      "title": "Man in the Middle (film)",
-      "release_date": "1964-02-05"
+        "title": "A Jolly Bad Fellow",
+        "year": 1964,
+        "id": 216302,
+        "poster": "https://image.tmdb.org/t/p/w200/vKrn2dDjYooQBBWcQCwGxaE9giU.jpg"
     },
     {
-      "title": "Impromptu (TV series soundtrack)",
-      "release_date": "1964"
+        "title": "Sophia Loren in Rome",
+        "year": 1964,
+        "id": 974671,
+        "poster": "https://image.tmdb.org/t/p/w200/qG4d9UeCCjujSbWUfPQ0WcOOtmg.jpg"
     },
     {
-      "title": "A Jolly Bad Fellow",
-      "release_date": "1964"
+        "title": "Thunderball",
+        "year": 1965,
+        "id": 660,
+        "poster": "https://image.tmdb.org/t/p/w200/wCc4qllaTDsQN8zgGkAgQrKO6N9.jpg"
     },
     {
-      "title": "S\u00e9ance on a Wet Afternoon",
-      "release_date": "1964-06-20"
+        "title": "The Ipcress File",
+        "year": 1965,
+        "id": 15247,
+        "poster": "https://image.tmdb.org/t/p/w200/iCNRK7NVhBvNpiyMRmCpTBFNoLO.jpg"
     },
     {
-      "title": "Goldfinger",
-      "release_date": "1964-09-17"
+        "title": "King Rat",
+        "year": 1965,
+        "id": 29586,
+        "poster": "https://image.tmdb.org/t/p/w200/tofzWLQxmM6ISFsOY1YFKJBiUhJ.jpg"
     },
     {
-      "title": "Sophia Loren in Rome",
-      "release_date": "1964"
+        "title": "Mister Moses",
+        "year": 1965,
+        "id": 240898,
+        "poster": "https://image.tmdb.org/t/p/w200/3YkijfcvPAJvqvx2MHJKzLUbU29.jpg"
     },
     {
-      "title": "Boy and Bicycle (\"Onward Christian Spacemen\")",
-      "release_date": "1965"
+        "title": "The Party's Over",
+        "year": 1965,
+        "id": 41830,
+        "poster": "https://image.tmdb.org/t/p/w200/lpAlr22qHyXKcNNFDLasXBlGFuJ.jpg"
     },
     {
-      "title": "The Ipcress File",
-      "release_date": "1965-03-18"
+        "title": "The Knack... and How to Get It",
+        "year": 1965,
+        "id": 42744,
+        "poster": "https://image.tmdb.org/t/p/w200/xO2dJcCISY6lujaU4Qew3RzSErJ.jpg"
     },
     {
-      "title": "The Party's Over",
-      "release_date": "1965-04-22"
+        "title": "Four in the Morning",
+        "year": 1965,
+        "id": 129134,
+        "poster": "https://image.tmdb.org/t/p/w200/11RpYE4D7vpbPQFk98We5iMLQ9q.jpg"
     },
     {
-      "title": "Mister Moses",
-      "release_date": "1965"
+        "title": "Boy and Bicycle",
+        "year": 1965,
+        "id": 49457,
+        "poster": "https://image.tmdb.org/t/p/w200/l8APEAGZk3FT7tLS6MypcozryVw.jpg"
     },
     {
-      "title": "The Knack ...and How to Get It",
-      "release_date": "1965-06-03"
+        "title": "The Chase",
+        "year": 1966,
+        "id": 31602,
+        "poster": "https://image.tmdb.org/t/p/w200/lpX8szjdzaXqxKBiV8xfRVNzSiu.jpg"
     },
     {
-      "title": "The Passion Flower Hotel",
-      "release_date": "1965"
+        "title": "Dutchman",
+        "year": 1966,
+        "id": 66770,
+        "poster": "https://image.tmdb.org/t/p/w200/tQGSuTQO8TMSLLgqgAWaCTAuv6i.jpg"
     },
     {
-      "title": "The Newcomers (TV series)",
-      "release_date": "1965"
+        "title": "Born Free",
+        "year": 1966,
+        "id": 15347,
+        "poster": "https://image.tmdb.org/t/p/w200/xI5BkObQm7UtYEFTw7ZmiDGF7gT.jpg"
     },
     {
-      "title": "King Rat",
-      "release_date": "1965-10-27"
+        "title": "The Wrong Box",
+        "year": 1966,
+        "id": 62143,
+        "poster": "https://image.tmdb.org/t/p/w200/nflbFmWXFCs8X2rGstQwetEW70m.jpg"
     },
     {
-      "title": "Thunderball (film)",
-      "release_date": "1965-12-09"
+        "title": "The Quiller Memorandum",
+        "year": 1966,
+        "id": 46041,
+        "poster": "https://image.tmdb.org/t/p/w200/p8nFEsMLoSVsMwcuz0Dj9Px6YIq.jpg"
     },
     {
-      "title": "Four in the Morning",
-      "release_date": "1965"
+        "title": "You Only Live Twice",
+        "year": 1967,
+        "id": 667,
+        "poster": "https://image.tmdb.org/t/p/w200/fdRbvRcEXcf2rC4ghLFZzCWPSmB.jpg"
     },
     {
-      "title": "The Chase",
-      "release_date": "1966-02-18"
+        "title": "The Whisperers",
+        "year": 1967,
+        "id": 70635,
+        "poster": "https://image.tmdb.org/t/p/w200/8T9P7cm3F9stR2J3OtrkK4LNq0e.jpg"
     },
     {
-      "title": "Born Free",
-      "release_date": "1966-03-14"
+        "title": "Deadfall",
+        "year": 1968,
+        "id": 69065,
+        "poster": "https://image.tmdb.org/t/p/w200/774TAysDKtW09jNAQwW3Smbdi6d.jpg"
     },
     {
-      "title": "The Wrong Box",
-      "release_date": "1966-05-26"
+        "title": "Boom!",
+        "year": 1968,
+        "id": 85765,
+        "poster": "https://image.tmdb.org/t/p/w200/fnZXyiICb8mJzXNMnnJnq6nQwEr.jpg"
     },
     {
-      "title": "Vendetta",
-      "release_date": "1966"
+        "title": "The Lion in Winter",
+        "year": 1968,
+        "id": 18988,
+        "poster": "https://image.tmdb.org/t/p/w200/yMgJnZADJObzfjA70ygXJkjnrFX.jpg"
     },
     {
-      "title": "The Quiller Memorandum",
-      "release_date": "1966-11-10"
+        "title": "Petulia",
+        "year": 1968,
+        "id": 42634,
+        "poster": "https://image.tmdb.org/t/p/w200/i0r0HPm4PEPNZL93lwE1fCGvL0b.jpg"
     },
     {
-      "title": "Dutchman",
-      "release_date": "1966"
+        "title": "On Her Majesty's Secret Service",
+        "year": 1969,
+        "id": 668,
+        "poster": "https://image.tmdb.org/t/p/w200/m3KfbxvqaiAvRJ6MpguA3GuLdDQ.jpg"
     },
     {
-      "title": "You Only Live Twice (film)",
-      "release_date": "1967-06-12"
+        "title": "Midnight Cowboy",
+        "year": 1969,
+        "id": 3116,
+        "poster": "https://image.tmdb.org/t/p/w200/ckklq45UxUkwgHve9xItXqXr06r.jpg"
     },
     {
-      "title": "The Whisperers",
-      "release_date": "1967-08-24"
+        "title": "The Appointment",
+        "year": 1969,
+        "id": 57666,
+        "poster": "https://image.tmdb.org/t/p/w200/sQTZcdZ3guzHII6lhO9SNTeuxGC.jpg"
     },
     {
-      "title": "Boom!",
-      "release_date": "1968-05-26"
+        "title": "Monte Walsh",
+        "year": 1970,
+        "id": 71244,
+        "poster": "https://image.tmdb.org/t/p/w200/oASAa5HE0J4lqfIsaSegzglU9ij.jpg"
     },
     {
-      "title": "Petulia",
-      "release_date": "1968-06-10"
+        "title": "Diamonds Are Forever",
+        "year": 1971,
+        "id": 681,
+        "poster": "https://image.tmdb.org/t/p/w200/ooDT0eKrWCxJCsn9JehPkD0QYNj.jpg"
     },
     {
-      "title": "Deadfall",
-      "release_date": "1968-09-11"
+        "title": "The Last Valley",
+        "year": 1971,
+        "id": 42525,
+        "poster": "https://image.tmdb.org/t/p/w200/sCUBbKRjpFbw8eiCL44EXrv4Ya4.jpg"
     },
     {
-      "title": "The Lion in Winter",
-      "release_date": "1968"
+        "title": "Mary, Queen of Scots",
+        "year": 1971,
+        "id": 46067,
+        "poster": "https://image.tmdb.org/t/p/w200/bNz2smYRTVGs7NHh34aHh7knVIY.jpg"
     },
     {
-      "title": "The Appointment",
-      "release_date": "1969-07-18"
+        "title": "Walkabout",
+        "year": 1971,
+        "id": 36040,
+        "poster": "https://image.tmdb.org/t/p/w200/24vooYt5StgtgcQObVr1GHuM5gy.jpg"
     },
     {
-      "title": "Midnight Cowboy",
-      "release_date": "1969-05-25"
+        "title": "They Might Be Giants",
+        "year": 1971,
+        "id": 27841,
+        "poster": "https://image.tmdb.org/t/p/w200/yzv8J2Vu63AQyEw5D9ckyBgn9Fo.jpg"
     },
     {
-      "title": "On Her Majesty's Secret Service (film)",
-      "release_date": "1969-12-18"
+        "title": "Follow Me!",
+        "year": 1972,
+        "id": 86049,
+        "poster": "https://image.tmdb.org/t/p/w200/jykagagworxyvQpsmeX00GXnA02.jpg"
     },
     {
-      "title": "Monte Walsh (1970 film)",
-      "release_date": "1970-10-07"
+        "title": "Alice's Adventures in Wonderland",
+        "year": 1972,
+        "id": 34461,
+        "poster": "https://image.tmdb.org/t/p/w200/GaiN6EjIlY6wiPynV5XAG1mCrX.jpg"
     },
     {
-      "title": "Murphy's War",
-      "release_date": "1971"
+        "title": "The Glass Menagerie",
+        "year": 1973,
+        "id": 56764,
+        "poster": "https://image.tmdb.org/t/p/w200/9GbdnZdjjQwEeHpn2xstOWDYIXz.jpg"
     },
     {
-      "title": "The Last Valley (film)",
-      "release_date": "1971-01-28"
+        "title": "A Doll's House",
+        "year": 1973,
+        "id": 42457,
+        "poster": "https://image.tmdb.org/t/p/w200/p8Ecypo4yVm6KD9y2qgvHxqDVeu.jpg"
     },
     {
-      "title": "Walkabout",
-      "release_date": "1971-05-16"
+        "title": "The Man with the Golden Gun",
+        "year": 1974,
+        "id": 682,
+        "poster": "https://image.tmdb.org/t/p/w200/xVkbKwGnBVNQ122GN5bCTMyPbWz.jpg"
     },
     {
-      "title": "They Might Be Giants",
-      "release_date": "1971"
+        "title": "The Dove",
+        "year": 1974,
+        "id": 184578,
+        "poster": "https://image.tmdb.org/t/p/w200/8EI2olzoUGhHUyAPM6YiQ8cdORB.jpg"
     },
     {
-      "title": "The Persuaders!",
-      "release_date": "1971"
+        "title": "The Tamarind Seed",
+        "year": 1974,
+        "id": 52960,
+        "poster": "https://image.tmdb.org/t/p/w200/dOqd23Tj8ja448ajTOX5muah5rk.jpg"
     },
     {
-      "title": "Diamonds Are Forever (film)",
-      "release_date": "1971-12-14"
+        "title": "The Day of the Locust",
+        "year": 1975,
+        "id": 5122,
+        "poster": "https://image.tmdb.org/t/p/w200/m4T7R448djzbDbURK4eQgo5TllF.jpg"
     },
     {
-      "title": "Mary, Queen of Scots",
-      "release_date": "1971-12-22"
+        "title": "King Kong",
+        "year": 1976,
+        "id": 10730,
+        "poster": "https://image.tmdb.org/t/p/w200/paYKhEwUaxKA05vmOfU7FlleTln.jpg"
     },
     {
-      "title": "Follow Me! (film)",
-      "release_date": "1972-07-18"
+        "title": "Robin and Marian",
+        "year": 1976,
+        "id": 10786,
+        "poster": "https://image.tmdb.org/t/p/w200/y2UlVt6U8mFeegVL42rZjD5y6c7.jpg"
     },
     {
-      "title": "The Adventurer (TV series)",
-      "release_date": "1972"
+        "title": "Love Among the Ruins",
+        "year": 1976,
+        "id": 115507,
+        "poster": "https://image.tmdb.org/t/p/w200/8aVb0GgTFYse3A8NwT75rLW4kzO.jpg"
     },
     {
-      "title": "Alice's Adventures in Wonderland (1972 film)",
-      "release_date": "1972-11-20"
+        "title": "The White Buffalo",
+        "year": 1977,
+        "id": 47914,
+        "poster": "https://image.tmdb.org/t/p/w200/szvuG051LtheWv94QBcqldE4Wsu.jpg"
     },
     {
-      "title": "A Doll's House",
-      "release_date": "1973"
+        "title": "First Love",
+        "year": 1977,
+        "id": 142058,
+        "poster": "https://image.tmdb.org/t/p/w200/8bzVl61wdKhakT9xyhYwiXgqEYa.jpg"
     },
     {
-      "title": "Orson Welles Great Mysteries",
-      "release_date": "1973"
+        "title": "The Deep",
+        "year": 1977,
+        "id": 20416,
+        "poster": "https://image.tmdb.org/t/p/w200/4CbTHv23YLsQrvycL2ykyo8ttJB.jpg"
     },
     {
-      "title": "The Glass Menagerie (1973 film)",
-      "release_date": "1973"
+        "title": "Young Joe, the Forgotten Kennedy",
+        "year": 1977,
+        "id": 263219,
+        "poster": "https://image.tmdb.org/t/p/w200/5x169mjxckyNie4YNEwrfg8X9V6.jpg"
     },
     {
-      "title": "Billy (musical)",
-      "release_date": "1974"
+        "title": "Eleanor and Franklin: The White House Years",
+        "year": 1977,
+        "id": 263220,
+        "poster": null
     },
     {
-      "title": "The Tamarind Seed",
-      "release_date": "1974-06-11"
+        "title": "The War Between the Tates",
+        "year": 1977,
+        "id": 827558,
+        "poster": "https://image.tmdb.org/t/p/w200/yNhAkc4wzvKk9Zp8iKY3MuHHIDq.jpg"
     },
     {
-      "title": "Born Free (TV series)",
-      "release_date": "1974"
+        "title": "The Gathering",
+        "year": 1977,
+        "id": 146401,
+        "poster": "https://image.tmdb.org/t/p/w200/uj72lKjW4k7QbvIdgiNXhAMNyrG.jpg"
     },
     {
-      "title": "The Dove",
-      "release_date": "1974-10-16"
+        "title": "Game of Death",
+        "year": 1978,
+        "id": 13333,
+        "poster": "https://image.tmdb.org/t/p/w200/c6jgLHaQpdIPH1rC94KkjAqgE7O.jpg"
     },
     {
-      "title": "The Man with the Golden Gun (film)",
-      "release_date": "1974-12-18"
+        "title": "The Betsy",
+        "year": 1978,
+        "id": 58628,
+        "poster": "https://image.tmdb.org/t/p/w200/gK8kTSDTV8JIca8m00pHi3a2bml.jpg"
     },
     {
-      "title": "Love Among the Ruins (film)",
-      "release_date": "1975"
+        "title": "Starcrash",
+        "year": 1978,
+        "id": 22049,
+        "poster": "https://image.tmdb.org/t/p/w200/npJt35Q36aGcTYpcg9epbwQIIkz.jpg"
     },
     {
-      "title": "The Day of the Locust",
-      "release_date": "1975-05-07"
+        "title": "Moonraker",
+        "year": 1979,
+        "id": 698,
+        "poster": "https://image.tmdb.org/t/p/w200/6LrJdXNmu5uHOVALZxVYd44Lva0.jpg"
     },
     {
-      "title": "Eleanor and Franklin (miniseries)",
-      "release_date": "1976"
+        "title": "The Black Hole",
+        "year": 1979,
+        "id": 9570,
+        "poster": "https://image.tmdb.org/t/p/w200/gCqOJWvOK5UPospyrLANKfwRBlG.jpg"
     },
     {
-      "title": "Robin and Marian",
-      "release_date": "1976-03-11"
+        "title": "Willa",
+        "year": 1979,
+        "id": 542021,
+        "poster": "https://image.tmdb.org/t/p/w200/g21eiYRim3aqNTZwroerm1iz5O4.jpg"
     },
     {
-      "title": "King Kong",
-      "release_date": "1976-12-17"
+        "title": "The Corn Is Green",
+        "year": 1979,
+        "id": 148159,
+        "poster": "https://image.tmdb.org/t/p/w200/kpPNZGcq0LccTIJHK3XMPMD7A1X.jpg"
     },
     {
-      "title": "Eleanor and Franklin: The White House Years",
-      "release_date": "1977"
+        "title": "Hanover Street",
+        "year": 1979,
+        "id": 26659,
+        "poster": "https://image.tmdb.org/t/p/w200/8esk5JZ2ARFF7YFGVgyFalJL86M.jpg"
     },
     {
-      "title": "The White Buffalo",
-      "release_date": "1977-05-06"
+        "title": "Somewhere in Time",
+        "year": 1980,
+        "id": 16633,
+        "poster": "https://image.tmdb.org/t/p/w200/hmdegiSwVYUNvEfihaE3HRM3Sos.jpg"
     },
     {
-      "title": "The War Between the Tates",
-      "release_date": "1977"
+        "title": "Touched by Love",
+        "year": 1980,
+        "id": 261794,
+        "poster": "https://image.tmdb.org/t/p/w200/kXfqcs3OWxOr01zq0NALsEFJvMX.jpg"
     },
     {
-      "title": "The Deep",
-      "release_date": "1977-06-17"
+        "title": "Inside Moves",
+        "year": 1980,
+        "id": 39503,
+        "poster": "https://image.tmdb.org/t/p/w200/A65YXgdnVgRjkaeA0hSMzfoAlZz.jpg"
     },
     {
-      "title": "Young Joe, the Forgotten Kennedy",
-      "release_date": "1977"
+        "title": "Night Games",
+        "year": 1980,
+        "id": 217980,
+        "poster": "https://image.tmdb.org/t/p/w200/jkwnrl1BH5HsWmvUXDhDxfJkxmk.jpg"
     },
     {
-      "title": "First Love (1977 film)",
-      "release_date": "1977-11-04"
+        "title": "Raise the Titanic",
+        "year": 1980,
+        "id": 24575,
+        "poster": "https://image.tmdb.org/t/p/w200/XvukyvRCbkYKKv1TdtlyNxvzEl.jpg"
     },
     {
-      "title": "The Gathering (1977 film)",
-      "release_date": "1977"
+        "title": "Body Heat",
+        "year": 1981,
+        "id": 14412,
+        "poster": "https://image.tmdb.org/t/p/w200/5LipPcaW1J9IjAP7TOTesw8OcMS.jpg"
     },
     {
-      "title": "The Betsy",
-      "release_date": "1978-02-09"
+        "title": "The Legend of the Lone Ranger",
+        "year": 1981,
+        "id": 38665,
+        "poster": "https://image.tmdb.org/t/p/w200/6AgJFQsZm3JHry8ek13X0xKGWt6.jpg"
     },
     {
-      "title": "Game of Death",
-      "release_date": "2000-10-22"
+        "title": "Frances",
+        "year": 1982,
+        "id": 3526,
+        "poster": "https://image.tmdb.org/t/p/w200/eyUq8VBgoHncr0cXFTKgg3VPyfi.jpg"
     },
     {
-      "title": "Starcrash",
-      "release_date": "1978-12-10"
+        "title": "Murder by Phone",
+        "year": 1982,
+        "id": 81887,
+        "poster": "https://image.tmdb.org/t/p/w200/zwXPrXuvrtzME3zJjA4Y2RbOKrw.jpg"
     },
     {
-      "title": "The Corn Is Green",
-      "release_date": "1979"
+        "title": "Hammett",
+        "year": 1982,
+        "id": 28307,
+        "poster": "https://image.tmdb.org/t/p/w200/ssaXsTAhAYklEmhhjsMZfeyPCuD.jpg"
     },
     {
-      "title": "Willa",
-      "release_date": "1979"
+        "title": "Octopussy",
+        "year": 1983,
+        "id": 700,
+        "poster": "https://image.tmdb.org/t/p/w200/yoosZitM9igSk3Sd0sBXIhKlAh1.jpg"
     },
     {
-      "title": "Hanover Street",
-      "release_date": "1979-05-18"
+        "title": "High Road to China",
+        "year": 1983,
+        "id": 19606,
+        "poster": "https://image.tmdb.org/t/p/w200/ts6Pykj9IuVm1eWwaWiVl8Gzxqt.jpg"
     },
     {
-      "title": "Moonraker (film)",
-      "release_date": "1979-06-26"
+        "title": "Svengali",
+        "year": 1983,
+        "id": 144208,
+        "poster": "https://image.tmdb.org/t/p/w200/rIMocGdCrs26kRQSk1HHpInDrlg.jpg"
     },
     {
-      "title": "The Black Hole",
-      "release_date": "1979-12-18"
+        "title": "The Cotton Club",
+        "year": 1984,
+        "id": 2148,
+        "poster": "https://image.tmdb.org/t/p/w200/jgCsLhIRLKlvUy1p1iImCi0nPnX.jpg"
     },
     {
-      "title": "Night Games (1980 film)",
-      "release_date": "1980-04-11"
+        "title": "Mike's Murder",
+        "year": 1984,
+        "id": 31043,
+        "poster": "https://image.tmdb.org/t/p/w200/cOL77kZUxKqYmvc17WRAAm4Nk7q.jpg"
     },
     {
-      "title": "Raise the Titanic (film)",
-      "release_date": "1980-07-30"
+        "title": "Until September",
+        "year": 1984,
+        "id": 52778,
+        "poster": "https://image.tmdb.org/t/p/w200/mRuQwRuPyYBvxGbaftSm4tUaGBo.jpg"
     },
     {
-      "title": "Somewhere in Time (film)",
-      "release_date": "1980-10-03"
+        "title": "Out of Africa",
+        "year": 1985,
+        "id": 606,
+        "poster": "https://image.tmdb.org/t/p/w200/6oMKqh08TfxmvnoFR4mm1wZB67P.jpg"
     },
     {
-      "title": "Touched by Love",
-      "release_date": "1980-04-17"
+        "title": "A View to a Kill",
+        "year": 1985,
+        "id": 707,
+        "poster": "https://image.tmdb.org/t/p/w200/arJF829RP9cYvh0NU70dC5TtXSa.jpg"
     },
     {
-      "title": "Inside Moves",
-      "release_date": "1980-12-19"
+        "title": "A Killing Affair",
+        "year": 1985,
+        "id": 5527,
+        "poster": "https://image.tmdb.org/t/p/w200/ws5Hz7Sh6GrN06fMeJeorqjRxP2.jpg"
     },
     {
-      "title": "The Legend of the Lone Ranger",
-      "release_date": "1981-05-22"
+        "title": "Jagged Edge",
+        "year": 1985,
+        "id": 12235,
+        "poster": "https://image.tmdb.org/t/p/w200/wHYjo3NLc293ZEXVSGhRIUr3Iqi.jpg"
     },
     {
-      "title": "Body Heat",
-      "release_date": "1981-08-28"
+        "title": "Peggy Sue Got Married",
+        "year": 1986,
+        "id": 10013,
+        "poster": "https://image.tmdb.org/t/p/w200/tfuQcvQmURiMqB2VPwytU3cPpEm.jpg"
     },
     {
-      "title": "The Little Prince and the Aviator",
-      "release_date": "1981"
+        "title": "Howard the Duck",
+        "year": 1986,
+        "id": 10658,
+        "poster": "https://image.tmdb.org/t/p/w200/eU0dWo8PJgsSAZFbcyHiUpuLSyW.jpg"
     },
     {
-      "title": "Hammett",
-      "release_date": "1982"
+        "title": "The Living Daylights",
+        "year": 1987,
+        "id": 708,
+        "poster": "https://image.tmdb.org/t/p/w200/1oRlmWX9hewpn2B44wawBjHd7dx.jpg"
     },
     {
-      "title": "Murder by Phone",
-      "release_date": "1982"
+        "title": "Hearts of Fire",
+        "year": 1987,
+        "id": 126836,
+        "poster": "https://image.tmdb.org/t/p/w200/lmQcmvGDqPafoJqGuy2VoibUe3v.jpg"
     },
     {
-      "title": "Frances",
-      "release_date": "1982-12-03"
+        "title": "Masquerade",
+        "year": 1988,
+        "id": 41963,
+        "poster": "https://image.tmdb.org/t/p/w200/uCVrSsjp5Hlb4y96reEKo1nQJ2d.jpg"
     },
     {
-      "title": "High Road to China",
-      "release_date": "1983-03-18"
+        "title": "Dances with Wolves",
+        "year": 1990,
+        "id": 581,
+        "poster": "https://image.tmdb.org/t/p/w200/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg"
     },
     {
-      "title": "Octopussy",
-      "release_date": "1983-06-06"
+        "title": "Chaplin",
+        "year": 1992,
+        "id": 10435,
+        "poster": "https://image.tmdb.org/t/p/w200/53auOJUsPP2YE97HTYgBQ0WO2gO.jpg"
     },
     {
-      "title": "The Golden Seal",
-      "release_date": "1983"
+        "title": "Ruby Cairo",
+        "year": 1992,
+        "id": 69035,
+        "poster": "https://image.tmdb.org/t/p/w200/4K5XRQrCfALbGoLBsJb7hUwDZGV.jpg"
     },
     {
-      "title": "Svengali",
-      "release_date": "1983"
+        "title": "Indecent Proposal",
+        "year": 1993,
+        "id": 4478,
+        "poster": "https://image.tmdb.org/t/p/w200/a39WoiTJEG5kNLIrr3kOMwg3LFg.jpg"
     },
     {
-      "title": "Mike's Murder",
-      "release_date": "1984-03-09"
+        "title": "My Life",
+        "year": 1993,
+        "id": 41659,
+        "poster": "https://image.tmdb.org/t/p/w200/eF8wNMMqY3kukUTTAVXLLx94UhB.jpg"
     },
     {
-      "title": "Until September",
-      "release_date": "1984-09-21"
+        "title": "The Specialist",
+        "year": 1994,
+        "id": 2636,
+        "poster": "https://image.tmdb.org/t/p/w200/9CVAjtkSaFs9FyddGfThj11ZuQq.jpg"
     },
     {
-      "title": "The Cotton Club",
-      "release_date": "1984-12-14"
+        "title": "The Scarlet Letter",
+        "year": 1995,
+        "id": 10533,
+        "poster": "https://image.tmdb.org/t/p/w200/8gIU7O3oV6NyWUjlL6ppbpnIZLW.jpg"
     },
     {
-      "title": "A View to a Kill",
-      "release_date": "1985-05-22"
+        "title": "Cry, the Beloved Country",
+        "year": 1995,
+        "id": 34615,
+        "poster": "https://image.tmdb.org/t/p/w200/96TZr6o4kuiIEryC5jkzaQoP6m5.jpg"
     },
     {
-      "title": "Jagged Edge",
-      "release_date": "1985-10-04"
+        "title": "Playing by Heart",
+        "year": 1998,
+        "id": 825,
+        "poster": "https://image.tmdb.org/t/p/w200/3neHR1oPnC0OpcYhLn0TEdSHoEp.jpg"
     },
     {
-      "title": "Out of Africa",
-      "release_date": "1985-12-18"
+        "title": "Swept from the Sea",
+        "year": 1998,
+        "id": 1959,
+        "poster": "https://image.tmdb.org/t/p/w200/w5Or62J6mF099MQcn0Cq8ycIfqB.jpg"
     },
     {
-      "title": "A Killing Affair",
-      "release_date": "1988-07-15"
+        "title": "Mercury Rising",
+        "year": 1998,
+        "id": 8838,
+        "poster": "https://image.tmdb.org/t/p/w200/60AAso6I2TzQCy2SjqtzPni8csA.jpg"
     },
     {
-      "title": "Howard the Duck",
-      "release_date": "1986-08-01"
+        "title": "Enigma",
+        "year": 2001,
+        "id": 10491,
+        "poster": "https://image.tmdb.org/t/p/w200/7gBFkDYBqvSzrPOWlpGTXRp97NQ.jpg"
     },
     {
-      "title": "Peggy Sue Got Married",
-      "release_date": "1986-10-10"
-    },
-    {
-      "title": "The Golden Child",
-      "release_date": "1986-12-12"
-    },
-    {
-      "title": "The Living Daylights",
-      "release_date": "1987-06-29"
-    },
-    {
-      "title": "Hearts of Fire",
-      "release_date": "1987-10-09"
-    },
-    {
-      "title": "Masquerade",
-      "release_date": "1988-03-11"
-    },
-    {
-      "title": "USA Today: The Television Show",
-      "release_date": "1988"
+        "title": "The Final Game of Death",
+        "year": 2023,
+        "id": 1153314,
+        "poster": "https://image.tmdb.org/t/p/w200/riauZaxIBc0qvbXmfkTqnSx1Vip.jpg"
     }
-  ]
-}
+]

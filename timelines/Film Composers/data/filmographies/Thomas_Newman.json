@@ -1,433 +1,614 @@
-{
-  "composer": "Thomas Newman",
-  "filmography": [
+[
     {
-      "title": "The Paper Chase",
-      "release_date": "1973-10-16"
+        "title": "Grandview, U.S.A.",
+        "year": 1984,
+        "id": 84116,
+        "poster": "https://image.tmdb.org/t/p/w200/zjwdW85VNLuNxAutlGRHtoY0srR.jpg"
     },
     {
-      "title": "Reckless",
-      "release_date": "1984-02-03"
+        "title": "Revenge of the Nerds",
+        "year": 1984,
+        "id": 14052,
+        "poster": "https://image.tmdb.org/t/p/w200/v8aETLufi4WIinhQ994oWkehtaC.jpg"
     },
     {
-      "title": "Revenge of the Nerds",
-      "release_date": "1984-07-20"
+        "title": "Reckless",
+        "year": 1984,
+        "id": 38702,
+        "poster": "https://image.tmdb.org/t/p/w200/AmPWfm3oN8LkRoe9zWBQALkSbu5.jpg"
     },
     {
-      "title": "Grandview, U.S.A.",
-      "release_date": "1984-08-03"
+        "title": "The Seduction of Gina",
+        "year": 1984,
+        "id": 475308,
+        "poster": "https://image.tmdb.org/t/p/w200/nhTAEkVzH5E09W4mDADTttV9JQu.jpg"
     },
     {
-      "title": "Desperately Seeking Susan",
-      "release_date": "1985-04-12"
+        "title": "The Man with One Red Shoe",
+        "year": 1985,
+        "id": 10905,
+        "poster": "https://image.tmdb.org/t/p/w200/lD44uiCKnLVCKiEnB0urtqIR0nE.jpg"
     },
     {
-      "title": "Girls Just Want to Have Fun",
-      "release_date": "1985-04-12"
+        "title": "Real Genius",
+        "year": 1985,
+        "id": 14370,
+        "poster": "https://image.tmdb.org/t/p/w200/8az0Tr8hEGDmrUH9WlFz1QIKsMy.jpg"
     },
     {
-      "title": "The Man with One Red Shoe",
-      "release_date": "1985-07-19"
+        "title": "Summer's End",
+        "year": 1985,
+        "id": 503087,
+        "poster": "https://image.tmdb.org/t/p/w200/eKtvV7RxGcKIM0tWCTzEmxye9Rw.jpg"
     },
     {
-      "title": "Real Genius",
-      "release_date": "1985-08-07"
+        "title": "Desperately Seeking Susan",
+        "year": 1985,
+        "id": 8130,
+        "poster": "https://image.tmdb.org/t/p/w200/ighImRgzYzZ88skBHaT4B7ntJG8.jpg"
     },
     {
-      "title": "Gung Ho",
-      "release_date": "1986-03-14"
+        "title": "Girls Just Want to Have Fun",
+        "year": 1985,
+        "id": 16263,
+        "poster": "https://image.tmdb.org/t/p/w200/yhbuTnTA6wu5hOXL5uc3rRFLnCl.jpg"
     },
     {
-      "title": "Jumpin' Jack Flash",
-      "release_date": "1986-10-10"
+        "title": "Jumpin' Jack Flash",
+        "year": 1986,
+        "id": 10945,
+        "poster": "https://image.tmdb.org/t/p/w200/znVUM7RUBwQ16Q9lTmuMpaWJ7so.jpg"
     },
     {
-      "title": "Light of Day",
-      "release_date": "1987-02-06"
+        "title": "Gung Ho",
+        "year": 1986,
+        "id": 13698,
+        "poster": "https://image.tmdb.org/t/p/w200/sxnlQEb8dugTFK2KyFrq3iv3bHn.jpg"
     },
     {
-      "title": "The Lost Boys",
-      "release_date": "1987-07-31"
+        "title": "American Geisha",
+        "year": 1986,
+        "id": 1025430,
+        "poster": "https://image.tmdb.org/t/p/w200/gMutYQ3gHfSelEmJhc8ivZ8Wp80.jpg"
     },
     {
-      "title": "Less than Zero",
-      "release_date": "1987-11-06"
+        "title": "Light of Day",
+        "year": 1987,
+        "id": 2115,
+        "poster": "https://image.tmdb.org/t/p/w200/hFXnASDyZd3i9TOuBPUtJRvfZsK.jpg"
     },
     {
-      "title": "Amazing Stories",
-      "release_date": "1987"
+        "title": "Less Than Zero",
+        "year": 1987,
+        "id": 13703,
+        "poster": "https://image.tmdb.org/t/p/w200/8pFMuyJJwJLqOJ3Ljq3M5BFGbTF.jpg"
     },
     {
-      "title": "The Great Outdoors",
-      "release_date": "1988-06-17"
+        "title": "The Lost Boys",
+        "year": 1987,
+        "id": 1547,
+        "poster": "https://image.tmdb.org/t/p/w200/nH1lvyQvfbL5GKScTtT6zkIvDEn.jpg"
     },
     {
-      "title": "The Prince of Pennsylvania",
-      "release_date": "1988-09-11"
+        "title": "The Great Outdoors",
+        "year": 1988,
+        "id": 2617,
+        "poster": "https://image.tmdb.org/t/p/w200/zxIoPZiqKOxrWvieumpxA6bOgkt.jpg"
     },
     {
-      "title": "Cookie",
-      "release_date": "1989-08-23"
+        "title": "The Prince of Pennsylvania",
+        "year": 1988,
+        "id": 369775,
+        "poster": "https://image.tmdb.org/t/p/w200/h8GSRQUFQe0vaJXQdhINaUCNsYi.jpg"
     },
     {
-      "title": "Men Don't Leave",
-      "release_date": "1990-02-02"
+        "title": "Cookie",
+        "year": 1989,
+        "id": 86093,
+        "poster": "https://image.tmdb.org/t/p/w200/z37uyPcHdQoXFXSywqsUJTeFAPc.jpg"
     },
     {
-      "title": "Welcome Home, Roxy Carmichael",
-      "release_date": "1990-10-12"
+        "title": "Men Don't Leave",
+        "year": 1990,
+        "id": 91217,
+        "poster": "https://image.tmdb.org/t/p/w200/8sgKZiKaOh8QJxSbrW2Ds2wvWr9.jpg"
     },
     {
-      "title": "Heat Wave",
-      "release_date": "1990"
+        "title": "Heat Wave",
+        "year": 1990,
+        "id": 297850,
+        "poster": "https://image.tmdb.org/t/p/w200/sHFTfYRwEOHqUHl05MJmoWu0Dyx.jpg"
     },
     {
-      "title": "Career Opportunities",
-      "release_date": "1991-03-29"
+        "title": "Welcome Home, Roxy Carmichael",
+        "year": 1990,
+        "id": 31923,
+        "poster": "https://image.tmdb.org/t/p/w200/774bDgRxf7TfNu6E55xBEcw0lME.jpg"
     },
     {
-      "title": "The Linguini Incident",
-      "release_date": "1991-10-30"
+        "title": "Naked Tango",
+        "year": 1990,
+        "id": 60801,
+        "poster": "https://image.tmdb.org/t/p/w200/iVGEZrsaNsSudakEp6Q46AqKs45.jpg"
     },
     {
-      "title": "Naked Tango",
-      "release_date": "1990-09-27"
+        "title": "The Rapture",
+        "year": 1991,
+        "id": 1411,
+        "poster": "https://image.tmdb.org/t/p/w200/4EkFm13ecqO0eszr7OKT8vf1YjJ.jpg"
     },
     {
-      "title": "The Rapture",
-      "release_date": "1991-09-06"
+        "title": "Deceived",
+        "year": 1991,
+        "id": 28455,
+        "poster": "https://image.tmdb.org/t/p/w200/j18E6rNmvPf6ALnWHrvn9IBvI7H.jpg"
     },
     {
-      "title": "Deceived",
-      "release_date": "1991-09-27"
+        "title": "The Linguini Incident",
+        "year": 1991,
+        "id": 47252,
+        "poster": "https://image.tmdb.org/t/p/w200/b8sNxBOXxbXO7jO8DOOnf2wiAxC.jpg"
     },
     {
-      "title": "Fried Green Tomatoes",
-      "release_date": "1991-12-27"
+        "title": "Career Opportunities",
+        "year": 1991,
+        "id": 16270,
+        "poster": "https://image.tmdb.org/t/p/w200/x2sSRi8ZqOIjtk2fpGMTuMf4qJv.jpg"
     },
     {
-      "title": "The Player",
-      "release_date": "1992-04-03"
+        "title": "Fried Green Tomatoes",
+        "year": 1991,
+        "id": 1633,
+        "poster": "https://image.tmdb.org/t/p/w200/g71l1vbJwyAAYk8zKCkIQQ58qcb.jpg"
     },
     {
-      "title": "Whispers in the Dark",
-      "release_date": "1992-08-07"
+        "title": "The Player",
+        "year": 1992,
+        "id": 10403,
+        "poster": "https://image.tmdb.org/t/p/w200/tZ3kDut2dhFVGkWNEn9xoCHCNAx.jpg"
     },
     {
-      "title": "Scent of a Woman",
-      "release_date": "1992-12-23"
+        "title": "Scent of a Woman",
+        "year": 1992,
+        "id": 9475,
+        "poster": "https://image.tmdb.org/t/p/w200/4adI7IaveWb7EidYXfLb3MK3CgO.jpg"
     },
     {
-      "title": "Those Secrets",
-      "release_date": "1992"
+        "title": "Whispers in the Dark",
+        "year": 1992,
+        "id": 88174,
+        "poster": "https://image.tmdb.org/t/p/w200/c7n1fZuUMeEVspvzOrIUCz4XdCe.jpg"
     },
     {
-      "title": "Citizen Cohn",
-      "release_date": "1992"
+        "title": "Citizen Cohn",
+        "year": 1992,
+        "id": 75145,
+        "poster": "https://image.tmdb.org/t/p/w200/2Eqgea16BiNen8nFzFV5IDQCq7o.jpg"
     },
     {
-      "title": "Flesh and Bone",
-      "release_date": "1993-11-05"
+        "title": "Those Secrets",
+        "year": 1992,
+        "id": 281528,
+        "poster": "https://image.tmdb.org/t/p/w200/3OOsXtRArjomEPgUJI2pwExZ5mh.jpg"
     },
     {
-      "title": "Josh and S.A.M.",
-      "release_date": "1993-11-24"
+        "title": "Josh & S.A.M.",
+        "year": 1993,
+        "id": 48706,
+        "poster": "https://image.tmdb.org/t/p/w200/dWggqpyiZzhvpIyef5ZPB4Lsscu.jpg"
     },
     {
-      "title": "Threesome",
-      "release_date": "1994-04-08"
+        "title": "Flesh and Bone",
+        "year": 1993,
+        "id": 18551,
+        "poster": "https://image.tmdb.org/t/p/w200/gNaZSODlVRiQltGWjS8vQZEYJTq.jpg"
     },
     {
-      "title": "The Favor",
-      "release_date": "1994-04-29"
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "id": 278,
+        "poster": "https://image.tmdb.org/t/p/w200/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg"
     },
     {
-      "title": "The Shawshank Redemption",
-      "release_date": "1994-09-10"
+        "title": "Little Women",
+        "year": 1994,
+        "id": 9587,
+        "poster": "https://image.tmdb.org/t/p/w200/1ZzH1XMcKAe5NdrKL5MfcqZHHsZ.jpg"
     },
     {
-      "title": "The War",
-      "release_date": "1994-11-04"
+        "title": "Threesome",
+        "year": 1994,
+        "id": 10635,
+        "poster": "https://image.tmdb.org/t/p/w200/vR6qwjChOV4Z9940VA9chucNpne.jpg"
     },
     {
-      "title": "Little Women",
-      "release_date": "1994-12-25"
+        "title": "The Favor",
+        "year": 1994,
+        "id": 50463,
+        "poster": "https://image.tmdb.org/t/p/w200/uFooKexRxruACuxnkQVmwf3nNcU.jpg"
     },
     {
-      "title": "Unstrung Heroes",
-      "release_date": "1995-09-15"
+        "title": "The War",
+        "year": 1994,
+        "id": 19855,
+        "poster": "https://image.tmdb.org/t/p/w200/eMJYqr5zs7rz54oZhiX4ez1BI5E.jpg"
     },
     {
-      "title": "How to Make an American Quilt",
-      "release_date": "1995-10-06"
+        "title": "How to Make an American Quilt",
+        "year": 1995,
+        "id": 11861,
+        "poster": "https://image.tmdb.org/t/p/w200/pI9UAemlWgdrnjRgYJsbTk8BSJc.jpg"
     },
     {
-      "title": "Up Close & Personal",
-      "release_date": "1996-03-01"
+        "title": "Unstrung Heroes",
+        "year": 1995,
+        "id": 52856,
+        "poster": "https://image.tmdb.org/t/p/w200/twnqc80AL55WYnCVz4nMGEGcL7.jpg"
     },
     {
-      "title": "Phenomenon",
-      "release_date": "1996-07-03"
+        "title": "American Buffalo",
+        "year": 1996,
+        "id": 31546,
+        "poster": "https://image.tmdb.org/t/p/w200/tkIMquxwzMzZUrnAv43e3w0eX0F.jpg"
     },
     {
-      "title": "American Buffalo",
-      "release_date": "1996-09-13"
+        "title": "Up Close & Personal",
+        "year": 1996,
+        "id": 9302,
+        "poster": "https://image.tmdb.org/t/p/w200/zF67qcf7skMHLpXnifodinUqCFr.jpg"
     },
     {
-      "title": "The People vs. Larry Flynt",
-      "release_date": "1996-10-13"
+        "title": "Phenomenon",
+        "year": 1996,
+        "id": 9294,
+        "poster": "https://image.tmdb.org/t/p/w200/p4CGc4HxuMCDoYC3yVsdAMQDzGo.jpg"
     },
     {
-      "title": "Red Corner",
-      "release_date": "1997-10-31"
+        "title": "The People vs. Larry Flynt",
+        "year": 1996,
+        "id": 1630,
+        "poster": "https://image.tmdb.org/t/p/w200/sAgHn7ys6TiVXBDTZ0UBEjinIUk.jpg"
     },
     {
-      "title": "Mad City",
-      "release_date": "1997-11-07"
+        "title": "Red Corner",
+        "year": 1997,
+        "id": 9407,
+        "poster": "https://image.tmdb.org/t/p/w200/xsIbKOO1CacqTagyJmEGGf4kOnn.jpg"
     },
     {
-      "title": "Oscar and Lucinda",
-      "release_date": "1997-12-31"
+        "title": "Mad City",
+        "year": 1997,
+        "id": 9770,
+        "poster": "https://image.tmdb.org/t/p/w200/wXb9KGqxyrAHNygRRI1HW1BhcU.jpg"
     },
     {
-      "title": "The Horse Whisperer",
-      "release_date": "1998-05-15"
+        "title": "Oscar and Lucinda",
+        "year": 1997,
+        "id": 39780,
+        "poster": "https://image.tmdb.org/t/p/w200/9naDX3u4hsRM8jZ0Y7k5e2HAKmY.jpg"
     },
     {
-      "title": "Meet Joe Black",
-      "release_date": "1998-11-08"
+        "title": "Meet Joe Black",
+        "year": 1998,
+        "id": 297,
+        "poster": "https://image.tmdb.org/t/p/w200/fDPAjvfPMomkKF7cMRmL5Anak61.jpg"
     },
     {
-      "title": "American Beauty",
-      "release_date": "1999-09-08"
+        "title": "The Horse Whisperer",
+        "year": 1998,
+        "id": 547,
+        "poster": "https://image.tmdb.org/t/p/w200/ptkDeHY2mRJVyNRyxb9TgyAjTYs.jpg"
     },
     {
-      "title": "The Green Mile",
-      "release_date": "1999-12-10"
+        "title": "American Beauty",
+        "year": 1999,
+        "id": 14,
+        "poster": "https://image.tmdb.org/t/p/w200/wby9315QzVKdW9BonAefg8jGTTb.jpg"
     },
     {
-      "title": "Erin Brockovich",
-      "release_date": "2000-03-14"
+        "title": "The Green Mile",
+        "year": 1999,
+        "id": 497,
+        "poster": "https://image.tmdb.org/t/p/w200/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg"
     },
     {
-      "title": "Pay It Forward",
-      "release_date": "2000-10-20"
+        "title": "Erin Brockovich",
+        "year": 2000,
+        "id": 462,
+        "poster": "https://image.tmdb.org/t/p/w200/eMs20iUQyZVs05Ck7Q0LNnRsstr.jpg"
     },
     {
-      "title": "Boston Public",
-      "release_date": "2000"
+        "title": "Pay It Forward",
+        "year": 2000,
+        "id": 10647,
+        "poster": "https://image.tmdb.org/t/p/w200/62OIokwaxFwBFWM147ijLJsaVJD.jpg"
     },
     {
-      "title": "In the Bedroom",
-      "release_date": "2001-01-19"
+        "title": "In the Bedroom",
+        "year": 2001,
+        "id": 1999,
+        "poster": "https://image.tmdb.org/t/p/w200/IQj11YbraLDyPYaz79jtDoAscc.jpg"
     },
     {
-      "title": "Six Feet Under",
-      "release_date": "2001"
+        "title": "Road to Perdition",
+        "year": 2002,
+        "id": 4147,
+        "poster": "https://image.tmdb.org/t/p/w200/loSpBeirRfTPJ3cMIqpQArstGhh.jpg"
     },
     {
-      "title": "The Salton Sea",
-      "release_date": "2002-04-26"
+        "title": "White Oleander",
+        "year": 2002,
+        "id": 10994,
+        "poster": "https://image.tmdb.org/t/p/w200/pOdmhUaqvg4twAHqrhL5Onjgalb.jpg"
     },
     {
-      "title": "Road to Perdition",
-      "release_date": "2002-07-12"
+        "title": "The Salton Sea",
+        "year": 2002,
+        "id": 11468,
+        "poster": "https://image.tmdb.org/t/p/w200/i3InMSlLUNBEdQTKazMdyVP1ryX.jpg"
     },
     {
-      "title": "White Oleander",
-      "release_date": "2002-10-11"
+        "title": "Finding Nemo",
+        "year": 2003,
+        "id": 12,
+        "poster": "https://image.tmdb.org/t/p/w200/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg"
     },
     {
-      "title": "Finding Nemo",
-      "release_date": "2003-05-18"
+        "title": "Lemony Snicket's A Series of Unfortunate Events",
+        "year": 2004,
+        "id": 11774,
+        "poster": "https://image.tmdb.org/t/p/w200/76Xi8z7Whv5WFIdfzzvC5tKSicd.jpg"
     },
     {
-      "title": "Angels in America",
-      "release_date": "2003"
+        "title": "Jarhead",
+        "year": 2005,
+        "id": 25,
+        "poster": "https://image.tmdb.org/t/p/w200/6vdj47RAWOUZBkeQmqToeZ7eaio.jpg"
     },
     {
-      "title": "Lemony Snicket's A Seriesof Unfortunate Events",
-      "release_date": "2004"
+        "title": "Cinderella Man",
+        "year": 2005,
+        "id": 921,
+        "poster": "https://image.tmdb.org/t/p/w200/wkeOjIcpuqLMW4GnVowlM9VI0JE.jpg"
     },
     {
-      "title": "Cinderella Man",
-      "release_date": "2005-06-03"
+        "title": "Little Children",
+        "year": 2006,
+        "id": 1440,
+        "poster": "https://image.tmdb.org/t/p/w200/l2wTSP0Ifo9vY03nJEfkFBbT2S9.jpg"
     },
     {
-      "title": "Jarhead",
-      "release_date": "2005-11-04"
+        "title": "The Good German",
+        "year": 2006,
+        "id": 182,
+        "poster": "https://image.tmdb.org/t/p/w200/3LjHC2CWDkzoiPehf3GViujws0.jpg"
     },
     {
-      "title": "Little Children",
-      "release_date": "2006-10-06"
+        "title": "Towelhead",
+        "year": 2008,
+        "id": 10190,
+        "poster": "https://image.tmdb.org/t/p/w200/2j8CNzvRzdICkwRXojdrDyT65J1.jpg"
     },
     {
-      "title": "The Good German",
-      "release_date": "2006-12-15"
+        "title": "WALL\u00b7E",
+        "year": 2008,
+        "id": 10681,
+        "poster": "https://image.tmdb.org/t/p/w200/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg"
     },
     {
-      "title": "Towelhead",
-      "release_date": "2007-09-08"
+        "title": "Revolutionary Road",
+        "year": 2008,
+        "id": 4148,
+        "poster": "https://image.tmdb.org/t/p/w200/cvkD3yiVXLg3as8EAG3LaTycONQ.jpg"
     },
     {
-      "title": "WALL-E",
-      "release_date": "2008-06-23"
+        "title": "Brothers",
+        "year": 2009,
+        "id": 7445,
+        "poster": "https://image.tmdb.org/t/p/w200/skHqceAFYee0JZuYd9MVk2IQggi.jpg"
     },
     {
-      "title": "Revolutionary Road",
-      "release_date": "2008-12-26"
+        "title": "The Debt",
+        "year": 2010,
+        "id": 48289,
+        "poster": "https://image.tmdb.org/t/p/w200/zlavkPAIzIIQppcU9vcQrKZjfmb.jpg"
     },
     {
-      "title": "Brothers",
-      "release_date": "2009-12-04"
+        "title": "The Adjustment Bureau",
+        "year": 2011,
+        "id": 38050,
+        "poster": "https://image.tmdb.org/t/p/w200/5ZzeR8iz1nEFLp94OBnbakLZawo.jpg"
     },
     {
-      "title": "The Adjustment Bureau",
-      "release_date": "2011-02-14"
+        "title": "The Iron Lady",
+        "year": 2011,
+        "id": 71688,
+        "poster": "https://image.tmdb.org/t/p/w200/fx7wpKXOht7WOkeOslvErbrf69Q.jpg"
     },
     {
-      "title": "The Help",
-      "release_date": "2011-07-30"
+        "title": "The Help",
+        "year": 2011,
+        "id": 50014,
+        "poster": "https://image.tmdb.org/t/p/w200/3kmfoWWEc9Vtyuaf9v5VipRgdjx.jpg"
     },
     {
-      "title": "The Debt",
-      "release_date": "2010-09-04"
+        "title": "Alien",
+        "year": 2011,
+        "id": 1606099,
+        "poster": "https://image.tmdb.org/t/p/w200/zXVCm1OqP4Zj6u5NyDWdJduFUHq.jpg"
     },
     {
-      "title": "The Iron Lady",
-      "release_date": "2011-12-26"
+        "title": "Skyfall",
+        "year": 2012,
+        "id": 37724,
+        "poster": "https://image.tmdb.org/t/p/w200/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg"
     },
     {
-      "title": "The Best Exotic Marigold Hotel",
-      "release_date": "2011-11-30"
+        "title": "The Best Exotic Marigold Hotel",
+        "year": 2012,
+        "id": 74534,
+        "poster": "https://image.tmdb.org/t/p/w200/gNWiOKTWDvPTpr7QfPWk18gLftz.jpg"
     },
     {
-      "title": "Skyfall",
-      "release_date": "2012-10-23"
+        "title": "Saving Mr. Banks",
+        "year": 2013,
+        "id": 140823,
+        "poster": "https://image.tmdb.org/t/p/w200/4RkcUe5PKnYvrCwMjk8giUAoID7.jpg"
     },
     {
-      "title": "The Newsroom",
-      "release_date": "2012"
+        "title": "Side Effects",
+        "year": 2013,
+        "id": 109421,
+        "poster": "https://image.tmdb.org/t/p/w200/dk10bwGyj8aRdOTl3EkgATEefh2.jpg"
     },
     {
-      "title": "Side Effects",
-      "release_date": "2013-02-08"
+        "title": "The Judge",
+        "year": 2014,
+        "id": 205587,
+        "poster": "https://image.tmdb.org/t/p/w200/3K93GWotLXe4FqpErri0xkpLaD5.jpg"
     },
     {
-      "title": "Saving Mr. Banks",
-      "release_date": "2013-10-20"
+        "title": "Get On Up",
+        "year": 2014,
+        "id": 239566,
+        "poster": "https://image.tmdb.org/t/p/w200/dVbGeU5agxFGcJnL5hk4uO8W7i2.jpg"
     },
     {
-      "title": "Get On Up",
-      "release_date": "2014-08-01"
+        "title": "Spectre",
+        "year": 2015,
+        "id": 206647,
+        "poster": "https://image.tmdb.org/t/p/w200/zj8ongFhtWNsVlfjOGo8pSr7PQg.jpg"
     },
     {
-      "title": "The Judge",
-      "release_date": "2014-09-04"
+        "title": "Bridge of Spies",
+        "year": 2015,
+        "id": 296098,
+        "poster": "https://image.tmdb.org/t/p/w200/fmOOjHAQzxr0c1sfcY4qkiSRBH6.jpg"
     },
     {
-      "title": "The Second Best Exotic Marigold Hotel",
-      "release_date": "2015-02-17"
+        "title": "The Second Best Exotic Marigold Hotel",
+        "year": 2015,
+        "id": 268238,
+        "poster": "https://image.tmdb.org/t/p/w200/j4PARl3gDpv2K45YAv0tgocLW5K.jpg"
     },
     {
-      "title": "He Named Me Malala",
-      "release_date": "2015-09-04"
+        "title": "He Named Me Malala",
+        "year": 2015,
+        "id": 338928,
+        "poster": "https://image.tmdb.org/t/p/w200/lOYrqRKhOrPd5RvWoyTw71KVI6z.jpg"
     },
     {
-      "title": "Bridge of Spies",
-      "release_date": "2015-10-04"
+        "title": "Finding Dory",
+        "year": 2016,
+        "id": 127380,
+        "poster": "https://image.tmdb.org/t/p/w200/3UVe8NL1E2ZdUZ9EDlKGJY5UzE.jpg"
     },
     {
-      "title": "Spectre",
-      "release_date": "2015-10-26"
+        "title": "Passengers",
+        "year": 2016,
+        "id": 274870,
+        "poster": "https://image.tmdb.org/t/p/w200/jK9S6HANSf2no64v1x1HxfcpmcA.jpg"
     },
     {
-      "title": "Finding Dory",
-      "release_date": "2016-06-08"
+        "title": "Victoria & Abdul",
+        "year": 2017,
+        "id": 423899,
+        "poster": "https://image.tmdb.org/t/p/w200/uIzQ8zZ0rqjqqJUIpeeovtTryAa.jpg"
     },
     {
-      "title": "Passengers",
-      "release_date": "2016-12-14"
+        "title": "Thank You for Your Service",
+        "year": 2017,
+        "id": 347629,
+        "poster": "https://image.tmdb.org/t/p/w200/z8OKWw6DAZAOyz8F421euawr3Hs.jpg"
     },
     {
-      "title": "Victoria & Abdul",
-      "release_date": "2017-09-03"
+        "title": "The Highwaymen",
+        "year": 2019,
+        "id": 500682,
+        "poster": "https://image.tmdb.org/t/p/w200/4bRYg4l12yDuJvAfqvUOPnBrxno.jpg"
     },
     {
-      "title": "Thank You for Your Service",
-      "release_date": "2017-10-15"
+        "title": "1917",
+        "year": 2019,
+        "id": 530915,
+        "poster": "https://image.tmdb.org/t/p/w200/iZf0KyrE25z1sage4SYFLCCrMi9.jpg"
     },
     {
-      "title": "Five Came Back",
-      "release_date": "1939-06-23"
+        "title": "Tolkien",
+        "year": 2019,
+        "id": 468224,
+        "poster": "https://image.tmdb.org/t/p/w200/A7eYO3t7oZQdfJj5KlJBI7GhT9H.jpg"
     },
     {
-      "title": "Castle Rock",
-      "release_date": "2018"
+        "title": "Let Them All Talk",
+        "year": 2020,
+        "id": 623856,
+        "poster": "https://image.tmdb.org/t/p/w200/4mhZqZ7nXL6Dj6PKZSseJxv1qXZ.jpg"
     },
     {
-      "title": "The Highwaymen",
-      "release_date": "2019-03-10"
+        "title": "The Little Things",
+        "year": 2021,
+        "id": 602269,
+        "poster": "https://image.tmdb.org/t/p/w200/tLO1aD1ghdtVMT32z2sRmzgYKYd.jpg"
     },
     {
-      "title": "Tolkien",
-      "release_date": "2019-05-03"
+        "title": "Operation Mincemeat",
+        "year": 2022,
+        "id": 661231,
+        "poster": "https://image.tmdb.org/t/p/w200/tfdfh1mK24VujxT5z11732asxdR.jpg"
     },
     {
-      "title": "1917",
-      "release_date": "2019-12-04"
+        "title": "Dog",
+        "year": 2022,
+        "id": 626735,
+        "poster": "https://image.tmdb.org/t/p/w200/zHQy4h36WwuCetKS7C3wcT1hkgA.jpg"
     },
     {
-      "title": "Let Them All Talk",
-      "release_date": "2020-12-10"
+        "title": "A Man Called Otto",
+        "year": 2022,
+        "id": 937278,
+        "poster": "https://image.tmdb.org/t/p/w200/130H1gap9lFfiTF9iDrqNIkFvC9.jpg"
     },
     {
-      "title": "The Little Things",
-      "release_date": "2021-01-29"
+        "title": "White Bird",
+        "year": 2023,
+        "id": 779816,
+        "poster": "https://image.tmdb.org/t/p/w200/s2igE99PVBEMsry3qEGEH3rM83K.jpg"
     },
     {
-      "title": "Operation Mincemeat",
-      "release_date": "2021-11-05"
+        "title": "WAR IS OVER! Inspired by the Music of John & Yoko",
+        "year": 2023,
+        "id": 1214020,
+        "poster": "https://image.tmdb.org/t/p/w200/c8HG8jpjVa44hgMkVN91ZQ0Iw5B.jpg"
     },
     {
-      "title": "Dog",
-      "release_date": "2022-02-18"
+        "title": "Elemental",
+        "year": 2023,
+        "id": 976573,
+        "poster": "https://image.tmdb.org/t/p/w200/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg"
     },
     {
-      "title": "A Man Called Otto",
-      "release_date": "2022-12-29"
+        "title": "The Thursday Murder Club",
+        "year": 2025,
+        "id": 744653,
+        "poster": "https://image.tmdb.org/t/p/w200/jbnazCHr8S2l2glyvjPTpa4NbEw.jpg"
     },
     {
-      "title": "Elemental",
-      "release_date": "2023-05-27"
+        "title": "In the Blink of an Eye",
+        "year": 2026,
+        "id": 1032892,
+        "poster": "https://image.tmdb.org/t/p/w200/4vWqIdoBavo1htxmxlScDniOS9C.jpg"
     },
     {
-      "title": "White Bird",
-      "release_date": "2024-01-04"
+        "title": "Star Wars: Starfighter",
+        "year": 2027,
+        "id": 1417668,
+        "poster": "https://image.tmdb.org/t/p/w200/xji11GH7XOfYnVc2xmfBDtpMxLR.jpg"
     },
     {
-      "title": "Feud: Capote vs. The Swans",
-      "release_date": "2024"
-    },
-    {
-      "title": "Monsters: The Lyle and Erik Menendez Story",
-      "release_date": "2024"
-    },
-    {
-      "title": "The Thursday Murder Club",
-      "release_date": "2025-08-21"
-    },
-    {
-      "title": "In the Blink of an Eye",
-      "release_date": "2026-01-26"
-    },
-    {
-      "title": "Anxious People",
-      "release_date": "2026"
-    },
-    {
-      "title": "Star Wars: Starfighter",
-      "release_date": "2027-05-28"
+        "title": "Anxious People",
+        "year": 9999,
+        "id": 1474678,
+        "poster": null
     }
-  ]
-}
+]

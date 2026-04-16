@@ -1,513 +1,662 @@
-{
-  "composer": "Alan Silvestri",
-  "filmography": [
+[
     {
-      "title": "The Doberman Gang",
-      "release_date": "1972-05-26"
+        "title": "The Doberman Gang",
+        "year": 1972,
+        "id": 32061,
+        "poster": "https://image.tmdb.org/t/p/w200/CFUqGWdZIjqSMHpLf0QLUvS3bv.jpg"
     },
     {
-      "title": "Las Vegas Lady",
-      "release_date": "1975-06-01"
+        "title": "The Amazing Dobermans",
+        "year": 1976,
+        "id": 130024,
+        "poster": "https://image.tmdb.org/t/p/w200/htM7PcpsL4kLqdGEZMMnYzXmeto.jpg"
     },
     {
-      "title": "The Amazing Dobermans",
-      "release_date": "1976-11-19"
+        "title": "The Fifth Floor",
+        "year": 1978,
+        "id": 84183,
+        "poster": "https://image.tmdb.org/t/p/w200/ogKiGaW6KA8t4ErEMg7b2dRnwEm.jpg"
     },
     {
-      "title": "The Fifth Floor",
-      "release_date": "1978-11-15"
+        "title": "Romancing the Stone",
+        "year": 1984,
+        "id": 9326,
+        "poster": "https://image.tmdb.org/t/p/w200/qaCLbDs6Ace4I1lAbBNWPQAm75h.jpg"
     },
     {
-      "title": "Starsky & Hutch",
-      "release_date": "2004-03-05"
+        "title": "How Did You Get In? We Didn't See You Leave",
+        "year": 1984,
+        "id": 161371,
+        "poster": "https://image.tmdb.org/t/p/w200/spteIifiBKQnSIKmVznHushAY6F.jpg"
     },
     {
-      "title": "CHiPs",
-      "release_date": "2017-03-20"
+        "title": "Back to the Future",
+        "year": 1985,
+        "id": 105,
+        "poster": "https://image.tmdb.org/t/p/w200/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg"
     },
     {
-      "title": "Tiger Man",
-      "release_date": "1983"
+        "title": "Cat's Eye",
+        "year": 1985,
+        "id": 10552,
+        "poster": "https://image.tmdb.org/t/p/w200/kKyq7izpMkmr8sT2nLic5qAuJPo.jpg"
     },
     {
-      "title": "Manimal",
-      "release_date": "1983"
+        "title": "Summer Rental",
+        "year": 1985,
+        "id": 19357,
+        "poster": "https://image.tmdb.org/t/p/w200/t1ezbv4rVZ8xoCbenHyMnkt7SmR.jpg"
     },
     {
-      "title": "T. J. Hooker",
-      "release_date": "1983"
+        "title": "Fandango",
+        "year": 1985,
+        "id": 20348,
+        "poster": "https://image.tmdb.org/t/p/w200/7hdQUp17uXp8tZJWB8eWh25DWbc.jpg"
     },
     {
-      "title": "Romancing the Stone",
-      "release_date": "1984-03-30"
+        "title": "Flight of the Navigator",
+        "year": 1986,
+        "id": 10122,
+        "poster": "https://image.tmdb.org/t/p/w200/tdRgQWMximj0tL6OWu9kRTtePmI.jpg"
     },
     {
-      "title": "Par o\u00f9 t'es rentr\u00e9\u00a0? On t'a pas vu sortir",
-      "release_date": "1984"
+        "title": "No Mercy",
+        "year": 1986,
+        "id": 26789,
+        "poster": "https://image.tmdb.org/t/p/w200/e3GLsfBLy7fdM3dJKAkzQlTIqII.jpg"
     },
     {
-      "title": "Fandango",
-      "release_date": "1985-01-25"
+        "title": "American Anthem",
+        "year": 1986,
+        "id": 45930,
+        "poster": "https://image.tmdb.org/t/p/w200/cLFdihWnglEZVB98ruxMHC8Vrr6.jpg"
     },
     {
-      "title": "Cat's Eye",
-      "release_date": "1985-04-12"
+        "title": "The Clan of the Cave Bear",
+        "year": 1986,
+        "id": 13853,
+        "poster": "https://image.tmdb.org/t/p/w200/jbftdduVujKeoib5fwDBbEMamdj.jpg"
     },
     {
-      "title": "Back to the Future",
-      "release_date": "1985-07-03"
+        "title": "The Delta Force",
+        "year": 1986,
+        "id": 16113,
+        "poster": "https://image.tmdb.org/t/p/w200/lW94s7xxkdOzYcueaqGJwcVVvjt.jpg"
     },
     {
-      "title": "Summer Rental",
-      "release_date": "1985-08-09"
+        "title": "Amazing Stories",
+        "year": 1986,
+        "id": 576510,
+        "poster": "https://image.tmdb.org/t/p/w200/8XJb9oEnpLtMoOx4Za6JVMA8vqy.jpg"
     },
     {
-      "title": "The Clan of the Cave Bear",
-      "release_date": "1986-01-17"
+        "title": "Predator",
+        "year": 1987,
+        "id": 106,
+        "poster": "https://image.tmdb.org/t/p/w200/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg"
     },
     {
-      "title": "The Delta Force",
-      "release_date": "1986-02-14"
+        "title": "Overboard",
+        "year": 1987,
+        "id": 10780,
+        "poster": "https://image.tmdb.org/t/p/w200/v9MVFgUTvNRXmm2WWOzST6UXb5x.jpg"
     },
     {
-      "title": "American Anthem",
-      "release_date": "1986-06-27"
+        "title": "Outrageous Fortune",
+        "year": 1987,
+        "id": 20242,
+        "poster": "https://image.tmdb.org/t/p/w200/bZdQaa9HymxGfjBo3mFhhpWXVeG.jpg"
     },
     {
-      "title": "Flight of the Navigator",
-      "release_date": "1986-08-01"
+        "title": "Critical Condition",
+        "year": 1987,
+        "id": 31563,
+        "poster": "https://image.tmdb.org/t/p/w200/ajJXJhnvmMlb768jKdOzEkoqgyX.jpg"
     },
     {
-      "title": "No Mercy",
-      "release_date": "1986-12-19"
+        "title": "Who Framed Roger Rabbit",
+        "year": 1988,
+        "id": 856,
+        "poster": "https://image.tmdb.org/t/p/w200/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg"
     },
     {
-      "title": "Amazing Stories",
-      "release_date": "1986"
+        "title": "Roger Rabbit and the Secrets of Toon Town",
+        "year": 1988,
+        "id": 557444,
+        "poster": "https://image.tmdb.org/t/p/w200/75IxgMIqzpwy9mQ2Ovydkemux0y.jpg"
     },
     {
-      "title": "Critical Condition",
-      "release_date": "1987-01-16"
+        "title": "Mac and Me",
+        "year": 1988,
+        "id": 20196,
+        "poster": "https://image.tmdb.org/t/p/w200/gZsIgK2W9K6e1ebNro3WT7u5yGX.jpg"
     },
     {
-      "title": "Outrageous Fortune",
-      "release_date": "1987-01-30"
+        "title": "My Stepmother Is an Alien",
+        "year": 1988,
+        "id": 12120,
+        "poster": "https://image.tmdb.org/t/p/w200/SIt5FbgvoxlZr8ay3cfi79pV6z.jpg"
     },
     {
-      "title": "Predator",
-      "release_date": "1987-06-12"
+        "title": "Back to the Future Part II",
+        "year": 1989,
+        "id": 165,
+        "poster": "https://image.tmdb.org/t/p/w200/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg"
     },
     {
-      "title": "Overboard",
-      "release_date": "1987-12-16"
+        "title": "The Abyss",
+        "year": 1989,
+        "id": 2756,
+        "poster": "https://image.tmdb.org/t/p/w200/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg"
     },
     {
-      "title": "Mac and Me",
-      "release_date": "1988-08-05"
+        "title": "She's Out of Control",
+        "year": 1989,
+        "id": 47045,
+        "poster": "https://image.tmdb.org/t/p/w200/wTQ4FIz8D0YsSSpcgGjR6EWFvhs.jpg"
     },
     {
-      "title": "Who Framed Roger Rabbit",
-      "release_date": "1988-06-21"
+        "title": "Predator 2",
+        "year": 1990,
+        "id": 169,
+        "poster": "https://image.tmdb.org/t/p/w200/83X4VwY9sdSJykskmsplIVG0a4h.jpg"
     },
     {
-      "title": "My Stepmother Is an Alien",
-      "release_date": "1988-12-09"
+        "title": "Back to the Future Part III",
+        "year": 1990,
+        "id": 196,
+        "poster": "https://image.tmdb.org/t/p/w200/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg"
     },
     {
-      "title": "She's Out of Control",
-      "release_date": "1989-04-14"
+        "title": "Young Guns II",
+        "year": 1990,
+        "id": 9086,
+        "poster": "https://image.tmdb.org/t/p/w200/7kMjla98srGHlFzAEmoGRcr6GN1.jpg"
     },
     {
-      "title": "The Abyss",
-      "release_date": "1989-08-09"
+        "title": "Downtown",
+        "year": 1990,
+        "id": 60778,
+        "poster": "https://image.tmdb.org/t/p/w200/mNZxZ9VcpNBTipjaKyZqEvvsKjB.jpg"
     },
     {
-      "title": "Back to the Future Part II",
-      "release_date": "1989-11-22"
+        "title": "Shattered",
+        "year": 1991,
+        "id": 2071,
+        "poster": "https://image.tmdb.org/t/p/w200/k3UaQNJ8FAUaHgDhPyT3uEiod8h.jpg"
     },
     {
-      "title": "Tales from the Crypt",
-      "release_date": "1972-03-08"
+        "title": "Dutch",
+        "year": 1991,
+        "id": 25330,
+        "poster": "https://image.tmdb.org/t/p/w200/diBUesRJ2w6ilSbAizpk062Sajh.jpg"
     },
     {
-      "title": "Downtown",
-      "release_date": "1990-01-12"
+        "title": "Ricochet",
+        "year": 1991,
+        "id": 9546,
+        "poster": "https://image.tmdb.org/t/p/w200/5isHYEcUY0nE90uMhkGrs1nnal.jpg"
     },
     {
-      "title": "Back to the Future Part III",
-      "release_date": "1990-05-25"
+        "title": "Father of the Bride",
+        "year": 1991,
+        "id": 11846,
+        "poster": "https://image.tmdb.org/t/p/w200/bU7HzJbJpY5OiLdqWhKSqGPtYii.jpg"
     },
     {
-      "title": "Young Guns II",
-      "release_date": "1990-08-01"
+        "title": "Soapdish",
+        "year": 1991,
+        "id": 25562,
+        "poster": "https://image.tmdb.org/t/p/w200/A5Aagqf4odlE1PkLouHPOj63z8D.jpg"
     },
     {
-      "title": "Predator 2",
-      "release_date": "1990-11-21"
+        "title": "The Bodyguard",
+        "year": 1992,
+        "id": 619,
+        "poster": "https://image.tmdb.org/t/p/w200/ihWF0uY1xnKqw9YK7ZHNLUZOhcO.jpg"
     },
     {
-      "title": "Shattered",
-      "release_date": "1991-10-11"
+        "title": "Death Becomes Her",
+        "year": 1992,
+        "id": 9374,
+        "poster": "https://image.tmdb.org/t/p/w200/kkWxyyyWFK5KNk9WVwQuGEC9H9H.jpg"
     },
     {
-      "title": "Back to the Future: The Ride",
-      "release_date": "1991"
+        "title": "FernGully: The Last Rainforest",
+        "year": 1992,
+        "id": 13225,
+        "poster": "https://image.tmdb.org/t/p/w200/Z4XMgqIY6yT6QpoBISIlHzh8ol.jpg"
     },
     {
-      "title": "Soapdish",
-      "release_date": "1991-05-31"
+        "title": "Two-Fisted Tales",
+        "year": 1992,
+        "id": 213503,
+        "poster": "https://image.tmdb.org/t/p/w200/sKGxUJmtJQhg16fO2UkqndpAmoO.jpg"
     },
     {
-      "title": "Dutch",
-      "release_date": "1991-07-19"
+        "title": "Stop! Or My Mom Will Shoot",
+        "year": 1992,
+        "id": 9876,
+        "poster": "https://image.tmdb.org/t/p/w200/yCw4U5FK7C9hVWF2qcLO4EVvkCc.jpg"
     },
     {
-      "title": "Ricochet",
-      "release_date": "1991-10-04"
+        "title": "Sidekicks",
+        "year": 1992,
+        "id": 22590,
+        "poster": "https://image.tmdb.org/t/p/w200/p4n2gLg7Iqko72GMJwfaHHCdVg4.jpg"
     },
     {
-      "title": "Father of the Bride",
-      "release_date": "1991-12-20"
+        "title": "Judgment Night",
+        "year": 1993,
+        "id": 6,
+        "poster": "https://image.tmdb.org/t/p/w200/3rvvpS9YPM5HB2f4HYiNiJVtdam.jpg"
     },
     {
-      "title": "Back to the Future",
-      "release_date": "1985-07-03"
+        "title": "Grumpy Old Men",
+        "year": 1993,
+        "id": 11520,
+        "poster": "https://image.tmdb.org/t/p/w200/iMY7yFn4gMvGaQYMGWnyX2QgvHZ.jpg"
     },
     {
-      "title": "Two-Fisted Tales",
-      "release_date": "1992"
+        "title": "Cop & \u00bd",
+        "year": 1993,
+        "id": 12574,
+        "poster": "https://image.tmdb.org/t/p/w200/2z2AcI1VyPnRtHrvfpk1YDItdmB.jpg"
     },
     {
-      "title": "Stop! Or My Mom Will Shoot",
-      "release_date": "1992-02-21"
+        "title": "Super Mario Bros.",
+        "year": 1993,
+        "id": 9607,
+        "poster": "https://image.tmdb.org/t/p/w200/yt5bbMfKpg1nRr4k5edxs7tPK2m.jpg"
     },
     {
-      "title": "FernGully: The Last Rainforest",
-      "release_date": "1992-04-10"
+        "title": "Forrest Gump",
+        "year": 1994,
+        "id": 13,
+        "poster": "https://image.tmdb.org/t/p/w200/saHP97rTPS5eLmrLQEcANmKrsFl.jpg"
     },
     {
-      "title": "Death Becomes Her",
-      "release_date": "1992-07-31"
+        "title": "Ri\u00a2hie Ri\u00a2h",
+        "year": 1994,
+        "id": 11011,
+        "poster": "https://image.tmdb.org/t/p/w200/qgGh5d0IHAZRlHIdFS3XWVygumR.jpg"
     },
     {
-      "title": "The Bodyguard",
-      "release_date": "1992-11-23"
+        "title": "Clean Slate",
+        "year": 1994,
+        "id": 18658,
+        "poster": "https://image.tmdb.org/t/p/w200/kAYsvQvBVshLHGTIDGHcj9jTJq0.jpg"
     },
     {
-      "title": "Sidekicks",
-      "release_date": "1992-12-17"
+        "title": "Blown Away",
+        "year": 1994,
+        "id": 178,
+        "poster": "https://image.tmdb.org/t/p/w200/fD23iryzdjfRU05nQAQriD0A3AR.jpg"
     },
     {
-      "title": "In Search of the Obelisk",
-      "release_date": "1993"
+        "title": "Father of the Bride Part II",
+        "year": 1995,
+        "id": 11862,
+        "poster": "https://image.tmdb.org/t/p/w200/rj4LBtwQ0uGrpBnCELr716Qo3mw.jpg"
     },
     {
-      "title": "Cop and a Half",
-      "release_date": "1993-04-02"
+        "title": "Judge Dredd",
+        "year": 1995,
+        "id": 9482,
+        "poster": "https://image.tmdb.org/t/p/w200/cfSnKn8NDU3m8UxihjVcYprA0Aq.jpg"
     },
     {
-      "title": "Super Mario Bros.",
-      "release_date": "1993-05-28"
+        "title": "The Quick and the Dead",
+        "year": 1995,
+        "id": 12106,
+        "poster": "https://image.tmdb.org/t/p/w200/jhEmrXJpP6F3cqwyLjvgBgxxxFA.jpg"
     },
     {
-      "title": "Judgment Night",
-      "release_date": "1993-10-15"
+        "title": "Grumpier Old Men",
+        "year": 1995,
+        "id": 15602,
+        "poster": "https://image.tmdb.org/t/p/w200/1FSXpj5e8l4KH6nVFO5SPUeraOt.jpg"
     },
     {
-      "title": "Grumpy Old Men",
-      "release_date": "1993-12-25"
+        "title": "The Long Kiss Goodnight",
+        "year": 1996,
+        "id": 11412,
+        "poster": "https://image.tmdb.org/t/p/w200/yREdXX5lMFUKhTvb0ofI7mzUHlR.jpg"
     },
     {
-      "title": "Clean Slate",
-      "release_date": "1994-05-06"
+        "title": "Eraser",
+        "year": 1996,
+        "id": 9268,
+        "poster": "https://image.tmdb.org/t/p/w200/uu2gBpFElDfxTI6BI9bT4pZ4kvw.jpg"
     },
     {
-      "title": "Forrest Gump",
-      "release_date": "1994-06-23"
+        "title": "Sgt. Bilko",
+        "year": 1996,
+        "id": 9099,
+        "poster": "https://image.tmdb.org/t/p/w200/q4zmVdQq35ZBj8uyxsU2RCPOQxo.jpg"
     },
     {
-      "title": "Blown Away",
-      "release_date": "1994-07-01"
+        "title": "Contact",
+        "year": 1997,
+        "id": 686,
+        "poster": "https://image.tmdb.org/t/p/w200/bCpMIywuNZeWt3i5UMLEIc0VSwM.jpg"
     },
     {
-      "title": "Richie Rich",
-      "release_date": "1994-12-21"
+        "title": "Volcano",
+        "year": 1997,
+        "id": 10357,
+        "poster": "https://image.tmdb.org/t/p/w200/5xIjktjXuro7anZ6AR58t5ZYWjQ.jpg"
     },
     {
-      "title": "The Quick and the Dead",
-      "release_date": "1995-02-10"
+        "title": "Fools Rush In",
+        "year": 1997,
+        "id": 1968,
+        "poster": "https://image.tmdb.org/t/p/w200/tcRaMjWoF8K7h1LqOH7FOOLRQ3e.jpg"
     },
     {
-      "title": "The Perez Family",
-      "release_date": "1995-05-12"
+        "title": "MouseHunt",
+        "year": 1997,
+        "id": 6283,
+        "poster": "https://image.tmdb.org/t/p/w200/aqBPrWOzXEO3rWEk3DYTHBjXNZb.jpg"
     },
     {
-      "title": "Judge Dredd",
-      "release_date": "1995-06-30"
+        "title": "Practical Magic",
+        "year": 1998,
+        "id": 6435,
+        "poster": "https://image.tmdb.org/t/p/w200/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg"
     },
     {
-      "title": "Father of the Bride Part II",
-      "release_date": "1995-12-08"
+        "title": "Holy Man",
+        "year": 1998,
+        "id": 9713,
+        "poster": "https://image.tmdb.org/t/p/w200/sfJBsOdSbgLLarO6GIS0dWzFcCv.jpg"
     },
     {
-      "title": "Grumpier Old Men",
-      "release_date": "1995-12-22"
+        "title": "The Odd Couple II",
+        "year": 1998,
+        "id": 27472,
+        "poster": "https://image.tmdb.org/t/p/w200/aTajf9LOrL1pok7KnzoHKFJJyWD.jpg"
     },
     {
-      "title": "Sgt. Bilko",
-      "release_date": "1996-03-29"
+        "title": "The Parent Trap",
+        "year": 1998,
+        "id": 9820,
+        "poster": "https://image.tmdb.org/t/p/w200/p4dGmi8u9W0HHyVXcgWPoiFfKTF.jpg"
     },
     {
-      "title": "Mission: Impossible",
-      "release_date": "1996-05-22"
+        "title": "Siegfried & Roy: The Magic Box",
+        "year": 1999,
+        "id": 73482,
+        "poster": "https://image.tmdb.org/t/p/w200/gPPfKPvSiPHk16lv9ASAT8C88qL.jpg"
     },
     {
-      "title": "Eraser",
-      "release_date": "1996-06-11"
+        "title": "Stuart Little",
+        "year": 1999,
+        "id": 10137,
+        "poster": "https://image.tmdb.org/t/p/w200/362lcwTJlNyAhitTlp2UraECISR.jpg"
     },
     {
-      "title": "The Long Kiss Goodnight",
-      "release_date": "1996-10-11"
+        "title": "What Lies Beneath",
+        "year": 2000,
+        "id": 2655,
+        "poster": "https://image.tmdb.org/t/p/w200/2L3Cn0CizbSy2E9KJt1SiOSyb6p.jpg"
     },
     {
-      "title": "Fools Rush In",
-      "release_date": "1997-02-14"
+        "title": "What Women Want",
+        "year": 2000,
+        "id": 3981,
+        "poster": "https://image.tmdb.org/t/p/w200/eqkBEMDk1316Yx5wVoabWY07JAi.jpg"
     },
     {
-      "title": "Volcano",
-      "release_date": "1997-04-25"
+        "title": "Reindeer Games",
+        "year": 2000,
+        "id": 2155,
+        "poster": "https://image.tmdb.org/t/p/w200/8y1PedfYWllJVoBbkt9KWLY155v.jpg"
     },
     {
-      "title": "Contact",
-      "release_date": "1997"
+        "title": "Cast Away",
+        "year": 2000,
+        "id": 8358,
+        "poster": "https://image.tmdb.org/t/p/w200/7lLJgKnAicAcR5UEuo8xhSMj18w.jpg"
     },
     {
-      "title": "Mouse Hunt",
-      "release_date": "1997-12-19"
+        "title": "The Mummy Returns",
+        "year": 2001,
+        "id": 1734,
+        "poster": "https://image.tmdb.org/t/p/w200/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg"
     },
     {
-      "title": "The Odd Couple II",
-      "release_date": "1998-04-10"
+        "title": "The Mexican",
+        "year": 2001,
+        "id": 6073,
+        "poster": "https://image.tmdb.org/t/p/w200/5GqF6rVjUW6CVTuj7w1A2JE49AF.jpg"
     },
     {
-      "title": "The Parent Trap",
-      "release_date": "1998-07-29"
+        "title": "Serendipity",
+        "year": 2001,
+        "id": 9778,
+        "poster": "https://image.tmdb.org/t/p/w200/4jS66Qmq2Ru5S2YzHVknGd4xJyT.jpg"
     },
     {
-      "title": "Holy Man",
-      "release_date": "1998-10-09"
+        "title": "Stuart Little 2",
+        "year": 2002,
+        "id": 10996,
+        "poster": "https://image.tmdb.org/t/p/w200/hjfeMLWqJY44mqqJKZSa6jx4Y1j.jpg"
     },
     {
-      "title": "Practical Magic",
-      "release_date": "1998-10-16"
+        "title": "Lilo & Stitch",
+        "year": 2002,
+        "id": 11544,
+        "poster": "https://image.tmdb.org/t/p/w200/cFuLvQJPoZpuruAtN3rVnMmLIH8.jpg"
     },
     {
-      "title": "Siegfried & Roy: The Magic Box",
-      "release_date": "1999-10-01"
+        "title": "Maid in Manhattan",
+        "year": 2002,
+        "id": 7303,
+        "poster": "https://image.tmdb.org/t/p/w200/5qweTKkAwvGPt2Wd76TFoh2c9yt.jpg"
     },
     {
-      "title": "Stuart Little",
-      "release_date": "1999-12-05"
+        "title": "Showtime",
+        "year": 2002,
+        "id": 5851,
+        "poster": "https://image.tmdb.org/t/p/w200/8sIooUxXZo2blCVuAYbL2wkdUfD.jpg"
     },
     {
-      "title": "Reindeer Games",
-      "release_date": "2000-02-25"
+        "title": "Lara Croft: Tomb Raider - The Cradle of Life",
+        "year": 2003,
+        "id": 1996,
+        "poster": "https://image.tmdb.org/t/p/w200/ylIEGeAr2ygSClK4FDj9mi2Ah22.jpg"
     },
     {
-      "title": "Cast Away",
-      "release_date": "2000-12-22"
+        "title": "Two Soldiers",
+        "year": 2003,
+        "id": 204781,
+        "poster": "https://image.tmdb.org/t/p/w200/1hFzer2Jyy21LuMhteCyBszT3K3.jpg"
     },
     {
-      "title": "What Lies Beneath",
-      "release_date": "2000-07-21"
+        "title": "Identity",
+        "year": 2003,
+        "id": 2832,
+        "poster": "https://image.tmdb.org/t/p/w200/sYgimsiBywqVwJI8H4sETke8m7v.jpg"
     },
     {
-      "title": "What Women Want",
-      "release_date": "2000-12-15"
+        "title": "The Polar Express",
+        "year": 2004,
+        "id": 5255,
+        "poster": "https://image.tmdb.org/t/p/w200/eOoCzH0MqeGr2taUZO4SwG416PF.jpg"
     },
     {
-      "title": "The Mexican",
-      "release_date": "2001-03-02"
+        "title": "Van Helsing",
+        "year": 2004,
+        "id": 7131,
+        "poster": "https://image.tmdb.org/t/p/w200/gsFun8nATm52aGHeT8ueAel98nE.jpg"
     },
     {
-      "title": "The Mummy Returns",
-      "release_date": "2001-05-04"
+        "title": "Night at the Museum",
+        "year": 2006,
+        "id": 1593,
+        "poster": "https://image.tmdb.org/t/p/w200/pDsAAYf6Zn0yiAGJ6lYGs6hoZ4E.jpg"
     },
     {
-      "title": "Serendipity",
-      "release_date": "2001-09-13"
+        "title": "The Wild",
+        "year": 2006,
+        "id": 9904,
+        "poster": "https://image.tmdb.org/t/p/w200/sxqzaOto1qyUseSg6YpIP9Su5lp.jpg"
     },
     {
-      "title": "Showtime",
-      "release_date": "2002-03-15"
+        "title": "Beowulf",
+        "year": 2007,
+        "id": 2310,
+        "poster": "https://image.tmdb.org/t/p/w200/7QsWYyJAV97N9jOh21pdRIqJeJq.jpg"
     },
     {
-      "title": "Lilo & Stitch",
-      "release_date": "2002-06-16"
+        "title": "G.I. Joe: The Rise of Cobra",
+        "year": 2009,
+        "id": 14869,
+        "poster": "https://image.tmdb.org/t/p/w200/mc9b25IAprHfsaOz0wTshOwGHcY.jpg"
     },
     {
-      "title": "Stuart Little 2",
-      "release_date": "2002-07-14"
+        "title": "Night at the Museum: Battle of the Smithsonian",
+        "year": 2009,
+        "id": 18360,
+        "poster": "https://image.tmdb.org/t/p/w200/l9yAQn6TyrA3gv5xZZkiMMoZsiw.jpg"
     },
     {
-      "title": "Maid in Manhattan",
-      "release_date": "2002-12-13"
+        "title": "A Christmas Carol",
+        "year": 2009,
+        "id": 17979,
+        "poster": "https://image.tmdb.org/t/p/w200/xNwlAIdx1Ln28GRiQttUP9Gojy2.jpg"
     },
     {
-      "title": "Identity",
-      "release_date": "2003-04-25"
+        "title": "The A-Team",
+        "year": 2010,
+        "id": 34544,
+        "poster": "https://image.tmdb.org/t/p/w200/bkAWEx5g5tvRPjtDQyvIZ7LRxQm.jpg"
     },
     {
-      "title": "Stitch! The Movie",
-      "release_date": "2003-08-26"
+        "title": "Captain America: The First Avenger",
+        "year": 2011,
+        "id": 1771,
+        "poster": "https://image.tmdb.org/t/p/w200/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg"
     },
     {
-      "title": "Lara Croft: Tomb Raider \u2013 The Cradle of Life",
-      "release_date": "2003-07-21"
+        "title": "The Avengers",
+        "year": 2012,
+        "id": 24428,
+        "poster": "https://image.tmdb.org/t/p/w200/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg"
     },
     {
-      "title": "Van Helsing",
-      "release_date": "2004-05-07"
+        "title": "Flight",
+        "year": 2012,
+        "id": 87502,
+        "poster": "https://image.tmdb.org/t/p/w200/tFsHDNclXoCKy2xMxskzXXMaFJS.jpg"
     },
     {
-      "title": "The Polar Express",
-      "release_date": "2004-10-13"
+        "title": "RED 2",
+        "year": 2013,
+        "id": 146216,
+        "poster": "https://image.tmdb.org/t/p/w200/tbksijr6g340yFWRgI4JfwrtM9h.jpg"
     },
     {
-      "title": "The Wild",
-      "release_date": "2006-04-14"
+        "title": "The Croods",
+        "year": 2013,
+        "id": 49519,
+        "poster": "https://image.tmdb.org/t/p/w200/27zvjVOtOi5ped1HSlJKNsKXkFH.jpg"
     },
     {
-      "title": "Leroy & Stitch",
-      "release_date": "2006-06-23"
+        "title": "Night at the Museum: Secret of the Tomb",
+        "year": 2014,
+        "id": 181533,
+        "poster": "https://image.tmdb.org/t/p/w200/xwgy305K6qDs3D20xUO4OZu1HPY.jpg"
     },
     {
-      "title": "Night at the Museum",
-      "release_date": "2006-12-17"
+        "title": "The Walk",
+        "year": 2015,
+        "id": 285783,
+        "poster": "https://image.tmdb.org/t/p/w200/lSoPmBq0kaU9jwZNbpEVwua8J3s.jpg"
     },
     {
-      "title": "Beowulf",
-      "release_date": "2007-11-05"
+        "title": "Allied",
+        "year": 2016,
+        "id": 369885,
+        "poster": "https://image.tmdb.org/t/p/w200/sV4lXM32quwminL3TP36nlNPp7Q.jpg"
     },
     {
-      "title": "Night at the Museum: Battle of the Smithsonian",
-      "release_date": "2009-05-22"
+        "title": "Avengers: Infinity War",
+        "year": 2018,
+        "id": 299536,
+        "poster": "https://image.tmdb.org/t/p/w200/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
     },
     {
-      "title": "G.I. Joe: The Rise of Cobra",
-      "release_date": "2009-07-31"
+        "title": "Ready Player One",
+        "year": 2018,
+        "id": 333339,
+        "poster": "https://image.tmdb.org/t/p/w200/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg"
     },
     {
-      "title": "G.I. Joe: The Invasion of Cobra Island",
-      "release_date": "2009-07-31"
+        "title": "Welcome to Marwen",
+        "year": 2018,
+        "id": 351044,
+        "poster": "https://image.tmdb.org/t/p/w200/dOULsxYQFsOR0cEBBB20xnjJkPD.jpg"
     },
     {
-      "title": "A Christmas Carol",
-      "release_date": "2009-11-03"
+        "title": "Avengers: Endgame",
+        "year": 2019,
+        "id": 299534,
+        "poster": "https://image.tmdb.org/t/p/w200/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
     },
     {
-      "title": "The A-Team",
-      "release_date": "2010-06-11"
+        "title": "Father of the Bride Part 3 (ish)",
+        "year": 2020,
+        "id": 746358,
+        "poster": "https://image.tmdb.org/t/p/w200/iOsDWEq7U9xAtflxjUq83e0sBTd.jpg"
     },
     {
-      "title": "Predators",
-      "release_date": "2010-07-07"
+        "title": "Roald Dahl's The Witches",
+        "year": 2020,
+        "id": 531219,
+        "poster": "https://image.tmdb.org/t/p/w200/ht6EfsM5hrsUPSR4ReJQFDVU71F.jpg"
     },
     {
-      "title": "Captain America: The First Avenger",
-      "release_date": "2011-07-19"
+        "title": "Pinocchio",
+        "year": 2022,
+        "id": 532639,
+        "poster": "https://image.tmdb.org/t/p/w200/zaZhjKrJeWczQ3AotKoQObppEbH.jpg"
     },
     {
-      "title": "The Avengers",
-      "release_date": "2012-04-11"
+        "title": "Here",
+        "year": 2024,
+        "id": 940139,
+        "poster": "https://image.tmdb.org/t/p/w200/79euHUJJtfgeGU63ef38KtNjXEn.jpg"
     },
     {
-      "title": "Flight",
-      "release_date": "2012-10-14"
+        "title": "The Electric State",
+        "year": 2025,
+        "id": 777443,
+        "poster": "https://image.tmdb.org/t/p/w200/tn6gDIrQMwHSivF01igLfbggmYD.jpg"
     },
     {
-      "title": "The Croods",
-      "release_date": "2013-02-15"
+        "title": "Play Dirty",
+        "year": 2025,
+        "id": 941109,
+        "poster": "https://image.tmdb.org/t/p/w200/ovZ0zq0NwRghtWI1oLaM0lWuoEw.jpg"
     },
     {
-      "title": "Red 2",
-      "release_date": "2013-07-11"
+        "title": "Avengers: Doomsday",
+        "year": 2026,
+        "id": 1003596,
+        "poster": "https://image.tmdb.org/t/p/w200/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg"
     },
     {
-      "title": "Night at the Museum: Secret of the Tomb",
-      "release_date": "2014-12-11"
+        "title": "Avengers: Secret Wars",
+        "year": 2027,
+        "id": 1003598,
+        "poster": "https://image.tmdb.org/t/p/w200/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg"
     },
     {
-      "title": "Avengers: Age of Ultron",
-      "release_date": "2015-04-13"
-    },
-    {
-      "title": "The Walk",
-      "release_date": "2015-09-26"
-    },
-    {
-      "title": "Allied",
-      "release_date": "2016-11-09"
-    },
-    {
-      "title": "Ready Player One",
-      "release_date": "2018-03-11"
-    },
-    {
-      "title": "Avengers: Infinity War",
-      "release_date": "2018-04-23"
-    },
-    {
-      "title": "Welcome to Marwen",
-      "release_date": "2018-12-21"
-    },
-    {
-      "title": "The Predator",
-      "release_date": "2018-09-06"
-    },
-    {
-      "title": "Avengers: Endgame",
-      "release_date": "2019-04-22"
-    },
-    {
-      "title": "The Witches",
-      "release_date": "2020-10-22"
-    },
-    {
-      "title": "Cosmos: Possible Worlds",
-      "release_date": "2020"
-    },
-    {
-      "title": "Pinocchio",
-      "release_date": "2022"
-    },
-    {
-      "title": "Here",
-      "release_date": "2024-10-25"
-    },
-    {
-      "title": "The Electric State",
-      "release_date": "2025-02-24"
-    },
-    {
-      "title": "Lilo & Stitch",
-      "release_date": "2002-06-16"
-    },
-    {
-      "title": "The Fantastic Four: First Steps",
-      "release_date": "2025-07-21"
-    },
-    {
-      "title": "Play Dirty",
-      "release_date": "2025-10-01"
-    },
-    {
-      "title": "Avengers: Doomsday",
-      "release_date": "2026-12-18"
-    },
-    {
-      "title": "Avengers: Secret Wars",
-      "release_date": "2027"
+        "title": "Behemoth!",
+        "year": 9999,
+        "id": 1452168,
+        "poster": null
     }
-  ]
-}
+]

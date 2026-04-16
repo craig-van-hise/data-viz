@@ -1,17 +1,26 @@
-{
-  "composer": "Wendy Carlos",
-  "filmography": [
+[
     {
-      "title": "A Clockwork Orange",
-      "release_date": "1971-12-19"
+        "title": "A Clockwork Orange",
+        "year": 1971,
+        "id": 185,
+        "poster": "https://image.tmdb.org/t/p/w200/4sHeTAp65WrSSuc05nRBKddhBxO.jpg"
     },
     {
-      "title": "The Shining",
-      "release_date": "1980-05-23"
+        "title": "The Shining",
+        "year": 1980,
+        "id": 694,
+        "poster": "https://image.tmdb.org/t/p/w200/uAR0AWqhQL1hQa69UDEbb2rE5Wx.jpg"
     },
     {
-      "title": "Tron",
-      "release_date": "1982-07-09"
+        "title": "Tron",
+        "year": 1982,
+        "id": 97,
+        "poster": "https://image.tmdb.org/t/p/w200/jigY9B6TKz4qlfikZcd18qtzTK4.jpg"
+    },
+    {
+        "title": "Woundings",
+        "year": 1998,
+        "id": 222769,
+        "poster": "https://image.tmdb.org/t/p/w200/fOsq3V8uIfDcG6zY3tM3Yv7gHJ3.jpg"
     }
-  ]
-}
+]

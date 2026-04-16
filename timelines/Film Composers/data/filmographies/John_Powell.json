@@ -1,337 +1,488 @@
-{
-  "composer": "John Powell",
-  "filmography": [
+[
     {
-      "title": "Stay Lucky",
-      "release_date": "1989"
+        "title": "I Am Your Punishment",
+        "year": 1996,
+        "id": 903852,
+        "poster": "https://image.tmdb.org/t/p/w200/rQUno2rxOT3KhHhq2YBzoFl8Inu.jpg"
     },
     {
-      "title": "High Incident",
-      "release_date": "1996"
+        "title": "Face/Off",
+        "year": 1997,
+        "id": 754,
+        "poster": "https://image.tmdb.org/t/p/w200/69Xzn8UdPbVnmqSChKz2RTpoNfB.jpg"
     },
     {
-      "title": "Face/Off",
-      "release_date": "1997-06-27"
+        "title": "Antz",
+        "year": 1998,
+        "id": 8916,
+        "poster": "https://image.tmdb.org/t/p/w200/lWPjxbUMpAHFkJpZHHNWhQaRsax.jpg"
     },
     {
-      "title": "With Friends Like These...",
-      "release_date": "1998"
+        "title": "Human Bomb",
+        "year": 1998,
+        "id": 106220,
+        "poster": "https://image.tmdb.org/t/p/w200/5Orhw2RwVTpokGNEbzaXq4ZAush.jpg"
     },
     {
-      "title": "Endurance",
-      "release_date": "1998"
+        "title": "With Friends Like These",
+        "year": 1998,
+        "id": 126152,
+        "poster": "https://image.tmdb.org/t/p/w200/xCCFoqMsezQq5lojNvx8hpbUzBV.jpg"
     },
     {
-      "title": "Antz",
-      "release_date": "1998-09-19"
+        "title": "Chill Factor",
+        "year": 1999,
+        "id": 2162,
+        "poster": "https://image.tmdb.org/t/p/w200/fgPC0xS3o6J5eWFwetssfSD2SEK.jpg"
     },
     {
-      "title": "Forces of Nature",
-      "release_date": "1999-03-19"
+        "title": "Forces of Nature",
+        "year": 1999,
+        "id": 1641,
+        "poster": "https://image.tmdb.org/t/p/w200/etmjiee84g6G9WALmLkJ1DhenAu.jpg"
     },
     {
-      "title": "Chill Factor",
-      "release_date": "1999-09-01"
+        "title": "Endurance",
+        "year": 1999,
+        "id": 122190,
+        "poster": "https://image.tmdb.org/t/p/w200/hGsUeyPzF59otWNdTYlnzvsfIKW.jpg"
     },
     {
-      "title": "The Road to El Dorado",
-      "release_date": "2000-03-31"
+        "title": "The Road to El Dorado",
+        "year": 2000,
+        "id": 10501,
+        "poster": "https://image.tmdb.org/t/p/w200/tQuqhUBACMcGqCvliHxpJreBfXC.jpg"
     },
     {
-      "title": "Chicken Run",
-      "release_date": "2000-06-23"
+        "title": "Chicken Run",
+        "year": 2000,
+        "id": 7443,
+        "poster": "https://image.tmdb.org/t/p/w200/8XgmIsbpVamdhwcNVsYzohFZTtT.jpg"
     },
     {
-      "title": "Just Visiting",
-      "release_date": "2001-04-06"
+        "title": "Shrek",
+        "year": 2001,
+        "id": 808,
+        "poster": "https://image.tmdb.org/t/p/w200/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg"
     },
     {
-      "title": "Shrek",
-      "release_date": "2001-04-22"
+        "title": "Evolution",
+        "year": 2001,
+        "id": 9397,
+        "poster": "https://image.tmdb.org/t/p/w200/dwIrP544LxJtXToLpzkEa08pIMm.jpg"
     },
     {
-      "title": "Evolution",
-      "release_date": "2001-06-08"
+        "title": "Rat Race",
+        "year": 2001,
+        "id": 9896,
+        "poster": "https://image.tmdb.org/t/p/w200/3dpim9bLdi5uh55idJ6HxA7eZH4.jpg"
     },
     {
-      "title": "Rat Race",
-      "release_date": "2001-08-17"
+        "title": "Just Visiting",
+        "year": 2001,
+        "id": 56715,
+        "poster": "https://image.tmdb.org/t/p/w200/7KqzbefXjADSUE8j2ZsrudvAArY.jpg"
     },
     {
-      "title": "I Am Sam",
-      "release_date": "2001-12-28"
+        "title": "Man and Cat",
+        "year": 2001,
+        "id": 1225057,
+        "poster": null
     },
     {
-      "title": "D-Tox",
-      "release_date": "2002-02-01"
+        "title": "I Am Sam",
+        "year": 2001,
+        "id": 10950,
+        "poster": "https://image.tmdb.org/t/p/w200/8n8BTMIRPKT0KZKSa0nACG9cQ8O.jpg"
     },
     {
-      "title": "The Bourne Identity",
-      "release_date": "2002-06-06"
+        "title": "The Bourne Identity",
+        "year": 2002,
+        "id": 2501,
+        "poster": "https://image.tmdb.org/t/p/w200/aP8swke3gmowbkfZ6lmNidu0y9p.jpg"
     },
     {
-      "title": "Drumline",
-      "release_date": "2002-12-13"
+        "title": "Two Weeks Notice",
+        "year": 2002,
+        "id": 2642,
+        "poster": "https://image.tmdb.org/t/p/w200/r18hSGAcxWiUysbX6nFShIZyjjP.jpg"
     },
     {
-      "title": "The Adventures of Pluto Nash",
-      "release_date": "2002-08-16"
+        "title": "The Adventures of Pluto Nash",
+        "year": 2002,
+        "id": 11692,
+        "poster": "https://image.tmdb.org/t/p/w200/96vvhLWWDosS1zRrfQ6XEGAzByL.jpg"
     },
     {
-      "title": "Two Weeks Notice",
-      "release_date": "2002-12-20"
+        "title": "Drumline",
+        "year": 2002,
+        "id": 13497,
+        "poster": "https://image.tmdb.org/t/p/w200/zl7gdxYqKdFCioPT3DAkZR5DDUP.jpg"
     },
     {
-      "title": "Agent Cody Banks",
-      "release_date": "2003-03-14"
+        "title": "D-Tox",
+        "year": 2002,
+        "id": 10375,
+        "poster": "https://image.tmdb.org/t/p/w200/rn2Zu7zjOfNQCqQmqO7T1PDcBCq.jpg"
     },
     {
-      "title": "The Italian Job",
-      "release_date": "1969-06-05"
+        "title": "Agent Cody Banks",
+        "year": 2003,
+        "id": 10923,
+        "poster": "https://image.tmdb.org/t/p/w200/fhK0mqqirPsckxkNisvi32A4lf6.jpg"
     },
     {
-      "title": "Gigli",
-      "release_date": "2003-08-01"
+        "title": "Paycheck",
+        "year": 2003,
+        "id": 9620,
+        "poster": "https://image.tmdb.org/t/p/w200/icoa6KslkhXKnxLreZ6vXnDimpQ.jpg"
     },
     {
-      "title": "Paycheck",
-      "release_date": "2003-12-25"
+        "title": "Gigli",
+        "year": 2003,
+        "id": 8046,
+        "poster": "https://image.tmdb.org/t/p/w200/qOhAK3WDqdeVTIE59loXvEGU7Lu.jpg"
     },
     {
-      "title": "Stealing Sinatra",
-      "release_date": "2003"
+        "title": "The Italian Job",
+        "year": 2003,
+        "id": 9654,
+        "poster": "https://image.tmdb.org/t/p/w200/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg"
     },
     {
-      "title": "The Bourne Supremacy",
-      "release_date": "2004-07-15"
+        "title": "Stealing Sinatra",
+        "year": 2003,
+        "id": 63903,
+        "poster": "https://image.tmdb.org/t/p/w200/rb2XrjDjdVqBqVb13zRw2zUmrqO.jpg"
     },
     {
-      "title": "Mr. 3000",
-      "release_date": "2004-09-17"
+        "title": "The Bourne Supremacy",
+        "year": 2004,
+        "id": 2502,
+        "poster": "https://image.tmdb.org/t/p/w200/jupG9sFT64YwM8PSkwkUD2wHcYD.jpg"
     },
     {
-      "title": "Alfie",
-      "release_date": "2004"
+        "title": "Alfie",
+        "year": 2004,
+        "id": 8849,
+        "poster": "https://image.tmdb.org/t/p/w200/jXJdaGy07JqYFHGsG2GKZBjTa2k.jpg"
     },
     {
-      "title": "Be Cool",
-      "release_date": "2005-03-04"
+        "title": "Mr. 3000",
+        "year": 2004,
+        "id": 16232,
+        "poster": "https://image.tmdb.org/t/p/w200/g7CNkytZsZzQ8ZEr8F4SmrhjI5y.jpg"
     },
     {
-      "title": "Robots",
-      "release_date": "2005-03-06"
+        "title": "Mr. & Mrs. Smith",
+        "year": 2005,
+        "id": 787,
+        "poster": "https://image.tmdb.org/t/p/w200/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg"
     },
     {
-      "title": "Mr. & Mrs. Smith",
-      "release_date": "2005-06-07"
+        "title": "Be Cool",
+        "year": 2005,
+        "id": 4551,
+        "poster": "https://image.tmdb.org/t/p/w200/ekKCH7Zkb5ZTr1f1AczZY23FH.jpg"
     },
     {
-      "title": "Ice Age: The Meltdown",
-      "release_date": "2006"
+        "title": "Robots",
+        "year": 2005,
+        "id": 9928,
+        "poster": "https://image.tmdb.org/t/p/w200/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg"
     },
     {
-      "title": "United 93",
-      "release_date": "2006-02-26"
+        "title": "Aunt Fanny's Tour of Booty",
+        "year": 2005,
+        "id": 121678,
+        "poster": "https://image.tmdb.org/t/p/w200/n641vHbU8hmsiBR35YdEikl4Ghz.jpg"
     },
     {
-      "title": "X-Men: The Last Stand",
-      "release_date": "2006-05-24"
+        "title": "Ice Age: The Meltdown",
+        "year": 2006,
+        "id": 950,
+        "poster": "https://image.tmdb.org/t/p/w200/e23bfKyjOiKJ5uOufFgfO7JO5ug.jpg"
     },
     {
-      "title": "Happy Feet",
-      "release_date": "2006-11-17"
+        "title": "Happy Feet",
+        "year": 2006,
+        "id": 9836,
+        "poster": "https://image.tmdb.org/t/p/w200/za41IHkj6LnkilfTzv5B2qmthKD.jpg"
     },
     {
-      "title": "The Bourne Ultimatum",
-      "release_date": "2007-07-25"
+        "title": "United 93",
+        "year": 2006,
+        "id": 9829,
+        "poster": "https://image.tmdb.org/t/p/w200/r3mdSgsnpoi4UiUufdybhjha68t.jpg"
     },
     {
-      "title": "P.S. I Love You",
-      "release_date": "2007-12-21"
+        "title": "X-Men: The Last Stand",
+        "year": 2006,
+        "id": 36668,
+        "poster": "https://image.tmdb.org/t/p/w200/a2xicU8DpKtRizOHjQLC1JyCSRS.jpg"
     },
     {
-      "title": "Jumper",
-      "release_date": "2008-02-14"
+        "title": "The Bourne Ultimatum",
+        "year": 2007,
+        "id": 2503,
+        "poster": "https://image.tmdb.org/t/p/w200/15rMz5MRXFp7CP4VxhjYw4y0FUn.jpg"
     },
     {
-      "title": "Dr. Seuss' Horton Hears a Who!",
-      "release_date": "2008-03-14"
+        "title": "P.S. I Love You",
+        "year": 2007,
+        "id": 6023,
+        "poster": "https://image.tmdb.org/t/p/w200/x6M9nlTpgpI4AOw0tMkOAVbhL5z.jpg"
     },
     {
-      "title": "Stop-Loss",
-      "release_date": "2008-03-13"
+        "title": "Horton Hears a Who!",
+        "year": 2008,
+        "id": 12222,
+        "poster": "https://image.tmdb.org/t/p/w200/6k47Z3A5zI2rxubTMwiLyIqQLLr.jpg"
     },
     {
-      "title": "Kung Fu Panda",
-      "release_date": "2008-05-15"
+        "title": "Stop-Loss",
+        "year": 2008,
+        "id": 8988,
+        "poster": "https://image.tmdb.org/t/p/w200/5lR2o3EQ6keYI7R2NtO40fHpvGZ.jpg"
     },
     {
-      "title": "Hancock",
-      "release_date": "2008-07-02"
+        "title": "Kung Fu Panda",
+        "year": 2008,
+        "id": 9502,
+        "poster": "https://image.tmdb.org/t/p/w200/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg"
     },
     {
-      "title": "Bolt",
-      "release_date": "2008-11-17"
+        "title": "Hancock",
+        "year": 2008,
+        "id": 8960,
+        "poster": "https://image.tmdb.org/t/p/w200/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg"
     },
     {
-      "title": "Ice Age: Dawn of the Dinosaurs",
-      "release_date": "2009-07-01"
+        "title": "Bolt",
+        "year": 2008,
+        "id": 13053,
+        "poster": "https://image.tmdb.org/t/p/w200/v5aC4nrzXFGJDWY4JO1eengXzqk.jpg"
     },
     {
-      "title": "Green Zone",
-      "release_date": "2010-02-26"
+        "title": "Kung Fu Panda: Secrets of the Furious Five",
+        "year": 2008,
+        "id": 15854,
+        "poster": "https://image.tmdb.org/t/p/w200/3HENPRM1tGRswyjgiIbP9b4sult.jpg"
     },
     {
-      "title": "How to Train Your Dragon",
-      "release_date": "2010-03-21"
+        "title": "Jumper",
+        "year": 2008,
+        "id": 8247,
+        "poster": "https://image.tmdb.org/t/p/w200/3pPZ9JhNz3VMmASVir5SMHvTDUU.jpg"
     },
     {
-      "title": "Fair Game",
-      "release_date": "2010-05-20"
+        "title": "Super Rhino",
+        "year": 2009,
+        "id": 16604,
+        "poster": "https://image.tmdb.org/t/p/w200/hXgRhk8mDMEY4OSh3fI98X3LNol.jpg"
     },
     {
-      "title": "Knight and Day",
-      "release_date": "2010-06-16"
+        "title": "Ice Age: Dawn of the Dinosaurs",
+        "year": 2009,
+        "id": 8355,
+        "poster": "https://image.tmdb.org/t/p/w200/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg"
     },
     {
-      "title": "Mars Needs Moms",
-      "release_date": "2011-03-06"
+        "title": "Square Roots: The Story of SpongeBob SquarePants",
+        "year": 2009,
+        "id": 341531,
+        "poster": "https://image.tmdb.org/t/p/w200/dusJ4nG8rY15enc81q8KPbkaOX4.jpg"
     },
     {
-      "title": "Rio",
-      "release_date": "2011-03-22"
+        "title": "Fair Game",
+        "year": 2010,
+        "id": 38363,
+        "poster": "https://image.tmdb.org/t/p/w200/tX2cafjaDnEOi50xnUIloAc2fp2.jpg"
     },
     {
-      "title": "Kung Fu Panda 2",
-      "release_date": "2011-05-22"
+        "title": "Green Zone",
+        "year": 2010,
+        "id": 22972,
+        "poster": "https://image.tmdb.org/t/p/w200/czFIaeukSxNEccysQeys1PCkuOG.jpg"
     },
     {
-      "title": "Happy Feet Two",
-      "release_date": "2011-11-13"
+        "title": "How to Train Your Dragon",
+        "year": 2010,
+        "id": 10191,
+        "poster": "https://image.tmdb.org/t/p/w200/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg"
     },
     {
-      "title": "Dr. Seuss' The Lorax",
-      "release_date": "2012-02-19"
+        "title": "Kung Fu Panda Holiday",
+        "year": 2010,
+        "id": 50393,
+        "poster": "https://image.tmdb.org/t/p/w200/vJv3pI8pyS13rLjy0ok7a3BiE0a.jpg"
     },
     {
-      "title": "Ice Age: Continental Drift",
-      "release_date": "2012-06-20"
+        "title": "Legend of the BoneKnapper Dragon",
+        "year": 2010,
+        "id": 47626,
+        "poster": "https://image.tmdb.org/t/p/w200/74OqO31AaubZGgreiHIomFyOXUx.jpg"
     },
     {
-      "title": "Rio 2",
-      "release_date": "2014-03-20"
+        "title": "Knight and Day",
+        "year": 2010,
+        "id": 37834,
+        "poster": "https://image.tmdb.org/t/p/w200/a7JmOBMNj5erYTgt4u1mQgvHItu.jpg"
     },
     {
-      "title": "How to Train Your Dragon 2",
-      "release_date": "2014-05-16"
+        "title": "Rio",
+        "year": 2011,
+        "id": 46195,
+        "poster": "https://image.tmdb.org/t/p/w200/4nJxhUknKV8Gqdhov8pU1YWDYfb.jpg"
     },
     {
-      "title": "Pan",
-      "release_date": "2015-09-20"
+        "title": "Happy Feet Two",
+        "year": 2011,
+        "id": 65759,
+        "poster": "https://image.tmdb.org/t/p/w200/2gWiQ4mn85jcXtREVePlVViupeV.jpg"
     },
     {
-      "title": "Jason Bourne",
-      "release_date": "2016-07-11"
+        "title": "Kung Fu Panda: Secrets of the Masters",
+        "year": 2011,
+        "id": 81003,
+        "poster": "https://image.tmdb.org/t/p/w200/xON7QZ6yHYt1S1Aji0wfGQ1a7ml.jpg"
     },
     {
-      "title": "Ferdinand",
-      "release_date": "2017-12-10"
+        "title": "Dragons: Gift of the Night Fury",
+        "year": 2011,
+        "id": 91417,
+        "poster": "https://image.tmdb.org/t/p/w200/tieHyFlHwnU4gdKY9vBNCW7U5iw.jpg"
     },
     {
-      "title": "Solo: A Star Wars Story",
-      "release_date": "2018-05-10"
+        "title": "Book of Dragons",
+        "year": 2011,
+        "id": 79379,
+        "poster": "https://image.tmdb.org/t/p/w200/jDInObzAHYGsde02gTxL8B56HGT.jpg"
     },
     {
-      "title": "Hubris: Choral Works by John Powell",
-      "release_date": "2018"
+        "title": "Kung Fu Panda 2",
+        "year": 2011,
+        "id": 49444,
+        "poster": "https://image.tmdb.org/t/p/w200/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg"
     },
     {
-      "title": "How to Train Your Dragon: The Hidden World",
-      "release_date": "2019-01-03"
+        "title": "Mars Needs Moms",
+        "year": 2011,
+        "id": 50321,
+        "poster": "https://image.tmdb.org/t/p/w200/yZBrpe4bxwDIDKBxPeJYrlyDK5R.jpg"
     },
     {
-      "title": "The Call of the Wild",
-      "release_date": "2020-02-21"
+        "title": "Ice Age: Continental Drift",
+        "year": 2012,
+        "id": 57800,
+        "poster": "https://image.tmdb.org/t/p/w200/dfp1BZF7FxbBUyzHvMOI9t8NWDD.jpg"
     },
     {
-      "title": "Piano Solos from \"How to Train Your Dragon: The Hidden World\"",
-      "release_date": "2020"
+        "title": "The Lorax",
+        "year": 2012,
+        "id": 73723,
+        "poster": "https://image.tmdb.org/t/p/w200/tePFnZFw5JvjwjQjaKkqDPNMLPU.jpg"
     },
     {
-      "title": "Piano Solos from \"The Call of the Wild\"",
-      "release_date": "2020"
+        "title": "How to Train Your Dragon 2",
+        "year": 2014,
+        "id": 82702,
+        "poster": "https://image.tmdb.org/t/p/w200/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg"
     },
     {
-      "title": "Film Suites, Vol. 1",
-      "release_date": "2020"
+        "title": "Rio 2",
+        "year": 2014,
+        "id": 172385,
+        "poster": "https://image.tmdb.org/t/p/w200/gVNTBrjxh2YRmQFjlaqrNbHVvrd.jpg"
     },
     {
-      "title": "Forces of Nature (Music from the Motion Picture)",
-      "release_date": "2020"
+        "title": "Pan",
+        "year": 2015,
+        "id": 266647,
+        "poster": "https://image.tmdb.org/t/p/w200/w8i0mZR7MEL7c3bXSsuYg7VJsew.jpg"
     },
     {
-      "title": "How to Train Your Dragon (The Deluxe Edition)",
-      "release_date": "2020"
+        "title": "Jason Bourne",
+        "year": 2016,
+        "id": 324668,
+        "poster": "https://image.tmdb.org/t/p/w200/xA7N41glw17MBQtcWSm2eBlBRuG.jpg"
     },
     {
-      "title": "Solo: A Star Wars Story (Deluxe Edition)",
-      "release_date": "2020"
+        "title": "Ferdinand",
+        "year": 2017,
+        "id": 364689,
+        "poster": "https://image.tmdb.org/t/p/w200/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg"
     },
     {
-      "title": "Locked Down",
-      "release_date": "2021-01-14"
+        "title": "Solo: A Star Wars Story",
+        "year": 2018,
+        "id": 348350,
+        "poster": "https://image.tmdb.org/t/p/w200/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg"
     },
     {
-      "title": "Paycheck: The Deluxe Edition (Music From The Motion Picture)",
-      "release_date": "2021"
+        "title": "How to Train Your Dragon: The Hidden World",
+        "year": 2019,
+        "id": 166428,
+        "poster": "https://image.tmdb.org/t/p/w200/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg"
     },
     {
-      "title": "Don't Worry Darling",
-      "release_date": "2022-09-05"
+        "title": "The Call of the Wild",
+        "year": 2020,
+        "id": 481848,
+        "poster": "https://image.tmdb.org/t/p/w200/33VdppGbeNxICrFUtW2WpGHvfYc.jpg"
     },
     {
-      "title": "Ice Age: Scrat Tales",
-      "release_date": "2022"
+        "title": "Locked Down",
+        "year": 2021,
+        "id": 741228,
+        "poster": "https://image.tmdb.org/t/p/w200/svHelD0Hb3TXPAQoPsoBwdDMTvf.jpg"
     },
     {
-      "title": "How to Train Your Dragon 2 (The Deluxe Edition)",
-      "release_date": "2022"
+        "title": "Don't Worry Darling",
+        "year": 2022,
+        "id": 619730,
+        "poster": "https://image.tmdb.org/t/p/w200/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg"
     },
     {
-      "title": "The Bourne Identity (Tumescent Edition)",
-      "release_date": "2022"
+        "title": "STILL: A Michael J. Fox Movie",
+        "year": 2023,
+        "id": 1058699,
+        "poster": "https://image.tmdb.org/t/p/w200/fDO4gYZxvdsIrHKzsSAbc3N7Wfg.jpg"
     },
     {
-      "title": "Still: A Michael J. Fox Movie",
-      "release_date": "2023-01-20"
+        "title": "Migration",
+        "year": 2023,
+        "id": 940551,
+        "poster": "https://image.tmdb.org/t/p/w200/ldfCF9RhR40mppkzmftxapaHeTo.jpg"
     },
     {
-      "title": "Migration",
-      "release_date": "2023-10-19"
+        "title": "Thelma the Unicorn",
+        "year": 2024,
+        "id": 739547,
+        "poster": "https://image.tmdb.org/t/p/w200/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg"
     },
     {
-      "title": "Thelma the Unicorn",
-      "release_date": "2024-05-17"
+        "title": "That Christmas",
+        "year": 2024,
+        "id": 645757,
+        "poster": "https://image.tmdb.org/t/p/w200/uR3uhztTAxGGK7Co0yyxVy4Gc7H.jpg"
     },
     {
-      "title": "Wicked",
-      "release_date": "2024-11-03"
+        "title": "Wicked",
+        "year": 2024,
+        "id": 402431,
+        "poster": "https://image.tmdb.org/t/p/w200/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
     },
     {
-      "title": "That Christmas",
-      "release_date": "2024-10-19"
+        "title": "How to Train Your Dragon",
+        "year": 2025,
+        "id": 1087192,
+        "poster": "https://image.tmdb.org/t/p/w200/41dfWUWtg1kUZcJYe6Zk6ewxzMu.jpg"
     },
     {
-      "title": "How to Train Your Dragon: The Hidden World (The Deluxe Edition)",
-      "release_date": "2024"
-    },
-    {
-      "title": "How to Train Your Dragon",
-      "release_date": "2025-04-02"
-    },
-    {
-      "title": "Wicked: For Good",
-      "release_date": "2025-11-04"
+        "title": "Wicked: For Good",
+        "year": 2025,
+        "id": 967941,
+        "poster": "https://image.tmdb.org/t/p/w200/si9tolnefLSUKaqQEGz1bWArOaL.jpg"
     }
-  ]
-}
+]

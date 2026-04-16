@@ -1,229 +1,350 @@
-{
-  "composer": "Basil Poledouris",
-  "filmography": [
+[
     {
-      "title": "The Reversal of Richard Sun",
-      "release_date": "1970"
+        "title": "Congratulations, It's a Boy!",
+        "year": 1971,
+        "id": 252714,
+        "poster": "https://image.tmdb.org/t/p/w200/mdgD9nnWHv3xrnFO7ifirHn9rtT.jpg"
     },
     {
-      "title": "Hollywood 90028",
-      "release_date": "1976-08-26"
+        "title": "Hollywood 90028",
+        "year": 1973,
+        "id": 273544,
+        "poster": "https://image.tmdb.org/t/p/w200/5V9V1dZJg3XslcUmSpGG7jcnDc7.jpg"
     },
     {
-      "title": "Extreme Close-Up",
-      "release_date": "1973-05-16"
+        "title": "Chick, Chick, Chick",
+        "year": 1975,
+        "id": 1083369,
+        "poster": null
     },
     {
-      "title": "Vrooom",
-      "release_date": "1974"
+        "title": "Tintorera: Killer Shark",
+        "year": 1977,
+        "id": 81471,
+        "poster": "https://image.tmdb.org/t/p/w200/gjukweJ6BuhZjwXI7w6ZnNrHdaS.jpg"
     },
     {
-      "title": "Tintorera",
-      "release_date": "1977-04-07"
+        "title": "Big Wednesday",
+        "year": 1978,
+        "id": 18387,
+        "poster": "https://image.tmdb.org/t/p/w200/zMOZoNszmmlf3jUivDUEFgCrReo.jpg"
     },
     {
-      "title": "Big Wednesday",
-      "release_date": "1978-05-26"
+        "title": "The Blue Lagoon",
+        "year": 1980,
+        "id": 5689,
+        "poster": "https://image.tmdb.org/t/p/w200/k6KsThCeoxxHDbVnlHLdTlf5wsy.jpg"
     },
     {
-      "title": "The Blue Lagoon",
-      "release_date": "1980-06-20"
+        "title": "A Whale for the Killing",
+        "year": 1981,
+        "id": 271805,
+        "poster": "https://image.tmdb.org/t/p/w200/r3u9M2X4xl2WavxMx6rSsHPtQrZ.jpg"
     },
     {
-      "title": "Conan the Barbarian",
-      "release_date": "1982-03-16"
+        "title": "Conan the Barbarian",
+        "year": 1982,
+        "id": 9387,
+        "poster": "https://image.tmdb.org/t/p/w200/qw2A587Ee61IwcSOLNFRhuOACZZ.jpg"
     },
     {
-      "title": "Summer Lovers",
-      "release_date": "1982-07-16"
+        "title": "Summer Lovers",
+        "year": 1982,
+        "id": 19415,
+        "poster": "https://image.tmdb.org/t/p/w200/94Q5xC4MrSzpyO9x4kYG8yR4DnF.jpg"
     },
     {
-      "title": "Making the Grade",
-      "release_date": "1984-05-18"
+        "title": "Red Dawn",
+        "year": 1984,
+        "id": 1880,
+        "poster": "https://image.tmdb.org/t/p/w200/a2GkHcioc2QEFJbQk1NTB85u3vD.jpg"
     },
     {
-      "title": "Conan the Destroyer",
-      "release_date": "1984-06-29"
+        "title": "Conan the Destroyer",
+        "year": 1984,
+        "id": 9610,
+        "poster": "https://image.tmdb.org/t/p/w200/m5i7S46DT1ESy7URkh2l92awGRr.jpg"
     },
     {
-      "title": "Red Dawn",
-      "release_date": "1984-08-10"
+        "title": "Making the Grade",
+        "year": 1984,
+        "id": 55727,
+        "poster": "https://image.tmdb.org/t/p/w200/mihPxIkGvGPzDgi1fMrE6cx5Ykq.jpg"
     },
     {
-      "title": "Protocol",
-      "release_date": "1984-12-21"
+        "title": "Single Bars, Single Women",
+        "year": 1984,
+        "id": 297661,
+        "poster": "https://image.tmdb.org/t/p/w200/3KV2QaYnuLeJva0Bwg4YzZX7A9X.jpg"
     },
     {
-      "title": "Flesh & Blood",
-      "release_date": "1985"
+        "title": "Amazons",
+        "year": 1984,
+        "id": 197487,
+        "poster": "https://image.tmdb.org/t/p/w200/fAAuQt2WIua1ElVjeC1rGTi8qCI.jpg"
     },
     {
-      "title": "Alfred Hitchcock Presents",
-      "release_date": "1985"
+        "title": "Protocol",
+        "year": 1984,
+        "id": 37296,
+        "poster": "https://image.tmdb.org/t/p/w200/7iCRH6gcLhYCQBpiJisKNKuTqwE.jpg"
     },
     {
-      "title": "Misfits of Science",
-      "release_date": "1985"
+        "title": "Flesh + Blood",
+        "year": 1985,
+        "id": 12775,
+        "poster": "https://image.tmdb.org/t/p/w200/bjUYC4uC82oASTMPkb6iGCYOO2e.jpg"
     },
     {
-      "title": "The Twilight Zone",
-      "release_date": "1983-06-24"
+        "title": "Iron Eagle",
+        "year": 1986,
+        "id": 11037,
+        "poster": "https://image.tmdb.org/t/p/w200/8NJrLRX1RdKUNU4mhRQ8nLr6bMX.jpg"
     },
     {
-      "title": "Iron Eagle",
-      "release_date": "1986-01-17"
+        "title": "RoboCop",
+        "year": 1987,
+        "id": 5548,
+        "poster": "https://image.tmdb.org/t/p/w200/esmAU0fCO28FbS6bUBKLAzJrohZ.jpg"
     },
     {
-      "title": "RoboCop",
-      "release_date": "1987-07-17"
+        "title": "Cherry 2000",
+        "year": 1987,
+        "id": 15785,
+        "poster": "https://image.tmdb.org/t/p/w200/t3uds00MHLsibhKLCL0BbCEGxXb.jpg"
     },
     {
-      "title": "No Man's Land",
-      "release_date": "1987-10-23"
+        "title": "No Man's Land",
+        "year": 1987,
+        "id": 34379,
+        "poster": "https://image.tmdb.org/t/p/w200/h3F9Pm9Tav6aQolv3DqQ0DVvIYs.jpg"
     },
     {
-      "title": "Cherry 2000",
-      "release_date": "1988"
+        "title": "Split Decisions",
+        "year": 1988,
+        "id": 93457,
+        "poster": "https://image.tmdb.org/t/p/w200/7pKZmcbByBcTK8JwsMt0cfsI37N.jpg"
     },
     {
-      "title": "Spellbinder",
-      "release_date": "1988-09-23"
+        "title": "Intrigue",
+        "year": 1988,
+        "id": 219838,
+        "poster": "https://image.tmdb.org/t/p/w200/7ndvCPEJVa4ojJGZn8AJR4S2ZnA.jpg"
     },
     {
-      "title": "Split Decisions",
-      "release_date": "1988-11-11"
+        "title": "Spellbinder",
+        "year": 1988,
+        "id": 36778,
+        "poster": "https://image.tmdb.org/t/p/w200/lthWQAcAmcJ3InuauNuCMgqEVHX.jpg"
     },
     {
-      "title": "Wired",
-      "release_date": "1989-08-25"
+        "title": "Farewell to the King",
+        "year": 1989,
+        "id": 20713,
+        "poster": "https://image.tmdb.org/t/p/w200/TflAOAoV7C0XPqNyIhjhOelr8F.jpg"
     },
     {
-      "title": "Farewell to the King",
-      "release_date": "1989-03-03"
+        "title": "Wired",
+        "year": 1989,
+        "id": 78151,
+        "poster": "https://image.tmdb.org/t/p/w200/e1BzaleWQOjihUjtrfpg0TO3h8h.jpg"
     },
     {
-      "title": "Nasty Boys",
-      "release_date": "1989"
+        "title": "The Hunt for Red October",
+        "year": 1990,
+        "id": 1669,
+        "poster": "https://image.tmdb.org/t/p/w200/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg"
     },
     {
-      "title": "The Hunt for Red October",
-      "release_date": "1990-03-02"
+        "title": "Quigley Down Under",
+        "year": 1990,
+        "id": 9588,
+        "poster": "https://image.tmdb.org/t/p/w200/sRgeovNyj1pARroKclXzJhOwPbW.jpg"
     },
     {
-      "title": "Quigley Down Under",
-      "release_date": "1990-10-17"
+        "title": "Harley Davidson and the Marlboro Man",
+        "year": 1991,
+        "id": 2453,
+        "poster": "https://image.tmdb.org/t/p/w200/4WRdrjHyLuHRwep2UJWBoIn6KTW.jpg"
     },
     {
-      "title": "Flight of the Intruder",
-      "release_date": "1991-01-18"
+        "title": "White Fang",
+        "year": 1991,
+        "id": 12227,
+        "poster": "https://image.tmdb.org/t/p/w200/27wg0rVZW8hX7nWeHCwTf9DygGc.jpg"
     },
     {
-      "title": "White Fang",
-      "release_date": "1991-01-18"
+        "title": "Return to the Blue Lagoon",
+        "year": 1991,
+        "id": 13888,
+        "poster": "https://image.tmdb.org/t/p/w200/jhUTLuPgc3Qcvr5xtji8oiWSfYy.jpg"
     },
     {
-      "title": "Return to the Blue Lagoon",
-      "release_date": "1991-08-02"
+        "title": "Flight of the Intruder",
+        "year": 1991,
+        "id": 18886,
+        "poster": "https://image.tmdb.org/t/p/w200/tzjCePBItSRfZxLnOd3KBGHQIJl.jpg"
     },
     {
-      "title": "Harley Davidson and the Marlboro Man",
-      "release_date": "1991-08-23"
+        "title": "Ned Blessing: The True Story Of My Life",
+        "year": 1992,
+        "id": 244628,
+        "poster": "https://image.tmdb.org/t/p/w200/wfmHhWb3KsqD3dhQV4RANBwZpGi.jpg"
     },
     {
-      "title": "Wind",
-      "release_date": "1992-09-11"
+        "title": "Wind",
+        "year": 1992,
+        "id": 28881,
+        "poster": "https://image.tmdb.org/t/p/w200/qj7RAiqrLVp3TCzDnhQlONm9In4.jpg"
     },
     {
-      "title": "Hot Shots! Part Deux",
-      "release_date": "1993-05-21"
+        "title": "Free Willy",
+        "year": 1993,
+        "id": 1634,
+        "poster": "https://image.tmdb.org/t/p/w200/9iBgd9gi9ztWiVcYSG6zl8wDFBN.jpg"
     },
     {
-      "title": "Free Willy",
-      "release_date": "1993-07-16"
+        "title": "RoboCop 3",
+        "year": 1993,
+        "id": 5550,
+        "poster": "https://image.tmdb.org/t/p/w200/ppLSSwCuC5ERRWbu9H3R8SPL9AM.jpg"
     },
     {
-      "title": "RoboCop 3",
-      "release_date": "1993-04-18"
+        "title": "Hot Shots! Part Deux",
+        "year": 1993,
+        "id": 9255,
+        "poster": "https://image.tmdb.org/t/p/w200/zh9EGK970GHo10ETclWBOjZVUOK.jpg"
     },
     {
-      "title": "On Deadly Ground",
-      "release_date": "1994-02-18"
+        "title": "The Jungle Book",
+        "year": 1994,
+        "id": 10714,
+        "poster": "https://image.tmdb.org/t/p/w200/rYoE6cuup9Ofam6AuYaiJLxF9OO.jpg"
     },
     {
-      "title": "Serial Mom",
-      "release_date": "1994-04-13"
+        "title": "Serial Mom",
+        "year": 1994,
+        "id": 11592,
+        "poster": "https://image.tmdb.org/t/p/w200/vAZkFho9YdIXPmMdHMwr10Go2FF.jpg"
     },
     {
-      "title": "Lassie",
-      "release_date": "1994-07-22"
+        "title": "On Deadly Ground",
+        "year": 1994,
+        "id": 9624,
+        "poster": "https://image.tmdb.org/t/p/w200/8jnO8EByAsfupWj9RjQxYAO4AUH.jpg"
     },
     {
-      "title": "Rudyard Kipling's The Jungle Book",
-      "release_date": "1994"
+        "title": "Lassie",
+        "year": 1994,
+        "id": 29918,
+        "poster": "https://image.tmdb.org/t/p/w200/5Tz2rzFivQKmMBz5T8Cj7M7CdnI.jpg"
     },
     {
-      "title": "Under Siege 2: Dark Territory",
-      "release_date": "1995-07-14"
+        "title": "Under Siege 2: Dark Territory",
+        "year": 1995,
+        "id": 3512,
+        "poster": "https://image.tmdb.org/t/p/w200/gElwFCQTbSK5hdK0PVyia547nst.jpg"
     },
     {
-      "title": "Free Willy 2: The Adventure Home",
-      "release_date": "1995-07-19"
+        "title": "Free Willy 2: The Adventure Home",
+        "year": 1995,
+        "id": 9073,
+        "poster": "https://image.tmdb.org/t/p/w200/3wpug3W5rYBdqeAnhc1UeXLE5ZF.jpg"
     },
     {
-      "title": "It's My Party",
-      "release_date": "1996-03-22"
+        "title": "The War at Home",
+        "year": 1996,
+        "id": 59232,
+        "poster": "https://image.tmdb.org/t/p/w200/la11ac7YYCDBsizOkKxqwn71VKQ.jpg"
     },
     {
-      "title": "Celtic Pride",
-      "release_date": "1996-04-19"
+        "title": "It's My Party",
+        "year": 1996,
+        "id": 33245,
+        "poster": "https://image.tmdb.org/t/p/w200/ltrjg99gc3bA3P5E6WaIbGMxWHS.jpg"
     },
     {
-      "title": "Amanda",
-      "release_date": "1996"
+        "title": "Amanda",
+        "year": 1996,
+        "id": 388903,
+        "poster": "https://image.tmdb.org/t/p/w200/e3aPdhG65FJEPOe5T8U9rV4K88f.jpg"
     },
     {
-      "title": "The War at Home",
-      "release_date": "1996-11-20"
+        "title": "Celtic Pride",
+        "year": 1996,
+        "id": 23449,
+        "poster": "https://image.tmdb.org/t/p/w200/5P3p9I2ADnTbBdIAl4ZUeUXGuIi.jpg"
     },
     {
-      "title": "Breakdown",
-      "release_date": "1997-05-02"
+        "title": "Starship Troopers",
+        "year": 1997,
+        "id": 563,
+        "poster": "https://image.tmdb.org/t/p/w200/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg"
     },
     {
-      "title": "Switchback",
-      "release_date": "1997-10-31"
+        "title": "Breakdown",
+        "year": 1997,
+        "id": 2163,
+        "poster": "https://image.tmdb.org/t/p/w200/m3VB59ppr1RlpxNUYRUfZTgjgU.jpg"
     },
     {
-      "title": "Starship Troopers",
-      "release_date": "1997-11-04"
+        "title": "Switchback",
+        "year": 1997,
+        "id": 10871,
+        "poster": "https://image.tmdb.org/t/p/w200/3v4nX475G97Vd8XCapTKQ7NTqMs.jpg"
     },
     {
-      "title": "Les Mis\u00e9rables",
-      "release_date": "1998-05-01"
+        "title": "Les Mis\u00e9rables",
+        "year": 1998,
+        "id": 4415,
+        "poster": "https://image.tmdb.org/t/p/w200/3TOgmlIY8X3WjIjvU7Z0jqeNkyU.jpg"
     },
     {
-      "title": "Mickey Blue Eyes",
-      "release_date": "1999-08-20"
+        "title": "Mickey Blue Eyes",
+        "year": 1999,
+        "id": 10154,
+        "poster": "https://image.tmdb.org/t/p/w200/gEnKsStQ27P0KCCIGtkYwvFQ0RX.jpg"
     },
     {
-      "title": "Kimberly",
-      "release_date": "1999"
+        "title": "For Love of the Game",
+        "year": 1999,
+        "id": 10390,
+        "poster": "https://image.tmdb.org/t/p/w200/vkeKxoSXE1qMArcFNTNBBH8TjKZ.jpg"
     },
     {
-      "title": "For Love of the Game",
-      "release_date": "1999-09-17"
+        "title": "Conan Unchained: The Making of 'Conan'",
+        "year": 2000,
+        "id": 143894,
+        "poster": "https://image.tmdb.org/t/p/w200/iWKui79bDPffyv57uT8gGqgLzNl.jpg"
     },
     {
-      "title": "Cecil B. Demented",
-      "release_date": "2000-05-17"
+        "title": "If These Walls Could Talk 2",
+        "year": 2000,
+        "id": 28031,
+        "poster": "https://image.tmdb.org/t/p/w200/1bwmJfLJVoxmj96qKVuE9oSmEUS.jpg"
     },
     {
-      "title": "Crocodile Dundee in Los Angeles",
-      "release_date": "2001-04-12"
+        "title": "Cecil B. Demented",
+        "year": 2000,
+        "id": 14195,
+        "poster": "https://image.tmdb.org/t/p/w200/gCXUA9BUOSDmOFVfkVBF4v15Td6.jpg"
     },
     {
-      "title": "The Touch",
-      "release_date": "2002-08-01"
+        "title": "Crocodile Dundee in Los Angeles",
+        "year": 2001,
+        "id": 9290,
+        "poster": "https://image.tmdb.org/t/p/w200/hwt6iJjPuXRDKJON5s9G9pdfPbu.jpg"
+    },
+    {
+        "title": "The Touch",
+        "year": 2002,
+        "id": 32091,
+        "poster": "https://image.tmdb.org/t/p/w200/voQXY7v9G8n4cPQEZIabkBzwzB6.jpg"
+    },
+    {
+        "title": "The Legend of Butch & Sundance",
+        "year": 2006,
+        "id": 151902,
+        "poster": "https://image.tmdb.org/t/p/w200/s50gUKp1isffIVTkWnalQFlJTtM.jpg"
     }
-  ]
-}
+]

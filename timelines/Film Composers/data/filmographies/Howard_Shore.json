@@ -1,357 +1,548 @@
-{
-  "composer": "Howard Shore",
-  "filmography": [
+[
     {
-      "title": "I Miss You, Hugs and Kisses",
-      "release_date": "1978-09-08"
+        "title": "I Miss You, Hugs and Kisses",
+        "year": 1978,
+        "id": 40109,
+        "poster": "https://image.tmdb.org/t/p/w200/xceAskpxMl4KKMhCbYh60RDXmPS.jpg"
     },
     {
-      "title": "The Brood",
-      "release_date": "1979-05-25"
+        "title": "The Brood",
+        "year": 1979,
+        "id": 28942,
+        "poster": "https://image.tmdb.org/t/p/w200/zSEt4QXRI4Gypd9xvzvucOmPNl5.jpg"
     },
     {
-      "title": "Scanners",
-      "release_date": "1981-01-14"
+        "title": "Scanners",
+        "year": 1981,
+        "id": 9538,
+        "poster": "https://image.tmdb.org/t/p/w200/VTqLdveNXxGsIAZL5I4RliTTt7.jpg"
     },
     {
-      "title": "Videodrome",
-      "release_date": "1983-02-04"
+        "title": "Videodrome",
+        "year": 1983,
+        "id": 837,
+        "poster": "https://image.tmdb.org/t/p/w200/qqqkiZSU9EBGZ1KiDmfn07S7qvv.jpg"
     },
     {
-      "title": "Nothing Lasts Forever",
-      "release_date": "1984"
+        "title": "Nothing Lasts Forever",
+        "year": 1984,
+        "id": 52826,
+        "poster": "https://image.tmdb.org/t/p/w200/y6ECO9HVTo4bCYtUfqShMyQKy4I.jpg"
     },
     {
-      "title": "Places in the Heart",
-      "release_date": "1984-09-21"
+        "title": "After Hours",
+        "year": 1985,
+        "id": 10843,
+        "poster": "https://image.tmdb.org/t/p/w200/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg"
     },
     {
-      "title": "After Hours",
-      "release_date": "1985-09-13"
+        "title": "The Fly",
+        "year": 1986,
+        "id": 9426,
+        "poster": "https://image.tmdb.org/t/p/w200/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg"
     },
     {
-      "title": "Fire with Fire",
-      "release_date": "1986-05-09"
+        "title": "Fire with Fire",
+        "year": 1986,
+        "id": 85654,
+        "poster": "https://image.tmdb.org/t/p/w200/1lCi4gHuQmnqn5laJFYZZfaEW9F.jpg"
     },
     {
-      "title": "The Fly",
-      "release_date": "1986-08-15"
+        "title": "Nadine",
+        "year": 1987,
+        "id": 61178,
+        "poster": "https://image.tmdb.org/t/p/w200/mim8TLLXmD3ui03f9jVmOXGACv8.jpg"
     },
     {
-      "title": "Nadine",
-      "release_date": "1987-08-07"
+        "title": "Heaven",
+        "year": 1987,
+        "id": 42004,
+        "poster": "https://image.tmdb.org/t/p/w200/u8n6zCu80Mxw4BFvSknwRKYDUaI.jpg"
     },
     {
-      "title": "Moving",
-      "release_date": "1988-03-04"
+        "title": "Big",
+        "year": 1988,
+        "id": 2280,
+        "poster": "https://image.tmdb.org/t/p/w200/eWhCDJiwxvx3YXkAFRiHjimnF0j.jpg"
     },
     {
-      "title": "Big",
-      "release_date": "1988-06-03"
+        "title": "Dead Ringers",
+        "year": 1988,
+        "id": 9540,
+        "poster": "https://image.tmdb.org/t/p/w200/ofXwDfM8uYAaftD7cBPcIWdCpMn.jpg"
     },
     {
-      "title": "Dead Ringers",
-      "release_date": "1988-09-08"
+        "title": "Moving",
+        "year": 1988,
+        "id": 29739,
+        "poster": "https://image.tmdb.org/t/p/w200/ld7XINaFmrnyDe5Ugl9tQX9UWxa.jpg"
     },
     {
-      "title": "Signs of Life",
-      "release_date": "1989"
+        "title": "She-Devil",
+        "year": 1989,
+        "id": 11157,
+        "poster": "https://image.tmdb.org/t/p/w200/jWYAXtdYF804aT1muO0G6FuR2Fa.jpg"
     },
     {
-      "title": "An Innocent Man",
-      "release_date": "1989-10-06"
+        "title": "Signs of Life",
+        "year": 1989,
+        "id": 76476,
+        "poster": "https://image.tmdb.org/t/p/w200/gNyIicLdxeQBK6hV4NskdZ2vCF3.jpg"
     },
     {
-      "title": "The Lemon Sisters",
-      "release_date": "1990-08-31"
+        "title": "An Innocent Man",
+        "year": 1989,
+        "id": 29185,
+        "poster": "https://image.tmdb.org/t/p/w200/fDgR7vq3fqtlo2w2wPN3pNXyDm5.jpg"
     },
     {
-      "title": "She-Devil",
-      "release_date": "1989-12-08"
+        "title": "The Lemon Sisters",
+        "year": 1989,
+        "id": 123771,
+        "poster": "https://image.tmdb.org/t/p/w200/59JTg2UBu9njVdqilo9SBRpmyAg.jpg"
     },
     {
-      "title": "Postcards from the Edge",
-      "release_date": "1990-09-14"
+        "title": "Made in Milan",
+        "year": 1990,
+        "id": 301814,
+        "poster": "https://image.tmdb.org/t/p/w200/44Xm8r819NnodzmFK5c2H7o6rRe.jpg"
     },
     {
-      "title": "The Local Stigmatic",
-      "release_date": "1990-09-19"
+        "title": "The Local Stigmatic",
+        "year": 1990,
+        "id": 72781,
+        "poster": "https://image.tmdb.org/t/p/w200/iP1q3x2EIcmq6jRem9AwpVEjGZw.jpg"
     },
     {
-      "title": "Quick Change",
-      "release_date": "1990-07-13"
+        "title": "Naked Lunch",
+        "year": 1991,
+        "id": 2742,
+        "poster": "https://image.tmdb.org/t/p/w200/u01kh5jKUWjhom76mguRqUgdvja.jpg"
     },
     {
-      "title": "A Kiss Before Dying",
-      "release_date": "1991-04-26"
+        "title": "The Silence of the Lambs",
+        "year": 1991,
+        "id": 274,
+        "poster": "https://image.tmdb.org/t/p/w200/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg"
     },
     {
-      "title": "The Silence of the Lambs",
-      "release_date": "1991-01-30"
+        "title": "A Kiss Before Dying",
+        "year": 1991,
+        "id": 31696,
+        "poster": "https://image.tmdb.org/t/p/w200/n4aT62Y1kKBpAgmEk4FILZAJpPn.jpg"
     },
     {
-      "title": "Naked Lunch",
-      "release_date": "1991-12-27"
+        "title": "Prelude to a Kiss",
+        "year": 1992,
+        "id": 2613,
+        "poster": "https://image.tmdb.org/t/p/w200/2jircyuuGwx7OtFcSMVVXW0fNvv.jpg"
     },
     {
-      "title": "Prelude to a Kiss",
-      "release_date": "1992-07-10"
+        "title": "Single White Female",
+        "year": 1992,
+        "id": 9605,
+        "poster": "https://image.tmdb.org/t/p/w200/2B6spN9XvzbK9hKDQtvTa4wVoys.jpg"
     },
     {
-      "title": "Single White Female",
-      "release_date": "1992-08-14"
+        "title": "M. Butterfly",
+        "year": 1993,
+        "id": 1413,
+        "poster": "https://image.tmdb.org/t/p/w200/vfutnJ9sgpAtNuPemksd26gd5dC.jpg"
     },
     {
-      "title": "Sliver",
-      "release_date": "1993-05-19"
+        "title": "Mrs. Doubtfire",
+        "year": 1993,
+        "id": 788,
+        "poster": "https://image.tmdb.org/t/p/w200/shHrSmXS5140o6sQzgzXxn3KqSm.jpg"
     },
     {
-      "title": "Guilty as Sin",
-      "release_date": "1993-06-04"
+        "title": "Sliver",
+        "year": 1993,
+        "id": 867,
+        "poster": "https://image.tmdb.org/t/p/w200/g7PC2e2KqDkIfOoJx9iXJJez99d.jpg"
     },
     {
-      "title": "M. Butterfly",
-      "release_date": "1993-10-01"
+        "title": "Philadelphia",
+        "year": 1993,
+        "id": 9800,
+        "poster": "https://image.tmdb.org/t/p/w200/tFe5Yoo5zT495okA49bq1vPPkiV.jpg"
     },
     {
-      "title": "Mrs. Doubtfire",
-      "release_date": "1993-11-24"
+        "title": "Guilty as Sin",
+        "year": 1993,
+        "id": 4916,
+        "poster": "https://image.tmdb.org/t/p/w200/a5b53cYM23bUA7OyoNyDtIJ38kc.jpg"
     },
     {
-      "title": "Philadelphia",
-      "release_date": "1993-12-14"
+        "title": "Ed Wood",
+        "year": 1994,
+        "id": 522,
+        "poster": "https://image.tmdb.org/t/p/w200/n8SrO3WbyuY2b6KazogqbQF348C.jpg"
     },
     {
-      "title": "The Client",
-      "release_date": "1994-07-20"
+        "title": "Nobody's Fool",
+        "year": 1994,
+        "id": 11593,
+        "poster": "https://image.tmdb.org/t/p/w200/xyAXFy6mOfgZcVWbceCeuTYadeq.jpg"
     },
     {
-      "title": "Ed Wood",
-      "release_date": "1994-09-24"
+        "title": "The Client",
+        "year": 1994,
+        "id": 10731,
+        "poster": "https://image.tmdb.org/t/p/w200/oLdkJ4ZjxPtFSUChdjDQvHM9l75.jpg"
     },
     {
-      "title": "Nobody's Fool",
-      "release_date": "1994-12-23"
+        "title": "Se7en",
+        "year": 1995,
+        "id": 807,
+        "poster": "https://image.tmdb.org/t/p/w200/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg"
     },
     {
-      "title": "Seven",
-      "release_date": "1995-09-22"
+        "title": "Moonlight and Valentino",
+        "year": 1995,
+        "id": 68274,
+        "poster": "https://image.tmdb.org/t/p/w200/rKJ1DwaH8pM3qDNxKFxvsQEg6wE.jpg"
     },
     {
-      "title": "Moonlight and Valentino",
-      "release_date": "1995-09-29"
+        "title": "White Man's Burden",
+        "year": 1995,
+        "id": 31611,
+        "poster": "https://image.tmdb.org/t/p/w200/5MPatVYJXPYEGrd9RQiwldBBQvJ.jpg"
     },
     {
-      "title": "White Man's Burden",
-      "release_date": "1995-12-01"
+        "title": "Crash",
+        "year": 1996,
+        "id": 884,
+        "poster": "https://image.tmdb.org/t/p/w200/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg"
     },
     {
-      "title": "Before and After",
-      "release_date": "1996-02-23"
+        "title": "That Thing You Do!",
+        "year": 1996,
+        "id": 9591,
+        "poster": "https://image.tmdb.org/t/p/w200/9RmZu33qHdyZFGLfhEOmkTjdNEu.jpg"
     },
     {
-      "title": "The Truth About Cats & Dogs",
-      "release_date": "1996-04-26"
+        "title": "Striptease",
+        "year": 1996,
+        "id": 9879,
+        "poster": "https://image.tmdb.org/t/p/w200/4zMy6R7acotCmGoDk4sjzRtDwKn.jpg"
     },
     {
-      "title": "Ransom",
-      "release_date": "1996-11-08"
+        "title": "The Truth About Cats & Dogs",
+        "year": 1996,
+        "id": 8866,
+        "poster": "https://image.tmdb.org/t/p/w200/iECTzpGdAMrkEeoYvuYsCxdmW2G.jpg"
     },
     {
-      "title": "Crash",
-      "release_date": "1996-05-17"
+        "title": "Before and After",
+        "year": 1996,
+        "id": 43566,
+        "poster": "https://image.tmdb.org/t/p/w200/oK8UKDrjFS14OFoihaQPfmmMOyI.jpg"
     },
     {
-      "title": "Striptease",
-      "release_date": "1996-06-23"
+        "title": "Looking for Richard",
+        "year": 1996,
+        "id": 42314,
+        "poster": "https://image.tmdb.org/t/p/w200/2iEgEoMP1S2YWKkYkwm8cgg2bBN.jpg"
     },
     {
-      "title": "That Thing You Do!",
-      "release_date": "1996-10-04"
+        "title": "The Game",
+        "year": 1997,
+        "id": 2649,
+        "poster": "https://image.tmdb.org/t/p/w200/4UOa079915QjiTA2u5hT2yKVgUu.jpg"
     },
     {
-      "title": "Cop Land",
-      "release_date": "1997-08-15"
+        "title": "Cop Land",
+        "year": 1997,
+        "id": 2142,
+        "poster": "https://image.tmdb.org/t/p/w200/dyOqXyPCQh8VF0KA5aelBCCQond.jpg"
     },
     {
-      "title": "The Game",
-      "release_date": "1997-09-12"
+        "title": "Dogma",
+        "year": 1999,
+        "id": 1832,
+        "poster": "https://image.tmdb.org/t/p/w200/oxhHl2YokTqcP44QK5tiTgjgLgk.jpg"
     },
     {
-      "title": "Gloria",
-      "release_date": "1999"
+        "title": "eXistenZ",
+        "year": 1999,
+        "id": 1946,
+        "poster": "https://image.tmdb.org/t/p/w200/kETKF0JhdTPn1knci8CAdYL0d79.jpg"
     },
     {
-      "title": "eXistenZ",
-      "release_date": "1999-04-23"
+        "title": "Analyze This",
+        "year": 1999,
+        "id": 9535,
+        "poster": "https://image.tmdb.org/t/p/w200/eqa4TEgkx63WRhqyD8eTwmL7bUi.jpg"
     },
     {
-      "title": "Analyze This",
-      "release_date": "1999-03-05"
+        "title": "Gloria",
+        "year": 1999,
+        "id": 45712,
+        "poster": "https://image.tmdb.org/t/p/w200/1AKAfnT3nm7asU9qyNT6gtS1vbe.jpg"
     },
     {
-      "title": "Dogma",
-      "release_date": "1999-05-21"
+        "title": "High Fidelity",
+        "year": 2000,
+        "id": 243,
+        "poster": "https://image.tmdb.org/t/p/w200/e2LZGB62GMhv3Fo8tDZjY87I81a.jpg"
     },
     {
-      "title": "High Fidelity",
-      "release_date": "2000-03-17"
+        "title": "The Cell",
+        "year": 2000,
+        "id": 8843,
+        "poster": "https://image.tmdb.org/t/p/w200/kfYVxvDDAJoFq2knHUzAZP09pAc.jpg"
     },
     {
-      "title": "The Yards",
-      "release_date": "2000-10-20"
+        "title": "The Yards",
+        "year": 2000,
+        "id": 19457,
+        "poster": "https://image.tmdb.org/t/p/w200/AtwXtU8CDWvVADgOwRkOSRZFPWI.jpg"
     },
     {
-      "title": "Esther Kahn",
-      "release_date": "2000-05-18"
+        "title": "Esther Kahn",
+        "year": 2000,
+        "id": 61578,
+        "poster": "https://image.tmdb.org/t/p/w200/ikotkI3DKEnDENBS1ZxSLEPwVdF.jpg"
     },
     {
-      "title": "The Cell",
-      "release_date": "2000-08-18"
+        "title": "Camera",
+        "year": 2000,
+        "id": 100607,
+        "poster": "https://image.tmdb.org/t/p/w200/eeQFid2pEldA9gBrTHUpe5s4Ow0.jpg"
     },
     {
-      "title": "The Score",
-      "release_date": "2001-07-13"
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": 2001,
+        "id": 120,
+        "poster": "https://image.tmdb.org/t/p/w200/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
     },
     {
-      "title": "The Lord of the Rings: The Fellowship of the Ring",
-      "release_date": "2001-12-10"
+        "title": "The Score",
+        "year": 2001,
+        "id": 11371,
+        "poster": "https://image.tmdb.org/t/p/w200/fsb4m9XW59mei8GKznvI3lLzcfp.jpg"
     },
     {
-      "title": "Panic Room",
-      "release_date": "2002-03-29"
+        "title": "The Lord of the Rings: The Two Towers",
+        "year": 2002,
+        "id": 121,
+        "poster": "https://image.tmdb.org/t/p/w200/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg"
     },
     {
-      "title": "Spider",
-      "release_date": "2002-12-13"
+        "title": "Gangs of New York",
+        "year": 2002,
+        "id": 3131,
+        "poster": "https://image.tmdb.org/t/p/w200/lemqKtcCuAano5aqrzxYiKC8kkn.jpg"
     },
     {
-      "title": "The Lord of the Rings: The Two Towers",
-      "release_date": "2002-12-05"
+        "title": "Spider",
+        "year": 2002,
+        "id": 9613,
+        "poster": "https://image.tmdb.org/t/p/w200/zvm4WuYxTiGkRagRqHUey0meRQL.jpg"
     },
     {
-      "title": "Gangs of New York",
-      "release_date": "2002-12-20"
+        "title": "Panic Room",
+        "year": 2002,
+        "id": 4547,
+        "poster": "https://image.tmdb.org/t/p/w200/hANYbvfwxmkC9E4yY6YyJxYxlSJ.jpg"
     },
     {
-      "title": "The Lord of the Rings: The Return of the King",
-      "release_date": "2003-12-01"
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "id": 122,
+        "poster": "https://image.tmdb.org/t/p/w200/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg"
     },
     {
-      "title": "The Aviator",
-      "release_date": "2004-12-17"
+        "title": "The Aviator",
+        "year": 2004,
+        "id": 2567,
+        "poster": "https://image.tmdb.org/t/p/w200/lx4kWcZc3o9PaNxlQpEJZM17XUI.jpg"
     },
     {
-      "title": "A History of Violence",
-      "release_date": "2005-05-16"
+        "title": "A History of Violence",
+        "year": 2005,
+        "id": 59,
+        "poster": "https://image.tmdb.org/t/p/w200/3qnO72NHmUgs9JZXAmu4aId9QDl.jpg"
     },
     {
-      "title": "King Kong",
-      "release_date": "2005-12-05"
+        "title": "Lord of the Brush",
+        "year": 2005,
+        "id": 465397,
+        "poster": null
     },
     {
-      "title": "The Departed",
-      "release_date": "2006-09-26"
+        "title": "The Departed",
+        "year": 2006,
+        "id": 1422,
+        "poster": "https://image.tmdb.org/t/p/w200/nT97ifVT2J1yMQmeq20Qblg61T.jpg"
     },
     {
-      "title": "The Last Mimzy",
-      "release_date": "2007-03-23"
+        "title": "Eastern Promises",
+        "year": 2007,
+        "id": 2252,
+        "poster": "https://image.tmdb.org/t/p/w200/dpiJWb4NrWgcOg2rusuLhDM0hTm.jpg"
     },
     {
-      "title": "To Each His Own Cinema",
-      "release_date": "2007-05-20"
+        "title": "The Last Mimzy",
+        "year": 2007,
+        "id": 2267,
+        "poster": "https://image.tmdb.org/t/p/w200/jnLXcQFx4hSKDNG1P6RMz4v5jje.jpg"
     },
     {
-      "title": "Eastern Promises",
-      "release_date": "2007-09-08"
+        "title": "To Each His Own Cinema",
+        "year": 2007,
+        "id": 36108,
+        "poster": "https://image.tmdb.org/t/p/w200/1bTniamnmxv8TY3AUrxddrNy9rV.jpg"
     },
     {
-      "title": "Doubt",
-      "release_date": "2008-10-30"
+        "title": "Doubt",
+        "year": 2008,
+        "id": 14359,
+        "poster": "https://image.tmdb.org/t/p/w200/9lypT2ghNuUPYVJf66oe4fKvUqI.jpg"
     },
     {
-      "title": "Edge of Darkness",
-      "release_date": "2010-01-29"
+        "title": "The Betrayal \u2013 Nerakhoon",
+        "year": 2008,
+        "id": 40215,
+        "poster": "https://image.tmdb.org/t/p/w200/4Vog7d1Yn80tKp5p0u3q9B7TXkV.jpg"
     },
     {
-      "title": "The Twilight Saga: Eclipse",
-      "release_date": "2010-06-24"
+        "title": "The Twilight Saga: Eclipse",
+        "year": 2010,
+        "id": 24021,
+        "poster": "https://image.tmdb.org/t/p/w200/dK4Gi1UdMiHzHc7r7CZQG4IQ9Sr.jpg"
     },
     {
-      "title": "A Dangerous Method",
-      "release_date": "2011-09-02"
+        "title": "Edge of Darkness",
+        "year": 2010,
+        "id": 12201,
+        "poster": "https://image.tmdb.org/t/p/w200/pvHjp1vEFmp5FquSCPQ2O95tIZJ.jpg"
     },
     {
-      "title": "Hugo",
-      "release_date": "2011-10-10"
+        "title": "Hugo",
+        "year": 2011,
+        "id": 44826,
+        "poster": "https://image.tmdb.org/t/p/w200/1dxRq3o3l3bVWNRvvSb7rRf68qp.jpg"
     },
     {
-      "title": "Cosmopolis",
-      "release_date": "2012-05-25"
+        "title": "A Dangerous Method",
+        "year": 2011,
+        "id": 48231,
+        "poster": "https://image.tmdb.org/t/p/w200/7TPYtzq9ABkfED1JB0tRASamL4z.jpg"
     },
     {
-      "title": "The Hobbit: An Unexpected Journey",
-      "release_date": "2012-11-28"
+        "title": "Cosmopolis",
+        "year": 2012,
+        "id": 49014,
+        "poster": "https://image.tmdb.org/t/p/w200/kXoaAmh0kkcAqW0ikafWEvqVezJ.jpg"
     },
     {
-      "title": "Jimmy P: Psychotherapy of a Plains Indian",
-      "release_date": "2013"
+        "title": "The Hobbit: An Unexpected Journey",
+        "year": 2012,
+        "id": 49051,
+        "poster": "https://image.tmdb.org/t/p/w200/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg"
     },
     {
-      "title": "The Hobbit: The Desolation of Smaug",
-      "release_date": "2013-12-02"
+        "title": "The Ephemerol Diaries: An Interview with Stephen Lack",
+        "year": 2012,
+        "id": 588271,
+        "poster": "https://image.tmdb.org/t/p/w200/8bEVqW834V1Gcu8F7W6Yz39Baqp.jpg"
     },
     {
-      "title": "Maps to the Stars",
-      "release_date": "2014-05-19"
+        "title": "The Hobbit: The Desolation of Smaug",
+        "year": 2013,
+        "id": 57158,
+        "poster": "https://image.tmdb.org/t/p/w200/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg"
     },
     {
-      "title": "Rosewater",
-      "release_date": "2014-08-29"
+        "title": "Jimmy P.",
+        "year": 2013,
+        "id": 160768,
+        "poster": "https://image.tmdb.org/t/p/w200/fjOBKLWWV8vqk68NLksUSa20LEo.jpg"
     },
     {
-      "title": "The Hobbit: The Battle of the Five Armies",
-      "release_date": "2014-12-01"
+        "title": "The Hobbit: The Battle of the Five Armies",
+        "year": 2014,
+        "id": 122917,
+        "poster": "https://image.tmdb.org/t/p/w200/xT98tLqatZPQApyRmlPL12LtiWp.jpg"
     },
     {
-      "title": "Spotlight",
-      "release_date": "2015"
+        "title": "Maps to the Stars",
+        "year": 2014,
+        "id": 157851,
+        "poster": "https://image.tmdb.org/t/p/w200/aoMNfiaMmT7o7wY8oXWCLErZtah.jpg"
     },
     {
-      "title": "Denial",
-      "release_date": "2016-09-11"
+        "title": "Rosewater",
+        "year": 2014,
+        "id": 222649,
+        "poster": "https://image.tmdb.org/t/p/w200/iTzGgTjaB16vVDfBOp6jBvVbwzr.jpg"
     },
     {
-      "title": "The Catcher Was a Spy",
-      "release_date": "2018-01-19"
+        "title": "Spotlight",
+        "year": 2015,
+        "id": 314365,
+        "poster": "https://image.tmdb.org/t/p/w200/8DPGG400FgaFWaqcv11n8mRd2NG.jpg"
     },
     {
-      "title": "The Song of Names",
-      "release_date": "2019-09-08"
+        "title": "Denial",
+        "year": 2016,
+        "id": 402298,
+        "poster": "https://image.tmdb.org/t/p/w200/cJLbcWqV6sKwPpX5uT4xaklTgQz.jpg"
     },
     {
-      "title": "Le prince oubli\u00e9",
-      "release_date": "2020"
+        "title": "The Catcher Was a Spy",
+        "year": 2018,
+        "id": 467952,
+        "poster": "https://image.tmdb.org/t/p/w200/3aBv9Oln0aoBrEbkMabHIVat6CY.jpg"
     },
     {
-      "title": "Pieces of a Woman",
-      "release_date": "2020"
+        "title": "The Song of Names",
+        "year": 2019,
+        "id": 617768,
+        "poster": "https://image.tmdb.org/t/p/w200/iIEZG0WD0sraPqo4al6oaU1vibJ.jpg"
     },
     {
-      "title": "Funny Boy",
-      "release_date": "2020-12-04"
+        "title": "The Lost Prince",
+        "year": 2020,
+        "id": 520725,
+        "poster": "https://image.tmdb.org/t/p/w200/iFcSfoMu9hQIX4t0CxIkDJKgIES.jpg"
     },
     {
-      "title": "Crimes of the Future",
-      "release_date": "2022-05-23"
+        "title": "Pieces of a Woman",
+        "year": 2020,
+        "id": 641662,
+        "poster": "https://image.tmdb.org/t/p/w200/OgUfLlhfBFx5BPK6LzBWFvBW1w.jpg"
     },
     {
-      "title": "The Pale Blue Eye",
-      "release_date": "2022-12-23"
+        "title": "Funny Boy",
+        "year": 2020,
+        "id": 755080,
+        "poster": "https://image.tmdb.org/t/p/w200/v1eXBBAw7UY2rWNTdkHB9ZD3Rh8.jpg"
     },
     {
-      "title": "The Shrouds",
-      "release_date": "2024-05-20"
+        "title": "Crimes of the Future",
+        "year": 2022,
+        "id": 819876,
+        "poster": "https://image.tmdb.org/t/p/w200/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg"
+    },
+    {
+        "title": "The Pale Blue Eye",
+        "year": 2022,
+        "id": 800815,
+        "poster": "https://image.tmdb.org/t/p/w200/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg"
+    },
+    {
+        "title": "Drift",
+        "year": 2023,
+        "id": 1178956,
+        "poster": "https://image.tmdb.org/t/p/w200/riClJVmNRNmgkMLa0jIoMCpixIu.jpg"
+    },
+    {
+        "title": "The Shrouds",
+        "year": 2025,
+        "id": 970947,
+        "poster": "https://image.tmdb.org/t/p/w200/6J4lPto3rjlHZwhIhCy9cOWNnqb.jpg"
     }
-  ]
-}
+]

@@ -1,241 +1,362 @@
-{
-  "composer": "Patrick Doyle",
-  "filmography": [
+[
     {
-      "title": "Chariots of Fire",
-      "release_date": "1981-03-30"
+        "title": "Twelfth Night, or What You Will",
+        "year": 1988,
+        "id": 88566,
+        "poster": "https://image.tmdb.org/t/p/w200/dTBJ73E6QYHEKfN4rXTVi1tN15t.jpg"
     },
     {
-      "title": "Henry V",
-      "release_date": "1989-10-06"
+        "title": "Henry V",
+        "year": 1989,
+        "id": 10705,
+        "poster": "https://image.tmdb.org/t/p/w200/w9R2HsYNnfF3m9uEo2UAmPNJr8a.jpg"
     },
     {
-      "title": "Shipwrecked",
-      "release_date": "1990-10-03"
+        "title": "Look Back in Anger",
+        "year": 1989,
+        "id": 241000,
+        "poster": "https://image.tmdb.org/t/p/w200/pgJVy2yvgQL69dNBTBBZP9Q3PtW.jpg"
     },
     {
-      "title": "Dead Again",
-      "release_date": "1991-08-23"
+        "title": "Shipwrecked",
+        "year": 1990,
+        "id": 71805,
+        "poster": "https://image.tmdb.org/t/p/w200/b1taxayvlKB6Qiera4O6gM8SocT.jpg"
     },
     {
-      "title": "Indochine",
-      "release_date": "1992-04-15"
+        "title": "Dead Again",
+        "year": 1991,
+        "id": 11498,
+        "poster": "https://image.tmdb.org/t/p/w200/irEnDVtxox6gnRJuwtEZuxvl2vZ.jpg"
     },
     {
-      "title": "Into the West",
-      "release_date": "1992-12-11"
+        "title": "Indochine",
+        "year": 1992,
+        "id": 2731,
+        "poster": "https://image.tmdb.org/t/p/w200/sAemRfr6mOSwtQ76e4yUQVImo8B.jpg"
     },
     {
-      "title": "Much Ado About Nothing",
-      "release_date": "1993-05-07"
+        "title": "Into the West",
+        "year": 1992,
+        "id": 33221,
+        "poster": "https://image.tmdb.org/t/p/w200/k9e63dUNxu5MtXCCB3trUXtXX58.jpg"
     },
     {
-      "title": "Needful Things",
-      "release_date": "1993-08-27"
+        "title": "Needful Things",
+        "year": 1993,
+        "id": 10657,
+        "poster": "https://image.tmdb.org/t/p/w200/9RxE6kd1ky4689WxqX6CHEpIWya.jpg"
     },
     {
-      "title": "Carlito's Way",
-      "release_date": "1993-11-12"
+        "title": "Carlito's Way",
+        "year": 1993,
+        "id": 6075,
+        "poster": "https://image.tmdb.org/t/p/w200/g6D7mjQtndu768cusGmoEQY9fTB.jpg"
     },
     {
-      "title": "Mary Shelley's Frankenstein",
-      "release_date": "1994-11-03"
+        "title": "Much Ado About Nothing",
+        "year": 1993,
+        "id": 11971,
+        "poster": "https://image.tmdb.org/t/p/w200/tvltGP6vYOkHdURag0jPSjhPUAV.jpg"
     },
     {
-      "title": "Exit to Eden",
-      "release_date": "1994-10-14"
+        "title": "Mary Shelley's Frankenstein",
+        "year": 1994,
+        "id": 3036,
+        "poster": "https://image.tmdb.org/t/p/w200/bOwCAQsZlEKrwhPi1ejY6BS8jpL.jpg"
     },
     {
-      "title": "Une femme fran\u00e7aise",
-      "release_date": "1995-03-15"
+        "title": "Exit to Eden",
+        "year": 1994,
+        "id": 18395,
+        "poster": "https://image.tmdb.org/t/p/w200/dUtpplO9K03uYCA71Vqj9ZRkVyA.jpg"
     },
     {
-      "title": "A Little Princess",
-      "release_date": "1995"
+        "title": "A Little Princess",
+        "year": 1995,
+        "id": 19101,
+        "poster": "https://image.tmdb.org/t/p/w200/9V4bAVEskSNbEqjVI0YmeuB0n8I.jpg"
     },
     {
-      "title": "Sense and Sensibility",
-      "release_date": "1995"
+        "title": "A French Woman",
+        "year": 1995,
+        "id": 183244,
+        "poster": "https://image.tmdb.org/t/p/w200/r6o9XB6ttit5KO6Ib3CKBDkrmfR.jpg"
     },
     {
-      "title": "Mrs. Winterbourne",
-      "release_date": "1996-04-19"
+        "title": "Sense and Sensibility",
+        "year": 1995,
+        "id": 4584,
+        "poster": "https://image.tmdb.org/t/p/w200/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg"
     },
     {
-      "title": "Hamlet",
-      "release_date": "1996-12-25"
+        "title": "Hamlet",
+        "year": 1996,
+        "id": 10549,
+        "poster": "https://image.tmdb.org/t/p/w200/ilurgUOp6SCl4cuhfjctj1qxlfZ.jpg"
     },
     {
-      "title": "Donnie Brasco",
-      "release_date": "1997-02-24"
+        "title": "Mrs. Winterbourne",
+        "year": 1996,
+        "id": 40001,
+        "poster": "https://image.tmdb.org/t/p/w200/ppHqVo9uAFZYMvRm9x0XUtnyQPR.jpg"
     },
     {
-      "title": "Great Expectations",
-      "release_date": "1998-01-30"
+        "title": "Donnie Brasco",
+        "year": 1997,
+        "id": 9366,
+        "poster": "https://image.tmdb.org/t/p/w200/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg"
     },
     {
-      "title": "Quest for Camelot",
-      "release_date": "1998-05-15"
+        "title": "Great Expectations",
+        "year": 1998,
+        "id": 9410,
+        "poster": "https://image.tmdb.org/t/p/w200/djLsfl3lm7BZKWsKfVZ2wM1ZMrP.jpg"
     },
     {
-      "title": "East/West",
-      "release_date": "1999-08-04"
+        "title": "Quest for Camelot",
+        "year": 1998,
+        "id": 18937,
+        "poster": "https://image.tmdb.org/t/p/w200/pLfFEQ9HTw0HRvBkW3nI9RUze03.jpg"
     },
     {
-      "title": "Blow Dry",
-      "release_date": "2001-03-07"
+        "title": "East/West",
+        "year": 1999,
+        "id": 28463,
+        "poster": "https://image.tmdb.org/t/p/w200/c1Uf4HC5WEcssVoOm48Bfzn7Wmk.jpg"
     },
     {
-      "title": "Love's Labour's Lost",
-      "release_date": "2000-07-17"
+        "title": "Love's Labour's Lost",
+        "year": 2000,
+        "id": 51333,
+        "poster": "https://image.tmdb.org/t/p/w200/7rJr9b0Mc8wEAqzuDUkz0zg1BX7.jpg"
     },
     {
-      "title": "Bridget Jones's Diary",
-      "release_date": "2001-03-10"
+        "title": "Bridget Jones's Diary",
+        "year": 2001,
+        "id": 634,
+        "poster": "https://image.tmdb.org/t/p/w200/dkauRl9TosBFikftrC3OVcKWDoz.jpg"
     },
     {
-      "title": "Gosford Park",
-      "release_date": "2001-11-07"
+        "title": "Gosford Park",
+        "year": 2001,
+        "id": 5279,
+        "poster": "https://image.tmdb.org/t/p/w200/7r8DeZuaaHCiOEbkqZC6MFmwJ69.jpg"
     },
     {
-      "title": "Killing Me Softly",
-      "release_date": "2002-06-21"
+        "title": "Blow Dry",
+        "year": 2001,
+        "id": 17203,
+        "poster": "https://image.tmdb.org/t/p/w200/iLGjyrjuOxILTx9FFNm2ktqzaxt.jpg"
     },
     {
-      "title": "Calendar Girls",
-      "release_date": "2003-09-02"
+        "title": "Killing Me Softly",
+        "year": 2002,
+        "id": 14365,
+        "poster": "https://image.tmdb.org/t/p/w200/pgfFJw7mqAmJdZizrJ6oOK0ejOZ.jpg"
     },
     {
-      "title": "Secondhand Lions",
-      "release_date": "2003-09-19"
+        "title": "Secondhand Lions",
+        "year": 2003,
+        "id": 13156,
+        "poster": "https://image.tmdb.org/t/p/w200/mYIMMAma7DCACRfiGhHAybPAdKa.jpg"
     },
     {
-      "title": "The Gal\u00edndez File",
-      "release_date": "2003-09-08"
+        "title": "Calendar Girls",
+        "year": 2003,
+        "id": 8696,
+        "poster": "https://image.tmdb.org/t/p/w200/yy2cPwrnUquMCmShrf8TbYu6emd.jpg"
     },
     {
-      "title": "Battle of the Brave (Nouvelle-France)",
-      "release_date": "2004"
+        "title": "The Gal\u00edndez File",
+        "year": 2003,
+        "id": 189332,
+        "poster": "https://image.tmdb.org/t/p/w200/1ycqWF1XkgonCjz972B0t4xwzmY.jpg"
     },
     {
-      "title": "Man to Man",
-      "release_date": "2005-02-10"
+        "title": "Battle of the Brave",
+        "year": 2004,
+        "id": 57709,
+        "poster": "https://image.tmdb.org/t/p/w200/p4IlppLWJdAr0V6XU1uUc7tKG6q.jpg"
     },
     {
-      "title": "Wah-Wah",
-      "release_date": "2005-08-17"
+        "title": "Harry Potter and the Goblet of Fire",
+        "year": 2005,
+        "id": 674,
+        "poster": "https://image.tmdb.org/t/p/w200/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg"
     },
     {
-      "title": "Nanny McPhee",
-      "release_date": "2005-10-28"
+        "title": "Man to Man",
+        "year": 2005,
+        "id": 10087,
+        "poster": "https://image.tmdb.org/t/p/w200/3eV6ZfUZOa3MyQX0bDEeUjSmy3O.jpg"
     },
     {
-      "title": "Harry Potter and the Goblet of Fire",
-      "release_date": "2005-11-06"
+        "title": "Nanny McPhee",
+        "year": 2005,
+        "id": 11283,
+        "poster": "https://image.tmdb.org/t/p/w200/8tommndfI0W62teXwSmXdmVZ7gz.jpg"
     },
     {
-      "title": "Jekyll & Hyde",
-      "release_date": "2006"
+        "title": "Wah-Wah",
+        "year": 2005,
+        "id": 15013,
+        "poster": "https://image.tmdb.org/t/p/w200/awDKSn5dEJYJZXCQuXkoaQETzE2.jpg"
     },
     {
-      "title": "As You Like It",
-      "release_date": "2006"
+        "title": "Jekyll + Hyde",
+        "year": 2006,
+        "id": 10272,
+        "poster": "https://image.tmdb.org/t/p/w200/m3m43gW7Aw36GvjdNggIlkPZz7i.jpg"
     },
     {
-      "title": "Eragon",
-      "release_date": "2006-12-15"
+        "title": "Eragon",
+        "year": 2006,
+        "id": 2486,
+        "poster": "https://image.tmdb.org/t/p/w200/mNu6QLUnKqPIjRA3pgEb5dkJye6.jpg"
     },
     {
-      "title": "Have Mercy on Us All",
-      "release_date": "2007-01-24"
+        "title": "As You Like It",
+        "year": 2006,
+        "id": 19103,
+        "poster": "https://image.tmdb.org/t/p/w200/628YkM5wHmunTdXANWgJEJYbFdf.jpg"
     },
     {
-      "title": "The Last Legion",
-      "release_date": "2007-08-17"
+        "title": "Sleuth",
+        "year": 2007,
+        "id": 4520,
+        "poster": "https://image.tmdb.org/t/p/w200/y70r13kOHp7pcYToG25uwMYm562.jpg"
     },
     {
-      "title": "Sleuth",
-      "release_date": "2007-10-12"
+        "title": "The Last Legion",
+        "year": 2007,
+        "id": 9703,
+        "poster": "https://image.tmdb.org/t/p/w200/k2jaEoOsTEMqSskBJm3gfcuxNEc.jpg"
     },
     {
-      "title": "Nim's Island",
-      "release_date": "2008-04-04"
+        "title": "Have Mercy on Us All",
+        "year": 2007,
+        "id": 14649,
+        "poster": "https://image.tmdb.org/t/p/w200/juriLa1l5xh9TOpaTaikXCYOTpO.jpg"
     },
     {
-      "title": "Igor",
-      "release_date": "2008-09-02"
+        "title": "Nim's Island",
+        "year": 2008,
+        "id": 10488,
+        "poster": "https://image.tmdb.org/t/p/w200/vhNoXDpc7T5OdmAuu8DMHLB39uo.jpg"
     },
     {
-      "title": "Main Street",
-      "release_date": "2010-10-21"
+        "title": "Igor",
+        "year": 2008,
+        "id": 14248,
+        "poster": "https://image.tmdb.org/t/p/w200/mI4SPs0bZQm7bGVZKToC8KUsTd.jpg"
     },
     {
-      "title": "La Ligne droite",
-      "release_date": "2011-03-09"
+        "title": "Main Street",
+        "year": 2010,
+        "id": 54469,
+        "poster": "https://image.tmdb.org/t/p/w200/nrLwh5HWfTAkhpp6zmUrZs6JFcs.jpg"
     },
     {
-      "title": "Thor",
-      "release_date": "2011-04-17"
+        "title": "Thor",
+        "year": 2011,
+        "id": 10195,
+        "poster": "https://image.tmdb.org/t/p/w200/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg"
     },
     {
-      "title": "Rise of the Planet of the Apes",
-      "release_date": "2011-08-05"
+        "title": "Rise of the Planet of the Apes",
+        "year": 2011,
+        "id": 61791,
+        "poster": "https://image.tmdb.org/t/p/w200/oqA45qMyyo1TtrnVEBKxqmTPhbN.jpg"
     },
     {
-      "title": "Brave",
-      "release_date": "2012-06-10"
+        "title": "Brave",
+        "year": 2012,
+        "id": 62177,
+        "poster": "https://image.tmdb.org/t/p/w200/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg"
     },
     {
-      "title": "Sir Billi",
-      "release_date": "2012-04-13"
+        "title": "Sir Billi",
+        "year": 2012,
+        "id": 223605,
+        "poster": "https://image.tmdb.org/t/p/w200/4Fo4MS7PjcRsIG5L6plEBveCEa.jpg"
     },
     {
-      "title": "It",
-      "release_date": "2013"
+        "title": "National Theatre Live: Macbeth",
+        "year": 2013,
+        "id": 217527,
+        "poster": "https://image.tmdb.org/t/p/w200/n2BFr8IRT8EcrpOitIiDQ7qfVjH.jpg"
     },
     {
-      "title": "Puppeteer",
-      "release_date": "2013"
+        "title": "Jack Ryan: Shadow Recruit",
+        "year": 2014,
+        "id": 137094,
+        "poster": "https://image.tmdb.org/t/p/w200/m7HcLUodrD4lM4s0Hui1tzO2pjO.jpg"
     },
     {
-      "title": "Jack Ryan: Shadow Recruit",
-      "release_date": "2014-01-17"
+        "title": "Cinderella",
+        "year": 2015,
+        "id": 150689,
+        "poster": "https://image.tmdb.org/t/p/w200/j91LJmcWo16CArFOoapsz84bwxb.jpg"
     },
     {
-      "title": "Cinderella",
-      "release_date": "2015"
+        "title": "Branagh Theatre Live: The Winter's Tale",
+        "year": 2015,
+        "id": 373895,
+        "poster": "https://image.tmdb.org/t/p/w200/iRtSIoVCp6FHTpXiviEGG7LxFz.jpg"
     },
     {
-      "title": "A United Kingdom",
-      "release_date": "2016-09-09"
+        "title": "A United Kingdom",
+        "year": 2016,
+        "id": 347026,
+        "poster": "https://image.tmdb.org/t/p/w200/xyhoW9qK7ZaDM1V4A6pPL9DWjn8.jpg"
     },
     {
-      "title": "Whisky Galore!",
-      "release_date": "2016-06-26"
+        "title": "Whisky Galore",
+        "year": 2016,
+        "id": 399218,
+        "poster": "https://image.tmdb.org/t/p/w200/A15APXObFPol0J1YqHp1nbAe1A7.jpg"
     },
     {
-      "title": "The Emoji Movie",
-      "release_date": "2017"
+        "title": "The Emoji Movie",
+        "year": 2017,
+        "id": 378236,
+        "poster": "https://image.tmdb.org/t/p/w200/60bTx5z9zL1AqCjZ0gmWoRMJ6Bb.jpg"
     },
     {
-      "title": "Murder on the Orient Express",
-      "release_date": "2017-11-02"
+        "title": "Murder on the Orient Express",
+        "year": 2017,
+        "id": 392044,
+        "poster": "https://image.tmdb.org/t/p/w200/7GtdJU6iAg6fjQu3E3zta3bIAQh.jpg"
     },
     {
-      "title": "Sgt. Stubby: An American Hero",
-      "release_date": "2018-03-27"
+        "title": "Sgt. Stubby: An American Hero",
+        "year": 2018,
+        "id": 433694,
+        "poster": "https://image.tmdb.org/t/p/w200/rmpykGuvJznJw4iY4hpVVn5ZDdh.jpg"
     },
     {
-      "title": "All Is True",
-      "release_date": "2018-12-21"
+        "title": "All Is True",
+        "year": 2018,
+        "id": 558095,
+        "poster": "https://image.tmdb.org/t/p/w200/yae0QoZuPQ6yC8HleRYXXfttPLh.jpg"
     },
     {
-      "title": "Artemis Fowl",
-      "release_date": "2020-06-12"
+        "title": "Artemis Fowl",
+        "year": 2020,
+        "id": 475430,
+        "poster": "https://image.tmdb.org/t/p/w200/tI8ocADh22GtQFV28vGHaBZVb0U.jpg"
     },
     {
-      "title": "Death on the Nile",
-      "release_date": "2022-02-09"
+        "title": "Death on the Nile",
+        "year": 2022,
+        "id": 505026,
+        "poster": "https://image.tmdb.org/t/p/w200/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg"
+    },
+    {
+        "title": "Sanctuary",
+        "year": 2023,
+        "id": 1178955,
+        "poster": "https://image.tmdb.org/t/p/w200/95hZEJPGybFv0DcFfTImUhyy7jS.jpg"
     }
-  ]
-}
+]

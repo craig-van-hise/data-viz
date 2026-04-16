@@ -1,213 +1,692 @@
-{
-  "composer": "Danny Elfman",
-  "filmography": [
+[
     {
-      "title": "Forbidden Zone",
-      "release_date": "1980-03-28"
+        "title": "Forbidden Zone",
+        "year": 1982,
+        "id": 16127,
+        "poster": "https://image.tmdb.org/t/p/w200/z4lrDkJVkW2kQZnNcHtUQ38DDAb.jpg"
     },
     {
-      "title": "So-Lo",
-      "release_date": "1984"
+        "title": "Pee-wee's Big Adventure",
+        "year": 1985,
+        "id": 5683,
+        "poster": "https://image.tmdb.org/t/p/w200/414IUXc54mrhX88ZUQiRDLXn01i.jpg"
     },
     {
-      "title": "Beetlejuice",
-      "release_date": "1988-03-30"
+        "title": "Back to School",
+        "year": 1986,
+        "id": 15596,
+        "poster": "https://image.tmdb.org/t/p/w200/bIQH3dptGaMBtwos7j9lEHt65BV.jpg"
     },
     {
-      "title": "Batman",
-      "release_date": "1989-06-19"
+        "title": "Amazing Stories",
+        "year": 1986,
+        "id": 576510,
+        "poster": "https://image.tmdb.org/t/p/w200/8XJb9oEnpLtMoOx4Za6JVMA8vqy.jpg"
     },
     {
-      "title": "\"The Simpsons Theme\"",
-      "release_date": "1989"
+        "title": "Wisdom",
+        "year": 1986,
+        "id": 41090,
+        "poster": "https://image.tmdb.org/t/p/w200/jJiKZG7vauFCeax5Aj5fahrcKUO.jpg"
     },
     {
-      "title": "Music for a Darkened Theatre: Film & Television Music Volume One",
-      "release_date": "1990"
+        "title": "Summer School",
+        "year": 1987,
+        "id": 14671,
+        "poster": "https://image.tmdb.org/t/p/w200/s1Ad6q0XnVS6u1yoaYghHw5dskv.jpg"
     },
     {
-      "title": "Batman Returns",
-      "release_date": "1992-06-16"
+        "title": "Beetlejuice",
+        "year": 1988,
+        "id": 4011,
+        "poster": "https://image.tmdb.org/t/p/w200/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg"
     },
     {
-      "title": "\"Face to Face\"",
-      "release_date": "1992"
+        "title": "Midnight Run",
+        "year": 1988,
+        "id": 9013,
+        "poster": "https://image.tmdb.org/t/p/w200/yx0touyDQ9enWDsFgS4MbBwCSNd.jpg"
     },
     {
-      "title": "The Nightmare Before Christmas",
-      "release_date": "1993-10-09"
+        "title": "Scrooged",
+        "year": 1988,
+        "id": 9647,
+        "poster": "https://image.tmdb.org/t/p/w200/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
     },
     {
-      "title": "\"This Is Halloween\"",
-      "release_date": "1993"
+        "title": "Hot to Trot",
+        "year": 1988,
+        "id": 30690,
+        "poster": "https://image.tmdb.org/t/p/w200/6rkBnog30LqNXxw0QxJp9VBT7Wt.jpg"
     },
     {
-      "title": "Mission: Impossible",
-      "release_date": "1996-05-22"
+        "title": "Big Top Pee-wee",
+        "year": 1988,
+        "id": 30502,
+        "poster": "https://image.tmdb.org/t/p/w200/t9AiFl6kt5vMhXzMHTZ6651TECl.jpg"
     },
     {
-      "title": "The Frighteners",
-      "release_date": "1996-07-19"
+        "title": "Face Like a Frog",
+        "year": 1988,
+        "id": 200525,
+        "poster": "https://image.tmdb.org/t/p/w200/AamWSc4WZUmE4lMtN62YjSCkSGQ.jpg"
     },
     {
-      "title": "Music for a Darkened Theatre: Film & Television Music Volume Two",
-      "release_date": "1996"
+        "title": "Batman",
+        "year": 1989,
+        "id": 268,
+        "poster": "https://image.tmdb.org/t/p/w200/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg"
     },
     {
-      "title": "Sleepy Hollow",
-      "release_date": "1999-11-17"
+        "title": "Edward Scissorhands",
+        "year": 1990,
+        "id": 162,
+        "poster": "https://image.tmdb.org/t/p/w200/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg"
     },
     {
-      "title": "Spider-Man",
-      "release_date": "2002-04-29"
+        "title": "Darkman",
+        "year": 1990,
+        "id": 9556,
+        "poster": "https://image.tmdb.org/t/p/w200/9fxGRzlINIvfPFhizMgbQaDDrK.jpg"
     },
     {
-      "title": "Men in Black II",
-      "release_date": "2002-07-03"
+        "title": "Nightbreed",
+        "year": 1990,
+        "id": 20481,
+        "poster": "https://image.tmdb.org/t/p/w200/1ChluYH0BEvJo3gtYoFHnMZI660.jpg"
     },
     {
-      "title": "Hulk",
-      "release_date": "2003-06-20"
+        "title": "Dick Tracy",
+        "year": 1990,
+        "id": 8592,
+        "poster": "https://image.tmdb.org/t/p/w200/sjeP4bpgsUvAGE8oFcICy2GaHxw.jpg"
     },
     {
-      "title": "Big Fish",
-      "release_date": "2003-12-04"
+        "title": "The Flash",
+        "year": 1990,
+        "id": 232842,
+        "poster": "https://image.tmdb.org/t/p/w200/v0c45VGHU5qxcfveQIjzL8nJBUR.jpg"
     },
     {
-      "title": "Spider-Man 2",
-      "release_date": "2004-06-25"
+        "title": "Batman Returns",
+        "year": 1992,
+        "id": 364,
+        "poster": "https://image.tmdb.org/t/p/w200/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg"
     },
     {
-      "title": "Serenada Schizophrana",
-      "release_date": "2006"
+        "title": "Article 99",
+        "year": 1992,
+        "id": 25269,
+        "poster": "https://image.tmdb.org/t/p/w200/vqgKO2qredWaXjwHg3GBDOzLErx.jpg"
     },
     {
-      "title": "Milk",
-      "release_date": "2008"
+        "title": "Army of Darkness",
+        "year": 1992,
+        "id": 766,
+        "poster": "https://image.tmdb.org/t/p/w200/xsgTuAtR2zSH8Umg3jWZcZjlDpe.jpg"
     },
     {
-      "title": "Hellboy II: The Golden Army",
-      "release_date": "2008-07-11"
+        "title": "Sommersby",
+        "year": 1993,
+        "id": 1049,
+        "poster": "https://image.tmdb.org/t/p/w200/tAgQKLv0GK97Tr0bvdI66oXlEVb.jpg"
     },
     {
-      "title": "Terminator Salvation",
-      "release_date": "2009-05-21"
+        "title": "The Nightmare Before Christmas",
+        "year": 1993,
+        "id": 9479,
+        "poster": "https://image.tmdb.org/t/p/w200/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
     },
     {
-      "title": "Taking Woodstock",
-      "release_date": "2009-08-28"
+        "title": "Black Beauty",
+        "year": 1994,
+        "id": 14522,
+        "poster": "https://image.tmdb.org/t/p/w200/5uH60FBDPQoyAnc4uvU0fIB8JXv.jpg"
     },
     {
-      "title": "The Wolfman",
-      "release_date": "2010-01-27"
+        "title": "To Die For",
+        "year": 1995,
+        "id": 577,
+        "poster": "https://image.tmdb.org/t/p/w200/whz4bwvqE1OmQHIyqHdZD8jU9CO.jpg"
     },
     {
-      "title": "Alice in Wonderland",
-      "release_date": "2010-02-25"
+        "title": "Dead Presidents",
+        "year": 1995,
+        "id": 11443,
+        "poster": "https://image.tmdb.org/t/p/w200/eGfsSXizR11tTHVo0kuOOFPAxZt.jpg"
     },
     {
-      "title": "Real Steel",
-      "release_date": "2011-09-06"
+        "title": "Dolores Claiborne",
+        "year": 1995,
+        "id": 11929,
+        "poster": "https://image.tmdb.org/t/p/w200/iQuwx3UAyXbE9tzdM3jLqtbogc4.jpg"
     },
     {
-      "title": "Men in Black 3",
-      "release_date": "2012-05-14"
+        "title": "Mars Attacks!",
+        "year": 1996,
+        "id": 75,
+        "poster": "https://image.tmdb.org/t/p/w200/hll4O5vSAfnZDb6JbnP06GPtz7b.jpg"
     },
     {
-      "title": "Frankenweenie",
-      "release_date": "2012-09-20"
+        "title": "The Frighteners",
+        "year": 1996,
+        "id": 10779,
+        "poster": "https://image.tmdb.org/t/p/w200/zcJbCMwFLJdn5OLjhYwMVaSB32R.jpg"
     },
     {
-      "title": "Silver Linings Playbook",
-      "release_date": "2012-09-08"
+        "title": "Mission: Impossible",
+        "year": 1996,
+        "id": 954,
+        "poster": "https://image.tmdb.org/t/p/w200/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg"
     },
     {
-      "title": "Hitchcock",
-      "release_date": "2012-11-01"
+        "title": "Freeway",
+        "year": 1996,
+        "id": 11229,
+        "poster": "https://image.tmdb.org/t/p/w200/m0pAARUq3foDWFsrUmlYDHtNPE9.jpg"
     },
     {
-      "title": "Oz the Great and Powerful",
-      "release_date": "2013-02-13"
+        "title": "Extreme Measures",
+        "year": 1996,
+        "id": 11306,
+        "poster": "https://image.tmdb.org/t/p/w200/uowP2Nw2mLpQni1vtbUb1LUSiP0.jpg"
     },
     {
-      "title": "Mr. Peabody & Sherman",
-      "release_date": "2014-02-07"
+        "title": "Men in Black",
+        "year": 1997,
+        "id": 607,
+        "poster": "https://image.tmdb.org/t/p/w200/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg"
     },
     {
-      "title": "Big Eyes",
-      "release_date": "2014-12-15"
+        "title": "Good Will Hunting",
+        "year": 1997,
+        "id": 489,
+        "poster": "https://image.tmdb.org/t/p/w200/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg"
     },
     {
-      "title": "Fifty Shades of Grey",
-      "release_date": "2015-02-09"
+        "title": "Flubber",
+        "year": 1997,
+        "id": 9574,
+        "poster": "https://image.tmdb.org/t/p/w200/bnKvk04icAyCO1KjqhsaEXBO9aJ.jpg"
     },
     {
-      "title": "Avengers: Age of Ultron",
-      "release_date": "2015-04-13"
+        "title": "A Simple Plan",
+        "year": 1998,
+        "id": 10223,
+        "poster": "https://image.tmdb.org/t/p/w200/wO2gH7DMqpMeHlj5QmDhW4IkgAr.jpg"
     },
     {
-      "title": "Goosebumps",
-      "release_date": "2015-10-16"
+        "title": "A Civil Action",
+        "year": 1998,
+        "id": 9422,
+        "poster": "https://image.tmdb.org/t/p/w200/2AVF1cjRGOfaB4oteSzxvHiQ3hR.jpg"
     },
     {
-      "title": "Alice Through the Looking Glass",
-      "release_date": "2016-05-10"
+        "title": "Modern Vampires",
+        "year": 1998,
+        "id": 31003,
+        "poster": "https://image.tmdb.org/t/p/w200/fXqIlTNkODfkJzVK4Ws26pxaUP3.jpg"
     },
     {
-      "title": "The Girl on the Train",
-      "release_date": "2016-09-20"
+        "title": "Sleepy Hollow",
+        "year": 1999,
+        "id": 2668,
+        "poster": "https://image.tmdb.org/t/p/w200/1GuK965FLJxqUw9fd1pmvjbFAlv.jpg"
     },
     {
-      "title": "Fifty Shades Darker",
-      "release_date": "2017-02-07"
+        "title": "Anywhere but Here",
+        "year": 1999,
+        "id": 21349,
+        "poster": "https://image.tmdb.org/t/p/w200/2DNtxmXkotuaJexU57geTLIPnQf.jpg"
     },
     {
-      "title": "Justice League",
-      "release_date": "2017-11-13"
+        "title": "Instinct",
+        "year": 1999,
+        "id": 12117,
+        "poster": "https://image.tmdb.org/t/p/w200/8EKmzia6awjsqFxgBk5a82aTmb6.jpg"
     },
     {
-      "title": "Eleven Eleven",
-      "release_date": "2020-01-28"
+        "title": "The Family Man",
+        "year": 2000,
+        "id": 5994,
+        "poster": "https://image.tmdb.org/t/p/w200/9wToOVsKuf0XeKhlauzCa3D8Gui.jpg"
     },
     {
-      "title": "Before I Wake",
-      "release_date": "2018"
+        "title": "Proof of Life",
+        "year": 2000,
+        "id": 11983,
+        "poster": "https://image.tmdb.org/t/p/w200/yw8x2i3vaHZZzpvqvF75E8q2N6M.jpg"
     },
     {
-      "title": "Fifty Shades Freed",
-      "release_date": "2018-02-06"
+        "title": "Planet of the Apes",
+        "year": 2001,
+        "id": 869,
+        "poster": "https://image.tmdb.org/t/p/w200/3ZWsuP5rExMSji7erxnb1P5SK6F.jpg"
     },
     {
-      "title": "Dr. Seuss' The Grinch",
-      "release_date": "2018-11-09"
+        "title": "Spy Kids",
+        "year": 2001,
+        "id": 10054,
+        "poster": "https://image.tmdb.org/t/p/w200/j3rUkHIAAoKr6jU30q3Db4fcIF9.jpg"
     },
     {
-      "title": "Dumbo",
-      "release_date": "1941-10-23"
+        "title": "Novocaine",
+        "year": 2001,
+        "id": 20794,
+        "poster": "https://image.tmdb.org/t/p/w200/6ZVFepWKzYho4DLhyFVuRk7klZ1.jpg"
     },
     {
-      "title": "International",
-      "release_date": "2019"
+        "title": "Heartbreakers",
+        "year": 2001,
+        "id": 10833,
+        "poster": "https://image.tmdb.org/t/p/w200/bwvec0gRMSpLakcPuxe0RWScNv3.jpg"
     },
     {
-      "title": "\"Happy\"",
-      "release_date": "2020"
+        "title": "Spider-Man",
+        "year": 2002,
+        "id": 557,
+        "poster": "https://image.tmdb.org/t/p/w200/kjdJntyBeEvqm9w97QGBdxPptzj.jpg"
     },
     {
-      "title": "Big Mess",
-      "release_date": "2021"
+        "title": "Chicago",
+        "year": 2002,
+        "id": 1574,
+        "poster": "https://image.tmdb.org/t/p/w200/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg"
     },
     {
-      "title": "Doctor Strange in the Multiverse of Madness",
-      "release_date": "2022-05-02"
+        "title": "Men in Black II",
+        "year": 2002,
+        "id": 608,
+        "poster": "https://image.tmdb.org/t/p/w200/enA22EPyzc2WQ1VVyY7zxresQQr.jpg"
     },
     {
-      "title": "White Noise",
-      "release_date": "2022-08-31"
+        "title": "Red Dragon",
+        "year": 2002,
+        "id": 9533,
+        "poster": "https://image.tmdb.org/t/p/w200/ou9ZKA2cms02b7CdCdVqGkKu0O0.jpg"
     },
     {
-      "title": "Beetlejuice Beetlejuice",
-      "release_date": "2024-08-28"
+        "title": "Big Fish",
+        "year": 2003,
+        "id": 587,
+        "poster": "https://image.tmdb.org/t/p/w200/tjK063yCgaBAluVU72rZ6PKPH2l.jpg"
+    },
+    {
+        "title": "Hulk",
+        "year": 2003,
+        "id": 1927,
+        "poster": "https://image.tmdb.org/t/p/w200/UllIft2jLSBaay3zQyMV4GNdfy.jpg"
+    },
+    {
+        "title": "Spider-Man 2",
+        "year": 2004,
+        "id": 558,
+        "poster": "https://image.tmdb.org/t/p/w200/eg8XHjA7jkM3ulBLnfGTczR9ytI.jpg"
+    },
+    {
+        "title": "Charlie and the Chocolate Factory",
+        "year": 2005,
+        "id": 118,
+        "poster": "https://image.tmdb.org/t/p/w200/iKP6wg3c6COUe8gYutoGG7qcPnO.jpg"
+    },
+    {
+        "title": "Corpse Bride",
+        "year": 2005,
+        "id": 3933,
+        "poster": "https://image.tmdb.org/t/p/w200/isb2Qow76GpqYmsSyfdMfsYAjts.jpg"
+    },
+    {
+        "title": "Charlotte's Web",
+        "year": 2006,
+        "id": 9986,
+        "poster": "https://image.tmdb.org/t/p/w200/fU0IR5HF8KxQbZijuWKPTrY81Qv.jpg"
+    },
+    {
+        "title": "Deep Sea 3D",
+        "year": 2006,
+        "id": 17700,
+        "poster": "https://image.tmdb.org/t/p/w200/1oFxUTFKWQTkZhO7CgABu5p1Wgy.jpg"
+    },
+    {
+        "title": "Nacho Libre",
+        "year": 2006,
+        "id": 9353,
+        "poster": "https://image.tmdb.org/t/p/w200/kh7B91bMl2lZ0mH9WhPfaNUIEQH.jpg"
+    },
+    {
+        "title": "The Kingdom",
+        "year": 2007,
+        "id": 4349,
+        "poster": "https://image.tmdb.org/t/p/w200/8CSiRnMRLuKT58JiOGzQ7p1oa1b.jpg"
+    },
+    {
+        "title": "Meet the Robinsons",
+        "year": 2007,
+        "id": 1267,
+        "poster": "https://image.tmdb.org/t/p/w200/naya0zF4kT401Sx15AtwB9vpcJr.jpg"
+    },
+    {
+        "title": "Hellboy II: The Golden Army",
+        "year": 2008,
+        "id": 11253,
+        "poster": "https://image.tmdb.org/t/p/w200/zO0Wdrxnhx3KoJEvychSmnY3urC.jpg"
+    },
+    {
+        "title": "Standard Operating Procedure",
+        "year": 2008,
+        "id": 8847,
+        "poster": "https://image.tmdb.org/t/p/w200/v2QCXsisMLYsozC2qJtYGa3Rvsi.jpg"
+    },
+    {
+        "title": "Wanted",
+        "year": 2008,
+        "id": 8909,
+        "poster": "https://image.tmdb.org/t/p/w200/njy7Pz7ZHZceO7lNfGIHKphY8Hd.jpg"
+    },
+    {
+        "title": "Milk",
+        "year": 2008,
+        "id": 10139,
+        "poster": "https://image.tmdb.org/t/p/w200/ot4ImF4b7QbS6XsTdMH3pWxNmX2.jpg"
+    },
+    {
+        "title": "Terminator Salvation",
+        "year": 2009,
+        "id": 534,
+        "poster": "https://image.tmdb.org/t/p/w200/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg"
+    },
+    {
+        "title": "Taking Woodstock",
+        "year": 2009,
+        "id": 26320,
+        "poster": "https://image.tmdb.org/t/p/w200/wIdyAJCvIj3QUoNmmDdnhXpCMpp.jpg"
+    },
+    {
+        "title": "Notorious",
+        "year": 2009,
+        "id": 14410,
+        "poster": "https://image.tmdb.org/t/p/w200/62NsZPgueSiE8y7dqtU3FSLFwYw.jpg"
+    },
+    {
+        "title": "9",
+        "year": 2009,
+        "id": 12244,
+        "poster": "https://image.tmdb.org/t/p/w200/3uqXGOH4BQ2CLJWkDJZ0PzbUzOn.jpg"
+    },
+    {
+        "title": "Alice in Wonderland",
+        "year": 2010,
+        "id": 12155,
+        "poster": "https://image.tmdb.org/t/p/w200/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg"
+    },
+    {
+        "title": "The Next Three Days",
+        "year": 2010,
+        "id": 43539,
+        "poster": "https://image.tmdb.org/t/p/w200/wBaRZ3aHa7qoYTSY0ONbXrXYk4B.jpg"
+    },
+    {
+        "title": "The Wolfman",
+        "year": 2010,
+        "id": 7978,
+        "poster": "https://image.tmdb.org/t/p/w200/fQqPoAHvHicie1ttuiV2q0yv9V7.jpg"
+    },
+    {
+        "title": "Real Steel",
+        "year": 2011,
+        "id": 39254,
+        "poster": "https://image.tmdb.org/t/p/w200/4GIeI5K5YdDUkR3mNQBoScpSFEf.jpg"
+    },
+    {
+        "title": "Restless",
+        "year": 2011,
+        "id": 47760,
+        "poster": "https://image.tmdb.org/t/p/w200/cv0AonfuCDrt1sfR8HRopODEbul.jpg"
+    },
+    {
+        "title": "Men in Black 3",
+        "year": 2012,
+        "id": 41154,
+        "poster": "https://image.tmdb.org/t/p/w200/90DdoEStzeObs96fsYf4GG544iN.jpg"
+    },
+    {
+        "title": "Dark Shadows",
+        "year": 2012,
+        "id": 62213,
+        "poster": "https://image.tmdb.org/t/p/w200/fd9Ck4cxVlmtXsbeGtQW7WFuUFI.jpg"
+    },
+    {
+        "title": "Silver Linings Playbook",
+        "year": 2012,
+        "id": 82693,
+        "poster": "https://image.tmdb.org/t/p/w200/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg"
+    },
+    {
+        "title": "Promised Land",
+        "year": 2012,
+        "id": 133694,
+        "poster": "https://image.tmdb.org/t/p/w200/5C0b6Wu4Z0V4NuA1cD8SZU7FCkb.jpg"
+    },
+    {
+        "title": "Frankenweenie",
+        "year": 2012,
+        "id": 62214,
+        "poster": "https://image.tmdb.org/t/p/w200/yGjVbLVdZRBlZTTQVBsj2KUjL1s.jpg"
+    },
+    {
+        "title": "Hitchcock",
+        "year": 2012,
+        "id": 112336,
+        "poster": "https://image.tmdb.org/t/p/w200/zlG4QzB00VM6QHUmRkKaboCOgat.jpg"
+    },
+    {
+        "title": "Epic",
+        "year": 2013,
+        "id": 116711,
+        "poster": "https://image.tmdb.org/t/p/w200/81cSsWzjTfR3cJSqnTiHwy1eyPK.jpg"
+    },
+    {
+        "title": "American Hustle",
+        "year": 2013,
+        "id": 168672,
+        "poster": "https://image.tmdb.org/t/p/w200/z6O1KDhfWDTm5ZBr6Ovr0eg8LqO.jpg"
+    },
+    {
+        "title": "Captain Sparky vs. The Flying Saucers",
+        "year": 2013,
+        "id": 166659,
+        "poster": "https://image.tmdb.org/t/p/w200/eIsQvJc3biiIf3hIJ3ek5aIc0tW.jpg"
+    },
+    {
+        "title": "Oz the Great and Powerful",
+        "year": 2013,
+        "id": 68728,
+        "poster": "https://image.tmdb.org/t/p/w200/tkzfAUEKoUp4YFNbZV9hfpZOz0z.jpg"
+    },
+    {
+        "title": "Mr. Peabody & Sherman",
+        "year": 2014,
+        "id": 82703,
+        "poster": "https://image.tmdb.org/t/p/w200/hPcImYndWESKHzT2GHVCDsUxzYg.jpg"
+    },
+    {
+        "title": "Big Eyes",
+        "year": 2014,
+        "id": 87093,
+        "poster": "https://image.tmdb.org/t/p/w200/203HAjJcLMl7xThcTqZx4zmEGcV.jpg"
+    },
+    {
+        "title": "The End of the Tour",
+        "year": 2015,
+        "id": 249688,
+        "poster": "https://image.tmdb.org/t/p/w200/3fEuVd8Xorwtk5kFVvyiNlOtcIw.jpg"
+    },
+    {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015,
+        "id": 99861,
+        "poster": "https://image.tmdb.org/t/p/w200/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg"
+    },
+    {
+        "title": "Goosebumps",
+        "year": 2015,
+        "id": 257445,
+        "poster": "https://image.tmdb.org/t/p/w200/aeZT9pqEgrmXOGdESFkAuVjX6kw.jpg"
+    },
+    {
+        "title": "Fifty Shades of Grey",
+        "year": 2015,
+        "id": 216015,
+        "poster": "https://image.tmdb.org/t/p/w200/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg"
+    },
+    {
+        "title": "Alice Through the Looking Glass",
+        "year": 2016,
+        "id": 241259,
+        "poster": "https://image.tmdb.org/t/p/w200/kbGamUkYfgKIYIrU8kW5oc0NatZ.jpg"
+    },
+    {
+        "title": "Before I Wake",
+        "year": 2016,
+        "id": 301804,
+        "poster": "https://image.tmdb.org/t/p/w200/sI9neTbF3ECdpf2MpC88EMGJH13.jpg"
+    },
+    {
+        "title": "The Girl on the Train",
+        "year": 2016,
+        "id": 346685,
+        "poster": "https://image.tmdb.org/t/p/w200/AhTO2QWG0tug7yDoh0XoaMhPt3J.jpg"
+    },
+    {
+        "title": "Fifty Shades Darker",
+        "year": 2017,
+        "id": 341174,
+        "poster": "https://image.tmdb.org/t/p/w200/w3qa274gvca9t8pkUoG8nfQgTU3.jpg"
+    },
+    {
+        "title": "The Circle",
+        "year": 2017,
+        "id": 339988,
+        "poster": "https://image.tmdb.org/t/p/w200/bQVqd5rWrx5GbXhJNuvKy4Viz6j.jpg"
+    },
+    {
+        "title": "Justice League",
+        "year": 2017,
+        "id": 141052,
+        "poster": "https://image.tmdb.org/t/p/w200/eifGNCSDuxJeS1loAXil5bIGgvC.jpg"
+    },
+    {
+        "title": "Tulip Fever",
+        "year": 2017,
+        "id": 257785,
+        "poster": "https://image.tmdb.org/t/p/w200/aGBRTDMuYDKCA9g7NTGwtMZBWd.jpg"
+    },
+    {
+        "title": "The Grinch",
+        "year": 2018,
+        "id": 360920,
+        "poster": "https://image.tmdb.org/t/p/w200/smxA8yvZ0LzDPer9BIRd4pyOpx1.jpg"
+    },
+    {
+        "title": "Don't Worry, He Won't Get Far on Foot",
+        "year": 2018,
+        "id": 443009,
+        "poster": "https://image.tmdb.org/t/p/w200/rKsiN37qMt8jad5GikZzSeevyI9.jpg"
+    },
+    {
+        "title": "Fifty Shades Freed",
+        "year": 2018,
+        "id": 337167,
+        "poster": "https://image.tmdb.org/t/p/w200/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg"
+    },
+    {
+        "title": "Dumbo",
+        "year": 2019,
+        "id": 329996,
+        "poster": "https://image.tmdb.org/t/p/w200/A7XkpLfNH0El2yyDLc4b0KLAKvE.jpg"
+    },
+    {
+        "title": "Men in Black: International",
+        "year": 2019,
+        "id": 479455,
+        "poster": "https://image.tmdb.org/t/p/w200/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg"
+    },
+    {
+        "title": "Dolittle",
+        "year": 2020,
+        "id": 448119,
+        "poster": "https://image.tmdb.org/t/p/w200/3Nt3v1uzUgfSuVARD1AnI9g9Zl9.jpg"
+    },
+    {
+        "title": "The Woman in the Window",
+        "year": 2021,
+        "id": 520663,
+        "poster": "https://image.tmdb.org/t/p/w200/wcrjc1uwQaqoqtqi67Su4VCOYo0.jpg"
+    },
+    {
+        "title": "Aliens, Clowns & Geeks",
+        "year": 2021,
+        "id": 604964,
+        "poster": "https://image.tmdb.org/t/p/w200/8PCKE5nVQokrfPQSNzXPyDp0uwy.jpg"
+    },
+    {
+        "title": "White Noise",
+        "year": 2022,
+        "id": 744594,
+        "poster": "https://image.tmdb.org/t/p/w200/kesxNdLZlmGoTRspDHU1WgdEuGw.jpg"
+    },
+    {
+        "title": "Doctor Strange in the Multiverse of Madness",
+        "year": 2022,
+        "id": 453395,
+        "poster": "https://image.tmdb.org/t/p/w200/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg"
+    },
+    {
+        "title": "Bloody Bridget",
+        "year": 2023,
+        "id": 1114323,
+        "poster": "https://image.tmdb.org/t/p/w200/fRXl8CYihw1LEfi6iu0QVZO9QfN.jpg"
+    },
+    {
+        "title": "Beetlejuice Beetlejuice",
+        "year": 2024,
+        "id": 917496,
+        "poster": "https://image.tmdb.org/t/p/w200/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg"
+    },
+    {
+        "title": "May the 12th Be with You",
+        "year": 2024,
+        "id": 1284004,
+        "poster": "https://image.tmdb.org/t/p/w200/sHJ2OIgpcpSmhqXkuSWxZ3nwg1S.jpg"
+    },
+    {
+        "title": "Dracula",
+        "year": 2025,
+        "id": 1246049,
+        "poster": "https://image.tmdb.org/t/p/w200/dYRqA50yd0nB3qBR7AtWEJJQ8q.jpg"
+    },
+    {
+        "title": "Remember To Enjoy The Light Before It\u2019s Gone",
+        "year": 2025,
+        "id": 1437479,
+        "poster": "https://image.tmdb.org/t/p/w200/iHWSekKhzCLKnOrwoaVzsKWeihk.jpg"
+    },
+    {
+        "title": "Dead Man's Wire",
+        "year": 2026,
+        "id": 1263012,
+        "poster": "https://image.tmdb.org/t/p/w200/dgSoeebklY0IGKWbp36r9FwRXlv.jpg"
+    },
+    {
+        "title": "Send Help",
+        "year": 2026,
+        "id": 1198994,
+        "poster": "https://image.tmdb.org/t/p/w200/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg"
+    },
+    {
+        "title": "Hodja Nasreddin",
+        "year": 9999,
+        "id": 1211897,
+        "poster": "https://image.tmdb.org/t/p/w200/2o6LxNCNc3XEGSmWatONa7HJSM6.jpg"
     }
-  ]
-}
+]

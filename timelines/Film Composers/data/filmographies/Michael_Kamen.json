@@ -1,241 +1,404 @@
-{
-  "composer": "Michael Kamen",
-  "filmography": [
+[
     {
-      "title": "The Next Man",
-      "release_date": "1976-11-10"
+        "title": "The Next Man",
+        "year": 1976,
+        "id": 86133,
+        "poster": "https://image.tmdb.org/t/p/w200/nByL99cOHyRK0tTSW1v4y94WIY0.jpg"
     },
     {
-      "title": "Stunts",
-      "release_date": "1977-08-17"
+        "title": "Liza\u2019s Pioneer Diary",
+        "year": 1976,
+        "id": 1409051,
+        "poster": null
     },
     {
-      "title": "S*H*E",
-      "release_date": "1980"
+        "title": "Stunts",
+        "year": 1977,
+        "id": 71996,
+        "poster": "https://image.tmdb.org/t/p/w200/egxNZZhoEpqpA3a3TbTCA1tujbv.jpg"
     },
     {
-      "title": "Venom",
-      "release_date": "1981-11-28"
+        "title": "S+H+E: Security Hazards Expert",
+        "year": 1980,
+        "id": 251429,
+        "poster": "https://image.tmdb.org/t/p/w200/2jhgAyu0mwO6QBDG8obEaR5GFsP.jpg"
     },
     {
-      "title": "Pink Floyd \u2013 The Wall",
-      "release_date": "1982-05-23"
+        "title": "Polyester",
+        "year": 1981,
+        "id": 14269,
+        "poster": "https://image.tmdb.org/t/p/w200/14RfMqOe8eF17bUajPsy4HtRsVC.jpg"
     },
     {
-      "title": "The Dead Zone",
-      "release_date": "1983-10-21"
+        "title": "Venom",
+        "year": 1981,
+        "id": 30789,
+        "poster": "https://image.tmdb.org/t/p/w200/v44VNoH2suoaCPnUj2YyXcvgGfn.jpg"
     },
     {
-      "title": "Brazil",
-      "release_date": "1985-02-20"
+        "title": "The Dead Zone",
+        "year": 1983,
+        "id": 11336,
+        "poster": "https://image.tmdb.org/t/p/w200/9yTVaeS8eIkOpbwIycVFm7EQrgF.jpg"
     },
     {
-      "title": "Lifeforce",
-      "release_date": "1985-06-21"
+        "title": "Brazil",
+        "year": 1985,
+        "id": 68,
+        "poster": "https://image.tmdb.org/t/p/w200/aewan59WcFThBimkTVVoNf2o5Vb.jpg"
     },
     {
-      "title": "Highlander",
-      "release_date": "1986-03-07"
+        "title": "Mona Lisa",
+        "year": 1986,
+        "id": 10002,
+        "poster": "https://image.tmdb.org/t/p/w200/geBGfbhkgKHld8rM9XuLfzPGZ6I.jpg"
     },
     {
-      "title": "Mona Lisa",
-      "release_date": "1986-06-13"
+        "title": "Highlander",
+        "year": 1986,
+        "id": 8009,
+        "poster": "https://image.tmdb.org/t/p/w200/8Z8dptJEypuLoOQro1WugD855YE.jpg"
     },
     {
-      "title": "Lethal Weapon",
-      "release_date": "1987-03-06"
+        "title": "Shanghai Surprise",
+        "year": 1986,
+        "id": 58048,
+        "poster": "https://image.tmdb.org/t/p/w200/8zsU3Vq9FG9Q0kTEYrl0CWDlvX2.jpg"
     },
     {
-      "title": "Rita, Sue and Bob Too",
-      "release_date": "1987-05-29"
+        "title": "Lethal Weapon",
+        "year": 1987,
+        "id": 941,
+        "poster": "https://image.tmdb.org/t/p/w200/6gt44oqb4nE8vflPElffeGwsHVl.jpg"
     },
     {
-      "title": "Adventures in Babysitting",
-      "release_date": "1987-07-03"
+        "title": "Suspect",
+        "year": 1987,
+        "id": 12623,
+        "poster": "https://image.tmdb.org/t/p/w200/hL79lrrMgRZO21otWbTTiljufeU.jpg"
     },
     {
-      "title": "Suspect",
-      "release_date": "1987-10-23"
+        "title": "Adventures in Babysitting",
+        "year": 1987,
+        "id": 14367,
+        "poster": "https://image.tmdb.org/t/p/w200/8QiAj0Xw2UMeZMIIfZKeNoIsszs.jpg"
     },
     {
-      "title": "Someone to Watch Over Me",
-      "release_date": "1987-10-09"
+        "title": "Someone to Watch Over Me",
+        "year": 1987,
+        "id": 31650,
+        "poster": "https://image.tmdb.org/t/p/w200/7Vqw29y8pkoHaVtwkQcQhBK9oTY.jpg"
     },
     {
-      "title": "The Raggedy Rawney",
-      "release_date": "1988"
+        "title": "Rita, Sue and Bob Too",
+        "year": 1987,
+        "id": 18125,
+        "poster": "https://image.tmdb.org/t/p/w200/bNofq5QmwFeFTILeUOzwG9hPe1X.jpg"
     },
     {
-      "title": "The Adventures of Baron Munchausen",
-      "release_date": "1988-12-08"
+        "title": "Die Hard",
+        "year": 1988,
+        "id": 562,
+        "poster": "https://image.tmdb.org/t/p/w200/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg"
     },
     {
-      "title": "Crusoe",
-      "release_date": "1988-11-15"
+        "title": "Action Jackson",
+        "year": 1988,
+        "id": 10117,
+        "poster": "https://image.tmdb.org/t/p/w200/vWBGkHT91My4T2iV3xgynpBTKtQ.jpg"
     },
     {
-      "title": "Renegades",
-      "release_date": "1989-06-02"
+        "title": "Homeboy",
+        "year": 1988,
+        "id": 12787,
+        "poster": "https://image.tmdb.org/t/p/w200/kBgj9y1mrzFCxtnktsnZeVWRgVC.jpg"
     },
     {
-      "title": "Licence to Kill",
-      "release_date": "1989-06-13"
+        "title": "The Adventures of Baron Munchausen",
+        "year": 1988,
+        "id": 14506,
+        "poster": "https://image.tmdb.org/t/p/w200/oiOwGRqwrKpg1EMUlPgRjVC49bn.jpg"
     },
     {
-      "title": "Road House",
-      "release_date": "1989-05-19"
+        "title": "For Queen & Country",
+        "year": 1988,
+        "id": 42347,
+        "poster": "https://image.tmdb.org/t/p/w200/rwiOZ5gT6dbRQVgpvrAmYvRoDFs.jpg"
     },
     {
-      "title": "Lethal Weapon 2",
-      "release_date": "1989-07-07"
+        "title": "The Raggedy Rawney",
+        "year": 1988,
+        "id": 146472,
+        "poster": "https://image.tmdb.org/t/p/w200/3QX0WXYN4fWqaDd7hG3awKTjeWe.jpg"
     },
     {
-      "title": "Cold Dog Soup",
-      "release_date": "1990-09-06"
+        "title": "Licence to Kill",
+        "year": 1989,
+        "id": 709,
+        "poster": "https://image.tmdb.org/t/p/w200/8nzJve63EXA79HGAyidZwivZrQ2.jpg"
     },
     {
-      "title": "Die Hard 2",
-      "release_date": "1990-07-04"
+        "title": "Lethal Weapon 2",
+        "year": 1989,
+        "id": 942,
+        "poster": "https://image.tmdb.org/t/p/w200/ZsUGxTnZ4TzTrHSAfUPJcliL1K.jpg"
     },
     {
-      "title": "The Krays",
-      "release_date": "1990-04-27"
+        "title": "Road House",
+        "year": 1989,
+        "id": 10135,
+        "poster": "https://image.tmdb.org/t/p/w200/60VHW8heV11uLSCnkjk6iGRQatA.jpg"
     },
     {
-      "title": "Nothing but Trouble",
-      "release_date": "1991-02-15"
+        "title": "Dead Bang",
+        "year": 1989,
+        "id": 4925,
+        "poster": "https://image.tmdb.org/t/p/w200/qqi8hxYEuPfdVJZ6Kxu3jOKUf8S.jpg"
     },
     {
-      "title": "Hudson Hawk",
-      "release_date": "1991"
+        "title": "Renegades",
+        "year": 1989,
+        "id": 20307,
+        "poster": "https://image.tmdb.org/t/p/w200/cjO1uOtR91o0LaCKXJHaiThIao.jpg"
     },
     {
-      "title": "Robin Hood: Prince of Thieves",
-      "release_date": "1991-06-14"
+        "title": "Rooftops",
+        "year": 1989,
+        "id": 115386,
+        "poster": "https://image.tmdb.org/t/p/w200/3RQSFE7JQiIYr2fhjZMGT97FLFn.jpg"
     },
     {
-      "title": "Company Business",
-      "release_date": "1991"
+        "title": "Die Hard 2",
+        "year": 1990,
+        "id": 1573,
+        "poster": "https://image.tmdb.org/t/p/w200/ybki0UWO3OPhaM6MSniuKC7sy1R.jpg"
     },
     {
-      "title": "Let Him Have It",
-      "release_date": "1991"
+        "title": "Cold Dog Soup",
+        "year": 1990,
+        "id": 94870,
+        "poster": "https://image.tmdb.org/t/p/w200/y7C9UGYkmrRgaM43ekK9q1iPNFu.jpg"
     },
     {
-      "title": "The Last Boy Scout",
-      "release_date": "1991-12-13"
+        "title": "The Krays",
+        "year": 1990,
+        "id": 21344,
+        "poster": "https://image.tmdb.org/t/p/w200/e7GqmnQJRWXYs8Y8uXma6p7Amcw.jpg"
     },
     {
-      "title": "Shining Through",
-      "release_date": "1992-01-31"
+        "title": "Nothing But Trouble",
+        "year": 1991,
+        "id": 11933,
+        "poster": "https://image.tmdb.org/t/p/w200/Apk5Hbby70diyeMHd2VhxUSHNW.jpg"
     },
     {
-      "title": "Lethal Weapon 3",
-      "release_date": "1992-05-15"
+        "title": "Robin Hood: Prince of Thieves",
+        "year": 1991,
+        "id": 8367,
+        "poster": "https://image.tmdb.org/t/p/w200/hbRnWUNJkKKVN5mkcuC5ooqjE4e.jpg"
     },
     {
-      "title": "Blue Ice",
-      "release_date": "1992"
+        "title": "Hudson Hawk",
+        "year": 1991,
+        "id": 9292,
+        "poster": "https://image.tmdb.org/t/p/w200/2AiR7HZuIOUdJp6LYOEOA8z7pF3.jpg"
     },
     {
-      "title": "Splitting Heirs",
-      "release_date": "1993-04-02"
+        "title": "The Last Boy Scout",
+        "year": 1991,
+        "id": 9319,
+        "poster": "https://image.tmdb.org/t/p/w200/glPswihcZYoAQ4YM2uJF4UACy8T.jpg"
     },
     {
-      "title": "Last Action Hero",
-      "release_date": "1993"
+        "title": "Let Him Have It",
+        "year": 1991,
+        "id": 64167,
+        "poster": "https://image.tmdb.org/t/p/w200/cv6UNrIUrSuiBoIDRj9pqQWZwUQ.jpg"
     },
     {
-      "title": "Wilder Napalm",
-      "release_date": "1993"
+        "title": "Company Business",
+        "year": 1991,
+        "id": 32074,
+        "poster": "https://image.tmdb.org/t/p/w200/vwWexi2O70Efr4MkckbxjeIgchb.jpg"
     },
     {
-      "title": "The Three Musketeers",
-      "release_date": "1993-11-12"
+        "title": "Lethal Weapon 3",
+        "year": 1992,
+        "id": 943,
+        "poster": "https://image.tmdb.org/t/p/w200/smzJxEnusgqv3bvHIWwf4cuwPcr.jpg"
     },
     {
-      "title": "Don Juan DeMarco",
-      "release_date": "1994-10-21"
+        "title": "Blue Ice",
+        "year": 1992,
+        "id": 46270,
+        "poster": "https://image.tmdb.org/t/p/w200/biQ5YZZjlCQnwOeTAQgfNk6YxS4.jpg"
     },
     {
-      "title": "Circle of Friends",
-      "release_date": "1995-03-17"
+        "title": "Shining Through",
+        "year": 1992,
+        "id": 31962,
+        "poster": "https://image.tmdb.org/t/p/w200/wAnvljbemUQluLjCcjgTZs0PXW1.jpg"
     },
     {
-      "title": "Die Hard with a Vengeance",
-      "release_date": "1995-05-19"
+        "title": "Two-Fisted Tales",
+        "year": 1992,
+        "id": 213503,
+        "poster": "https://image.tmdb.org/t/p/w200/sKGxUJmtJQhg16fO2UkqndpAmoO.jpg"
     },
     {
-      "title": "The First 100 Years: A Celebration of American Movies",
-      "release_date": "1995"
+        "title": "Splitting Heirs",
+        "year": 1993,
+        "id": 20339,
+        "poster": "https://image.tmdb.org/t/p/w200/bOxCNid7ZLB9SoUkIGhWKfDqrZy.jpg"
     },
     {
-      "title": "Stonewall",
-      "release_date": "1995-09-02"
+        "title": "Last Action Hero",
+        "year": 1993,
+        "id": 9593,
+        "poster": "https://image.tmdb.org/t/p/w200/vkhEaWAv5j3qgrOGp3BgMeiYPKj.jpg"
     },
     {
-      "title": "Jack",
-      "release_date": "1996-08-09"
+        "title": "The Three Musketeers",
+        "year": 1993,
+        "id": 10057,
+        "poster": "https://image.tmdb.org/t/p/w200/mk8UH7JRmK8adcqJJpB1ygP7B1C.jpg"
     },
     {
-      "title": "101 Dalmatians",
-      "release_date": "1996-11-18"
+        "title": "Wilder Napalm",
+        "year": 1993,
+        "id": 55950,
+        "poster": "https://image.tmdb.org/t/p/w200/z9M9yIuHwvFNb4wMkLQZ8gbJ2Cf.jpg"
     },
     {
-      "title": "Inventing the Abbotts",
-      "release_date": "1997-04-04"
+        "title": "Don Juan DeMarco",
+        "year": 1994,
+        "id": 1909,
+        "poster": "https://image.tmdb.org/t/p/w200/fe0TuYz9jCKUba2Omj48K8bWJ8z.jpg"
     },
     {
-      "title": "Remember Me?",
-      "release_date": "1997"
+        "title": "Die Hard: With a Vengeance",
+        "year": 1995,
+        "id": 1572,
+        "poster": "https://image.tmdb.org/t/p/w200/buqmCdFQEWwEpL3agGgg2GVjN2d.jpg"
     },
     {
-      "title": "Event Horizon",
-      "release_date": "1997-08-15"
+        "title": "Mr. Holland's Opus",
+        "year": 1995,
+        "id": 2054,
+        "poster": "https://image.tmdb.org/t/p/w200/kBmwWeSN3ajnYHZ3dSybEobxEPI.jpg"
     },
     {
-      "title": "The Winter Guest",
-      "release_date": "1997-08-28"
+        "title": "The First 100 Years: A Celebration of American Movies",
+        "year": 1995,
+        "id": 249141,
+        "poster": "https://image.tmdb.org/t/p/w200/antXwsgOHONG7A1glEVE5oEjA96.jpg"
     },
     {
-      "title": "The Avengers",
-      "release_date": "1998-08-14"
+        "title": "Circle of Friends",
+        "year": 1995,
+        "id": 22625,
+        "poster": "https://image.tmdb.org/t/p/w200/bnSBsGCIfGGiN68MSBIoviaoh9a.jpg"
     },
     {
-      "title": "Lethal Weapon 4",
-      "release_date": "1998-07-10"
+        "title": "Stonewall",
+        "year": 1995,
+        "id": 28628,
+        "poster": "https://image.tmdb.org/t/p/w200/pCkn7r7V9UFmtuREaKmaoI5OeeT.jpg"
     },
     {
-      "title": "What Dreams May Come",
-      "release_date": "1998-10-02"
+        "title": "Jack",
+        "year": 1996,
+        "id": 7095,
+        "poster": "https://image.tmdb.org/t/p/w200/9W6UI8UQ4YdLCAaPFd0lcKJ1tX4.jpg"
     },
     {
-      "title": "The Iron Giant",
-      "release_date": "1999-07-31"
+        "title": "101 Dalmatians",
+        "year": 1996,
+        "id": 11674,
+        "poster": "https://image.tmdb.org/t/p/w200/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg"
     },
     {
-      "title": "Frequency",
-      "release_date": "2000-04-28"
+        "title": "Event Horizon",
+        "year": 1997,
+        "id": 8413,
+        "poster": "https://image.tmdb.org/t/p/w200/qfluaDXv0cIdLwgQWzNB2piHL2q.jpg"
     },
     {
-      "title": "X-Men",
-      "release_date": "2000-07-12"
+        "title": "Inventing the Abbotts",
+        "year": 1997,
+        "id": 12723,
+        "poster": "https://image.tmdb.org/t/p/w200/ysfD96fF56BEzpktyDWChC8Epgs.jpg"
     },
     {
-      "title": "Open Range",
-      "release_date": "2003-08-15"
+        "title": "The Winter Guest",
+        "year": 1997,
+        "id": 25994,
+        "poster": "https://image.tmdb.org/t/p/w200/9t0hyTI7HTB6JSIecUNODrtBvwa.jpg"
     },
     {
-      "title": "Against the Ropes",
-      "release_date": "2004-02-20"
+        "title": "Remember Me?",
+        "year": 1997,
+        "id": 265171,
+        "poster": "https://image.tmdb.org/t/p/w200/8BthkEIaNiZ1N1Hyvh4Ls7HtWlp.jpg"
     },
     {
-      "title": "Back to Gaya",
-      "release_date": "2004"
+        "title": "Lethal Weapon 4",
+        "year": 1998,
+        "id": 944,
+        "poster": "https://image.tmdb.org/t/p/w200/rtCfqVtEXaC7HJ0dJjUECZNzW3S.jpg"
     },
     {
-      "title": "First Daughter",
-      "release_date": "2004-09-24"
+        "title": "What Dreams May Come",
+        "year": 1998,
+        "id": 12159,
+        "poster": "https://image.tmdb.org/t/p/w200/78wCdphUzeb528wLZw2W0fn7yGB.jpg"
+    },
+    {
+        "title": "Jerry Seinfeld: I'm Telling You for the Last Time",
+        "year": 1998,
+        "id": 23319,
+        "poster": "https://image.tmdb.org/t/p/w200/jffjpqXw6W9x6etUSYBkMPEQWRY.jpg"
+    },
+    {
+        "title": "The Iron Giant",
+        "year": 1999,
+        "id": 10386,
+        "poster": "https://image.tmdb.org/t/p/w200/ct04FCFLPImNG5thcPLRnVsZlmS.jpg"
+    },
+    {
+        "title": "Frequency",
+        "year": 2000,
+        "id": 10559,
+        "poster": "https://image.tmdb.org/t/p/w200/eu3Hrjj271dnBdNAF0HqfmwWASt.jpg"
+    },
+    {
+        "title": "X-Men",
+        "year": 2000,
+        "id": 36657,
+        "poster": "https://image.tmdb.org/t/p/w200/bRDAc4GogyS9ci3ow7UnInOcriN.jpg"
+    },
+    {
+        "title": "Open Range",
+        "year": 2003,
+        "id": 2055,
+        "poster": "https://image.tmdb.org/t/p/w200/1mrNc88NrUEGtMtat4FD7sfpFrW.jpg"
+    },
+    {
+        "title": "Back to Gaya",
+        "year": 2004,
+        "id": 10927,
+        "poster": "https://image.tmdb.org/t/p/w200/daqf0AgiiBAzbOyEJMn3LPr8HbZ.jpg"
+    },
+    {
+        "title": "Against the Ropes",
+        "year": 2004,
+        "id": 8842,
+        "poster": "https://image.tmdb.org/t/p/w200/9CuODYTA3vvrGluaIl0hMPsEIK8.jpg"
+    },
+    {
+        "title": "First Daughter",
+        "year": 2004,
+        "id": 13969,
+        "poster": "https://image.tmdb.org/t/p/w200/iUZ3hDMo8SGY2IoujCKwVt8ukm9.jpg"
     }
-  ]
-}
+]

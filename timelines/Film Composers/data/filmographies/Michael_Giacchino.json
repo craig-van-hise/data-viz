@@ -1,85 +1,500 @@
-{
-  "composer": "Michael Giacchino",
-  "filmography": [
+[
     {
-      "title": "No Salida",
-      "release_date": "1998"
+        "title": "My Brother the Pig",
+        "year": 1999,
+        "id": 73257,
+        "poster": "https://image.tmdb.org/t/p/w200/v21boSM424AT1J5dC5ugWr7zwqq.jpg"
     },
     {
-      "title": "String Of The Kite",
-      "release_date": "2003"
+        "title": "Semper Fi",
+        "year": 2001,
+        "id": 323111,
+        "poster": "https://image.tmdb.org/t/p/w200/8WzhW02Wd3X5HZs6OITRqUdFOaz.jpg"
     },
     {
-      "title": "The Karate Guard",
-      "release_date": "2005-09-27"
+        "title": "The Trouble with Lou",
+        "year": 2001,
+        "id": 430643,
+        "poster": "https://image.tmdb.org/t/p/w200/9xBruGHXfDraEQJHeTRNrrB00P4.jpg"
     },
     {
-      "title": "One Man Band",
-      "release_date": "2005-06-11"
+        "title": "Sin",
+        "year": 2003,
+        "id": 37946,
+        "poster": "https://image.tmdb.org/t/p/w200/juNwK0xRUZlQxCU9f5KDgBfFclF.jpg"
     },
     {
-      "title": "Lifted",
-      "release_date": "2006-10-12"
+        "title": "Phenomenon II",
+        "year": 2003,
+        "id": 95190,
+        "poster": "https://image.tmdb.org/t/p/w200/xwpFevy4XSexWdXOlrlrKNRVk26.jpg"
     },
     {
-      "title": "How to Hook Up Your Home Theater",
-      "release_date": "2007-12-21"
+        "title": "The Incredibles",
+        "year": 2004,
+        "id": 9806,
+        "poster": "https://image.tmdb.org/t/p/w200/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg"
     },
     {
-      "title": "Partly Cloudy",
-      "release_date": "2009-05-29"
+        "title": "Sky High",
+        "year": 2005,
+        "id": 11459,
+        "poster": "https://image.tmdb.org/t/p/w200/nBB0XNMwvYvWpo67EcxQqKMoMKf.jpg"
     },
     {
-      "title": "Dug's Special Mission",
-      "release_date": "2009-11-10"
+        "title": "One Man Band",
+        "year": 2005,
+        "id": 13933,
+        "poster": "https://image.tmdb.org/t/p/w200/hfwUfeodlhuYJTYxUbelMLIQbnH.jpg"
     },
     {
-      "title": "Prep & Landing",
-      "release_date": "2009"
+        "title": "The Karate Guard",
+        "year": 2005,
+        "id": 69115,
+        "poster": "https://image.tmdb.org/t/p/w200/6dAuo4eUh4BFDVcuG9RC2PLoTrj.jpg"
     },
     {
-      "title": "Day & Night",
-      "release_date": "2010-06-18"
+        "title": "The Family Stone",
+        "year": 2005,
+        "id": 9043,
+        "poster": "https://image.tmdb.org/t/p/w200/nlqw53HmTP7o3b2NDttYNOtsK4V.jpg"
     },
     {
-      "title": "Prep & Landing: Operation: Secret Santa",
-      "release_date": "2010"
+        "title": "Vowellet - An Essay by Sarah Vowell",
+        "year": 2005,
+        "id": 841820,
+        "poster": "https://image.tmdb.org/t/p/w200/pFDoqhYbh1EASLVUrzaxv3amFy8.jpg"
     },
     {
-      "title": "The Ballad of Nessie",
-      "release_date": "2011-03-05"
+        "title": "The Muppets' Wizard of Oz",
+        "year": 2005,
+        "id": 20910,
+        "poster": "https://image.tmdb.org/t/p/w200/gpPaN0kRKDVX9Vj8VgxsJyvxe8T.jpg"
     },
     {
-      "title": "Prep & Landing: Naughty vs. Nice",
-      "release_date": "2011"
+        "title": "Mission: Impossible III",
+        "year": 2006,
+        "id": 956,
+        "poster": "https://image.tmdb.org/t/p/w200/vKGYCpmQyV9uHybWDzXuII8Los5.jpg"
     },
     {
-      "title": "La Luna",
-      "release_date": "2011-06-06"
+        "title": "Lifted",
+        "year": 2006,
+        "id": 13060,
+        "poster": "https://image.tmdb.org/t/p/w200/mh7VBbGPbGEITEPSSyRWQVO6HVW.jpg"
     },
     {
-      "title": "Toy Story of Terror!",
-      "release_date": "2013"
+        "title": "Looking for Comedy in the Muslim World",
+        "year": 2006,
+        "id": 25890,
+        "poster": "https://image.tmdb.org/t/p/w200/7U1stA5Jr2PjGKu21mIA3mHnohl.jpg"
     },
     {
-      "title": "Toy Story That Time Forgot",
-      "release_date": "2014"
+        "title": "Ratatouille",
+        "year": 2007,
+        "id": 2062,
+        "poster": "https://image.tmdb.org/t/p/w200/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
     },
     {
-      "title": "Riley's First Date?",
-      "release_date": "2015-08-14"
+        "title": "How to Hook Up Your Home Theater",
+        "year": 2007,
+        "id": 105325,
+        "poster": "https://image.tmdb.org/t/p/w200/eHU8HfMozjS6bC8APU4Ik3l3zXs.jpg"
     },
     {
-      "title": "Dante's Lunch",
-      "release_date": "2017"
+        "title": "Speed Racer",
+        "year": 2008,
+        "id": 7459,
+        "poster": "https://image.tmdb.org/t/p/w200/fxRIpx9Op9h71q3tvuabx4GryyP.jpg"
     },
     {
-      "title": "Werewolf by Night",
-      "release_date": "2022"
+        "title": "Prep & Landing",
+        "year": 2009,
+        "id": 26809,
+        "poster": "https://image.tmdb.org/t/p/w200/jl4UZyUA1xPFZMYWYJ4ZzuccW7Q.jpg"
     },
     {
-      "title": "765874 \u2013 Unification",
-      "release_date": "2024"
+        "title": "Star Trek",
+        "year": 2009,
+        "id": 13475,
+        "poster": "https://image.tmdb.org/t/p/w200/hN2ZtF3Uw6mhIHZiqL0SKzELtKn.jpg"
+    },
+    {
+        "title": "Land of the Lost",
+        "year": 2009,
+        "id": 18162,
+        "poster": "https://image.tmdb.org/t/p/w200/hVCJzmK9l5FD01LFYAB1zcmmw7s.jpg"
+    },
+    {
+        "title": "Partly Cloudy",
+        "year": 2009,
+        "id": 24480,
+        "poster": "https://image.tmdb.org/t/p/w200/oqYX2AJV53ibLVPrUZ1Z5XlGv5U.jpg"
+    },
+    {
+        "title": "Up",
+        "year": 2009,
+        "id": 14160,
+        "poster": "https://image.tmdb.org/t/p/w200/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg"
+    },
+    {
+        "title": "Dug's Special Mission",
+        "year": 2009,
+        "id": 24589,
+        "poster": "https://image.tmdb.org/t/p/w200/qvK30UQ5cPxGH7ZBVpUhO6DPIM5.jpg"
+    },
+    {
+        "title": "Let Me In",
+        "year": 2010,
+        "id": 41402,
+        "poster": "https://image.tmdb.org/t/p/w200/3b5gD5vNmf7Vafj2MN8uMA8r0qu.jpg"
+    },
+    {
+        "title": "Prep & Landing Stocking Stuffer: Operation: Secret Santa",
+        "year": 2010,
+        "id": 88212,
+        "poster": "https://image.tmdb.org/t/p/w200/9BCphvFuTMO1CkNXslrUmEZ4imh.jpg"
+    },
+    {
+        "title": "Day & Night",
+        "year": 2010,
+        "id": 40619,
+        "poster": "https://image.tmdb.org/t/p/w200/hn2tOtidoYZ0D56jR4yknpdP1mU.jpg"
+    },
+    {
+        "title": "50/50",
+        "year": 2011,
+        "id": 40807,
+        "poster": "https://image.tmdb.org/t/p/w200/8f9tM9JVB4ETBhxlQcXIjLckArl.jpg"
+    },
+    {
+        "title": "Super 8",
+        "year": 2011,
+        "id": 37686,
+        "poster": "https://image.tmdb.org/t/p/w200/pUWIjaMMYJjeBm5bJyE3mIXdQ62.jpg"
+    },
+    {
+        "title": "Cars 2",
+        "year": 2011,
+        "id": 49013,
+        "poster": "https://image.tmdb.org/t/p/w200/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg"
+    },
+    {
+        "title": "Mission: Impossible - Ghost Protocol",
+        "year": 2011,
+        "id": 56292,
+        "poster": "https://image.tmdb.org/t/p/w200/eRZTGx7GsiKqPch96k27LK005ZL.jpg"
+    },
+    {
+        "title": "Monte Carlo",
+        "year": 2011,
+        "id": 59860,
+        "poster": "https://image.tmdb.org/t/p/w200/dcbqyycrWA56HXq5lm41HYuED8Y.jpg"
+    },
+    {
+        "title": "The Ballad of Nessie",
+        "year": 2011,
+        "id": 76346,
+        "poster": "https://image.tmdb.org/t/p/w200/za3XO3Na1vSBUWBImQB2VaE4c2a.jpg"
+    },
+    {
+        "title": "Prep & Landing: Naughty vs. Nice",
+        "year": 2011,
+        "id": 88096,
+        "poster": "https://image.tmdb.org/t/p/w200/wJqj6tBEojifQVPEayWBlCU9tNV.jpg"
+    },
+    {
+        "title": "La luna",
+        "year": 2012,
+        "id": 83564,
+        "poster": "https://image.tmdb.org/t/p/w200/9euW64JUgFlA7fxN8lAmwK6gUaQ.jpg"
+    },
+    {
+        "title": "Electric Holiday",
+        "year": 2012,
+        "id": 209659,
+        "poster": "https://image.tmdb.org/t/p/w200/ouUddsZCgvgpKx1pv9GqaYiNm1B.jpg"
+    },
+    {
+        "title": "Paper War",
+        "year": 2012,
+        "id": 673506,
+        "poster": "https://image.tmdb.org/t/p/w200/hjh0D5j4KaFtveyczkh1pBnK9zJ.jpg"
+    },
+    {
+        "title": "John Carter",
+        "year": 2012,
+        "id": 49529,
+        "poster": "https://image.tmdb.org/t/p/w200/lCxz1Yus07QCQQCb6I0Dr3Lmqpx.jpg"
+    },
+    {
+        "title": "Star Trek Into Darkness",
+        "year": 2013,
+        "id": 54138,
+        "poster": "https://image.tmdb.org/t/p/w200/Aim3kVNh1MPIxPEFeJrl9e9Uf1a.jpg"
+    },
+    {
+        "title": "Toy Story of Terror!",
+        "year": 2013,
+        "id": 213121,
+        "poster": "https://image.tmdb.org/t/p/w200/oPBEnNP4Fg4gv9c0KBhchmtoG4H.jpg"
+    },
+    {
+        "title": "Dawn of the Planet of the Apes",
+        "year": 2014,
+        "id": 119450,
+        "poster": "https://image.tmdb.org/t/p/w200/mSmAc9G25fhOHH45SLEeagR0qi7.jpg"
+    },
+    {
+        "title": "Toy Story That Time Forgot",
+        "year": 2014,
+        "id": 256835,
+        "poster": "https://image.tmdb.org/t/p/w200/kVOaFo8RaYQceHfTqbZGmV9R80q.jpg"
+    },
+    {
+        "title": "This Is Where I Leave You",
+        "year": 2014,
+        "id": 239678,
+        "poster": "https://image.tmdb.org/t/p/w200/rVUI2267FdetVWz9UBQbqTmRVhQ.jpg"
+    },
+    {
+        "title": "Jupiter Ascending",
+        "year": 2015,
+        "id": 76757,
+        "poster": "https://image.tmdb.org/t/p/w200/2NCcAZ3M3F0FxENYmammBknwpVn.jpg"
+    },
+    {
+        "title": "Tomorrowland",
+        "year": 2015,
+        "id": 158852,
+        "poster": "https://image.tmdb.org/t/p/w200/kziYpr5Nfw60P0My8aj1sgCEqed.jpg"
+    },
+    {
+        "title": "Jurassic World",
+        "year": 2015,
+        "id": 135397,
+        "poster": "https://image.tmdb.org/t/p/w200/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg"
+    },
+    {
+        "title": "Inside Out",
+        "year": 2015,
+        "id": 150540,
+        "poster": "https://image.tmdb.org/t/p/w200/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg"
+    },
+    {
+        "title": "Riley's First Date?",
+        "year": 2015,
+        "id": 355338,
+        "poster": "https://image.tmdb.org/t/p/w200/cGLwfmLqg39822RFQMUDat0UJev.jpg"
+    },
+    {
+        "title": "Star Trek Beyond",
+        "year": 2016,
+        "id": 188927,
+        "poster": "https://image.tmdb.org/t/p/w200/m7SHlvcGfCkbzk2xP7XHDOI6o93.jpg"
+    },
+    {
+        "title": "Zootopia",
+        "year": 2016,
+        "id": 269149,
+        "poster": "https://image.tmdb.org/t/p/w200/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg"
+    },
+    {
+        "title": "Rogue One: A Star Wars Story",
+        "year": 2016,
+        "id": 330459,
+        "poster": "https://image.tmdb.org/t/p/w200/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg"
+    },
+    {
+        "title": "Doctor Strange",
+        "year": 2016,
+        "id": 284052,
+        "poster": "https://image.tmdb.org/t/p/w200/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg"
+    },
+    {
+        "title": "War for the Planet of the Apes",
+        "year": 2017,
+        "id": 281338,
+        "poster": "https://image.tmdb.org/t/p/w200/3vYhLLxrTtZLysXtIWktmd57Snv.jpg"
+    },
+    {
+        "title": "The Book of Henry",
+        "year": 2017,
+        "id": 382614,
+        "poster": "https://image.tmdb.org/t/p/w200/suLFg4UjvM5BoDipg2Wu3gZ802T.jpg"
+    },
+    {
+        "title": "Coco",
+        "year": 2017,
+        "id": 354912,
+        "poster": "https://image.tmdb.org/t/p/w200/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg"
+    },
+    {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017,
+        "id": 315635,
+        "poster": "https://image.tmdb.org/t/p/w200/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg"
+    },
+    {
+        "title": "Auntie Edna",
+        "year": 2018,
+        "id": 546728,
+        "poster": "https://image.tmdb.org/t/p/w200/evA4aMkr3qEuNPWvCaJdqluureb.jpg"
+    },
+    {
+        "title": "Monster Challenge",
+        "year": 2018,
+        "id": 550040,
+        "poster": "https://image.tmdb.org/t/p/w200/7x15EtiEA5t3dO1Rc1Nlc6cTTdC.jpg"
+    },
+    {
+        "title": "Jurassic World: Fallen Kingdom",
+        "year": 2018,
+        "id": 351286,
+        "poster": "https://image.tmdb.org/t/p/w200/x2Us3jR6ToMJjbcPbLimYoxf6xr.jpg"
+    },
+    {
+        "title": "Incredibles 2",
+        "year": 2018,
+        "id": 260513,
+        "poster": "https://image.tmdb.org/t/p/w200/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg"
+    },
+    {
+        "title": "Bad Times at the El Royale",
+        "year": 2018,
+        "id": 446021,
+        "poster": "https://image.tmdb.org/t/p/w200/qExufIc4Rw0e4xdVZlhMdmEDGES.jpg"
+    },
+    {
+        "title": "Spider-Man: Far From Home",
+        "year": 2019,
+        "id": 429617,
+        "poster": "https://image.tmdb.org/t/p/w200/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg"
+    },
+    {
+        "title": "Jojo Rabbit",
+        "year": 2019,
+        "id": 515001,
+        "poster": "https://image.tmdb.org/t/p/w200/7GsM4mtM0worCtIVeiQt28HieeN.jpg"
+    },
+    {
+        "title": "Let Him Go",
+        "year": 2020,
+        "id": 596161,
+        "poster": "https://image.tmdb.org/t/p/w200/EsLZoT8oHhQlGd1QpdbnvnwTzO.jpg"
+    },
+    {
+        "title": "An American Pickle",
+        "year": 2020,
+        "id": 628917,
+        "poster": "https://image.tmdb.org/t/p/w200/8ziUp2q71vCmMgYY2MRCwI3mSs5.jpg"
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "id": 634649,
+        "poster": "https://image.tmdb.org/t/p/w200/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg"
+    },
+    {
+        "title": "Werewolf by Night",
+        "year": 2022,
+        "id": 894205,
+        "poster": "https://image.tmdb.org/t/p/w200/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg"
+    },
+    {
+        "title": "Thor: Love and Thunder",
+        "year": 2022,
+        "id": 616037,
+        "poster": "https://image.tmdb.org/t/p/w200/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg"
+    },
+    {
+        "title": "Lightyear",
+        "year": 2022,
+        "id": 718789,
+        "poster": "https://image.tmdb.org/t/p/w200/b9t3w1loraDh7hjdWmpc9ZsaYns.jpg"
+    },
+    {
+        "title": "The Batman",
+        "year": 2022,
+        "id": 414906,
+        "poster": "https://image.tmdb.org/t/p/w200/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+    },
+    {
+        "title": "Jurassic World Dominion",
+        "year": 2022,
+        "id": 507086,
+        "poster": "https://image.tmdb.org/t/p/w200/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg"
+    },
+    {
+        "title": "Next Goal Wins",
+        "year": 2023,
+        "id": 621587,
+        "poster": "https://image.tmdb.org/t/p/w200/xTQCL1zGugIck8MgvJ2lXSrxENR.jpg"
+    },
+    {
+        "title": "Society of the Snow",
+        "year": 2023,
+        "id": 906126,
+        "poster": "https://image.tmdb.org/t/p/w200/2e853FDVSIso600RqAMunPxiZjq.jpg"
+    },
+    {
+        "title": "IF",
+        "year": 2024,
+        "id": 639720,
+        "poster": "https://image.tmdb.org/t/p/w200/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg"
+    },
+    {
+        "title": "Getting LOST",
+        "year": 2024,
+        "id": 1107128,
+        "poster": "https://image.tmdb.org/t/p/w200/lc4n406XqcLd2OFhub6QQYLhUkr.jpg"
+    },
+    {
+        "title": "The Fantastic 4: First Steps",
+        "year": 2025,
+        "id": 617126,
+        "poster": "https://image.tmdb.org/t/p/w200/nf5qaSEvyYSNeFH0YhSs5EsBLX9.jpg"
+    },
+    {
+        "title": "Zootopia 2",
+        "year": 2025,
+        "id": 1084242,
+        "poster": "https://image.tmdb.org/t/p/w200/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+    },
+    {
+        "title": "Spider-Man: Brand New Day",
+        "year": 2026,
+        "id": 969681,
+        "poster": "https://image.tmdb.org/t/p/w200/pspkSVP39NGa6G2rvK5KlMjvYUe.jpg"
+    },
+    {
+        "title": "The End of Oak Street",
+        "year": 2026,
+        "id": 1101383,
+        "poster": "https://image.tmdb.org/t/p/w200/u9jha7bkttIrc5RO1TWeSn7QVyI.jpg"
+    },
+    {
+        "title": "High in the Clouds",
+        "year": 2027,
+        "id": 656618,
+        "poster": "https://image.tmdb.org/t/p/w200/4ciGq6LMflg2AkmUxx5XAMmg8FN.jpg"
+    },
+    {
+        "title": "Incredibles 3",
+        "year": 2028,
+        "id": 1327821,
+        "poster": "https://image.tmdb.org/t/p/w200/7V4YyTRN1bNWcDSeB61pPygcdrj.jpg"
+    },
+    {
+        "title": "Them!",
+        "year": 9999,
+        "id": 1069852,
+        "poster": null
+    },
+    {
+        "title": "Ray Gunn",
+        "year": 9999,
+        "id": 940009,
+        "poster": "https://image.tmdb.org/t/p/w200/Dr2jQOVonXhWdMYM3vuRZXfRQR.jpg"
     }
-  ]
-}
+]

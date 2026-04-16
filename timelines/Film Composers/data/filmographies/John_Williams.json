@@ -1,457 +1,788 @@
-{
-  "composer": "John Williams",
-  "filmography": [
+[
     {
-      "title": "Daddy-O",
-      "release_date": "1958"
+        "title": "Daddy-O",
+        "year": 1958,
+        "id": 134732,
+        "poster": "https://image.tmdb.org/t/p/w200/rbG029DCHnlzuWXuzpF2QCk7KaZ.jpg"
     },
     {
-      "title": "I Passed for White",
-      "release_date": "1960-03-18"
+        "title": "I Passed for White",
+        "year": 1960,
+        "id": 242354,
+        "poster": "https://image.tmdb.org/t/p/w200/41WAUlH4eKux05OcqAPgy04Flbu.jpg"
     },
     {
-      "title": "Because They're Young",
-      "release_date": "1960"
+        "title": "Because They're Young",
+        "year": 1960,
+        "id": 127776,
+        "poster": "https://image.tmdb.org/t/p/w200/3hGiYzNK4oAxjazmnWq4meBDcNJ.jpg"
     },
     {
-      "title": "The Secret Ways",
-      "release_date": "1961"
+        "title": "The Secret Ways",
+        "year": 1961,
+        "id": 37487,
+        "poster": "https://image.tmdb.org/t/p/w200/jaiu4EA2ywxw0vubMT9QeTg6sJ8.jpg"
     },
     {
-      "title": "Bachelor Flat",
-      "release_date": "1962-01-12"
+        "title": "Bachelor Flat",
+        "year": 1961,
+        "id": 101281,
+        "poster": "https://image.tmdb.org/t/p/w200/6yKUblliEQgw8PObN2HF03BaCUj.jpg"
     },
     {
-      "title": "Diamond Head",
-      "release_date": "1962-12-27"
+        "title": "Flashing Spikes",
+        "year": 1962,
+        "id": 363000,
+        "poster": "https://image.tmdb.org/t/p/w200/w74sRclVVXcvVvywzu7Hky0d92X.jpg"
     },
     {
-      "title": "Gidget Goes to Rome",
-      "release_date": "1963-07-31"
+        "title": "Diamond Head",
+        "year": 1962,
+        "id": 119052,
+        "poster": "https://image.tmdb.org/t/p/w200/2oCUrf9A50YyshnGx7uHX7wDik8.jpg"
     },
     {
-      "title": "The Killers",
-      "release_date": "1964-07-07"
+        "title": "Gidget Goes to Rome",
+        "year": 1963,
+        "id": 42799,
+        "poster": "https://image.tmdb.org/t/p/w200/dt8mopbjqOEfmxXomSflSt3wwqB.jpg"
     },
     {
-      "title": "None but the Brave",
-      "release_date": "1965-01-15"
+        "title": "The Killers",
+        "year": 1964,
+        "id": 24229,
+        "poster": "https://image.tmdb.org/t/p/w200/7IeXjRmUZ2pnSFMRh0ZXpu3Nkmn.jpg"
     },
     {
-      "title": "John Goldfarb, Please Come Home!",
-      "release_date": "1965-03-24"
+        "title": "Nightmare in Chicago",
+        "year": 1964,
+        "id": 132999,
+        "poster": "https://image.tmdb.org/t/p/w200/nw8vbA9ZNzWPjbulpzHpOZYSSIc.jpg"
     },
     {
-      "title": "The Rare Breed",
-      "release_date": "1966-02-02"
+        "title": "The Kathryn Reed Story",
+        "year": 1965,
+        "id": 360101,
+        "poster": "https://image.tmdb.org/t/p/w200/yVfBId9boI58MMJcIxg1sGefqAE.jpg"
     },
     {
-      "title": "How to Steal a Million",
-      "release_date": "1966-07-13"
+        "title": "John Goldfarb, Please Come Home!",
+        "year": 1965,
+        "id": 140402,
+        "poster": "https://image.tmdb.org/t/p/w200/vFXKV7e361BKhnl3C9vTOPcr8rf.jpg"
     },
     {
-      "title": "The Plainsman",
-      "release_date": "1966"
+        "title": "None But the Brave",
+        "year": 1965,
+        "id": 43407,
+        "poster": "https://image.tmdb.org/t/p/w200/rIiPD7Xt196jpf2W8zFHgTg29Oi.jpg"
     },
     {
-      "title": "Not with My Wife, You Don't!",
-      "release_date": "1966-11-02"
+        "title": "How to Steal a Million",
+        "year": 1966,
+        "id": 3001,
+        "poster": "https://image.tmdb.org/t/p/w200/xaf3pwmITJvfz9Ab8DiGM8OOtBC.jpg"
     },
     {
-      "title": "Penelope",
-      "release_date": "1966-11-10"
+        "title": "The Rare Breed",
+        "year": 1966,
+        "id": 38800,
+        "poster": "https://image.tmdb.org/t/p/w200/9LJ3iQgvfScjM0PMk3fnpCl6HRi.jpg"
     },
     {
-      "title": "Valley of the Dolls",
-      "release_date": "1967-11-16"
+        "title": "Penelope",
+        "year": 1966,
+        "id": 174865,
+        "poster": "https://image.tmdb.org/t/p/w200/k95uACMjBx3iPANxfBi4pF0PhOs.jpg"
     },
     {
-      "title": "A Guide for the Married Man",
-      "release_date": "1967-05-25"
+        "title": "The Plainsman",
+        "year": 1966,
+        "id": 238124,
+        "poster": "https://image.tmdb.org/t/p/w200/cj9TqJPfcIvdgEVRd0Faqde5YDL.jpg"
     },
     {
-      "title": "Fitzwilly",
-      "release_date": "1967"
+        "title": "Not With My Wife, You Don't!",
+        "year": 1966,
+        "id": 91422,
+        "poster": "https://image.tmdb.org/t/p/w200/tCy2FIPC1xC1TZPNbDTMIU9H3I0.jpg"
     },
     {
-      "title": "Sergeant Ryker",
-      "release_date": "1968-02-01"
+        "title": "Valley of the Dolls",
+        "year": 1967,
+        "id": 3055,
+        "poster": "https://image.tmdb.org/t/p/w200/hQgsWkNTL8GJloJRzqonImIaIJb.jpg"
     },
     {
-      "title": "Daddy's Gone A-Hunting",
-      "release_date": "1969-07-02"
+        "title": "A Guide for the Married Man",
+        "year": 1967,
+        "id": 4932,
+        "poster": "https://image.tmdb.org/t/p/w200/gAuFxWQwD74Z2huac9fkE3lCvhu.jpg"
     },
     {
-      "title": "Goodbye, Mr. Chips",
-      "release_date": "1969-11-05"
+        "title": "Ghostbreakers",
+        "year": 1967,
+        "id": 284125,
+        "poster": "https://image.tmdb.org/t/p/w200/4KjftS7kIoCPmxWrSTMAzRq3yIl.jpg"
     },
     {
-      "title": "The Reivers",
-      "release_date": "1969-12-25"
+        "title": "Fitzwilly",
+        "year": 1967,
+        "id": 33730,
+        "poster": "https://image.tmdb.org/t/p/w200/749GJU7RGeEJijDcUQJh1mFio4m.jpg"
     },
     {
-      "title": "Story of a Woman",
-      "release_date": "1970-02-13"
+        "title": "Heidi",
+        "year": 1968,
+        "id": 38427,
+        "poster": "https://image.tmdb.org/t/p/w200/zNP3wP7WwFNUAuL1wA2LQ7gaHEO.jpg"
     },
     {
-      "title": "Fiddler on the Roof",
-      "release_date": "1971-11-03"
+        "title": "Sergeant Ryker",
+        "year": 1968,
+        "id": 333174,
+        "poster": "https://image.tmdb.org/t/p/w200/6p9DXABvgn4xtNXvbJZCyJOeWMr.jpg"
     },
     {
-      "title": "The Cowboys",
-      "release_date": "1972-01-13"
+        "title": "The Reivers",
+        "year": 1969,
+        "id": 5928,
+        "poster": "https://image.tmdb.org/t/p/w200/s0XZmvjbS4meN86Jf1Retbo7GlB.jpg"
     },
     {
-      "title": "The Poseidon Adventure",
-      "release_date": "1972-12-12"
+        "title": "Goodbye, Mr. Chips",
+        "year": 1969,
+        "id": 42607,
+        "poster": "https://image.tmdb.org/t/p/w200/yFCn4Tq9L8cASfkwRqSLwsy9JNt.jpg"
     },
     {
-      "title": "Pete 'n' Tillie",
-      "release_date": "1972-12-17"
+        "title": "Daddy's Gone A-Hunting",
+        "year": 1969,
+        "id": 85484,
+        "poster": "https://image.tmdb.org/t/p/w200/wfjON5E4yWpEA4rftaksepHJ9kB.jpg"
     },
     {
-      "title": "Images",
-      "release_date": "1972-05-09"
+        "title": "Jane Eyre",
+        "year": 1970,
+        "id": 131313,
+        "poster": "https://image.tmdb.org/t/p/w200/r8glQlKrMyVgWtRKXkU9zUXlWT9.jpg"
     },
     {
-      "title": "The Long Goodbye",
-      "release_date": "1973-03-07"
+        "title": "Story of a Woman",
+        "year": 1970,
+        "id": 564102,
+        "poster": "https://image.tmdb.org/t/p/w200/ucTfD98WwT2uCW2VQg2wrhzpvhH.jpg"
     },
     {
-      "title": "Tom Sawyer",
-      "release_date": "1973"
+        "title": "Fiddler on the Roof",
+        "year": 1971,
+        "id": 14811,
+        "poster": "https://image.tmdb.org/t/p/w200/v65PHx7Q6Jx0anyNeUOX07SJic9.jpg"
     },
     {
-      "title": "The Man Who Loved Cat Dancing",
-      "release_date": "1973-06-28"
+        "title": "The Poseidon Adventure",
+        "year": 1972,
+        "id": 551,
+        "poster": "https://image.tmdb.org/t/p/w200/6RGiA5BfhelU9zoD0b1GAG4GWWf.jpg"
     },
     {
-      "title": "The Paper Chase",
-      "release_date": "1973-10-16"
+        "title": "Pete 'n' Tillie",
+        "year": 1972,
+        "id": 107774,
+        "poster": "https://image.tmdb.org/t/p/w200/ySF4iAKMynUobtjFUWeJuEoduuV.jpg"
     },
     {
-      "title": "Cinderella Liberty",
-      "release_date": "1973-12-18"
+        "title": "Images",
+        "year": 1972,
+        "id": 29449,
+        "poster": "https://image.tmdb.org/t/p/w200/aTezEYoe3hKPGva8yY4M7b24F3D.jpg"
     },
     {
-      "title": "Conrack",
-      "release_date": "1974-03-15"
+        "title": "The Cowboys",
+        "year": 1972,
+        "id": 15573,
+        "poster": "https://image.tmdb.org/t/p/w200/srdRiGV9tYFzWd2C4IjPJNtLrmr.jpg"
     },
     {
-      "title": "The Sugarland Express",
-      "release_date": "1974-03-29"
+        "title": "The Long Goodbye",
+        "year": 1973,
+        "id": 1847,
+        "poster": "https://image.tmdb.org/t/p/w200/oBhUK54yBJ0aH6u9zCzSV5iV7OP.jpg"
     },
     {
-      "title": "Earthquake",
-      "release_date": "1974-11-15"
+        "title": "Tom Sawyer",
+        "year": 1973,
+        "id": 42473,
+        "poster": "https://image.tmdb.org/t/p/w200/In4e2cLbkemK8t2bBfisgT0iqU.jpg"
     },
     {
-      "title": "The Towering Inferno",
-      "release_date": "1974-12-16"
+        "title": "The Man Who Loved Cat Dancing",
+        "year": 1973,
+        "id": 42472,
+        "poster": "https://image.tmdb.org/t/p/w200/128Di2hUSU9o5pbA5Yzu8Qc5jks.jpg"
     },
     {
-      "title": "The Eiger Sanction",
-      "release_date": "1975-05-21"
+        "title": "Cinderella Liberty",
+        "year": 1973,
+        "id": 84847,
+        "poster": "https://image.tmdb.org/t/p/w200/eySmZJyPAJ4nQDvrpU59NSCbZHI.jpg"
     },
     {
-      "title": "Jaws",
-      "release_date": "1975-06-20"
+        "title": "The Paper Chase",
+        "year": 1973,
+        "id": 14328,
+        "poster": "https://image.tmdb.org/t/p/w200/9LU6tK5S9RIZq8mN7xXZY7HtGAK.jpg"
     },
     {
-      "title": "Family Plot",
-      "release_date": "1976-04-09"
+        "title": "The Sugarland Express",
+        "year": 1974,
+        "id": 5121,
+        "poster": "https://image.tmdb.org/t/p/w200/csahjHhtJ9NzFKcxVcw7S4Pyfj.jpg"
     },
     {
-      "title": "The Missouri Breaks",
-      "release_date": "1976-05-19"
+        "title": "Conrack",
+        "year": 1974,
+        "id": 30702,
+        "poster": "https://image.tmdb.org/t/p/w200/wiP6lRKlF4jngcH4yQZINWqqaUh.jpg"
     },
     {
-      "title": "Midway",
-      "release_date": "1976-06-18"
+        "title": "Earthquake",
+        "year": 1974,
+        "id": 11123,
+        "poster": "https://image.tmdb.org/t/p/w200/6hJorsInxNpj1dIekh6dK6Kh9S6.jpg"
     },
     {
-      "title": "Black Sunday",
-      "release_date": "1977-04-01"
+        "title": "The Towering Inferno",
+        "year": 1974,
+        "id": 5919,
+        "poster": "https://image.tmdb.org/t/p/w200/mFM1GbrRrT3DWUFFo8koSITFnYe.jpg"
     },
     {
-      "title": "Star Wars",
-      "release_date": "1977-05-25"
+        "title": "Jaws",
+        "year": 1975,
+        "id": 578,
+        "poster": "https://image.tmdb.org/t/p/w200/tjbLSFwi0I3phZwh8zoHWNfbsEp.jpg"
     },
     {
-      "title": "Close Encounters of the Third Kind",
-      "release_date": "1977-11-16"
+        "title": "The Eiger Sanction",
+        "year": 1975,
+        "id": 20187,
+        "poster": "https://image.tmdb.org/t/p/w200/8654SvWhTdWQZ84C4NlidPqMBTB.jpg"
     },
     {
-      "title": "The Fury",
-      "release_date": "1978-03-10"
+        "title": "Family Plot",
+        "year": 1976,
+        "id": 5854,
+        "poster": "https://image.tmdb.org/t/p/w200/oQ9QbyBuIM2uYaheSKjs2x1xIQV.jpg"
     },
     {
-      "title": "Jaws 2",
-      "release_date": "1978-06-16"
+        "title": "Midway",
+        "year": 1976,
+        "id": 11422,
+        "poster": "https://image.tmdb.org/t/p/w200/vCzGV28YFmWubUn1jh8ytagYocR.jpg"
     },
     {
-      "title": "Superman",
-      "release_date": "1978-12-10"
+        "title": "The Missouri Breaks",
+        "year": 1976,
+        "id": 42252,
+        "poster": "https://image.tmdb.org/t/p/w200/3fbAVOm9w66jt1TMbeTO8wLyqxO.jpg"
     },
     {
-      "title": "Dracula",
-      "release_date": "1979-07-13"
+        "title": "Star Wars",
+        "year": 1977,
+        "id": 11,
+        "poster": "https://image.tmdb.org/t/p/w200/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg"
     },
     {
-      "title": "The Empire Strikes Back",
-      "release_date": "1980-05-06"
+        "title": "Close Encounters of the Third Kind",
+        "year": 1977,
+        "id": 840,
+        "poster": "https://image.tmdb.org/t/p/w200/gCWPB8cF82tqzrS9tvzcO6q6nyz.jpg"
     },
     {
-      "title": "Raiders of the Lost Ark",
-      "release_date": "1981-06-12"
+        "title": "Black Sunday",
+        "year": 1977,
+        "id": 50374,
+        "poster": "https://image.tmdb.org/t/p/w200/4rMXQICfFEsSGHCjh3bJj7K33sZ.jpg"
     },
     {
-      "title": "Heartbeeps",
-      "release_date": "1981-12-18"
+        "title": "Jaws 2",
+        "year": 1978,
+        "id": 579,
+        "poster": "https://image.tmdb.org/t/p/w200/cN3ijEwsn4kBaRuHfcJpAQJbeWe.jpg"
     },
     {
-      "title": "E.T. The Extra-Terrestrial",
-      "release_date": "1982-05-26"
+        "title": "The Fury",
+        "year": 1978,
+        "id": 12611,
+        "poster": "https://image.tmdb.org/t/p/w200/tkIXykrfndqf11Lb7U5RbIRa13b.jpg"
     },
     {
-      "title": "Yes, Giorgio",
-      "release_date": "1982-09-24"
+        "title": "Superman",
+        "year": 1978,
+        "id": 1924,
+        "poster": "https://image.tmdb.org/t/p/w200/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg"
     },
     {
-      "title": "Monsignor",
-      "release_date": "1982-10-22"
+        "title": "1941",
+        "year": 1979,
+        "id": 11519,
+        "poster": "https://image.tmdb.org/t/p/w200/52Bn5yC6IHQuVxPUza3Q6RZCZTu.jpg"
     },
     {
-      "title": "Return of the Jedi",
-      "release_date": "1983-05-25"
+        "title": "Dracula",
+        "year": 1979,
+        "id": 33521,
+        "poster": "https://image.tmdb.org/t/p/w200/gU0BMydJQV9HES5fRAEAPs2qw2M.jpg"
     },
     {
-      "title": "Indiana Jones and the Temple of Doom",
-      "release_date": "1984-04-23"
+        "title": "The Empire Strikes Back",
+        "year": 1980,
+        "id": 1891,
+        "poster": "https://image.tmdb.org/t/p/w200/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg"
     },
     {
-      "title": "The River",
-      "release_date": "1984-12-19"
+        "title": "Raiders of the Lost Ark",
+        "year": 1981,
+        "id": 85,
+        "poster": "https://image.tmdb.org/t/p/w200/ceG9VzoRAVGwivFU403Wc3AHRys.jpg"
     },
     {
-      "title": "SpaceCamp",
-      "release_date": "1986-06-06"
+        "title": "Great Movie Stunts: Raiders of the Lost Ark",
+        "year": 1981,
+        "id": 362197,
+        "poster": null
     },
     {
-      "title": "The Witches of Eastwick",
-      "release_date": "1987-06-12"
+        "title": "Heartbeeps",
+        "year": 1981,
+        "id": 73247,
+        "poster": "https://image.tmdb.org/t/p/w200/zxK1jyN8apEUyYerMLStaHIM2z8.jpg"
     },
     {
-      "title": "Empire of the Sun",
-      "release_date": "1987-12-11"
+        "title": "E.T. the Extra-Terrestrial",
+        "year": 1982,
+        "id": 601,
+        "poster": "https://image.tmdb.org/t/p/w200/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg"
     },
     {
-      "title": "Superman IV: The Quest for Peace",
-      "release_date": "1987-07-23"
+        "title": "Monsignor",
+        "year": 1982,
+        "id": 124963,
+        "poster": "https://image.tmdb.org/t/p/w200/pIXBDXxLK7Kl4Sb8mRyiUfIywzx.jpg"
     },
     {
-      "title": "The Accidental Tourist",
-      "release_date": "1988-12-23"
+        "title": "From Star Wars to Jedi: The Making of a Saga",
+        "year": 1983,
+        "id": 35795,
+        "poster": "https://image.tmdb.org/t/p/w200/5TuxIPkudDni4BQDAIx8KCWgqZi.jpg"
     },
     {
-      "title": "Indiana Jones and the Last Crusade",
-      "release_date": "1989-05-24"
+        "title": "Return of the Jedi",
+        "year": 1983,
+        "id": 1892,
+        "poster": "https://image.tmdb.org/t/p/w200/jQYlydvHm3kUix1f8prMucrplhm.jpg"
     },
     {
-      "title": "Born on the Fourth of July",
-      "release_date": "1989-12-20"
+        "title": "Indiana Jones and the Temple of Doom",
+        "year": 1984,
+        "id": 87,
+        "poster": "https://image.tmdb.org/t/p/w200/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg"
     },
     {
-      "title": "Always",
-      "release_date": "1989-12-22"
+        "title": "The River",
+        "year": 1984,
+        "id": 38557,
+        "poster": "https://image.tmdb.org/t/p/w200/bXIlE2QVIarVug9wpyPIz2xiWxf.jpg"
     },
     {
-      "title": "Stanley & Iris",
-      "release_date": "1990-02-09"
+        "title": "SpaceCamp",
+        "year": 1986,
+        "id": 13766,
+        "poster": "https://image.tmdb.org/t/p/w200/wWw2yJHQxqATtXw4roPDVuoE9Xs.jpg"
     },
     {
-      "title": "Presumed Innocent",
-      "release_date": "1990-07-25"
+        "title": "Amazing Stories",
+        "year": 1986,
+        "id": 576510,
+        "poster": "https://image.tmdb.org/t/p/w200/8XJb9oEnpLtMoOx4Za6JVMA8vqy.jpg"
     },
     {
-      "title": "Home Alone",
-      "release_date": "1990-11-10"
+        "title": "Empire of the Sun",
+        "year": 1987,
+        "id": 10110,
+        "poster": "https://image.tmdb.org/t/p/w200/gEaCzjwHoPgyQFcwHql7o5YLHAU.jpg"
     },
     {
-      "title": "Hook",
-      "release_date": "1991-12-11"
+        "title": "The Witches of Eastwick",
+        "year": 1987,
+        "id": 6069,
+        "poster": "https://image.tmdb.org/t/p/w200/p5OivnZuXfy5E3BKKFIeSidmwys.jpg"
     },
     {
-      "title": "JFK",
-      "release_date": "1991-12-20"
+        "title": "The Accidental Tourist",
+        "year": 1988,
+        "id": 31052,
+        "poster": "https://image.tmdb.org/t/p/w200/dyk2BqPajLRBpVQ6jsSJJdgfuXe.jpg"
     },
     {
-      "title": "Far and Away",
-      "release_date": "1992-05-22"
+        "title": "Indiana Jones and the Last Crusade",
+        "year": 1989,
+        "id": 89,
+        "poster": "https://image.tmdb.org/t/p/w200/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg"
     },
     {
-      "title": "Home Alone 2: Lost in New York",
-      "release_date": "1992-11-20"
+        "title": "Born on the Fourth of July",
+        "year": 1989,
+        "id": 2604,
+        "poster": "https://image.tmdb.org/t/p/w200/c5gSie6ZA90iBs62yNM5MV4y9R7.jpg"
     },
     {
-      "title": "Jurassic Park",
-      "release_date": "1993-06-09"
+        "title": "Always",
+        "year": 1989,
+        "id": 11352,
+        "poster": "https://image.tmdb.org/t/p/w200/wh0WItAFrw3m66mDMlCCuXQwfMW.jpg"
     },
     {
-      "title": "Schindler's List",
-      "release_date": "1993-11-30"
+        "title": "Home Alone",
+        "year": 1990,
+        "id": 771,
+        "poster": "https://image.tmdb.org/t/p/w200/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg"
     },
     {
-      "title": "Sabrina",
-      "release_date": "1995-12-15"
+        "title": "Presumed Innocent",
+        "year": 1990,
+        "id": 11092,
+        "poster": "https://image.tmdb.org/t/p/w200/jSPWptOsqU1nxXQe6muSPB0kD3c.jpg"
     },
     {
-      "title": "Nixon",
-      "release_date": "1995-12-22"
+        "title": "Stanley & Iris",
+        "year": 1990,
+        "id": 36094,
+        "poster": "https://image.tmdb.org/t/p/w200/ydDNS3aCnBWOT9jQiEVmN56rk2i.jpg"
     },
     {
-      "title": "Sleepers",
-      "release_date": "1996-10-18"
+        "title": "JFK",
+        "year": 1991,
+        "id": 820,
+        "poster": "https://image.tmdb.org/t/p/w200/r0VWVTYlqdRCK5ZoOdNnHdqM2gt.jpg"
     },
     {
-      "title": "Rosewood",
-      "release_date": "1997-02-21"
+        "title": "Hook",
+        "year": 1991,
+        "id": 879,
+        "poster": "https://image.tmdb.org/t/p/w200/a6rB1lGXoGms7gWxRfJneQmAjNV.jpg"
     },
     {
-      "title": "The Lost World: Jurassic Park",
-      "release_date": "1997-05-19"
+        "title": "Home Alone 2: Lost in New York",
+        "year": 1992,
+        "id": 772,
+        "poster": "https://image.tmdb.org/t/p/w200/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg"
     },
     {
-      "title": "Seven Years in Tibet",
-      "release_date": "1997-09-13"
+        "title": "Far and Away",
+        "year": 1992,
+        "id": 11259,
+        "poster": "https://image.tmdb.org/t/p/w200/is80o8p0sCok3UqtnHEE2oyXyad.jpg"
     },
     {
-      "title": "Amistad",
-      "release_date": "1997-12-10"
+        "title": "Jurassic Park",
+        "year": 1993,
+        "id": 329,
+        "poster": "https://image.tmdb.org/t/p/w200/maFjKnJ62hDQ9E66dKqDZgbUy0H.jpg"
     },
     {
-      "title": "Saving Private Ryan",
-      "release_date": "1998-07-24"
+        "title": "Schindler's List",
+        "year": 1993,
+        "id": 424,
+        "poster": "https://image.tmdb.org/t/p/w200/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg"
     },
     {
-      "title": "Stepmom",
-      "release_date": "1998-12-25"
+        "title": "Nixon",
+        "year": 1995,
+        "id": 10858,
+        "poster": "https://image.tmdb.org/t/p/w200/cz2MTGr2wpDZLirgV2rGHBdA2t3.jpg"
     },
     {
-      "title": "Star Wars: Episode I \u2013 The Phantom Menace",
-      "release_date": "1999-05-16"
+        "title": "Sabrina",
+        "year": 1995,
+        "id": 11860,
+        "poster": "https://image.tmdb.org/t/p/w200/i8PbLJDPU7vCwwscWD625oHbJy.jpg"
     },
     {
-      "title": "Angela's Ashes",
-      "release_date": "1999-12-25"
+        "title": "Sleepers",
+        "year": 1996,
+        "id": 819,
+        "poster": "https://image.tmdb.org/t/p/w200/yUpiEk2EojS9ZEXb3nIQonQCYYF.jpg"
     },
     {
-      "title": "The Patriot",
-      "release_date": "2000-06-27"
+        "title": "The Lost World: Jurassic Park",
+        "year": 1997,
+        "id": 330,
+        "poster": "https://image.tmdb.org/t/p/w200/6fSkhv35nPSw9hwPVCMINQFG1WD.jpg"
     },
     {
-      "title": "A.I. Artificial Intelligence",
-      "release_date": "2001-06-29"
+        "title": "Seven Years in Tibet",
+        "year": 1997,
+        "id": 978,
+        "poster": "https://image.tmdb.org/t/p/w200/5euQXAgJ34TdUFl1t3O6Jw2lJAs.jpg"
     },
     {
-      "title": "Harry Potter and the Philosopher's Stone",
-      "release_date": "2001-11-04"
+        "title": "Amistad",
+        "year": 1997,
+        "id": 11831,
+        "poster": "https://image.tmdb.org/t/p/w200/6QqNyIHKow0jngiQgTNBOBrLILM.jpg"
     },
     {
-      "title": "Star Wars: Episode II \u2013 Attack of the Clones",
-      "release_date": "2002-05-12"
+        "title": "Rosewood",
+        "year": 1997,
+        "id": 25624,
+        "poster": "https://image.tmdb.org/t/p/w200/5EeTYDXdrpD9mZSSwsrFbqgok9U.jpg"
     },
     {
-      "title": "Minority Report",
-      "release_date": "2002-06-17"
+        "title": "Saving Private Ryan",
+        "year": 1998,
+        "id": 857,
+        "poster": "https://image.tmdb.org/t/p/w200/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg"
     },
     {
-      "title": "Harry Potter and the Chamber of Secrets",
-      "release_date": "2002-11-03"
+        "title": "Lost In Space Forever",
+        "year": 1998,
+        "id": 59286,
+        "poster": "https://image.tmdb.org/t/p/w200/1SkQVIb9dvLc1OLSfBY5UniHwDk.jpg"
     },
     {
-      "title": "Catch Me If You Can",
-      "release_date": "2002-12-18"
+        "title": "Stepmom",
+        "year": 1998,
+        "id": 9441,
+        "poster": "https://image.tmdb.org/t/p/w200/wMPv2Yz6QDzv6YhSbaqM48Medl1.jpg"
     },
     {
-      "title": "Harry Potter and the Prisoner of Azkaban",
-      "release_date": "2004-05-23"
+        "title": "Star Wars: Episode I - The Phantom Menace",
+        "year": 1999,
+        "id": 1893,
+        "poster": "https://image.tmdb.org/t/p/w200/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg"
     },
     {
-      "title": "The Terminal",
-      "release_date": "2004-06-18"
+        "title": "Angela's Ashes",
+        "year": 1999,
+        "id": 10397,
+        "poster": "https://image.tmdb.org/t/p/w200/3Zzcys11nAPP14sKW9l97fIHhkK.jpg"
     },
     {
-      "title": "Star Wars: Episode III \u2013 Revenge of the Sith",
-      "release_date": "2005-05-16"
+        "title": "The Unfinished Journey",
+        "year": 1999,
+        "id": 793912,
+        "poster": "https://image.tmdb.org/t/p/w200/iwOxkJJAFZhRHb97drDzaRtm6WW.jpg"
     },
     {
-      "title": "War of the Worlds",
-      "release_date": "2005-06-23"
+        "title": "The Patriot",
+        "year": 2000,
+        "id": 2024,
+        "poster": "https://image.tmdb.org/t/p/w200/fWZd815QxUCUcrWQZwUkAp9ljG.jpg"
     },
     {
-      "title": "Memoirs of a Geisha",
-      "release_date": "2005-11-29"
+        "title": "A.I. Artificial Intelligence",
+        "year": 2001,
+        "id": 644,
+        "poster": "https://image.tmdb.org/t/p/w200/8MZSGX5JORoO72EfuAEcejH5yHn.jpg"
     },
     {
-      "title": "Munich",
-      "release_date": "2005-12-23"
+        "title": "Harry Potter and the Philosopher's Stone",
+        "year": 2001,
+        "id": 671,
+        "poster": "https://image.tmdb.org/t/p/w200/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
     },
     {
-      "title": "Indiana Jones and the Kingdom of the Crystal Skull",
-      "release_date": "2008-05-18"
+        "title": "Minority Report",
+        "year": 2002,
+        "id": 180,
+        "poster": "https://image.tmdb.org/t/p/w200/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg"
     },
     {
-      "title": "The Adventures of Tintin",
-      "release_date": "2011-10-22"
+        "title": "Harry Potter and the Chamber of Secrets",
+        "year": 2002,
+        "id": 672,
+        "poster": "https://image.tmdb.org/t/p/w200/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg"
     },
     {
-      "title": "War Horse",
-      "release_date": "2011-12-05"
+        "title": "Star Wars: Episode II - Attack of the Clones",
+        "year": 2002,
+        "id": 1894,
+        "poster": "https://image.tmdb.org/t/p/w200/oZNPzxqM2s5DyVWab09NTQScDQt.jpg"
     },
     {
-      "title": "Lincoln",
-      "release_date": "2012-10-08"
+        "title": "Catch Me If You Can",
+        "year": 2002,
+        "id": 640,
+        "poster": "https://image.tmdb.org/t/p/w200/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg"
     },
     {
-      "title": "The Book Thief",
-      "release_date": "2013-10-03"
+        "title": "The Terminal",
+        "year": 2004,
+        "id": 594,
+        "poster": "https://image.tmdb.org/t/p/w200/cPB3ZMM4UdsSAhNdS4c7ps5nypY.jpg"
     },
     {
-      "title": "Star Wars: The Force Awakens",
-      "release_date": "2015-12-14"
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "year": 2004,
+        "id": 673,
+        "poster": "https://image.tmdb.org/t/p/w200/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg"
     },
     {
-      "title": "The BFG",
-      "release_date": "2016-05-14"
+        "title": "Empire of Dreams: The Story of the Star Wars Trilogy",
+        "year": 2004,
+        "id": 76180,
+        "poster": "https://image.tmdb.org/t/p/w200/xq0MPT1lLxfznTRaAbInxWT2wfh.jpg"
     },
     {
-      "title": "Star Wars: The Last Jedi",
-      "release_date": "2017-12-09"
+        "title": "War of the Worlds",
+        "year": 2005,
+        "id": 74,
+        "poster": "https://image.tmdb.org/t/p/w200/6Biy7R9LfumYshur3YKhpj56MpB.jpg"
     },
     {
-      "title": "The Post",
-      "release_date": "2017-12-14"
+        "title": "Munich",
+        "year": 2005,
+        "id": 612,
+        "poster": "https://image.tmdb.org/t/p/w200/iUekaw96QLInZpsNwRTlRKrZgwm.jpg"
     },
     {
-      "title": "Solo: A Star Wars Story",
-      "release_date": "2018-05-10"
+        "title": "Star Wars: Episode III - Revenge of the Sith",
+        "year": 2005,
+        "id": 1895,
+        "poster": "https://image.tmdb.org/t/p/w200/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg"
     },
     {
-      "title": "Star Wars: The Rise of Skywalker",
-      "release_date": "2019-12-16"
+        "title": "Memoirs of a Geisha",
+        "year": 2005,
+        "id": 1904,
+        "poster": "https://image.tmdb.org/t/p/w200/pBwYsQaSTgnPphIy02DJjCF2cqs.jpg"
     },
     {
-      "title": "The Fabelmans",
-      "release_date": "2022-09-10"
+        "title": "Superman II: The Richard Donner Cut",
+        "year": 2006,
+        "id": 624479,
+        "poster": "https://image.tmdb.org/t/p/w200/dkLplIwss7Jleh82NawyGyFNMgJ.jpg"
     },
     {
-      "title": "Indiana Jones and the Dial of Destiny",
-      "release_date": "2023-05-18"
+        "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+        "year": 2008,
+        "id": 217,
+        "poster": "https://image.tmdb.org/t/p/w200/56As6XEM1flWvprX4LgkPl8ii4K.jpg"
     },
     {
-      "title": "Disclosure Day",
-      "release_date": "2026-06-12"
+        "title": "The Adventures of Tintin",
+        "year": 2011,
+        "id": 17578,
+        "poster": "https://image.tmdb.org/t/p/w200/fQZ3sLR1Fi63NMsNRbjm9q5qODJ.jpg"
+    },
+    {
+        "title": "War Horse",
+        "year": 2011,
+        "id": 57212,
+        "poster": "https://image.tmdb.org/t/p/w200/3aRHhvvngFPJFy5uAjo7GVr3PhL.jpg"
+    },
+    {
+        "title": "LEGO Star Wars: The Padawan Menace",
+        "year": 2011,
+        "id": 70608,
+        "poster": "https://image.tmdb.org/t/p/w200/bCDa9memHnETeRrJWXzImTZdMal.jpg"
+    },
+    {
+        "title": "Lincoln",
+        "year": 2012,
+        "id": 72976,
+        "poster": "https://image.tmdb.org/t/p/w200/5KeUqW6DpVtf8G9VMuI2l0XIPCo.jpg"
+    },
+    {
+        "title": "The Book Thief",
+        "year": 2013,
+        "id": 203833,
+        "poster": "https://image.tmdb.org/t/p/w200/wj4U5sMLcJMa3WR9CpRR9e2sdgZ.jpg"
+    },
+    {
+        "title": "Star Wars: The Force Awakens",
+        "year": 2015,
+        "id": 140607,
+        "poster": "https://image.tmdb.org/t/p/w200/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg"
+    },
+    {
+        "title": "Hoshino",
+        "year": 2016,
+        "id": 1250432,
+        "poster": "https://image.tmdb.org/t/p/w200/9SEC9RtZhxtCcrDSbv8q5neeIrV.jpg"
+    },
+    {
+        "title": "The BFG",
+        "year": 2016,
+        "id": 267935,
+        "poster": "https://image.tmdb.org/t/p/w200/w17Mc2x2olB5CtewznUFxgpvne0.jpg"
+    },
+    {
+        "title": "Star Wars: The Last Jedi",
+        "year": 2017,
+        "id": 181808,
+        "poster": "https://image.tmdb.org/t/p/w200/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg"
+    },
+    {
+        "title": "The Post",
+        "year": 2017,
+        "id": 446354,
+        "poster": "https://image.tmdb.org/t/p/w200/h4XG3g6uMMPIBPjAoQhC2QIMdkl.jpg"
+    },
+    {
+        "title": "Star Wars: The Rise of Skywalker",
+        "year": 2019,
+        "id": 181812,
+        "poster": "https://image.tmdb.org/t/p/w200/db32LaOibwEliAmSL2jjDF6oDdj.jpg"
+    },
+    {
+        "title": "John Williams Live - Music from the Movies",
+        "year": 2021,
+        "id": 966313,
+        "poster": "https://image.tmdb.org/t/p/w200/uT327ibkjyTSrP0SmkOl9ccoCE6.jpg"
+    },
+    {
+        "title": "Piano Cin\u00e9ma",
+        "year": 2022,
+        "id": 1185299,
+        "poster": "https://image.tmdb.org/t/p/w200/aW0QN4ELhmWGnWtkLlyLIMrd1vR.jpg"
+    },
+    {
+        "title": "The Fabelmans",
+        "year": 2022,
+        "id": 804095,
+        "poster": "https://image.tmdb.org/t/p/w200/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg"
+    },
+    {
+        "title": "OSN: Il ballo al Cinema con John Axelrod",
+        "year": 2022,
+        "id": 1662825,
+        "poster": "https://image.tmdb.org/t/p/w200/jTYl1lNrLQOuJz4BNKLL7kt3S1i.jpg"
+    },
+    {
+        "title": "The Making of Indiana Jones and the Dial of Destiny",
+        "year": 2023,
+        "id": 1168918,
+        "poster": "https://image.tmdb.org/t/p/w200/nJeiS9Zi1GTKD7JXFHyVJ1Edd0H.jpg"
+    },
+    {
+        "title": "Indiana Jones and the Dial of Destiny",
+        "year": 2023,
+        "id": 335977,
+        "poster": "https://image.tmdb.org/t/p/w200/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg"
+    },
+    {
+        "title": "The Cinema of John Williams (Indiana Jones, E.T., Star Wars and more)",
+        "year": 2025,
+        "id": 1601034,
+        "poster": "https://image.tmdb.org/t/p/w200/q6aqqDPQXZO6KCgRv5WSZ95Neot.jpg"
+    },
+    {
+        "title": "Disclosure Day",
+        "year": 2026,
+        "id": 1275779,
+        "poster": "https://image.tmdb.org/t/p/w200/7RYO0KTXIJ0rS0LqnCQLxeNR3P3.jpg"
     }
-  ]
-}
+]

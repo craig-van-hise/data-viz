@@ -1,181 +1,146 @@
-{
-  "composer": "Alan Menken",
-  "filmography": [
+[
     {
-      "title": "A Dancer's Life",
-      "release_date": "1972-10-20"
+        "title": "Little Shop of Horrors",
+        "year": 1986,
+        "id": 10776,
+        "poster": "https://image.tmdb.org/t/p/w200/iKkbN17OmFosaW6asCNZTTsyvpu.jpg"
     },
     {
-      "title": "Little Shop of Horrors",
-      "release_date": "1986-12-19"
+        "title": "The Little Mermaid",
+        "year": 1989,
+        "id": 10144,
+        "poster": "https://image.tmdb.org/t/p/w200/plcZXvI310FkbwIptvd6rqk63LP.jpg"
     },
     {
-      "title": "The Little Mermaid",
-      "release_date": "1989-11-17"
+        "title": "Beauty and the Beast",
+        "year": 1991,
+        "id": 10020,
+        "poster": "https://image.tmdb.org/t/p/w200/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg"
     },
     {
-      "title": "Sesame Street",
-      "release_date": "1989"
+        "title": "Aladdin",
+        "year": 1992,
+        "id": 812,
+        "poster": "https://image.tmdb.org/t/p/w200/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg"
     },
     {
-      "title": "Polly",
-      "release_date": "1989"
+        "title": "Life with Mikey",
+        "year": 1993,
+        "id": 42580,
+        "poster": "https://image.tmdb.org/t/p/w200/dKsvF5t5xsm17HG3GJzQQGJpJzP.jpg"
     },
     {
-      "title": "Rocky V",
-      "release_date": "1990-11-16"
+        "title": "Pocahontas",
+        "year": 1995,
+        "id": 10530,
+        "poster": "https://image.tmdb.org/t/p/w200/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg"
     },
     {
-      "title": "Cartoon All-Stars to the Rescue",
-      "release_date": "1990"
+        "title": "Aladdin on Ice",
+        "year": 1995,
+        "id": 778840,
+        "poster": "https://image.tmdb.org/t/p/w200/f6oi3tNP93Sc4OfflnAfletcKyh.jpg"
     },
     {
-      "title": "Beauty and the Beast",
-      "release_date": "1991-09-29"
+        "title": "Beauty and the Beast: A Concert on Ice",
+        "year": 1996,
+        "id": 608111,
+        "poster": "https://image.tmdb.org/t/p/w200/aGsX6A4t0ZPUoN6dEkXGwu7Cw0m.jpg"
     },
     {
-      "title": "Newsies",
-      "release_date": "1992-04-10"
+        "title": "The Hunchback of Notre Dame",
+        "year": 1996,
+        "id": 10545,
+        "poster": "https://image.tmdb.org/t/p/w200/hImMgT9B27evYSRmfztqdDtX6qi.jpg"
     },
     {
-      "title": "Home Alone 2: Lost in New York",
-      "release_date": "1992-11-20"
+        "title": "Hercules",
+        "year": 1997,
+        "id": 11970,
+        "poster": "https://image.tmdb.org/t/p/w200/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg"
     },
     {
-      "title": "Aladdin",
-      "release_date": "1992"
+        "title": "Home on the Range",
+        "year": 2004,
+        "id": 13700,
+        "poster": "https://image.tmdb.org/t/p/w200/9xIIo4FMquy5SRqn8hppyr2QadR.jpg"
     },
     {
-      "title": "Lincoln",
-      "release_date": "2012-10-08"
+        "title": "Noel",
+        "year": 2004,
+        "id": 41171,
+        "poster": "https://image.tmdb.org/t/p/w200/pPYlVwLF8mRFxCiXFxHeFN0d4ON.jpg"
     },
     {
-      "title": "Life with Mikey",
-      "release_date": "1993-06-04"
+        "title": "The Shaggy Dog",
+        "year": 2006,
+        "id": 10067,
+        "poster": "https://image.tmdb.org/t/p/w200/tGX3YyPaYMbjiRwR5PjRsJW7GtM.jpg"
     },
     {
-      "title": "Pocahontas",
-      "release_date": "1995-06-10"
+        "title": "Enchanted",
+        "year": 2007,
+        "id": 4523,
+        "poster": "https://image.tmdb.org/t/p/w200/8KCNzCArLlvLdQoHx6npua2VSVc.jpg"
     },
     {
-      "title": "The Hunchback of Notre Dame",
-      "release_date": "1996-06-19"
+        "title": "Tangled",
+        "year": 2010,
+        "id": 38757,
+        "poster": "https://image.tmdb.org/t/p/w200/ym7Kst6a4uodryxqbGOxmewF235.jpg"
     },
     {
-      "title": "Hercules",
-      "release_date": "1997-06-13"
+        "title": "Mirror Mirror",
+        "year": 2012,
+        "id": 62764,
+        "poster": "https://image.tmdb.org/t/p/w200/pys6zIJN8Sxlk2Ss2GZuYuXPbtw.jpg"
     },
     {
-      "title": "Home on the Range",
-      "release_date": "2004-03-21"
+        "title": "Sausage Party",
+        "year": 2016,
+        "id": 223702,
+        "poster": "https://image.tmdb.org/t/p/w200/vNgdPJQ5CI60oEiiHLKRNrsDhMy.jpg"
     },
     {
-      "title": "Noel",
-      "release_date": "2004-09-12"
+        "title": "Beauty and the Beast",
+        "year": 2017,
+        "id": 321612,
+        "poster": "https://image.tmdb.org/t/p/w200/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg"
     },
     {
-      "title": "A Christmas Carol",
-      "release_date": "2004"
+        "title": "Howard",
+        "year": 2018,
+        "id": 512191,
+        "poster": "https://image.tmdb.org/t/p/w200/kTMIYVGKeXsIcVumZvyapkhvQiY.jpg"
     },
     {
-      "title": "The Shaggy Dog",
-      "release_date": "2006-03-10"
+        "title": "Aladdin",
+        "year": 2019,
+        "id": 420817,
+        "poster": "https://image.tmdb.org/t/p/w200/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg"
     },
     {
-      "title": "Enchanted",
-      "release_date": "2007-10-20"
+        "title": "The Little Mermaid Live!",
+        "year": 2019,
+        "id": 642271,
+        "poster": "https://image.tmdb.org/t/p/w200/mVZklqsmbbkOgTG4o0nVtM8rJ82.jpg"
     },
     {
-      "title": "Tangled",
-      "release_date": "2010-11-14"
+        "title": "Disenchanted",
+        "year": 2022,
+        "id": 338958,
+        "poster": "https://image.tmdb.org/t/p/w200/uyNLq2Dc3s4IOdcYTU8ZtM2lTjb.jpg"
     },
     {
-      "title": "Captain America: The First Avenger",
-      "release_date": "2011-07-19"
+        "title": "The Little Mermaid",
+        "year": 2023,
+        "id": 447277,
+        "poster": "https://image.tmdb.org/t/p/w200/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg"
     },
     {
-      "title": "Jock the Hero Dog",
-      "release_date": "2011-07-29"
-    },
-    {
-      "title": "Mirror Mirror",
-      "release_date": "2012-03-30"
-    },
-    {
-      "title": "The Neighbors",
-      "release_date": "2013"
-    },
-    {
-      "title": "Galavant",
-      "release_date": "2015"
-    },
-    {
-      "title": "Sausage Party",
-      "release_date": "2016-03-14"
-    },
-    {
-      "title": "Aria for a Cow",
-      "release_date": "2016"
-    },
-    {
-      "title": "Beauty and the Beast",
-      "release_date": "2017-02-23"
-    },
-    {
-      "title": "Tangled: Before Ever After",
-      "release_date": "2017"
-    },
-    {
-      "title": "Rapunzel's Tangled Adventure",
-      "release_date": "2017"
-    },
-    {
-      "title": "Ralph Breaks the Internet",
-      "release_date": "2018-11-05"
-    },
-    {
-      "title": "Holmes & Watson",
-      "release_date": "2018-12-25"
-    },
-    {
-      "title": "Howard",
-      "release_date": "2018-04-22"
-    },
-    {
-      "title": "Aladdin",
-      "release_date": "2019-05-08"
-    },
-    {
-      "title": "The Little Mermaid Live!",
-      "release_date": "2019"
-    },
-    {
-      "title": "Central Park",
-      "release_date": "2020"
-    },
-    {
-      "title": "The Falcon and the Winter Soldier",
-      "release_date": "2021"
-    },
-    {
-      "title": "Disenchanted",
-      "release_date": "2022-11-16"
-    },
-    {
-      "title": "Beauty and the Beast: A 30th Celebration",
-      "release_date": "2022"
-    },
-    {
-      "title": "The Little Mermaid",
-      "release_date": "2023-05-08"
-    },
-    {
-      "title": "Spellbound",
-      "release_date": "2024-11-22"
-    },
-    {
-      "title": "Sausage Party: Foodtopia",
-      "release_date": "2024"
+        "title": "Spellbound",
+        "year": 2024,
+        "id": 592983,
+        "poster": "https://image.tmdb.org/t/p/w200/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg"
     }
-  ]
-}
+]

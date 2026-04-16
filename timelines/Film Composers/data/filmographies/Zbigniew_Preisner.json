@@ -1,225 +1,284 @@
-{
-  "composer": "Zbigniew Preisner",
-  "filmography": [
+[
     {
-      "title": "Prognoza pogody",
-      "release_date": "1981"
+        "title": "No End",
+        "year": 1985,
+        "id": 124,
+        "poster": "https://image.tmdb.org/t/p/w200/3pdF1guvIxNgmhDkmXJHCCk0PkC.jpg"
     },
     {
-      "title": "Bez konca",
-      "release_date": "1985-06-17"
+        "title": "I Like Bats",
+        "year": 1986,
+        "id": 386303,
+        "poster": "https://image.tmdb.org/t/p/w200/kvmfFLUUC9eNKbHG6n0nbbsVgFE.jpg"
     },
     {
-      "title": "Lubie nietoperze",
-      "release_date": "1986"
+        "title": "A Short Film About Killing",
+        "year": 1988,
+        "id": 10754,
+        "poster": "https://image.tmdb.org/t/p/w200/k7sk4yNdoXY7iwp1M9QTZuBDiJS.jpg"
     },
     {
-      "title": "Przez dotyk",
-      "release_date": "1986-09-24"
+        "title": "I Love Cinema",
+        "year": 1988,
+        "id": 669699,
+        "poster": "https://image.tmdb.org/t/p/w200/Ju3KAOae2ifBxqTUqFtGx7EUpG.jpg"
     },
     {
-      "title": "The Lullabye",
-      "release_date": "1987"
+        "title": "A Short Film About Love",
+        "year": 1988,
+        "id": 31056,
+        "poster": "https://image.tmdb.org/t/p/w200/kLAMz50Or2So1aEzHYv0R8iXo46.jpg"
     },
     {
-      "title": "Ucieczka",
-      "release_date": "1997-02-13"
+        "title": "Decalogue IX",
+        "year": 1989,
+        "id": 118669,
+        "poster": "https://image.tmdb.org/t/p/w200/9walZQzHStoe38bEJv4AJbcV56K.jpg"
     },
     {
-      "title": "To Kill a Priest",
-      "release_date": "1988-09-07"
+        "title": "Decalogue VIII",
+        "year": 1989,
+        "id": 51111,
+        "poster": "https://image.tmdb.org/t/p/w200/bJ60dOPRq3M0Dkbpnp5jrl2UfVX.jpg"
     },
     {
-      "title": "A Short Film About Killing",
-      "release_date": "1988-03-11"
+        "title": "Decalogue VII",
+        "year": 1989,
+        "id": 118668,
+        "poster": "https://image.tmdb.org/t/p/w200/itblkmFBfKhZxUbJjYgyEgjDlgj.jpg"
     },
     {
-      "title": "A Short Film About Love",
-      "release_date": "1988-10-21"
+        "title": "Decalogue VI",
+        "year": 1989,
+        "id": 118667,
+        "poster": "https://image.tmdb.org/t/p/w200/lFrFFA3hdQrx0JaumP0mMkuM13X.jpg"
     },
     {
-      "title": "Kocham kino",
-      "release_date": "1988"
+        "title": "Decalogue V",
+        "year": 1989,
+        "id": 118665,
+        "poster": "https://image.tmdb.org/t/p/w200/tZktBR66C8WIJHJkqMlj6MgowDK.jpg"
     },
     {
-      "title": "Ostatni dzwonek",
-      "release_date": "1989"
+        "title": "Decalogue X",
+        "year": 1989,
+        "id": 118670,
+        "poster": "https://image.tmdb.org/t/p/w200/7zvQpJDfpXlCe9FvBdO86hIgavN.jpg"
     },
     {
-      "title": "Europa Europa",
-      "release_date": "1990-11-14"
+        "title": "Decalogue IV",
+        "year": 1989,
+        "id": 51110,
+        "poster": "https://image.tmdb.org/t/p/w200/u0OHhueacQS9mT6HnrF3ivdxnxc.jpg"
     },
     {
-      "title": "Eminent Domain",
-      "release_date": "1991"
+        "title": "Decalogue III",
+        "year": 1989,
+        "id": 118663,
+        "poster": "https://image.tmdb.org/t/p/w200/t9V2nTq15i9cmfbieglzaCW4IJk.jpg"
     },
     {
-      "title": "The Double Life of V\u00e9ronique",
-      "release_date": "1991-05-15"
+        "title": "Decalogue II",
+        "year": 1989,
+        "id": 51108,
+        "poster": "https://image.tmdb.org/t/p/w200/jil1lzNPa6fQWh2JG7Khc7MLjKt.jpg"
     },
     {
-      "title": "At Play in the Fields of the Lord",
-      "release_date": "1991-12-06"
+        "title": "Europa Europa",
+        "year": 1990,
+        "id": 8996,
+        "poster": "https://image.tmdb.org/t/p/w200/l72wg9ExcaGIqZoJQca0p7s5dSW.jpg"
     },
     {
-      "title": "Zwolnieni z zycia",
-      "release_date": "1992"
+        "title": "The Double Life of V\u00e9ronique",
+        "year": 1991,
+        "id": 1600,
+        "poster": "https://image.tmdb.org/t/p/w200/oqRyO9xrNBRaxqF9pCHHgLuaATx.jpg"
     },
     {
-      "title": "Olivier, Olivier",
-      "release_date": "1993-03-03"
+        "title": "At Play in the Fields of the Lord",
+        "year": 1991,
+        "id": 51515,
+        "poster": "https://image.tmdb.org/t/p/w200/mySgPPUOxKOHGzTtuVSfGegCBRg.jpg"
     },
     {
-      "title": "Damage",
-      "release_date": "1992-12-09"
+        "title": "Damage",
+        "year": 1992,
+        "id": 11012,
+        "poster": "https://image.tmdb.org/t/p/w200/alf3JOPP7EYP0iO24gwe5YfRnqo.jpg"
     },
     {
-      "title": "Three Colours: Blue",
-      "release_date": "1993-09-08"
+        "title": "Three Colors: Blue",
+        "year": 1993,
+        "id": 108,
+        "poster": "https://image.tmdb.org/t/p/w200/33wsWxzsNstI8N7dvuwzFmj1qBd.jpg"
     },
     {
-      "title": "The Secret Garden",
-      "release_date": "1993-08-13"
+        "title": "The Secret Garden",
+        "year": 1993,
+        "id": 11236,
+        "poster": "https://image.tmdb.org/t/p/w200/zf6h5dJ7wVG7LqMO9dhHGHVejzj.jpg"
     },
     {
-      "title": "On the Edge of the Horizon",
-      "release_date": "1993"
+        "title": "Three Colors: White",
+        "year": 1994,
+        "id": 109,
+        "poster": "https://image.tmdb.org/t/p/w200/fdIet3NSa27gobMbaUml66oCQNT.jpg"
     },
     {
-      "title": "Desire in Motion (Mouvements du d\u00e9sir)",
-      "release_date": "1994"
+        "title": "Three Colors: Red",
+        "year": 1994,
+        "id": 110,
+        "poster": "https://image.tmdb.org/t/p/w200/JHmsBiX1tjCKqAul1lzC20WcAW.jpg"
     },
     {
-      "title": "Kouarteto se 4 kiniseis",
-      "release_date": "1994"
+        "title": "When a Man Loves a Woman",
+        "year": 1994,
+        "id": 10449,
+        "poster": "https://image.tmdb.org/t/p/w200/cA1uMNX3sdWAWfMZbsgm1VIJYSY.jpg"
     },
     {
-      "title": "Three Colours: White",
-      "release_date": "1994-01-26"
+        "title": "Desire in Motion",
+        "year": 1994,
+        "id": 293302,
+        "poster": "https://image.tmdb.org/t/p/w200/rcuBzN3DaoxOBSEnbvRhzPWB6EL.jpg"
     },
     {
-      "title": "When a Man Loves a Woman",
-      "release_date": "1994-04-29"
+        "title": "Feast of July",
+        "year": 1995,
+        "id": 259209,
+        "poster": "https://image.tmdb.org/t/p/w200/inUPybROcLlzdG4EQeDIShfFjsD.jpg"
     },
     {
-      "title": "Three Colours: Red",
-      "release_date": "1994-05-12"
+        "title": "\u00c9lisa",
+        "year": 1995,
+        "id": 58058,
+        "poster": "https://image.tmdb.org/t/p/w200/q5LWron7LvX1XeKtTNEs47oY6Sf.jpg"
     },
     {
-      "title": "Feast of July",
-      "release_date": "1995-10-13"
+        "title": "The Island on Bird Street",
+        "year": 1997,
+        "id": 45614,
+        "poster": "https://image.tmdb.org/t/p/w200/q8IXiMGnid3jSk5GAJAyjvDHL4E.jpg"
     },
     {
-      "title": "\u00c9lisa",
-      "release_date": "1995-02-01"
+        "title": "FairyTale: A True Story",
+        "year": 1997,
+        "id": 29911,
+        "poster": "https://image.tmdb.org/t/p/w200/5H86i0qE8zCAbg0vTBKG7S7I2Vi.jpg"
     },
     {
-      "title": "Foolish Heart",
-      "release_date": "1998-11-13"
+        "title": "Foolish Heart",
+        "year": 1998,
+        "id": 198427,
+        "poster": "https://image.tmdb.org/t/p/w200/pNNWjX1UOAczx33T1pVXWN8Wgf0.jpg"
     },
     {
-      "title": "FairyTale: A True Story",
-      "release_date": "1997-10-24"
+        "title": "Dreaming of Joseph Lees",
+        "year": 1999,
+        "id": 108346,
+        "poster": "https://image.tmdb.org/t/p/w200/xiDtcNXOhSPcjFcnX6BUTWiws3B.jpg"
     },
     {
-      "title": "The Island on Bird Street",
-      "release_date": "1997"
+        "title": "Aberdeen",
+        "year": 2000,
+        "id": 26665,
+        "poster": "https://image.tmdb.org/t/p/w200/yjDBeAxrXXd4kt4DpTbjHsmtukk.jpg"
     },
     {
-      "title": "Requiem for my friend",
-      "release_date": "1998"
+        "title": "The Last September",
+        "year": 2000,
+        "id": 68170,
+        "poster": "https://image.tmdb.org/t/p/w200/yUVG66eFsThptWIqQugGh5MXSiI.jpg"
     },
     {
-      "title": "Life",
-      "release_date": "1998"
+        "title": "Between Strangers",
+        "year": 2002,
+        "id": 38866,
+        "poster": "https://image.tmdb.org/t/p/w200/1zGJU0LGCUCJDpD3NIesesOTnus.jpg"
     },
     {
-      "title": "The Last September",
-      "release_date": "1999"
+        "title": "It's All About Love",
+        "year": 2003,
+        "id": 12777,
+        "poster": "https://image.tmdb.org/t/p/w200/3RDSIkHsVy6NAgD6PfQKDCNTcmR.jpg"
     },
     {
-      "title": "Dreaming of Joseph Lees",
-      "release_date": "1999-11-26"
+        "title": "Strange Gardens",
+        "year": 2003,
+        "id": 51163,
+        "poster": "https://image.tmdb.org/t/p/w200/xMrcSLn5UioeSuek4FldkFlnOgF.jpg"
     },
     {
-      "title": "Aberdeen",
-      "release_date": "2000-09-08"
+        "title": "The Beautiful Country",
+        "year": 2004,
+        "id": 41714,
+        "poster": "https://image.tmdb.org/t/p/w200/cyPJuYz3c8kL7FcjfJDoB2o5yVt.jpg"
     },
     {
-      "title": "Weiser",
-      "release_date": "2001"
+        "title": "A Woman in Berlin",
+        "year": 2008,
+        "id": 12832,
+        "poster": "https://image.tmdb.org/t/p/w200/6ZMkrrmR21rTibFzTeSCollOpbt.jpg"
     },
     {
-      "title": "Between Strangers",
-      "release_date": "2002-08-30"
+        "title": "Aglaya",
+        "year": 2012,
+        "id": 205819,
+        "poster": "https://image.tmdb.org/t/p/w200/AuLshLBeAfu3MPbmAEH72cd9UrG.jpg"
     },
     {
-      "title": "It's All About Love",
-      "release_date": "2003-01-10"
+        "title": "The History of Eternity",
+        "year": 2014,
+        "id": 288286,
+        "poster": "https://image.tmdb.org/t/p/w200/2No5dG6tcfWc17Pl7W0zKAhHIrL.jpg"
     },
     {
-      "title": "Strange Gardens",
-      "release_date": "2003-03-26"
+        "title": "The Queen of Spain",
+        "year": 2016,
+        "id": 401252,
+        "poster": "https://image.tmdb.org/t/p/w200/5dPUXLTRn0B68CfXqniTeUdH9jF.jpg"
     },
     {
-      "title": "Kolysanka",
-      "release_date": "2003"
+        "title": "My Hindu Friend",
+        "year": 2016,
+        "id": 362314,
+        "poster": "https://image.tmdb.org/t/p/w200/5EO8w0Ci6uhxaSvTzv93hAsSk2f.jpg"
     },
     {
-      "title": "SuperTex",
-      "release_date": "2003-03-13"
+        "title": "Angelica",
+        "year": 2017,
+        "id": 286003,
+        "poster": "https://image.tmdb.org/t/p/w200/2yVo77Fyvm8QV0VVwok16GXneSd.jpg"
     },
     {
-      "title": "The Beautiful Country",
-      "release_date": "2004-02-08"
+        "title": "Lies We Tell",
+        "year": 2018,
+        "id": 485464,
+        "poster": "https://image.tmdb.org/t/p/w200/bZ3lHd04kP7GW8SHLS1IMEGM38W.jpg"
     },
     {
-      "title": "On an Island",
-      "release_date": "2006"
+        "title": "Memories of My Father",
+        "year": 2020,
+        "id": 660943,
+        "poster": "https://image.tmdb.org/t/p/w200/hgSnMFJuRsNvwXPD5SadM5shuVs.jpg"
     },
     {
-      "title": "Sportsman of the Century",
-      "release_date": "2006-04-06"
+        "title": "Man of God",
+        "year": 2021,
+        "id": 733209,
+        "poster": "https://image.tmdb.org/t/p/w200/zvbyqV8CPMSiqaeOXteRXYg6CPI.jpg"
     },
     {
-      "title": "Silence, Night and Dreams",
-      "release_date": "2007"
+        "title": "Haunted Heart",
+        "year": 2024,
+        "id": 1068518,
+        "poster": "https://image.tmdb.org/t/p/w200/1zqUFXvbxz39Lw2mxvO6dwwu1vs.jpg"
     },
     {
-      "title": "Anonyma - Eine Frau in Berlin",
-      "release_date": "2008"
-    },
-    {
-      "title": "Das Begr\u00e4bnis (The Funeral)",
-      "release_date": "2010"
-    },
-    {
-      "title": "Aglaja",
-      "release_date": "2012"
-    },
-    {
-      "title": "Diaries Of Hope",
-      "release_date": "2013"
-    },
-    {
-      "title": "Rattle That Lock",
-      "release_date": "2015"
-    },
-    {
-      "title": "Lost and Love",
-      "release_date": "2015-03-19"
-    },
-    {
-      "title": "Lies We Tell",
-      "release_date": "2017-09-21"
-    },
-    {
-      "title": "Valley of Shadows",
-      "release_date": "2017"
-    },
-    {
-      "title": "Man of God",
-      "release_date": "2021-04-25"
+        "title": "Europa Centrale",
+        "year": 2024,
+        "id": 1369366,
+        "poster": "https://image.tmdb.org/t/p/w200/3lSRgHRbaz1JfWrNVFkLVnAYdkv.jpg"
     }
-  ]
-}
+]

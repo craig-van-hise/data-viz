@@ -1,373 +1,116 @@
-{
-  "composer": "Lisa Gerrard",
-  "filmography": [
+[
     {
-      "title": "Microfilm: Centerfold  (\"Centerfold\" and \"Window\")",
-      "release_date": "1980"
+        "title": "Moon Child",
+        "year": 1989,
+        "id": 120133,
+        "poster": "https://image.tmdb.org/t/p/w200/cwvZeNFAp2FfyzoqZzTtl9WYrsm.jpg"
     },
     {
-      "title": "Microfilm: Compilation entitled \"From Belgrave with Love\" (\"Mossaic\" by Liza Gerrard and \"Summer House\" by Microfilm)",
-      "release_date": "1981"
+        "title": "In the Presence of Mine Enemies",
+        "year": 1997,
+        "id": 86618,
+        "poster": "https://image.tmdb.org/t/p/w200/oojh9nwBNMV27Ept7XcUsVzjfr2.jpg"
     },
     {
-      "title": "Compilation entitled \"From Belgrave with Love\" (\"Mossaic\" by Lisa Gerrard and \"Summer house\" by Microfilm)",
-      "release_date": "1981"
+        "title": "The Insider",
+        "year": 1999,
+        "id": 9008,
+        "poster": "https://image.tmdb.org/t/p/w200/jJCyIBPfvk41uETq6K6u4upyGO8.jpg"
     },
     {
-      "title": "D\u00e8moni 2",
-      "release_date": "1986"
+        "title": "Gladiator",
+        "year": 2000,
+        "id": 98,
+        "poster": "https://image.tmdb.org/t/p/w200/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg"
     },
     {
-      "title": "El Ni\u00f1o de la Luna",
-      "release_date": "1989"
+        "title": "Ali",
+        "year": 2001,
+        "id": 8489,
+        "poster": "https://image.tmdb.org/t/p/w200/32l3FaCzs8cXWps6hkgNJAcOsP.jpg"
     },
     {
-      "title": "The Future Sound of London sample her vocals from the song \"Dawn of the Iconoclast\" for their 1992 hit single \"Papua New Guinea\"",
-      "release_date": "1992"
+        "title": "Whale Rider",
+        "year": 2003,
+        "id": 1088,
+        "poster": "https://image.tmdb.org/t/p/w200/cVBZQZq091KtwBm2qObOv0JTFcH.jpg"
     },
     {
-      "title": "Baraka",
-      "release_date": "1992"
+        "title": "Tears of the Sun",
+        "year": 2003,
+        "id": 9567,
+        "poster": "https://image.tmdb.org/t/p/w200/psP90zHD3ZYGLCLpt4B3MbtrlWr.jpg"
     },
     {
-      "title": "The Mirror Pool",
-      "release_date": "1995"
+        "title": "Layer Cake",
+        "year": 2004,
+        "id": 4836,
+        "poster": "https://image.tmdb.org/t/p/w200/rDOxXteqxALBaSa3V3zTjGJuyWB.jpg"
     },
     {
-      "title": "\"Sanvean\"",
-      "release_date": "1995"
+        "title": "Strength and Honor: Creating the World of 'Gladiator'",
+        "year": 2005,
+        "id": 183396,
+        "poster": "https://image.tmdb.org/t/p/w200/zo6nT14a6beETJ7GrjTh6TX4Ajp.jpg"
     },
     {
-      "title": "Heat",
-      "release_date": "1995-12-15"
+        "title": "Killing the Afternoon",
+        "year": 2005,
+        "id": 1275185,
+        "poster": null
     },
     {
-      "title": "Compilation entitled \"These Wings without Feathers\" (\"Dreamsong\" and \"Untitled\")",
-      "release_date": "1996"
+        "title": "Sanctuary: Lisa Gerrard",
+        "year": 2006,
+        "id": 247966,
+        "poster": null
     },
     {
-      "title": "Guest performer for the industrial/electronic music group Delerium entitled \"Forgotten Worlds\" on the album Karma",
-      "release_date": "1997"
+        "title": "The Defector",
+        "year": 2008,
+        "id": 1215949,
+        "poster": "https://image.tmdb.org/t/p/w200/qQFWn3hL8Ov8JflTa92XfE83hsD.jpg"
     },
     {
-      "title": "Duality",
-      "release_date": "2001-02-10"
+        "title": "Balibo",
+        "year": 2009,
+        "id": 31686,
+        "poster": "https://image.tmdb.org/t/p/w200/xjb9lDIk7uf5o77MhxRaRFfEEhV.jpg"
     },
     {
-      "title": "Nadro",
-      "release_date": "1998"
+        "title": "Oranges and Sunshine",
+        "year": 2010,
+        "id": 70925,
+        "poster": "https://image.tmdb.org/t/p/w200/tMOAXwYuXCCmj7DvJW1e3Wafeib.jpg"
     },
     {
-      "title": "The 13th Warrior",
-      "release_date": "1999-08-27"
+        "title": "InSight",
+        "year": 2011,
+        "id": 77874,
+        "poster": "https://image.tmdb.org/t/p/w200/yXbwFWn9lD79aD2UxAAkkVXrrEC.jpg"
     },
     {
-      "title": "The Insider: Soundtrack",
-      "release_date": "1999"
+        "title": "Jane Got a Gun",
+        "year": 2015,
+        "id": 174751,
+        "poster": "https://image.tmdb.org/t/p/w200/hmfZZ7QeD2RTqkCQX09OC2ehawz.jpg"
     },
     {
-      "title": "Gladiator",
-      "release_date": "2000-05-01"
+        "title": "2:22",
+        "year": 2017,
+        "id": 269795,
+        "poster": "https://image.tmdb.org/t/p/w200/f88O2AkBe7KXhQznFs6zOdpClcs.jpg"
     },
     {
-      "title": "Gladiator: More Music From the Motion Picture",
-      "release_date": "2000"
+        "title": "Undertow",
+        "year": 2020,
+        "id": 508687,
+        "poster": "https://image.tmdb.org/t/p/w200/2UsMs0fg9NWMuNqPTiYzRviuvdc.jpg"
     },
     {
-      "title": "Mission: Impossible 2",
-      "release_date": "2000-05-24"
-    },
-    {
-      "title": "Black Hawk Down",
-      "release_date": "2001-12-28"
-    },
-    {
-      "title": "Ali",
-      "release_date": "2001-12-25"
-    },
-    {
-      "title": "9/11",
-      "release_date": "2002"
-    },
-    {
-      "title": "Whale Rider",
-      "release_date": "2002-09-11"
-    },
-    {
-      "title": "Tears of the Sun",
-      "release_date": "2003-03-07"
-    },
-    {
-      "title": "The West Wing (Television)",
-      "release_date": "2003"
-    },
-    {
-      "title": "Immortal Memory",
-      "release_date": "2004"
-    },
-    {
-      "title": "With Orbital: \"One Perfect Sunrise\" on the album The Blue Album",
-      "release_date": "2004"
-    },
-    {
-      "title": "King Arthur",
-      "release_date": "2004-07-07"
-    },
-    {
-      "title": "One Perfect Day",
-      "release_date": "2004-02-19"
-    },
-    {
-      "title": "The Passion of the Christ",
-      "release_date": "2004-02-25"
-    },
-    {
-      "title": "Man on Fire",
-      "release_date": "2004-04-18"
-    },
-    {
-      "title": "Layer Cake",
-      "release_date": "2004-10-01"
-    },
-    {
-      "title": "A Thousand Roads",
-      "release_date": "2005"
-    },
-    {
-      "title": "Constantine",
-      "release_date": "2005-02-07"
-    },
-    {
-      "title": "Fateless",
-      "release_date": "2005-02-08"
-    },
-    {
-      "title": "Seoul Train",
-      "release_date": "2004-11-05"
-    },
-    {
-      "title": "The Silver Tree",
-      "release_date": "2006"
-    },
-    {
-      "title": "Ashes and Snow",
-      "release_date": "2006"
-    },
-    {
-      "title": "The Greater Meaning of Water",
-      "release_date": "2006"
-    },
-    {
-      "title": "The Best of Lisa Gerrard",
-      "release_date": "2007"
-    },
-    {
-      "title": "The Mist",
-      "release_date": "2007-10-18"
-    },
-    {
-      "title": "Farscape",
-      "release_date": "2008"
-    },
-    {
-      "title": "Rheingold",
-      "release_date": "2008"
-    },
-    {
-      "title": "View from a Window collaborative song recording in track title \"There in Your Arms\"",
-      "release_date": "2008"
-    },
-    {
-      "title": "Playing for Charlie",
-      "release_date": "2008"
-    },
-    {
-      "title": "Ichi",
-      "release_date": "2008"
-    },
-    {
-      "title": "Henry Poole Is Here",
-      "release_date": "2008-08-15"
-    },
-    {
-      "title": "The Black Opal",
-      "release_date": "2009"
-    },
-    {
-      "title": "Dzi\u0119kuj\u0119 Bardzo",
-      "release_date": "2009"
-    },
-    {
-      "title": "\"Come Quietly\"",
-      "release_date": "2009"
-    },
-    {
-      "title": "\"Wisdom of Wind\" composition with Jeff Rona, recorded by Tarja Turunen for her album My Winter Storm (2007) and present in the \"Enough\" single",
-      "release_date": "2009"
-    },
-    {
-      "title": "Balibo",
-      "release_date": "2009-07-24"
-    },
-    {
-      "title": "Coming Home",
-      "release_date": "2010"
-    },
-    {
-      "title": "Entry",
-      "release_date": "2013-01-04"
-    },
-    {
-      "title": "Come This Way",
-      "release_date": "2010"
-    },
-    {
-      "title": "Departum",
-      "release_date": "2010"
-    },
-    {
-      "title": "The Trail of Genghis Khan",
-      "release_date": "2010"
-    },
-    {
-      "title": "Ryomaden",
-      "release_date": "2010"
-    },
-    {
-      "title": "From Ararat to Zion",
-      "release_date": "2010"
-    },
-    {
-      "title": "Legend of the Guardians: The Owls of Ga'Hoole",
-      "release_date": "2010-09-19"
-    },
-    {
-      "title": "Oranges and Sunshine",
-      "release_date": "2010-10-08"
-    },
-    {
-      "title": "Tears of Gaza",
-      "release_date": "2010-09-10"
-    },
-    {
-      "title": "Deus Ex: Human Revolution",
-      "release_date": "2011"
-    },
-    {
-      "title": "Rurouni Kenshin",
-      "release_date": "2012-08-25"
-    },
-    {
-      "title": "Man of Steel",
-      "release_date": "2013-06-10"
-    },
-    {
-      "title": "\"The Storm\", song in collaboration with Hungarian composer Bal\u00e1zs Havasi on the album Symphonic II",
-      "release_date": "2013"
-    },
-    {
-      "title": "\"Lament\" and \"Epitaph\", collaboration with Polish composer Zbigniew Preisner on the album Diaries of Hope",
-      "release_date": "2013"
-    },
-    {
-      "title": "I, Frankenstein",
-      "release_date": "2014-01-24"
-    },
-    {
-      "title": "The Bible",
-      "release_date": "1966-09-28"
-    },
-    {
-      "title": "Twilight Kingdom",
-      "release_date": "2014"
-    },
-    {
-      "title": "Seven Seas",
-      "release_date": "2014"
-    },
-    {
-      "title": "Son of God",
-      "release_date": "2014-02-28"
-    },
-    {
-      "title": "The Water Diviner",
-      "release_date": "2014-12-26"
-    },
-    {
-      "title": "Articles with unsourced statements from January",
-      "release_date": "2014"
-    },
-    {
-      "title": "The Sum of Its Parts",
-      "release_date": "2015"
-    },
-    {
-      "title": "Wyld's Call, Armello OST from Armello",
-      "release_date": "2015"
-    },
-    {
-      "title": "Guest performer for the electronic music artist Chicane entitled \"38 Weeks\" and \"Orleans\" on the album (The Whole is Greater Than) The Sum of Its Parts",
-      "release_date": "2015"
-    },
-    {
-      "title": "Tanna",
-      "release_date": "2015-09-07"
-    },
-    {
-      "title": "Jane Got a Gun",
-      "release_date": "2015-12-31"
-    },
-    {
-      "title": "Armello",
-      "release_date": "2015"
-    },
-    {
-      "title": "2:22",
-      "release_date": "2017-06-30"
-    },
-    {
-      "title": "Articles needing additional references from April",
-      "release_date": "2017"
-    },
-    {
-      "title": "Hiraeth",
-      "release_date": "2018"
-    },
-    {
-      "title": "BooCheeMish",
-      "release_date": "2018"
-    },
-    {
-      "title": "Melodies Of My Youth",
-      "release_date": "2019"
-    },
-    {
-      "title": "Symphony No.\u00a03: Symphony Of Sorrowful Songs",
-      "release_date": "2020"
-    },
-    {
-      "title": "Burn",
-      "release_date": "2021"
-    },
-    {
-      "title": "Zack Snyder's Justice League",
-      "release_date": "2021"
-    },
-    {
-      "title": "Dune",
-      "release_date": "2021-09-03"
-    },
-    {
-      "title": "\"Come Tenderness\"",
-      "release_date": "2024"
-    },
-    {
-      "title": "Dune: Part Two",
-      "release_date": "2024-02-06"
-    },
-    {
-      "title": "Gladiator II Trailer and song \"Now We Are Free\".",
-      "release_date": "2024"
+        "title": "City of Dreams",
+        "year": 2024,
+        "id": 901059,
+        "poster": "https://image.tmdb.org/t/p/w200/lizYHlyDZIEcziPMBuwvd7ubii6.jpg"
     }
-  ]
-}
+]

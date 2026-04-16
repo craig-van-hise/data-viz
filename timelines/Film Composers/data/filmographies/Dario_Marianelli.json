@@ -1,257 +1,302 @@
-{
-  "composer": "Dario Marianelli",
-  "filmography": [
+[
     {
-      "title": "Ailsa",
-      "release_date": "1994"
+        "title": "The Key",
+        "year": 1995,
+        "id": 1654298,
+        "poster": "https://image.tmdb.org/t/p/w200/d6zPSCnLnMxdEzUP6Nx3Zi6wwHQ.jpg"
     },
     {
-      "title": "The Long Way Home",
-      "release_date": "1995"
+        "title": "I Went Down",
+        "year": 1997,
+        "id": 12655,
+        "poster": "https://image.tmdb.org/t/p/w200/2rApWxlYkiwNZBSC3KJ7WFWWq1T.jpg"
     },
     {
-      "title": "The Sheep Thief",
-      "release_date": "1997"
+        "title": "Pandaemonium",
+        "year": 2001,
+        "id": 40880,
+        "poster": "https://image.tmdb.org/t/p/w200/dO7wct6RAdDKEaQrA9IYD4BsKJL.jpg"
     },
     {
-      "title": "I Went Down",
-      "release_date": "1997-10-03"
+        "title": "Happy Now",
+        "year": 2001,
+        "id": 70630,
+        "poster": "https://image.tmdb.org/t/p/w200/nphXr9sQLF9B3mCvbeodUCy7Pxp.jpg"
     },
     {
-      "title": "Preserve",
-      "release_date": "1999"
+        "title": "The Warrior",
+        "year": 2001,
+        "id": 23305,
+        "poster": "https://image.tmdb.org/t/p/w200/wXYKA6s6iFSYerh0nwb2zySFKvB.jpg"
     },
     {
-      "title": "The Funeral of the Last Gypsy King",
-      "release_date": "1999"
+        "title": "I Capture the Castle",
+        "year": 2003,
+        "id": 17920,
+        "poster": "https://image.tmdb.org/t/p/w200/fGV45q9gyysfp9SdoqrrReVxC9a.jpg"
     },
     {
-      "title": "Southpaw: The Francis Barrett Story",
-      "release_date": "1999"
+        "title": "In This World",
+        "year": 2003,
+        "id": 36791,
+        "poster": "https://image.tmdb.org/t/p/w200/denzE2tZc3TZ95vQNK3rKo0iDHn.jpg"
     },
     {
-      "title": "Being Considered",
-      "release_date": "2000"
+        "title": "The Bypass",
+        "year": 2003,
+        "id": 249341,
+        "poster": null
     },
     {
-      "title": "Pandaemonium",
-      "release_date": "2000-09-15"
+        "title": "Cheeky",
+        "year": 2003,
+        "id": 126003,
+        "poster": "https://image.tmdb.org/t/p/w200/cxdqCS7JbPv4OIXLz2Qah3F63ek.jpg"
     },
     {
-      "title": "Happy Now?",
-      "release_date": "2001"
+        "title": "Pride & Prejudice",
+        "year": 2005,
+        "id": 4348,
+        "poster": "https://image.tmdb.org/t/p/w200/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg"
     },
     {
-      "title": "The Man Who Bought Mustique",
-      "release_date": "2001"
+        "title": "The Brothers Grimm",
+        "year": 2005,
+        "id": 4442,
+        "poster": "https://image.tmdb.org/t/p/w200/v6J7QGCSrtvwvqAt6783BbO3h61.jpg"
     },
     {
-      "title": "The Warrior",
-      "release_date": "2001"
+        "title": "V for Vendetta",
+        "year": 2006,
+        "id": 752,
+        "poster": "https://image.tmdb.org/t/p/w200/piZOwjyk1g51oPHonc7zaQY3WOv.jpg"
     },
     {
-      "title": "The Visitor",
-      "release_date": "2002"
+        "title": "The Return",
+        "year": 2006,
+        "id": 10093,
+        "poster": "https://image.tmdb.org/t/p/w200/ywBeNqMJKBowfwrv274blsVXCB5.jpg"
     },
     {
-      "title": "Blood Strangers",
-      "release_date": "2002"
+        "title": "Shooting Dogs",
+        "year": 2006,
+        "id": 8588,
+        "poster": "https://image.tmdb.org/t/p/w200/9xC2yUgqPVvoHykYuigrxLyunya.jpg"
     },
     {
-      "title": "In This World",
-      "release_date": "2002-11-17"
+        "title": "9/11: The Falling Man",
+        "year": 2006,
+        "id": 76040,
+        "poster": "https://image.tmdb.org/t/p/w200/4gxBt6Vt9Xx8Pal1oZeKPlpm2Px.jpg"
     },
     {
-      "title": "I Capture the Castle",
-      "release_date": "2003-05-09"
+        "title": "We Are Together",
+        "year": 2006,
+        "id": 74129,
+        "poster": "https://image.tmdb.org/t/p/w200/jygDuac9Wot74Je3bSyaGSUJCvm.jpg"
     },
     {
-      "title": "This Little Life",
-      "release_date": "2003"
+        "title": "Burnt Out",
+        "year": 2006,
+        "id": 70930,
+        "poster": "https://image.tmdb.org/t/p/w200/u4fVJuPN9WmW4j5EZBhMXs8gqZx.jpg"
     },
     {
-      "title": "September",
-      "release_date": "2003-06-26"
+        "title": "Opal Dream",
+        "year": 2006,
+        "id": 15699,
+        "poster": "https://image.tmdb.org/t/p/w200/3CNwFxtb3TYs1rzBsg9DnoPAbJS.jpg"
     },
     {
-      "title": "The Bypass",
-      "release_date": "2003"
+        "title": "Goodbye Bafana",
+        "year": 2007,
+        "id": 1874,
+        "poster": "https://image.tmdb.org/t/p/w200/omL85DnSNaZLLnF0KzqSZihuWAr.jpg"
     },
     {
-      "title": "Cheeky",
-      "release_date": "2000-01-28"
+        "title": "Atonement",
+        "year": 2007,
+        "id": 4347,
+        "poster": "https://image.tmdb.org/t/p/w200/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg"
     },
     {
-      "title": "Passer By",
-      "release_date": "2004"
+        "title": "The Brave One",
+        "year": 2007,
+        "id": 4413,
+        "poster": "https://image.tmdb.org/t/p/w200/tdbOFY9ZnmOcxbNThJqGaIGCOow.jpg"
     },
     {
-      "title": "The Brothers Grimm",
-      "release_date": "2005-11-04"
+        "title": "Shrooms",
+        "year": 2007,
+        "id": 14456,
+        "poster": "https://image.tmdb.org/t/p/w200/pU4lcKfjf0U8pM036FHyoVGLev7.jpg"
     },
     {
-      "title": "Burnt Out",
-      "release_date": "2005-10-02"
+        "title": "Far North",
+        "year": 2008,
+        "id": 8471,
+        "poster": "https://image.tmdb.org/t/p/w200/d31sugp9MHWv7YHGxgM5iYQVmXB.jpg"
     },
     {
-      "title": "Pride & Prejudice",
-      "release_date": "2005-09-11"
+        "title": "Everybody's Fine",
+        "year": 2009,
+        "id": 26171,
+        "poster": "https://image.tmdb.org/t/p/w200/qnC4ypkpviWgp4aHsXvWym38v56.jpg"
     },
     {
-      "title": "Shooting Dogs",
-      "release_date": "2005-09-11"
+        "title": "The Soloist",
+        "year": 2009,
+        "id": 17332,
+        "poster": "https://image.tmdb.org/t/p/w200/6GnFN9OTkaoeKNzd2Fbp3ZyJjKi.jpg"
     },
     {
-      "title": "V for Vendetta",
-      "release_date": "2005-12-11"
+        "title": "Agora",
+        "year": 2009,
+        "id": 26428,
+        "poster": "https://image.tmdb.org/t/p/w200/1xsFa6I5vDd2UI1AJ1tsW7BUChv.jpg"
     },
     {
-      "title": "The Return",
-      "release_date": "2006-11-10"
+        "title": "Eat Pray Love",
+        "year": 2010,
+        "id": 38167,
+        "poster": "https://image.tmdb.org/t/p/w200/nPLoZSLqUeQV37Brm71cRQTVUuY.jpg"
     },
     {
-      "title": "Opal Dream",
-      "release_date": "2006-09-28"
+        "title": "Jane Eyre",
+        "year": 2011,
+        "id": 38684,
+        "poster": "https://image.tmdb.org/t/p/w200/3Cn7D0wEaxnvm8kTta1osNu3QJv.jpg"
     },
     {
-      "title": "We Are Together",
-      "release_date": "2006"
+        "title": "Salmon Fishing in the Yemen",
+        "year": 2012,
+        "id": 81025,
+        "poster": "https://image.tmdb.org/t/p/w200/tSmZAKh1H80AGERgMOvXAWTwbVQ.jpg"
     },
     {
-      "title": "Atonement",
-      "release_date": "2007-08-29"
+        "title": "Quartet",
+        "year": 2012,
+        "id": 121826,
+        "poster": "https://image.tmdb.org/t/p/w200/lDg2DfB5MuEoUeRFQqzBFVoWGep.jpg"
     },
     {
-      "title": "Far North",
-      "release_date": "2007-12-26"
+        "title": "Anna Karenina",
+        "year": 2012,
+        "id": 96724,
+        "poster": "https://image.tmdb.org/t/p/w200/2DvjkCbmlg8sbBHZKUZvYPgsT5V.jpg"
     },
     {
-      "title": "Goodbye Bafana",
-      "release_date": "2007-02-11"
+        "title": "Hummingbird",
+        "year": 2013,
+        "id": 136418,
+        "poster": "https://image.tmdb.org/t/p/w200/bN2aGUOxHRwGms68WTDr2MHzkKa.jpg"
     },
     {
-      "title": "Shrooms",
-      "release_date": "2007-11-23"
+        "title": "A Long Way Down",
+        "year": 2014,
+        "id": 141043,
+        "poster": "https://image.tmdb.org/t/p/w200/ibtYPDUQXKK2CIYzMEWgt1VNMlP.jpg"
     },
     {
-      "title": "The Brave One",
-      "release_date": "2007-09-14"
+        "title": "The Boxtrolls",
+        "year": 2014,
+        "id": 170687,
+        "poster": "https://image.tmdb.org/t/p/w200/npBf0yc5Gt7aAyyVOcYtFyT2IPa.jpg"
     },
     {
-      "title": "The Soloist",
-      "release_date": "2009-04-24"
+        "title": "Third Person",
+        "year": 2014,
+        "id": 192145,
+        "poster": "https://image.tmdb.org/t/p/w200/8HfxGEbQnPvIzaYAHMvu947r8sQ.jpg"
     },
     {
-      "title": "Everybody's Fine",
-      "release_date": "2009-12-04"
+        "title": "Wild Card",
+        "year": 2015,
+        "id": 265208,
+        "poster": "https://image.tmdb.org/t/p/w200/zN80Tlly8oMpKbVJv2TfRIj8dHG.jpg"
     },
     {
-      "title": "Agora",
-      "release_date": "2009-10-09"
+        "title": "Everest",
+        "year": 2015,
+        "id": 253412,
+        "poster": "https://image.tmdb.org/t/p/w200/2jKOu2bjpLP6NXJcm7Ep14bDGtA.jpg"
     },
     {
-      "title": "Tick Tock Tale",
-      "release_date": "2010-06-08"
+        "title": "Kubo and the Two Strings",
+        "year": 2016,
+        "id": 313297,
+        "poster": "https://image.tmdb.org/t/p/w200/ewcOCkuuKAKULGUnbBVaO1htt0D.jpg"
     },
     {
-      "title": "Eat Pray Love",
-      "release_date": "2010-08-13"
+        "title": "Ali and Nino",
+        "year": 2016,
+        "id": 371741,
+        "poster": "https://image.tmdb.org/t/p/w200/k678ohrP2DcfgElWZl2mxdO3vEd.jpg"
     },
     {
-      "title": "Jane Eyre",
-      "release_date": "2011-03-09"
+        "title": "Paddington 2",
+        "year": 2017,
+        "id": 346648,
+        "poster": "https://image.tmdb.org/t/p/w200/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg"
     },
     {
-      "title": "Salmon Fishing in the Yemen",
-      "release_date": "2011-09-10"
+        "title": "Darkest Hour",
+        "year": 2017,
+        "id": 399404,
+        "poster": "https://image.tmdb.org/t/p/w200/xa6G3aKlysQeVg9wOb0dRcIGlWu.jpg"
     },
     {
-      "title": "Anna Karenina",
-      "release_date": "2012-09-07"
+        "title": "Bumblebee",
+        "year": 2018,
+        "id": 424783,
+        "poster": "https://image.tmdb.org/t/p/w200/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg"
     },
     {
-      "title": "Quartet",
-      "release_date": "2012-09-09"
+        "title": "A Woman's Name",
+        "year": 2018,
+        "id": 504127,
+        "poster": "https://image.tmdb.org/t/p/w200/lOGpRBW4jOSRRrgnaq8vh2wCjW3.jpg"
     },
     {
-      "title": "Hummingbird",
-      "release_date": "2013-05-17"
+        "title": "Pinocchio",
+        "year": 2019,
+        "id": 413518,
+        "poster": "https://image.tmdb.org/t/p/w200/9c3EG58062cl5zjBqSkDhoKIOtD.jpg"
     },
     {
-      "title": "Third Person",
-      "release_date": "2013-09-09"
+        "title": "The Secret Garden",
+        "year": 2020,
+        "id": 521034,
+        "poster": "https://image.tmdb.org/t/p/w200/5MSDwUcqnGodFTvtlLiLKK0XKS.jpg"
     },
     {
-      "title": "A Long Way Down",
-      "release_date": "2014-02-10"
+        "title": "A Boy Called Christmas",
+        "year": 2021,
+        "id": 615666,
+        "poster": "https://image.tmdb.org/t/p/w200/1sRejtiHOZGggZd9RcmdqbapLM5.jpg"
     },
     {
-      "title": "The Boxtrolls",
-      "release_date": "2014-08-31"
+        "title": "Ghostbusters: Frozen Empire",
+        "year": 2024,
+        "id": 967847,
+        "poster": "https://image.tmdb.org/t/p/w200/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg"
     },
     {
-      "title": "Wild Card",
-      "release_date": "2015-01-14"
+        "title": "Federer: Twelve Final Days",
+        "year": 2024,
+        "id": 1247031,
+        "poster": "https://image.tmdb.org/t/p/w200/kunqcryDeYZxBg4ESat2We5qRtD.jpg"
     },
     {
-      "title": "Everest",
-      "release_date": "2015-09-02"
+        "title": "Paddington in Peru",
+        "year": 2024,
+        "id": 516729,
+        "poster": "https://image.tmdb.org/t/p/w200/1ffZAucqfvQu36x1C49XfOdjuOG.jpg"
     },
     {
-      "title": "Kubo and the Two Strings",
-      "release_date": "2016-08-13"
-    },
-    {
-      "title": "Ali and Nino",
-      "release_date": "2016-01-27"
-    },
-    {
-      "title": "Darkest Hour",
-      "release_date": "2017-09-01"
-    },
-    {
-      "title": "Paddington 2",
-      "release_date": "2017-11-05"
-    },
-    {
-      "title": "Bumblebee",
-      "release_date": "2018-12-03"
-    },
-    {
-      "title": "A Woman's Name",
-      "release_date": "2018"
-    },
-    {
-      "title": "Pinocchio",
-      "release_date": "2019-12-19"
-    },
-    {
-      "title": "The Secret Garden",
-      "release_date": "2020-08-07"
-    },
-    {
-      "title": "A Boy Called Christmas",
-      "release_date": "2021-11-24"
-    },
-    {
-      "title": "Ghostbusters: Frozen Empire",
-      "release_date": "2024-03-14"
-    },
-    {
-      "title": "Federer: Twelve Final Days",
-      "release_date": "2024-06-10"
-    },
-    {
-      "title": "The Life Apart",
-      "release_date": "2024-08-22"
-    },
-    {
-      "title": "Paddington in Peru",
-      "release_date": "2024-11-08"
-    },
-    {
-      "title": "Wildwood",
-      "release_date": "2026"
+        "title": "The Laboratory Rat: A Natural History",
+        "year": 9999,
+        "id": 172809,
+        "poster": null
     }
-  ]
-}
+]

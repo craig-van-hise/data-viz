@@ -1,357 +1,470 @@
-{
-  "composer": "Randy Edelman",
-  "filmography": [
+[
     {
-      "title": "Outside In",
-      "release_date": "2017-09-08"
+        "title": "Blood Sport",
+        "year": 1973,
+        "id": 219390,
+        "poster": "https://image.tmdb.org/t/p/w200/j91aX2FhqvGj8hxMOmmn6y0Iu9D.jpg"
     },
     {
-      "title": "Executive Action",
-      "release_date": "1973-11-07"
+        "title": "Executive Action",
+        "year": 1973,
+        "id": 29142,
+        "poster": "https://image.tmdb.org/t/p/w200/mdULVfaVkGVJZ0XRjqgqtoPVWgW.jpg"
     },
     {
-      "title": "Ryan's Four",
-      "release_date": "1983"
+        "title": "A Doctor's Story",
+        "year": 1984,
+        "id": 445000,
+        "poster": "https://image.tmdb.org/t/p/w200/mAtDyHM9nSbilJpBmFWnUBeXN7D.jpg"
     },
     {
-      "title": "CBS Schoolbreak Special",
-      "release_date": "1984"
+        "title": "Scandal Sheet",
+        "year": 1985,
+        "id": 218615,
+        "poster": "https://image.tmdb.org/t/p/w200/oUIUwaFBrDm3XA6XWFgpBQvxl1h.jpg"
     },
     {
-      "title": "MacGyver",
-      "release_date": "1985"
+        "title": "The Chipmunk Adventure",
+        "year": 1987,
+        "id": 21793,
+        "poster": "https://image.tmdb.org/t/p/w200/o0d8qJL8anmGG14UfjBC7HHATJK.jpg"
     },
     {
-      "title": "Mr. Sunshine",
-      "release_date": "1986"
+        "title": "Twins",
+        "year": 1988,
+        "id": 9493,
+        "poster": "https://image.tmdb.org/t/p/w200/stJx9BQZbXrZnTGf9Erc7d2UMVc.jpg"
     },
     {
-      "title": "The Chipmunk Adventure",
-      "release_date": "1987-05-22"
+        "title": "Feds!",
+        "year": 1988,
+        "id": 25884,
+        "poster": "https://image.tmdb.org/t/p/w200/6qMNwjNEOahviSeEGIWPEJ4NMM8.jpg"
     },
     {
-      "title": "Feds",
-      "release_date": "1988-10-28"
+        "title": "Ghostbusters II",
+        "year": 1989,
+        "id": 2978,
+        "poster": "https://image.tmdb.org/t/p/w200/yObYPMA58DnTMvJooFW7GG6jWAt.jpg"
     },
     {
-      "title": "Twins",
-      "release_date": "1988-12-09"
+        "title": "Troop Beverly Hills",
+        "year": 1989,
+        "id": 22102,
+        "poster": "https://image.tmdb.org/t/p/w200/2HOzh7t2THdZ3r9BaDucEjfzLlL.jpg"
     },
     {
-      "title": "ABC Afterschool Special",
-      "release_date": "1988"
+        "title": "Quick Change",
+        "year": 1990,
+        "id": 10729,
+        "poster": "https://image.tmdb.org/t/p/w200/8q0VQYwOhhuRFMsyzdZ5JoB676g.jpg"
     },
     {
-      "title": "Troop Beverly Hills",
-      "release_date": "1989-03-24"
+        "title": "Kindergarten Cop",
+        "year": 1990,
+        "id": 951,
+        "poster": "https://image.tmdb.org/t/p/w200/nKnHWwkXyvhzCYWm3FyRAv3qBrl.jpg"
     },
     {
-      "title": "Ghostbusters II",
-      "release_date": "1989-06-16"
+        "title": "Come See the Paradise",
+        "year": 1990,
+        "id": 59820,
+        "poster": "https://image.tmdb.org/t/p/w200/uBdJXVfcQkhKBg2SfydhoTqtcBr.jpg"
     },
     {
-      "title": "Quick Change",
-      "release_date": "1990-07-13"
+        "title": "Drop Dead Fred",
+        "year": 1991,
+        "id": 10379,
+        "poster": "https://image.tmdb.org/t/p/w200/v2kadCRcRdq8a0aRbQg4yVk3Xmd.jpg"
     },
     {
-      "title": "Come See the Paradise",
-      "release_date": "1990-12-23"
+        "title": "Shout",
+        "year": 1991,
+        "id": 25674,
+        "poster": "https://image.tmdb.org/t/p/w200/fgHhbol55iYeFl8I1f3ubtBSdTu.jpg"
     },
     {
-      "title": "Kindergarten Cop",
-      "release_date": "1990-12-21"
+        "title": "V.I. Warshawski",
+        "year": 1991,
+        "id": 41805,
+        "poster": "https://image.tmdb.org/t/p/w200/w0ykwLLDB8v1wT50wDpYaPnyac7.jpg"
     },
     {
-      "title": "Drop Dead Fred",
-      "release_date": "1991-05-24"
+        "title": "Eyes of an Angel",
+        "year": 1991,
+        "id": 50677,
+        "poster": "https://image.tmdb.org/t/p/w200/245VToHQ4z0zFhqXIfsFZDhuj7w.jpg"
     },
     {
-      "title": "V.I. Warshawski",
-      "release_date": "1991-07-26"
+        "title": "My Cousin Vinny",
+        "year": 1992,
+        "id": 10377,
+        "poster": "https://image.tmdb.org/t/p/w200/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg"
     },
     {
-      "title": "Eyes of an Angel",
-      "release_date": "1991-09-25"
+        "title": "The Distinguished Gentleman",
+        "year": 1992,
+        "id": 10411,
+        "poster": "https://image.tmdb.org/t/p/w200/ny722xPMhsY6JlRmQQjLZs7JP0S.jpg"
     },
     {
-      "title": "Shout",
-      "release_date": "1991-10-04"
+        "title": "The Last of the Mohicans",
+        "year": 1992,
+        "id": 9361,
+        "poster": "https://image.tmdb.org/t/p/w200/qzJMPWRtZveBkxXOv3ucWhoJuyj.jpg"
     },
     {
-      "title": "My Cousin Vinny",
-      "release_date": "1992-03-13"
+        "title": "Taking Back My Life: The Nancy Ziegenmeyer Story",
+        "year": 1992,
+        "id": 529418,
+        "poster": "https://image.tmdb.org/t/p/w200/9qaPxozx4cBBgBXL7eJqkCXJnHj.jpg"
     },
     {
-      "title": "Beethoven",
-      "release_date": "1992-04-03"
+        "title": "Beethoven",
+        "year": 1992,
+        "id": 11806,
+        "poster": "https://image.tmdb.org/t/p/w200/aSZYXOmQ9SW27gLdHU02PJQGBMH.jpg"
     },
     {
-      "title": "The Last of the Mohicans",
-      "release_date": "1992-08-26"
+        "title": "Dragon: The Bruce Lee Story",
+        "year": 1993,
+        "id": 10423,
+        "poster": "https://image.tmdb.org/t/p/w200/lxhsdC8wuGgQf0gKCt8wyHHxGcQ.jpg"
     },
     {
-      "title": "The Distinguished Gentleman",
-      "release_date": "1992-12-04"
+        "title": "Beethoven's 2nd",
+        "year": 1993,
+        "id": 10438,
+        "poster": "https://image.tmdb.org/t/p/w200/biH5hW1BRfEr13oCizuAzpdBf2l.jpg"
     },
     {
-      "title": "Dragon: The Bruce Lee Story",
-      "release_date": "1993-05-07"
+        "title": "Gettysburg",
+        "year": 1993,
+        "id": 10655,
+        "poster": "https://image.tmdb.org/t/p/w200/k0XKdT3QbycMB8f2H7CEZVx2t4m.jpg"
     },
     {
-      "title": "Gettysburg",
-      "release_date": "1993-10-08"
+        "title": "The Mask",
+        "year": 1994,
+        "id": 854,
+        "poster": "https://image.tmdb.org/t/p/w200/jPC2eYub74zwf2tPGVtzSlBW6Oy.jpg"
     },
     {
-      "title": "Beethoven's 2nd",
-      "release_date": "1993-12-17"
+        "title": "Greedy",
+        "year": 1994,
+        "id": 12778,
+        "poster": "https://image.tmdb.org/t/p/w200/5OpvMU6CTXe4pRAQUVWcVJeZCSS.jpg"
     },
     {
-      "title": "The Adventures of Brisco County, Jr.",
-      "release_date": "1993"
+        "title": "Angels in the Outfield",
+        "year": 1994,
+        "id": 24795,
+        "poster": "https://image.tmdb.org/t/p/w200/7WRt6l7tiXVPG9zLco1rwy5Ffw9.jpg"
     },
     {
-      "title": "Greedy",
-      "release_date": "1994-03-04"
+        "title": "Pontiac Moon",
+        "year": 1994,
+        "id": 51049,
+        "poster": "https://image.tmdb.org/t/p/w200/9nqZXNL0cmCMjyb9nvV0Mf3OlS3.jpg"
     },
     {
-      "title": "Angels in the Outfield",
-      "release_date": "1994-07-15"
+        "title": "While You Were Sleeping",
+        "year": 1995,
+        "id": 2064,
+        "poster": "https://image.tmdb.org/t/p/w200/qNGO3ETcNwlWqK2kNRpbJSJRlos.jpg"
     },
     {
-      "title": "The Mask",
-      "release_date": "1994-07-29"
+        "title": "Billy Madison",
+        "year": 1995,
+        "id": 11017,
+        "poster": "https://image.tmdb.org/t/p/w200/sOdgtJdFalL9kRKaeJItARLTAEq.jpg"
     },
     {
-      "title": "Pontiac Moon",
-      "release_date": "1994-11-04"
+        "title": "The Indian in the Cupboard",
+        "year": 1995,
+        "id": 11359,
+        "poster": "https://image.tmdb.org/t/p/w200/ozQAmW85tTJu2dhRe3evzyY03Nb.jpg"
     },
     {
-      "title": "Billy Madison",
-      "release_date": "1995-02-10"
+        "title": "Citizen X",
+        "year": 1995,
+        "id": 12554,
+        "poster": "https://image.tmdb.org/t/p/w200/mr3lIjSRhXGVP2o9HY3P9PX2KsH.jpg"
     },
     {
-      "title": "Tall Tale",
-      "release_date": "1995-03-24"
+        "title": "Tall Tale: The Unbelievable Adventure",
+        "year": 1995,
+        "id": 41841,
+        "poster": "https://image.tmdb.org/t/p/w200/di43EvahPBbdTgZrBxx8yZjvFu8.jpg"
     },
     {
-      "title": "While You Were Sleeping",
-      "release_date": "1995-04-21"
+        "title": "The Big Green",
+        "year": 1995,
+        "id": 26441,
+        "poster": "https://image.tmdb.org/t/p/w200/nVHqIuBTcTLmAIrML7T704UwfNI.jpg"
     },
     {
-      "title": "The Indian in the Cupboard",
-      "release_date": "1995-07-14"
+        "title": "Daylight",
+        "year": 1996,
+        "id": 11228,
+        "poster": "https://image.tmdb.org/t/p/w200/bRWNxtm3q0QvIIM52uQqRIEvpl2.jpg"
     },
     {
-      "title": "The Big Green",
-      "release_date": "1995-09-29"
+        "title": "Diabolique",
+        "year": 1996,
+        "id": 10988,
+        "poster": "https://image.tmdb.org/t/p/w200/zSW4A35r7Vpz0ainYJGb2QVwCh0.jpg"
     },
     {
-      "title": "Down Periscope",
-      "release_date": "1996-03-01"
+        "title": "DragonHeart",
+        "year": 1996,
+        "id": 8840,
+        "poster": "https://image.tmdb.org/t/p/w200/1J2FvxEoEKMFT9TjUdfhm0MJhZD.jpg"
     },
     {
-      "title": "Diabolique",
-      "release_date": "1996-03-22"
+        "title": "Down Periscope",
+        "year": 1996,
+        "id": 9101,
+        "poster": "https://image.tmdb.org/t/p/w200/brleKcHsirTw7lFqcgUMOfgL2nl.jpg"
     },
     {
-      "title": "The Quest",
-      "release_date": "1996-04-19"
+        "title": "The Quest",
+        "year": 1996,
+        "id": 9103,
+        "poster": "https://image.tmdb.org/t/p/w200/xMDo0ewl6XMZei44UNGMfho6eBq.jpg"
     },
     {
-      "title": "Dragonheart",
-      "release_date": "1996-05-31"
+        "title": "Anaconda",
+        "year": 1997,
+        "id": 9360,
+        "poster": "https://image.tmdb.org/t/p/w200/33NysOnLpLZY0ewHTcfpalzAsRG.jpg"
     },
     {
-      "title": "Daylight",
-      "release_date": "1996-12-06"
+        "title": "Leave It to Beaver",
+        "year": 1997,
+        "id": 37244,
+        "poster": "https://image.tmdb.org/t/p/w200/zBe7rCrImp9XxSGWTWAmYlPEXeN.jpg"
     },
     {
-      "title": "Anaconda",
-      "release_date": "1997-04-11"
+        "title": "For Richer or Poorer",
+        "year": 1997,
+        "id": 10371,
+        "poster": "https://image.tmdb.org/t/p/w200/tPjqY9Qp5WOIBFKnyEpMBVwGr01.jpg"
     },
     {
-      "title": "Gone Fishin'",
-      "release_date": "1997-05-30"
+        "title": "Gone Fishin'",
+        "year": 1997,
+        "id": 9054,
+        "poster": "https://image.tmdb.org/t/p/w200/lGRHE7s2iGgJ0JNO9gxm8BJKelt.jpg"
     },
     {
-      "title": "Leave It to Beaver",
-      "release_date": "1997-08-22"
+        "title": "Six Days Seven Nights",
+        "year": 1998,
+        "id": 6068,
+        "poster": "https://image.tmdb.org/t/p/w200/fzWrrCzRa16v51TXAUuT6Wendw7.jpg"
     },
     {
-      "title": "For Richer or Poorer",
-      "release_date": "1997-12-12"
+        "title": "EDtv",
+        "year": 1999,
+        "id": 11374,
+        "poster": "https://image.tmdb.org/t/p/w200/xnnjoMONNamGU6ZX6acbcxyOKv1.jpg"
     },
     {
-      "title": "Six Days, Seven Nights",
-      "release_date": "1998-06-12"
+        "title": "The Hunley",
+        "year": 1999,
+        "id": 65431,
+        "poster": "https://image.tmdb.org/t/p/w200/dPmwzVG7AGHGoFyR8PpiswGiQ8T.jpg"
     },
     {
-      "title": "EDtv",
-      "release_date": "1999-03-26"
+        "title": "The Whole Nine Yards",
+        "year": 2000,
+        "id": 2069,
+        "poster": "https://image.tmdb.org/t/p/w200/rDV7ntPLY0ZDBT722Odsi80nFrn.jpg"
     },
     {
-      "title": "Passion of Mind",
-      "release_date": "2000-05-26"
+        "title": "The Skulls",
+        "year": 2000,
+        "id": 11478,
+        "poster": "https://image.tmdb.org/t/p/w200/pYuggibfzm8LWgjnUKMMtii2430.jpg"
     },
     {
-      "title": "The Whole Nine Yards",
-      "release_date": "2000-02-18"
+        "title": "Shanghai Noon",
+        "year": 2000,
+        "id": 8584,
+        "poster": "https://image.tmdb.org/t/p/w200/b0WwWRcDiDahkah5vZ0KjB4N9ZZ.jpg"
     },
     {
-      "title": "The Skulls",
-      "release_date": "2000-03-31"
+        "title": "Passion of Mind",
+        "year": 2000,
+        "id": 19214,
+        "poster": "https://image.tmdb.org/t/p/w200/A7lzVd2YHz85pgOugGJCJ983bQB.jpg"
     },
     {
-      "title": "Shanghai Noon",
-      "release_date": "2000-05-26"
+        "title": "Black Knight",
+        "year": 2001,
+        "id": 11469,
+        "poster": "https://image.tmdb.org/t/p/w200/JC7c2Y70R5oBNa8v4pnHfzYvFK.jpg"
     },
     {
-      "title": "Head over Heels",
-      "release_date": "2001-02-02"
+        "title": "Osmosis Jones",
+        "year": 2001,
+        "id": 12610,
+        "poster": "https://image.tmdb.org/t/p/w200/foZpSG88IQUCEBJE3unc5QzO6bQ.jpg"
     },
     {
-      "title": "China: The Panda Adventure",
-      "release_date": "2001-06-09"
+        "title": "Corky Romano",
+        "year": 2001,
+        "id": 17708,
+        "poster": "https://image.tmdb.org/t/p/w200/aLgzSIgHTyWggrP7ieDVYE3PB8g.jpg"
     },
     {
-      "title": "Osmosis Jones",
-      "release_date": "2001-08-07"
+        "title": "China: The Panda Adventure",
+        "year": 2001,
+        "id": 76692,
+        "poster": "https://image.tmdb.org/t/p/w200/esb4bQGBetD8L043ns5QUjAMs7K.jpg"
     },
     {
-      "title": "Who Is Cletis Tout?",
-      "release_date": "2001"
+        "title": "Head Over Heels",
+        "year": 2001,
+        "id": 24940,
+        "poster": "https://image.tmdb.org/t/p/w200/n5Ln7UmgKThD3QhPC6JS6WZgCXJ.jpg"
     },
     {
-      "title": "Corky Romano",
-      "release_date": "2001-10-12"
+        "title": "Who Is Cletis Tout?",
+        "year": 2001,
+        "id": 33152,
+        "poster": "https://image.tmdb.org/t/p/w200/udHRTgyZa1Fh2ryrUbInDviJl6T.jpg"
     },
     {
-      "title": "Black Knight",
-      "release_date": "2001-11-21"
+        "title": "xXx",
+        "year": 2002,
+        "id": 7451,
+        "poster": "https://image.tmdb.org/t/p/w200/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg"
     },
     {
-      "title": "A Season on the Brink",
-      "release_date": "2002"
+        "title": "Frank McKlusky, C.I.",
+        "year": 2002,
+        "id": 21220,
+        "poster": "https://image.tmdb.org/t/p/w200/ngntGMRnsWEwOBEsEiabfkyWVtJ.jpg"
     },
     {
-      "title": "Frank McKlusky, C.I.",
-      "release_date": "2002-04-26"
+        "title": "A Season on the Brink",
+        "year": 2002,
+        "id": 288201,
+        "poster": "https://image.tmdb.org/t/p/w200/9EpNQnUjgAnzC0Sq2pAgqcg3QQF.jpg"
     },
     {
-      "title": "Insomnia",
-      "release_date": "2002-05-03"
+        "title": "National Security",
+        "year": 2003,
+        "id": 11078,
+        "poster": "https://image.tmdb.org/t/p/w200/2qZP18uhHFEgJEGEJUQwRPAKQPK.jpg"
     },
     {
-      "title": "XXX",
-      "release_date": "2002-08-09"
+        "title": "Shanghai Knights",
+        "year": 2003,
+        "id": 6038,
+        "poster": "https://image.tmdb.org/t/p/w200/vVNQStMlZS9mn2AKBEpadRunHgt.jpg"
     },
     {
-      "title": "National Security",
-      "release_date": "2003-01-17"
+        "title": "Gods and Generals",
+        "year": 2003,
+        "id": 16072,
+        "poster": "https://image.tmdb.org/t/p/w200/tvRgz24ZuekCjeOROuN9MgVZLa5.jpg"
     },
     {
-      "title": "Shanghai Knights",
-      "release_date": "2003-02-07"
+        "title": "Connie and Carla",
+        "year": 2004,
+        "id": 15673,
+        "poster": "https://image.tmdb.org/t/p/w200/mR0K8S5s2c5uxpcevnVam17HFrh.jpg"
     },
     {
-      "title": "Gods and Generals",
-      "release_date": "2003-02-21"
+        "title": "Surviving Christmas",
+        "year": 2004,
+        "id": 15566,
+        "poster": "https://image.tmdb.org/t/p/w200/8jHtvFpCOOqp2U2qwI3L3h10cUv.jpg"
     },
     {
-      "title": "Connie and Carla",
-      "release_date": "2004-04-16"
+        "title": "Son of the Mask",
+        "year": 2005,
+        "id": 10214,
+        "poster": "https://image.tmdb.org/t/p/w200/Adgnfhm9B8YAQmC0osuP4zO9SRc.jpg"
     },
     {
-      "title": "Surviving Christmas",
-      "release_date": "2004-10-22"
+        "title": "The Last Time",
+        "year": 2006,
+        "id": 27683,
+        "poster": "https://image.tmdb.org/t/p/w200/vPz2CcAWin7X6QfruYj2hWMGvHd.jpg"
     },
     {
-      "title": "Son of the Mask",
-      "release_date": "2005-02-18"
+        "title": "Underdog",
+        "year": 2007,
+        "id": 6589,
+        "poster": "https://image.tmdb.org/t/p/w200/q5yoIlzQ3m7b3a0zLCf3NjsOvB8.jpg"
     },
     {
-      "title": "The Last Time",
-      "release_date": "2006-10-05"
+        "title": "Balls of Fury",
+        "year": 2007,
+        "id": 9750,
+        "poster": "https://image.tmdb.org/t/p/w200/1Uc6lFCcNlaKP5uLJdQAhdDfihy.jpg"
     },
     {
-      "title": "Underdog",
-      "release_date": "2007-08-03"
+        "title": "The Mummy: Tomb of the Dragon Emperor",
+        "year": 2008,
+        "id": 1735,
+        "poster": "https://image.tmdb.org/t/p/w200/A3acM1lX5PNWQa6r5qeMAJOxbnT.jpg"
     },
     {
-      "title": "Balls of Fury",
-      "release_date": "2007-08-29"
+        "title": "27 Dresses",
+        "year": 2008,
+        "id": 6557,
+        "poster": "https://image.tmdb.org/t/p/w200/rEfourJfgEyKiewwH8ZkUYt9AqE.jpg"
     },
     {
-      "title": "27 Dresses",
-      "release_date": "2008-01-10"
+        "title": "Leap Year",
+        "year": 2010,
+        "id": 25195,
+        "poster": "https://image.tmdb.org/t/p/w200/i86hMi5iEF3WnYLCaGHdT5FPdYg.jpg"
     },
     {
-      "title": "The Mummy: Tomb of the Dragon Emperor",
-      "release_date": "2008-07-24"
+        "title": "The Boy Next Door",
+        "year": 2015,
+        "id": 241251,
+        "poster": "https://image.tmdb.org/t/p/w200/gicmSeLG6Uh7BF1r1mxZHUQ8r26.jpg"
     },
     {
-      "title": "Leap Year",
-      "release_date": "2010-01-06"
+        "title": "Back in the Day",
+        "year": 2016,
+        "id": 368596,
+        "poster": "https://image.tmdb.org/t/p/w200/eSLGYrj0IGgScf95TQB7JDX9k19.jpg"
     },
     {
-      "title": "The Greening of Whitney Brown",
-      "release_date": "2011-11-11"
+        "title": "Max 2: White House Hero",
+        "year": 2017,
+        "id": 446829,
+        "poster": "https://image.tmdb.org/t/p/w200/roIpyS1wlXFCiunN7WGkKSY3BGG.jpg"
     },
     {
-      "title": "The Boy Next Door",
-      "release_date": "2015-01-23"
+        "title": "Backdraft 2",
+        "year": 2019,
+        "id": 587808,
+        "poster": "https://image.tmdb.org/t/p/w200/d5QfKjWG5UcEbbo7btAmXnJpaOn.jpg"
     },
     {
-      "title": "Leaves of the Tree",
-      "release_date": "2015-04-10"
+        "title": "Dog Patrol: Operation Santa Paws",
+        "year": 2025,
+        "id": 1068544,
+        "poster": "https://image.tmdb.org/t/p/w200/eoNJWa84J6DskVZIzaFFZsvZ16e.jpg"
     },
     {
-      "title": "Back in the Day",
-      "release_date": "2016-05-20"
+        "title": "Heart Strings",
+        "year": 2025,
+        "id": 1255126,
+        "poster": "https://image.tmdb.org/t/p/w200/2UaPYvB8gZH2WX49upcofktNlVl.jpg"
     },
     {
-      "title": "Max 2: White House Hero",
-      "release_date": "2017-05-05"
-    },
-    {
-      "title": "Backdraft 2",
-      "release_date": "2019-05-14"
-    },
-    {
-      "title": "Love in Kilnery",
-      "release_date": "2019"
-    },
-    {
-      "title": "Skelly",
-      "release_date": "2021"
-    },
-    {
-      "title": "A Look in the Rear View",
-      "release_date": "2023"
-    },
-    {
-      "title": "Heartstrings",
-      "release_date": "2024"
-    },
-    {
-      "title": "The Beast Inside",
-      "release_date": "2024"
-    },
-    {
-      "title": "Love Me Dead",
-      "release_date": "2025"
-    },
-    {
-      "title": "Dog Patrol",
-      "release_date": "2025"
-    },
-    {
-      "title": "Naya...Legend of the Golden Dolphin 3D",
-      "release_date": "2025"
-    },
-    {
-      "title": "Too Hot to Handle - Ghostbusters 2 Doc",
-      "release_date": "2025"
+        "title": "Naya: Legend of the Golden Dolphin",
+        "year": 9999,
+        "id": 826287,
+        "poster": "https://image.tmdb.org/t/p/w200/q3h8sQ75kYzyWkJptBsZYtkCkfX.jpg"
     }
-  ]
-}
+]

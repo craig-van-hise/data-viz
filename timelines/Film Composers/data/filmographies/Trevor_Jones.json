@@ -1,229 +1,386 @@
-{
-  "composer": "Trevor Jones",
-  "filmography": [
+[
     {
-      "title": "Brittania: The First of the Last",
-      "release_date": "1979"
+        "title": "Britannia",
+        "year": 1979,
+        "id": 801435,
+        "poster": "https://image.tmdb.org/t/p/w200/mf5UQwHsGU43XxsG7UteoDvhx13.jpg"
     },
     {
-      "title": "Ripping Yarns",
-      "release_date": "1979"
+        "title": "Excalibur",
+        "year": 1981,
+        "id": 11527,
+        "poster": "https://image.tmdb.org/t/p/w200/cTWF6zkr5mUOnheowKODIijWYcN.jpg"
     },
     {
-      "title": "Brothers and Sisters",
-      "release_date": "1980"
+        "title": "Time Bandits",
+        "year": 1981,
+        "id": 36819,
+        "poster": "https://image.tmdb.org/t/p/w200/4VZtpwdhHQSa4LUkvujyGAHb1hG.jpg"
     },
     {
-      "title": "Black Angel",
-      "release_date": "1980-05-21"
+        "title": "The Dark Crystal",
+        "year": 1982,
+        "id": 11639,
+        "poster": "https://image.tmdb.org/t/p/w200/fZPxRaa6gvCyGCh9Xk5kyPqz7fp.jpg"
     },
     {
-      "title": "The Beneficiary",
-      "release_date": "1980"
+        "title": "The Sender",
+        "year": 1982,
+        "id": 69870,
+        "poster": "https://image.tmdb.org/t/p/w200/t1gAtGXv74SA3JP4tTHXKt5oRy5.jpg"
     },
     {
-      "title": "The Appointment",
-      "release_date": "1969-07-18"
+        "title": "The World of 'The Dark Crystal'",
+        "year": 1983,
+        "id": 163884,
+        "poster": "https://image.tmdb.org/t/p/w200/eue90vKGguejoUfYOGMlKCd5W4i.jpg"
     },
     {
-      "title": "Excalibur",
-      "release_date": "1981-04-10"
+        "title": "Nate and Hayes",
+        "year": 1983,
+        "id": 35432,
+        "poster": "https://image.tmdb.org/t/p/w200/4OOBsIGn5DrpZL12YxFBpA8hO5k.jpg"
     },
     {
-      "title": "Time Bandits",
-      "release_date": "1981-07-02"
+        "title": "The Appointment",
+        "year": 1983,
+        "id": 157276,
+        "poster": "https://image.tmdb.org/t/p/w200/luyBANHZ2hivNxznmXcTNkGl0O2.jpg"
     },
     {
-      "title": "The Dollar Bottom",
-      "release_date": "1981"
+        "title": "Those Glory Glory Days",
+        "year": 1983,
+        "id": 87376,
+        "poster": "https://image.tmdb.org/t/p/w200/nX5dDnAXKGli1rQYS5H2dxxEzm1.jpg"
     },
     {
-      "title": "The Sender",
-      "release_date": "1982-10-22"
+        "title": "This Office Life",
+        "year": 1984,
+        "id": 1246265,
+        "poster": "https://image.tmdb.org/t/p/w200/hj1aSWySbjBkcy65Jn81zdJCEjJ.jpg"
     },
     {
-      "title": "Savage Islands",
-      "release_date": "1983-11-18"
+        "title": "Dr. Fischer of Geneva",
+        "year": 1984,
+        "id": 368066,
+        "poster": "https://image.tmdb.org/t/p/w200/2Xni10EYfexZKk2QjhVMprblDWQ.jpg"
     },
     {
-      "title": "Runaway Train",
-      "release_date": "1985-12-06"
+        "title": "Aderyn Papur... and Pigs Might Fly",
+        "year": 1984,
+        "id": 269011,
+        "poster": null
     },
     {
-      "title": "Labyrinth",
-      "release_date": "1986-06-27"
+        "title": "Runaway Train",
+        "year": 1985,
+        "id": 11893,
+        "poster": "https://image.tmdb.org/t/p/w200/yEvMuhIdwPhhEtikAihxUTM1u75.jpg"
     },
     {
-      "title": "Angel Heart",
-      "release_date": "1987-03-06"
+        "title": "Labyrinth",
+        "year": 1986,
+        "id": 13597,
+        "poster": "https://image.tmdb.org/t/p/w200/hbSdA1DmNA9IlfVoqJkIWYF2oYm.jpg"
     },
     {
-      "title": "Dominick and Eugene",
-      "release_date": "1988-03-18"
+        "title": "Inside the Labyrinth",
+        "year": 1986,
+        "id": 239059,
+        "poster": "https://image.tmdb.org/t/p/w200/kgv1ptuMi17wEguHVYqPD3eXvtI.jpg"
     },
     {
-      "title": "Just Ask for Diamond",
-      "release_date": "1988"
+        "title": "Angel Heart",
+        "year": 1987,
+        "id": 635,
+        "poster": "https://image.tmdb.org/t/p/w200/h5v3wjJQNB7q2RntEnKDLhKtTFE.jpg"
     },
     {
-      "title": "Mississippi Burning",
-      "release_date": "1988-12-02"
+        "title": "Sweet Lies",
+        "year": 1987,
+        "id": 129584,
+        "poster": "https://image.tmdb.org/t/p/w200/sxjfAPahTJZeerROWmv00zy58tz.jpg"
     },
     {
-      "title": "Sweet Lies",
-      "release_date": "1988"
+        "title": "Mississippi Burning",
+        "year": 1988,
+        "id": 1632,
+        "poster": "https://image.tmdb.org/t/p/w200/wvEx2WbxZXYljQ9vSoq37NgeXcJ.jpg"
     },
     {
-      "title": "Sea of Love",
-      "release_date": "1989-09-15"
+        "title": "Just Ask for Diamond",
+        "year": 1988,
+        "id": 47098,
+        "poster": "https://image.tmdb.org/t/p/w200/1NfQkI6jNJyEbe1wJEWT3rh8C9g.jpg"
     },
     {
-      "title": "Screen Two",
-      "release_date": "1989"
+        "title": "Dominick and Eugene",
+        "year": 1988,
+        "id": 49314,
+        "poster": "https://image.tmdb.org/t/p/w200/uSxAr4qqJmLOZz3hhgGa54LShx5.jpg"
     },
     {
-      "title": "Bad Influence",
-      "release_date": "1990-03-09"
+        "title": "Murder on the Moon",
+        "year": 1989,
+        "id": 143783,
+        "poster": "https://image.tmdb.org/t/p/w200/dOV3hkblMiubMt60j40lV5S1RnV.jpg"
     },
     {
-      "title": "Arachnophobia",
-      "release_date": "1990-07-18"
+        "title": "Sea of Love",
+        "year": 1989,
+        "id": 12150,
+        "poster": "https://image.tmdb.org/t/p/w200/vJ88WmJ12eAK9CRb3cggn9CJthH.jpg"
     },
     {
-      "title": "True Colors",
-      "release_date": "1991-03-15"
+        "title": "Arachnophobia",
+        "year": 1990,
+        "id": 6488,
+        "poster": "https://image.tmdb.org/t/p/w200/lHjpwv1Yv2RcGcTQb4Lc1cKw1y9.jpg"
     },
     {
-      "title": "Chains of Gold",
-      "release_date": "1991"
+        "title": "Bad Influence",
+        "year": 1990,
+        "id": 24249,
+        "poster": "https://image.tmdb.org/t/p/w200/8s4TwiCCBVnikc140osRlhjFFS0.jpg"
     },
     {
-      "title": "Freejack",
-      "release_date": "1992-01-17"
+        "title": "By Dawn's Early Light",
+        "year": 1990,
+        "id": 20674,
+        "poster": "https://image.tmdb.org/t/p/w200/yhNcI8fpXVj3fjCYV2OfyHdBUN3.jpg"
     },
     {
-      "title": "Blame It on the Bellboy",
-      "release_date": "1992-01-24"
+        "title": "Guns: A Day in the Death of America",
+        "year": 1990,
+        "id": 1518590,
+        "poster": "https://image.tmdb.org/t/p/w200/cjV0Hn5ibhFUgNI4TGCTYemqg2L.jpg"
     },
     {
-      "title": "CrissCross",
-      "release_date": "1992-05-08"
+        "title": "True Colors",
+        "year": 1991,
+        "id": 13571,
+        "poster": "https://image.tmdb.org/t/p/w200/iRchyRu07YagzHv9bQ7Jfz1CsAc.jpg"
     },
     {
-      "title": "The Last of the Mohicans",
-      "release_date": "1992-08-26"
+        "title": "Chains of Gold",
+        "year": 1991,
+        "id": 38299,
+        "poster": "https://image.tmdb.org/t/p/w200/b2lGaaXlIA5xVRdRagqs0tZJ7Y0.jpg"
     },
     {
-      "title": "Cliffhanger",
-      "release_date": "1993-05-20"
+        "title": "Freejack",
+        "year": 1992,
+        "id": 9278,
+        "poster": "https://image.tmdb.org/t/p/w200/lSN8lIX90Az0t1qvIXC4MlCvd9a.jpg"
     },
     {
-      "title": "In the Name of the Father",
-      "release_date": "1993-12-27"
+        "title": "Blame It on the Bellboy",
+        "year": 1992,
+        "id": 34151,
+        "poster": "https://image.tmdb.org/t/p/w200/aGyu2UhON2s0J0YdTWsTUvsFJ4g.jpg"
     },
     {
-      "title": "De Baby Huilt",
-      "release_date": "1994"
+        "title": "CrissCross",
+        "year": 1992,
+        "id": 70423,
+        "poster": "https://image.tmdb.org/t/p/w200/45XEweogsSzd4HqiEAIdd3Sj9gi.jpg"
     },
     {
-      "title": "Generations",
-      "release_date": "1994"
+        "title": "The Last of the Mohicans",
+        "year": 1992,
+        "id": 9361,
+        "poster": "https://image.tmdb.org/t/p/w200/qzJMPWRtZveBkxXOv3ucWhoJuyj.jpg"
     },
     {
-      "title": "Hideaway",
-      "release_date": "1995-03-03"
+        "title": "In the Name of the Father",
+        "year": 1993,
+        "id": 7984,
+        "poster": "https://image.tmdb.org/t/p/w200/3NcIkKxaO2SmRVsG1v50XhtmL0f.jpg"
     },
     {
-      "title": "Kiss of Death",
-      "release_date": "1995-04-21"
+        "title": "Cliffhanger",
+        "year": 1993,
+        "id": 9350,
+        "poster": "https://image.tmdb.org/t/p/w200/b28DOM54OHb1c7Lsk6Nu7Kwuonj.jpg"
     },
     {
-      "title": "Richard III",
-      "release_date": "1995-12-29"
+        "title": "Death Train",
+        "year": 1993,
+        "id": 20435,
+        "poster": "https://image.tmdb.org/t/p/w200/zC0MftjGSMUuHFFzZnHnaYWC4gf.jpg"
     },
     {
-      "title": "Loch Ness",
-      "release_date": "1996-02-09"
+        "title": "Kiss of Death",
+        "year": 1995,
+        "id": 6071,
+        "poster": "https://image.tmdb.org/t/p/w200/2cCxEqeIy6Q8HgVjfT7obOnF5Zi.jpg"
     },
     {
-      "title": "Brassed Off",
-      "release_date": "1996-11-01"
+        "title": "Richard III",
+        "year": 1995,
+        "id": 31174,
+        "poster": "https://image.tmdb.org/t/p/w200/cBg1AMH1ucPsDlNMfcHlrreQXQX.jpg"
     },
     {
-      "title": "G.I. Jane",
-      "release_date": "1997-08-22"
+        "title": "Hideaway",
+        "year": 1995,
+        "id": 27303,
+        "poster": "https://image.tmdb.org/t/p/w200/cYWjgxgIJrak0BTemkij3gOCbMa.jpg"
     },
     {
-      "title": "Lawn Dogs",
-      "release_date": "1997-11-21"
+        "title": "Brassed Off",
+        "year": 1996,
+        "id": 9450,
+        "poster": "https://image.tmdb.org/t/p/w200/qS2cZYWn2jlQs4Ej5O42LVIANQB.jpg"
     },
     {
-      "title": "Desperate Measures",
-      "release_date": "1998-01-30"
+        "title": "Loch Ness",
+        "year": 1996,
+        "id": 51043,
+        "poster": "https://image.tmdb.org/t/p/w200/fMXL9o1N150SK0z6Sk6aXnC4oEB.jpg"
     },
     {
-      "title": "Titanic Town",
-      "release_date": "1999-02-26"
+        "title": "G.I. Jane",
+        "year": 1997,
+        "id": 4421,
+        "poster": "https://image.tmdb.org/t/p/w200/6yBgZJYqaR4XkxwjsB9tS4GK1ZN.jpg"
     },
     {
-      "title": "Talk of Angels",
-      "release_date": "1998"
+        "title": "Roseanna's Grave",
+        "year": 1997,
+        "id": 65889,
+        "poster": "https://image.tmdb.org/t/p/w200/qaimjcQYua8UjnEJAx6UPjRRc3a.jpg"
     },
     {
-      "title": "Molly",
-      "release_date": "1999-10-22"
+        "title": "Lawn Dogs",
+        "year": 1997,
+        "id": 35796,
+        "poster": "https://image.tmdb.org/t/p/w200/hNi2M5Z7GUEaSCPjt66yavLlsqV.jpg"
     },
     {
-      "title": "From Hell",
-      "release_date": "2001-10-19"
+        "title": "Dark City",
+        "year": 1998,
+        "id": 2666,
+        "poster": "https://image.tmdb.org/t/p/w200/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg"
     },
     {
-      "title": "Crossroads",
-      "release_date": "2002-02-15"
+        "title": "Desperate Measures",
+        "year": 1998,
+        "id": 9458,
+        "poster": "https://image.tmdb.org/t/p/w200/74ibzyjLp2dizmiua5nHn4llG0l.jpg"
     },
     {
-      "title": "I, Robot",
-      "release_date": "2004-07-07"
+        "title": "Talk of Angels",
+        "year": 1998,
+        "id": 56077,
+        "poster": "https://image.tmdb.org/t/p/w200/8Gipm3UeFxYqT5EE1lxdGmjvDs8.jpg"
     },
     {
-      "title": "The Unsteady Cough",
-      "release_date": "2004"
+        "title": "Titanic Town",
+        "year": 1998,
+        "id": 83036,
+        "poster": "https://image.tmdb.org/t/p/w200/8gl2aeimAngsRHqZQwUKyp93Bdx.jpg"
     },
     {
-      "title": "Aegis",
-      "release_date": "2005"
+        "title": "The Mighty",
+        "year": 1998,
+        "id": 9821,
+        "poster": "https://image.tmdb.org/t/p/w200/m8wJa7LVixCtgcmCJX3eg7dxgJ7.jpg"
     },
     {
-      "title": "Chaos",
-      "release_date": "2005"
+        "title": "Notting Hill",
+        "year": 1999,
+        "id": 509,
+        "poster": "https://image.tmdb.org/t/p/w200/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg"
     },
     {
-      "title": "Fields of Freedom",
-      "release_date": "2006"
+        "title": "Molly",
+        "year": 1999,
+        "id": 44857,
+        "poster": "https://image.tmdb.org/t/p/w200/bKyRoZ8uutxdCMMmrVoivZJ0Mc7.jpg"
     },
     {
-      "title": "We Fight to Be Free",
-      "release_date": "2006-10-27"
+        "title": "Thirteen Days",
+        "year": 2000,
+        "id": 11973,
+        "poster": "https://image.tmdb.org/t/p/w200/aLx9UXH9fK2v6NDMvMyW4X88K3u.jpg"
     },
     {
-      "title": "Jozi-H",
-      "release_date": "2006"
+        "title": "The Long Run",
+        "year": 2001,
+        "id": 2314,
+        "poster": "https://image.tmdb.org/t/p/w200/Su00JYfQ4Nfa3BsrRZ8YGF2Emo.jpg"
     },
     {
-      "title": "Three and Out",
-      "release_date": "2008-04-21"
+        "title": "To End All Wars",
+        "year": 2001,
+        "id": 1783,
+        "poster": "https://image.tmdb.org/t/p/w200/4fXRE02M2EckpGPZNbuZIo05dmL.jpg"
     },
     {
-      "title": "How to Steal 2 Million",
-      "release_date": "2011-09-02"
+        "title": "From Hell",
+        "year": 2001,
+        "id": 768,
+        "poster": "https://image.tmdb.org/t/p/w200/t2WpWM8nBO4sULXr2bDfNEt4qgr.jpg"
     },
     {
-      "title": "War Paint",
-      "release_date": "2011"
+        "title": "Crossroads",
+        "year": 2002,
+        "id": 17130,
+        "poster": "https://image.tmdb.org/t/p/w200/prdFY9Bc28frBhhWl7mPSr7JmFp.jpg"
     },
     {
-      "title": "To Tokyo",
-      "release_date": "2018"
+        "title": "The League of Extraordinary Gentlemen",
+        "year": 2003,
+        "id": 8698,
+        "poster": "https://image.tmdb.org/t/p/w200/kdAuVFP63XXxnb983ry2pLCKd9S.jpg"
+    },
+    {
+        "title": "I'll Be There",
+        "year": 2003,
+        "id": 48967,
+        "poster": "https://image.tmdb.org/t/p/w200/9xbkTT6jGCUsFdaRJhWwISjZ1Ls.jpg"
+    },
+    {
+        "title": "Around the World in 80 Days",
+        "year": 2004,
+        "id": 10204,
+        "poster": "https://image.tmdb.org/t/p/w200/bBiMw6Jtg8tSTcEq8jFV7qk9TRW.jpg"
+    },
+    {
+        "title": "Chaos",
+        "year": 2005,
+        "id": 5289,
+        "poster": "https://image.tmdb.org/t/p/w200/fsqOoouBsNo69vbh2WG6PtpzGBa.jpg"
+    },
+    {
+        "title": "Aegis",
+        "year": 2005,
+        "id": 159535,
+        "poster": "https://image.tmdb.org/t/p/w200/kzkQIs4lhsMuqziPQFPqLO33jiM.jpg"
+    },
+    {
+        "title": "George Washington: We Fight to Be Free",
+        "year": 2006,
+        "id": 788736,
+        "poster": "https://image.tmdb.org/t/p/w200/3QDdaYeofSPkPwRsik3EjiO3AWE.jpg"
+    },
+    {
+        "title": "Fields Of Freedom",
+        "year": 2006,
+        "id": 342209,
+        "poster": null
+    },
+    {
+        "title": "Three and Out",
+        "year": 2008,
+        "id": 14921,
+        "poster": "https://image.tmdb.org/t/p/w200/fXpNfBlpfKapNg9i5fgtHPabABX.jpg"
+    },
+    {
+        "title": "How to Steal 2 Million",
+        "year": 2011,
+        "id": 135243,
+        "poster": "https://image.tmdb.org/t/p/w200/8SPj3p008qQcSX9bw9TBYNBlFq5.jpg"
     }
-  ]
-}
+]

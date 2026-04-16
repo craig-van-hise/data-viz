@@ -1,1549 +1,1010 @@
-{
-  "composer": "Georges Delerue",
-  "filmography": [
+[
     {
-      "title": "Louis Silvers",
-      "release_date": "1934"
+        "title": "Ch\u00e8res vieilles choses",
+        "year": 1957,
+        "id": 1175743,
+        "poster": null
     },
     {
-      "title": "Max Steiner",
-      "release_date": "1935"
+        "title": "A Girl in a Pocket",
+        "year": 1957,
+        "id": 116394,
+        "poster": "https://image.tmdb.org/t/p/w200/jglaNr9XGVTLtf5QdAxkI4ILMWo.jpg"
     },
     {
-      "title": "Leo F. Forbstein",
-      "release_date": "1936"
+        "title": "Along the Coast",
+        "year": 1958,
+        "id": 238952,
+        "poster": "https://image.tmdb.org/t/p/w200/5bETPcUHBEPsSuNxquiisAs2uUv.jpg"
     },
     {
-      "title": "Charles Previn",
-      "release_date": "1937"
+        "title": "Diary of a Pregnant Woman",
+        "year": 1958,
+        "id": 95378,
+        "poster": "https://image.tmdb.org/t/p/w200/nIr8T5lssXSjEGMLrdB51kqKtn8.jpg"
     },
     {
-      "title": "Erich Wolfgang Korngold / Alfred Newman",
-      "release_date": "1938"
+        "title": "Hiroshima Mon Amour",
+        "year": 1959,
+        "id": 5544,
+        "poster": "https://image.tmdb.org/t/p/w200/zieczjWnvalaxwX5EQASEx0on5f.jpg"
     },
     {
-      "title": "Herbert Stothart / Richard Hageman, W. Franke Harling, John Leipold and Leo Shuken",
-      "release_date": "1939"
+        "title": "Shoot the Piano Player",
+        "year": 1960,
+        "id": 1818,
+        "poster": "https://image.tmdb.org/t/p/w200/6UhMIZaaoe2HUU7sEIwYpuYgugh.jpg"
     },
     {
-      "title": "Leigh Harline, Paul J. Smith and Ned Washington / Alfred Newman",
-      "release_date": "1940"
+        "title": "The Big Risk",
+        "year": 1960,
+        "id": 34145,
+        "poster": "https://image.tmdb.org/t/p/w200/uMiuUAlPwiWDKSgu4SoShpzvMR.jpg"
     },
     {
-      "title": "Bernard Herrmann / Frank Churchill and Oliver Wallace",
-      "release_date": "1941"
+        "title": "Do or Die!",
+        "year": 1960,
+        "id": 116220,
+        "poster": "https://image.tmdb.org/t/p/w200/2WuOslXkFMTGjdq7WviGLrMouNX.jpg"
     },
     {
-      "title": "Max Steiner / Ray Heindorf and Heinz Roemheld",
-      "release_date": "1942"
+        "title": "Love and the Frenchwoman",
+        "year": 1960,
+        "id": 98302,
+        "poster": "https://image.tmdb.org/t/p/w200/m9WAW5M83IWEOdhwNsr0h33q1z0.jpg"
     },
     {
-      "title": "Alfred Newman / Ray Heindorf",
-      "release_date": "1943"
+        "title": "A Mistress for the Summer",
+        "year": 1960,
+        "id": 385710,
+        "poster": "https://image.tmdb.org/t/p/w200/lAOjFXnm5vBPzcsFnkl7VTHmJ3s.jpg"
     },
     {
-      "title": "Max Steiner / Morris Stoloff and Carmen Dragon",
-      "release_date": "1944"
+        "title": "The Love Game",
+        "year": 1960,
+        "id": 269125,
+        "poster": "https://image.tmdb.org/t/p/w200/PHTz0AkebFKc1k3hNoxGszfqZZ.jpg"
     },
     {
-      "title": "Miklos Rozsa / Georgie Stoll",
-      "release_date": "1945"
+        "title": "Le Sourire",
+        "year": 1960,
+        "id": 295660,
+        "poster": "https://image.tmdb.org/t/p/w200/1QjjFybqYIz9mAnuRs80fyomawM.jpg"
     },
     {
-      "title": "Hugo Friedhofer / Morris Stoloff",
-      "release_date": "1946"
+        "title": "Le Bel \u00c2ge",
+        "year": 1960,
+        "id": 428076,
+        "poster": "https://image.tmdb.org/t/p/w200/98Z5yPoNIm8sQeyep5cpr5NHov9.jpg"
     },
     {
-      "title": "Miklos Rozsa / Alfred Newman",
-      "release_date": "1947"
+        "title": "Love Exists",
+        "year": 1960,
+        "id": 162320,
+        "poster": "https://image.tmdb.org/t/p/w200/kbpsr3Si6LbErmdOxDOtPVTu2Co.jpg"
     },
     {
-      "title": "Brian Easdale / Johnny Green and Roger Edens",
-      "release_date": "1948"
+        "title": "The Long Absence",
+        "year": 1961,
+        "id": 131836,
+        "poster": "https://image.tmdb.org/t/p/w200/tPs6Lnp0vfiQDzZELxd4uI09AYa.jpg"
     },
     {
-      "title": "Aaron Copland / Roger Edens and Lennie Hayton",
-      "release_date": "1949"
+        "title": "Women and War",
+        "year": 1961,
+        "id": 76549,
+        "poster": "https://image.tmdb.org/t/p/w200/oaawd7kLyDf0ZMAB5PdwPMNAUGD.jpg"
     },
     {
-      "title": "Le myst\u00e8re du quai de Conti",
-      "release_date": "1950"
+        "title": "The Joker",
+        "year": 1961,
+        "id": 142379,
+        "poster": "https://image.tmdb.org/t/p/w200/kqyuWC8PWbVXCKzq8M8mK2QslMZ.jpg"
     },
     {
-      "title": "Franz Waxman / Adolph Deutsch and Roger Edens",
-      "release_date": "1950"
+        "title": "The Passion of Slow Fire",
+        "year": 1961,
+        "id": 251967,
+        "poster": "https://image.tmdb.org/t/p/w200/nhBuiiyjzkEpRuCrGFFMpHWW3Wc.jpg"
     },
     {
-      "title": "Ing\u00e9nieurs de la mer",
-      "release_date": "1951"
+        "title": "Playtime",
+        "year": 1961,
+        "id": 336193,
+        "poster": "https://image.tmdb.org/t/p/w200/6btPShNmaP2ZRvloxK3LYwqBBdq.jpg"
     },
     {
-      "title": "Franz Waxman / Johnny Green and Saul Chaplin",
-      "release_date": "1951"
+        "title": "The Nina B. Affair",
+        "year": 1961,
+        "id": 257607,
+        "poster": "https://image.tmdb.org/t/p/w200/2BfmVgHdjnNgO3LUwKXMxRH6mzA.jpg"
     },
     {
-      "title": "Les techniciens en pompons rouges",
-      "release_date": "1952"
+        "title": "Le bonheur est pour demain",
+        "year": 1961,
+        "id": 343157,
+        "poster": "https://image.tmdb.org/t/p/w200/bqAgo1zUxdtGcOamEbYIsiHMV9g.jpg"
     },
     {
-      "title": "L'aventure et ses Terras-Nuevas",
-      "release_date": "1952"
+        "title": "Five Day Lover",
+        "year": 1961,
+        "id": 269106,
+        "poster": "https://image.tmdb.org/t/p/w200/eHRqrwzD2u5YhwseqMJjvpXiAJs.jpg"
     },
     {
-      "title": "Dimitri Tiomkin / Alfred Newman",
-      "release_date": "1952"
+        "title": "Antoine and Colette",
+        "year": 1962,
+        "id": 256,
+        "poster": "https://image.tmdb.org/t/p/w200/nfP8J7pv75KOAliIM3RG7h6Zos5.jpg"
     },
     {
-      "title": "Berre, cit\u00e9 du p\u00e9trole",
-      "release_date": "1953"
+        "title": "Jules and Jim",
+        "year": 1962,
+        "id": 1628,
+        "poster": "https://image.tmdb.org/t/p/w200/kuFjZlcZhQFDtIjuI3GQJjsQG03.jpg"
     },
     {
-      "title": "Le largage \u00e0 six heures du matin",
-      "release_date": "1953"
+        "title": "Vive Le Tour",
+        "year": 1962,
+        "id": 63893,
+        "poster": "https://image.tmdb.org/t/p/w200/7IN5AESMnYbdmCJa5wfyZRVpkEa.jpg"
     },
     {
-      "title": "Bronislau Kaper / Alfred Newman",
-      "release_date": "1953"
+        "title": "Paris Pick-Up",
+        "year": 1962,
+        "id": 95267,
+        "poster": "https://image.tmdb.org/t/p/w200/i2DlNeadcelnU92C9iBXOZqhh6l.jpg"
     },
     {
-      "title": "Madagascar",
-      "release_date": "1954"
+        "title": "Le bureau des mariages",
+        "year": 1962,
+        "id": 1468465,
+        "poster": null
     },
     {
-      "title": "La grande cit\u00e9 d'Angkor",
-      "release_date": "1954"
+        "title": "Love at Twenty",
+        "year": 1962,
+        "id": 8773,
+        "poster": "https://image.tmdb.org/t/p/w200/aup2QCYCsyEeQfpboXy0f4uj8aE.jpg"
     },
     {
-      "title": "Au rythme du si\u00e8cle",
-      "release_date": "1954"
+        "title": "Contempt",
+        "year": 1963,
+        "id": 266,
+        "poster": "https://image.tmdb.org/t/p/w200/kNElbRcp4Qz6wmJ9kH5vdY004Hq.jpg"
     },
     {
-      "title": "Au pays de Guillaume le Conqu\u00e9rant",
-      "release_date": "1954"
+        "title": "Magnet of Doom",
+        "year": 1963,
+        "id": 69729,
+        "poster": "https://image.tmdb.org/t/p/w200/1wjAEZWBcdjrwePqJ34RLPpAq8.jpg"
     },
     {
-      "title": "Premi\u00e8re croisi\u00e8re",
-      "release_date": "1954"
+        "title": "L'Immortelle",
+        "year": 1963,
+        "id": 121737,
+        "poster": "https://image.tmdb.org/t/p/w200/hTqRHbwRI5kMdEoLE2WXIYDteiS.jpg"
     },
     {
-      "title": "Regards sur l'Indochine",
-      "release_date": "1954"
+        "title": "Highway Pick-Up",
+        "year": 1963,
+        "id": 115162,
+        "poster": "https://image.tmdb.org/t/p/w200/40rd5W2vc67P0zOqPWFQkxxhkqL.jpg"
     },
     {
-      "title": "Dimitri Tiomkin / Adolph Deutsch and Saul Chaplin",
-      "release_date": "1954"
+        "title": "Portuguese Vacation",
+        "year": 1963,
+        "id": 406406,
+        "poster": "https://image.tmdb.org/t/p/w200/uJpYNe2a2jco83h3pNj6XP38Lox.jpg"
     },
     {
-      "title": "\u00c2mes d'argile",
-      "release_date": "1955"
+        "title": "Till the End of the World",
+        "year": 1963,
+        "id": 428812,
+        "poster": "https://image.tmdb.org/t/p/w200/vqf6V2qKCjww75hdZaM909x5VQH.jpg"
     },
     {
-      "title": "Alfred Newman / Robert Russell Bennett, Jay Blackton and Adolph Deutsch",
-      "release_date": "1955"
+        "title": "The Soft Skin",
+        "year": 1964,
+        "id": 1719,
+        "poster": "https://image.tmdb.org/t/p/w200/nYo083NgJCAQQByHzYrayxQ5xBV.jpg"
     },
     {
-      "title": "Sur l'Arroyo",
-      "release_date": "1956"
+        "title": "That Man from Rio",
+        "year": 1964,
+        "id": 4034,
+        "poster": "https://image.tmdb.org/t/p/w200/AhaUqqHTIMSXG6WOMRCreitQ1ZX.jpg"
     },
     {
-      "title": "La rue chinoise",
-      "release_date": "1956"
+        "title": "French Dressing",
+        "year": 1964,
+        "id": 3522,
+        "poster": "https://image.tmdb.org/t/p/w200/m5oqXnICYUaGa4kJGXBzaXqToSG.jpg"
     },
     {
-      "title": "Tu enfanteras sans douleur",
-      "release_date": "1956"
+        "title": "That Tender Age",
+        "year": 1964,
+        "id": 76648,
+        "poster": "https://image.tmdb.org/t/p/w200/nWF20IXssk6dPC3kEvLxFICFeab.jpg"
     },
     {
-      "title": "Marche fran\u00e7aise",
-      "release_date": "1956"
+        "title": "Mata Hari, Agent H21",
+        "year": 1964,
+        "id": 186783,
+        "poster": "https://image.tmdb.org/t/p/w200/6oemw4xFK8yTeGNwXpFVbRrqU21.jpg"
     },
     {
-      "title": "Victor Young / Alfred Newman and Ken Darby",
-      "release_date": "1956"
+        "title": "Let the Shooters Shoot",
+        "year": 1964,
+        "id": 146572,
+        "poster": "https://image.tmdb.org/t/p/w200/fnzGedZaokV5XCQgqKaJqRxRuFH.jpg"
     },
     {
-      "title": "Girl in His Pocket",
-      "release_date": "1957-09-06"
+        "title": "Trouble Among Widows",
+        "year": 1964,
+        "id": 353803,
+        "poster": "https://image.tmdb.org/t/p/w200/fqBIcu3c7aL740qEvpmBJqFrW7W.jpg"
     },
     {
-      "title": "Malcolm Arnold",
-      "release_date": "1957"
+        "title": "The Pumpkin Eater",
+        "year": 1964,
+        "id": 69557,
+        "poster": "https://image.tmdb.org/t/p/w200/5llEDfwte6SnAd2grP065N95yeo.jpg"
     },
     {
-      "title": "Dimitri Tiomkin / Andr\u00e9 Previn",
-      "release_date": "1958"
+        "title": "Greed in the Sun",
+        "year": 1964,
+        "id": 34059,
+        "poster": "https://image.tmdb.org/t/p/w200/s3C7Xm9RCW5grV5zJNSEtAky0Ar.jpg"
     },
     {
-      "title": "Fleuve invisible",
-      "release_date": "1959"
+        "title": "Dandelions by the Roots",
+        "year": 1964,
+        "id": 59237,
+        "poster": "https://image.tmdb.org/t/p/w200/tPMeDUi9SecR8jonStDMknaDNW0.jpg"
     },
     {
-      "title": "Images pour Baudelaire",
-      "release_date": "1959"
+        "title": "Male Companion",
+        "year": 1964,
+        "id": 363295,
+        "poster": "https://image.tmdb.org/t/p/w200/3zj89tfjxW21xjztqo4YXdYgCaQ.jpg"
     },
     {
-      "title": "Hiroshima mon amour",
-      "release_date": "1959-05-08"
+        "title": "Viva Maria!",
+        "year": 1965,
+        "id": 11799,
+        "poster": "https://image.tmdb.org/t/p/w200/hAArxvmVALRNf7fmWdzT7dVFz8k.jpg"
     },
     {
-      "title": "Miklos Rozsa / Andr\u00e9 Previn and Ken Darby",
-      "release_date": "1959"
+        "title": "The Sucker",
+        "year": 1965,
+        "id": 25866,
+        "poster": "https://image.tmdb.org/t/p/w200/kGFE3U01sMApp5Q7h0akEvdTwPK.jpg"
     },
     {
-      "title": "Women and War",
-      "release_date": "1960"
+        "title": "Up to His Ears",
+        "year": 1965,
+        "id": 61765,
+        "poster": "https://image.tmdb.org/t/p/w200/2h1adpIPl82aygyO3BPDyALAEey.jpg"
     },
     {
-      "title": "Une question d'assurance",
-      "release_date": "1960"
+        "title": "Rapture",
+        "year": 1965,
+        "id": 83957,
+        "poster": "https://image.tmdb.org/t/p/w200/3W1cDAKWIYs45Rt0j5EJCjZt8Ev.jpg"
     },
     {
-      "title": "Le bel \u00e2ge",
-      "release_date": "1960"
+        "title": "The Uninhibited",
+        "year": 1965,
+        "id": 198820,
+        "poster": "https://image.tmdb.org/t/p/w200/walFzOAVgTJr9WtwhcjEMxQN79U.jpg"
     },
     {
-      "title": "Une fille pour l'\u00e9t\u00e9",
-      "release_date": "1960"
+        "title": "Bestiary of Love",
+        "year": 1965,
+        "id": 357105,
+        "poster": "https://image.tmdb.org/t/p/w200/wgV1bVn7yTHTjC5WYimZafDiMhx.jpg"
     },
     {
-      "title": "The Big Risk",
-      "release_date": "1960"
+        "title": "The Moment of Peace",
+        "year": 1965,
+        "id": 332965,
+        "poster": "https://image.tmdb.org/t/p/w200/saEyWtAHx3M2TR8igXwQswSJ8t2.jpg"
     },
     {
-      "title": "Marche ou cr\u00e8ve",
-      "release_date": "1960"
+        "title": "Tight Skirts, Loose Pleasures",
+        "year": 1965,
+        "id": 325796,
+        "poster": "https://image.tmdb.org/t/p/w200/btMcKW8EP1jSjzIxaqJUpfz4zw9.jpg"
     },
     {
-      "title": "The Love Game",
-      "release_date": "1960-06-01"
+        "title": "A Man for All Seasons",
+        "year": 1966,
+        "id": 874,
+        "poster": "https://image.tmdb.org/t/p/w200/kcwcqMitcnRO1SySlX1HKVn7yUV.jpg"
     },
     {
-      "title": "Love and the Frenchwoman",
-      "release_date": "1960"
+        "title": "King of Hearts",
+        "year": 1966,
+        "id": 17685,
+        "poster": "https://image.tmdb.org/t/p/w200/7RekNiu247cWDPfSqMyX77Yoez4.jpg"
     },
     {
-      "title": "Shoot the Piano Player",
-      "release_date": "1960-10-21"
+        "title": "Our Mother's House",
+        "year": 1967,
+        "id": 2516,
+        "poster": "https://image.tmdb.org/t/p/w200/yI1Aoy79FyWdqwekiV765lNjYh6.jpg"
     },
     {
-      "title": "Ernest Gold / Morris Stoloff and Harry Sukman",
-      "release_date": "1960"
+        "title": "Oscar",
+        "year": 1967,
+        "id": 2798,
+        "poster": "https://image.tmdb.org/t/p/w200/imsP4Vl1UpsLf27DPxX1atIubBB.jpg"
     },
     {
-      "title": "Sahara Year Four",
-      "release_date": "1961"
+        "title": "The Secret of Wilhelm Storitz",
+        "year": 1967,
+        "id": 346060,
+        "poster": null
     },
     {
-      "title": "The Joker",
-      "release_date": "1961"
+        "title": "The 25th Hour",
+        "year": 1967,
+        "id": 66568,
+        "poster": "https://image.tmdb.org/t/p/w200/6dn74C4XXSU4bAigMdUEDjjM57T.jpg"
     },
     {
-      "title": "Love Play",
-      "release_date": "1961"
+        "title": "On Sunday Afternoon",
+        "year": 1967,
+        "id": 715267,
+        "poster": "https://image.tmdb.org/t/p/w200/phcvz0ABypKlGEpKdxYWfRmgWrw.jpg"
     },
     {
-      "title": "Five Day Lover",
-      "release_date": "1961"
+        "title": "Huckleberry Finn",
+        "year": 1967,
+        "id": 706610,
+        "poster": null
     },
     {
-      "title": "La mort de Belle",
-      "release_date": "1961"
+        "title": "The Sunday of Life",
+        "year": 1967,
+        "id": 64098,
+        "poster": "https://image.tmdb.org/t/p/w200/u3aa44GjY2hIOzrQmWt5F6gGYBB.jpg"
     },
     {
-      "title": "The Long Absence",
-      "release_date": "1961-05-17"
+        "title": "Nobody Runs Forever",
+        "year": 1968,
+        "id": 83359,
+        "poster": "https://image.tmdb.org/t/p/w200/gvefpaQfiwNbx3N727Xydjd67yl.jpg"
     },
     {
-      "title": "Le bonheur est pour demain",
-      "release_date": "1961"
+        "title": "Interlude",
+        "year": 1968,
+        "id": 225852,
+        "poster": "https://image.tmdb.org/t/p/w200/nBnkwbnJqyZHI3HXFPOmhqG3Ja0.jpg"
     },
     {
-      "title": "The Nina B. Affair",
-      "release_date": "1961"
+        "title": "Hibernatus",
+        "year": 1969,
+        "id": 2462,
+        "poster": "https://image.tmdb.org/t/p/w200/dQTG9gwSgaGD9T8vukNFPMOcBh0.jpg"
     },
     {
-      "title": "La morte saison des amours",
-      "release_date": "1961"
+        "title": "The Erasers",
+        "year": 1969,
+        "id": 514401,
+        "poster": "https://image.tmdb.org/t/p/w200/9uIxqPZs6cNLixvVIf6piiVqow2.jpg"
     },
     {
-      "title": "Par-dessus le mur",
-      "release_date": "1961"
+        "title": "Anne of the Thousand Days",
+        "year": 1969,
+        "id": 22522,
+        "poster": "https://image.tmdb.org/t/p/w200/u2p5SspAs1GqeuHXNXywryU3k37.jpg"
     },
     {
-      "title": "Jules et Jim",
-      "release_date": "1962-01-23"
+        "title": "Women in Love",
+        "year": 1969,
+        "id": 66027,
+        "poster": "https://image.tmdb.org/t/p/w200/uHfThxdQC99LLoe2jKZ1u3vIge2.jpg"
     },
     {
-      "title": "Henry Mancini / Saul Chaplin, Johnny Green, Sid Ramin and Irwin Kostal",
-      "release_date": "1961"
+        "title": "A Walk with Love and Death",
+        "year": 1969,
+        "id": 98248,
+        "poster": "https://image.tmdb.org/t/p/w200/c8bXRancCsnw0ubjhJI0lYPnkJv.jpg"
     },
     {
-      "title": "Jules and Jim",
-      "release_date": "1962-01-23"
+        "title": "The Brain",
+        "year": 1969,
+        "id": 33436,
+        "poster": "https://image.tmdb.org/t/p/w200/wCtaWDaOiGPVEoo7tiPBSH7sQx9.jpg"
     },
     {
-      "title": "Cartouche",
-      "release_date": "1962-03-07"
+        "title": "Promise at Dawn",
+        "year": 1970,
+        "id": 277364,
+        "poster": "https://image.tmdb.org/t/p/w200/olkNCkEhhUiRuwMt6hcwxuchGf8.jpg"
     },
     {
-      "title": "Operation Gold Ingot",
-      "release_date": "1962"
+        "title": "The Most Gentle Confessions",
+        "year": 1971,
+        "id": 4287,
+        "poster": "https://image.tmdb.org/t/p/w200/zPk5UMvI1WsggP3d6wGBVDlKiIC.jpg"
     },
     {
-      "title": "Le petit gar\u00e7on de l'ascenseur",
-      "release_date": "1962"
+        "title": "The Conformist",
+        "year": 1971,
+        "id": 8416,
+        "poster": "https://image.tmdb.org/t/p/w200/nLJjFRqIJAK8qz0OKYnpKCblZNK.jpg"
     },
     {
-      "title": "Le monte-charge",
-      "release_date": "1962"
+        "title": "Mira",
+        "year": 1971,
+        "id": 90503,
+        "poster": "https://image.tmdb.org/t/p/w200/zJDYA1VjuZJDQP7ekrYkg0c7BJv.jpg"
     },
     {
-      "title": "Love at Twenty",
-      "release_date": "1962-06-22"
+        "title": "Two English Girls",
+        "year": 1971,
+        "id": 42513,
+        "poster": "https://image.tmdb.org/t/p/w200/2fc5hjuzJbkVKXLy0SoAr2Hbdy2.jpg"
     },
     {
-      "title": "Crime Does Not Pay",
-      "release_date": "1962"
+        "title": "The Horsemen",
+        "year": 1971,
+        "id": 68659,
+        "poster": "https://image.tmdb.org/t/p/w200/8Y4EtsQwcYv0zpiAd3NhhSJOd2D.jpg"
     },
     {
-      "title": "La d\u00e9nonciation",
-      "release_date": "1962"
+        "title": "Malpertuis",
+        "year": 1972,
+        "id": 46362,
+        "poster": "https://image.tmdb.org/t/p/w200/iDb2K01wbVSJZAf03VMVRcyRaYI.jpg"
     },
     {
-      "title": "Maurice Jarre / Ray Heindorf",
-      "release_date": "1962"
+        "title": "Dear Louise",
+        "year": 1972,
+        "id": 198645,
+        "poster": "https://image.tmdb.org/t/p/w200/tGddRdi3Obr3giogyrpV53nlskt.jpg"
     },
     {
-      "title": "Thank You, Natercia",
-      "release_date": "1963"
+        "title": "Day for Night",
+        "year": 1973,
+        "id": 1675,
+        "poster": "https://image.tmdb.org/t/p/w200/e5xDrSx6zDEUlMe2dWKGhv88PDZ.jpg"
     },
     {
-      "title": "Nunca pasa nada",
-      "release_date": "1963"
+        "title": "The Day of the Jackal",
+        "year": 1973,
+        "id": 4909,
+        "poster": "https://image.tmdb.org/t/p/w200/vThgcb3JOj99yETg8WChuci4LV2.jpg"
     },
     {
-      "title": "Till the End of the World",
-      "release_date": "1963"
+        "title": "The Day of the Dolphin",
+        "year": 1973,
+        "id": 42470,
+        "poster": "https://image.tmdb.org/t/p/w200/vLztqesi2Dj5Ny74u33GufVzKR6.jpg"
     },
     {
-      "title": "The Man from Chicago",
-      "release_date": "1930-10-22"
+        "title": "The Slap",
+        "year": 1974,
+        "id": 76198,
+        "poster": "https://image.tmdb.org/t/p/w200/jV7ZW36smhVjjRWoBhFDIEBqqiT.jpg"
     },
     {
-      "title": "L'Immortelle",
-      "release_date": "1963-03-27"
+        "title": "Alien Thunder",
+        "year": 1974,
+        "id": 98387,
+        "poster": "https://image.tmdb.org/t/p/w200/rMzpXYAxHg8wE5mqZCGsUCjrsBS.jpg"
     },
     {
-      "title": "Rififi in Tokyo",
-      "release_date": "1963"
+        "title": "That Most Important Thing: Love",
+        "year": 1975,
+        "id": 3476,
+        "poster": "https://image.tmdb.org/t/p/w200/aMLrx6bRtLCrKiMPPfmGwGChBNd.jpg"
     },
     {
-      "title": "The Reluctant Spy",
-      "release_date": "1963-09-04"
+        "title": "Incorrigible",
+        "year": 1975,
+        "id": 61226,
+        "poster": "https://image.tmdb.org/t/p/w200/7oebCmYVJvmG7qB46inErLLLJbX.jpg"
     },
     {
-      "title": "Magnet of Doom",
-      "release_date": "1963"
+        "title": "Femmes Fatales",
+        "year": 1976,
+        "id": 63481,
+        "poster": "https://image.tmdb.org/t/p/w200/bOnd2yApKBVyjxchUjN1hG5E0kV.jpg"
     },
     {
-      "title": "Portuguese Vacation",
-      "release_date": "1963-10-09"
+        "title": "Police Python 357",
+        "year": 1976,
+        "id": 37455,
+        "poster": "https://image.tmdb.org/t/p/w200/67ddTJ1msWwQtpRtksn0im0ysNW.jpg"
     },
     {
-      "title": "Contempt",
-      "release_date": "1963-10-29"
+        "title": "Boomerang",
+        "year": 1976,
+        "id": 205872,
+        "poster": "https://image.tmdb.org/t/p/w200/jMFF63UyJdCsFEONc2qrLLwBY9s.jpg"
     },
     {
-      "title": "Le journal d'un fou",
-      "release_date": "1963"
+        "title": "The Big Operator",
+        "year": 1976,
+        "id": 114652,
+        "poster": "https://image.tmdb.org/t/p/w200/ayNGVix8lhtcZ4uWt4HTaD8olg.jpg"
     },
     {
-      "title": "Chair de poule",
-      "release_date": "1963-11-13"
+        "title": "Julia",
+        "year": 1977,
+        "id": 42222,
+        "poster": "https://image.tmdb.org/t/p/w200/qHtPzs9eVCilp88c1arq73gH6xk.jpg"
     },
     {
-      "title": "Cent Mille Dollars Au Soleil",
-      "release_date": "1963"
+        "title": "Get Out Your Handkerchiefs",
+        "year": 1978,
+        "id": 4267,
+        "poster": "https://image.tmdb.org/t/p/w200/vS4BlPEJV9QBS7W0urYlomYNWG7.jpg"
     },
     {
-      "title": "John Addison / Andr\u00e9 Previn",
-      "release_date": "1963"
+        "title": "Dear Inspector",
+        "year": 1978,
+        "id": 33337,
+        "poster": "https://image.tmdb.org/t/p/w200/rzHKScCssgA4gJZqNDxcYM4UgrU.jpg"
     },
     {
-      "title": "That Man from Rio",
-      "release_date": "1964-02-05"
+        "title": "Your Turn, My Turn",
+        "year": 1978,
+        "id": 289780,
+        "poster": "https://image.tmdb.org/t/p/w200/zMuxHSj8KUGKO9Kl2S0SAlPEN2C.jpg"
     },
     {
-      "title": "Trouble Among Widows",
-      "release_date": "1964"
+        "title": "Love on the Run",
+        "year": 1979,
+        "id": 259,
+        "poster": "https://image.tmdb.org/t/p/w200/shUrax1ZJXYyclxUaktsTBUHMa9.jpg"
     },
     {
-      "title": "Greed in the Sun",
-      "release_date": "1964"
+        "title": "A Little Romance",
+        "year": 1979,
+        "id": 20813,
+        "poster": "https://image.tmdb.org/t/p/w200/i6M3sxY2jHVey55qWmgTPomSuvc.jpg"
     },
     {
-      "title": "The Soft Skin",
-      "release_date": "1964-04-20"
+        "title": "The Cousteau Odyssey: The Nile Part 1",
+        "year": 1979,
+        "id": 394808,
+        "poster": null
     },
     {
-      "title": "Laissez tirer les tireurs",
-      "release_date": "1964"
+        "title": "The Cousteau Odyssey: The Nile Part 2",
+        "year": 1979,
+        "id": 721086,
+        "poster": null
     },
     {
-      "title": "French Dressing",
-      "release_date": "1964-04-10"
+        "title": "Pierrot mon ami",
+        "year": 1979,
+        "id": 959647,
+        "poster": "https://image.tmdb.org/t/p/w200/rt3ODahnHhvrlNCyRCAeaKtSv1j.jpg"
     },
     {
-      "title": "Salad by the Roots",
-      "release_date": "1964-05-06"
+        "title": "An Almost Perfect Affair",
+        "year": 1979,
+        "id": 134522,
+        "poster": "https://image.tmdb.org/t/p/w200/2eSVujhWo3e4SQ1wprVvZ8WWx0O.jpg"
     },
     {
-      "title": "The Pumpkin Eater",
-      "release_date": "1964-07-14"
+        "title": "Simone de Beauvoir",
+        "year": 1979,
+        "id": 593478,
+        "poster": "https://image.tmdb.org/t/p/w200/1PiaE1ppaAF7hC5mh7N6rLx2VRa.jpg"
     },
     {
-      "title": "Le gros coup",
-      "release_date": "1964"
+        "title": "The Last Metro",
+        "year": 1980,
+        "id": 1716,
+        "poster": "https://image.tmdb.org/t/p/w200/t8KMFg9PiD9GSIHXlzast2WhZex.jpg"
     },
     {
-      "title": "The Other Woman",
-      "release_date": "1964"
+        "title": "First Voyage",
+        "year": 1980,
+        "id": 533826,
+        "poster": "https://image.tmdb.org/t/p/w200/zRIKlB9NqZynr5DhsRPGEHWZwDf.jpg"
     },
     {
-      "title": "The Unvanquished",
-      "release_date": "1964-09-25"
+        "title": "Richard's Things",
+        "year": 1980,
+        "id": 113452,
+        "poster": "https://image.tmdb.org/t/p/w200/yTkyZM8UDlKWwpoIIrrsAlMCcop.jpg"
     },
     {
-      "title": "Male Companion",
-      "release_date": "1964-11-04"
+        "title": "Willie & Phil",
+        "year": 1980,
+        "id": 92323,
+        "poster": "https://image.tmdb.org/t/p/w200/eZ9EbDHZ1zg6KQUS75FDgpXCDGq.jpg"
     },
     {
-      "title": "Lucky Jo",
-      "release_date": "1964-11-11"
+        "title": "The Inquisitor",
+        "year": 1981,
+        "id": 5062,
+        "poster": "https://image.tmdb.org/t/p/w200/7bl8tgNFtaZ3joXNi2eEl5kDtFI.jpg"
     },
     {
-      "title": "That Tender Age",
-      "release_date": "1964-12-23"
+        "title": "True Confessions",
+        "year": 1981,
+        "id": 32077,
+        "poster": "https://image.tmdb.org/t/p/w200/qwTwHKesH4QcvSBkS1dE89AIFst.jpg"
     },
     {
-      "title": "Mata Hari, Agent H21",
-      "release_date": "1965-01-29"
+        "title": "The Woman Next Door",
+        "year": 1981,
+        "id": 12579,
+        "poster": "https://image.tmdb.org/t/p/w200/nxBf3Y7Q9XVuKvUl0df8MW2IsQ7.jpg"
     },
     {
-      "title": "Richard M. Sherman and Robert B. Sherman / Andr\u00e9 Previn",
-      "release_date": "1964"
+        "title": "Rich and Famous",
+        "year": 1981,
+        "id": 109962,
+        "poster": "https://image.tmdb.org/t/p/w200/9nuZSHfHoZquBBd9RBJDQmldj9D.jpg"
     },
     {
-      "title": "Mona, l'\u00e9toile sans nom",
-      "release_date": "1965"
+        "title": "The Passerby",
+        "year": 1982,
+        "id": 5063,
+        "poster": "https://image.tmdb.org/t/p/w200/k67NPm1Id6Hl09oCdcCRqON2Axq.jpg"
     },
     {
-      "title": "The Sucker",
-      "release_date": "1965-03-24"
+        "title": "Documenteur",
+        "year": 1982,
+        "id": 157160,
+        "poster": "https://image.tmdb.org/t/p/w200/hmfyf1qlkSigmiJf3c7Wu0528vt.jpg"
     },
     {
-      "title": "The Uninhibited",
-      "release_date": "1965-04-21"
+        "title": "Partners",
+        "year": 1982,
+        "id": 72340,
+        "poster": "https://image.tmdb.org/t/p/w200/gHVThPfNan8kBdQdw6aSC9cbZu2.jpg"
     },
     {
-      "title": "L'amour \u00e0 la cha\u00eene",
-      "release_date": "1965"
+        "title": "The Escape Artist",
+        "year": 1982,
+        "id": 57725,
+        "poster": "https://image.tmdb.org/t/p/w200/uJ7tk6rEjbS6XV9eYpplnKkGytc.jpg"
     },
     {
-      "title": "Rapture",
-      "release_date": "1965-08-25"
+        "title": "A Little Sex",
+        "year": 1982,
+        "id": 65013,
+        "poster": "https://image.tmdb.org/t/p/w200/bR8lS7WfP4sGoTSsO2JAYHM9oG6.jpg"
     },
     {
-      "title": "Killer Spy",
-      "release_date": "1958-02-26"
+        "title": "Confidentially Yours",
+        "year": 1983,
+        "id": 2455,
+        "poster": "https://image.tmdb.org/t/p/w200/i3B2jDsdxzNpe5Y0gp86uHEVTzT.jpg"
     },
     {
-      "title": "Up to His Ears",
-      "release_date": "1965-12-04"
+        "title": "Silkwood",
+        "year": 1983,
+        "id": 12502,
+        "poster": "https://image.tmdb.org/t/p/w200/7Piz5R5dB6d7v1OWNaIn9GB4qZg.jpg"
     },
     {
-      "title": "Viva Maria!",
-      "release_date": "1965-11-22"
+        "title": "One Deadly Summer",
+        "year": 1983,
+        "id": 9041,
+        "poster": "https://image.tmdb.org/t/p/w200/cVShoNWphKc5txc3sfl6Uf8OU92.jpg"
     },
     {
-      "title": "The Moment of Peace",
-      "release_date": "1965"
+        "title": "The African",
+        "year": 1983,
+        "id": 71055,
+        "poster": "https://image.tmdb.org/t/p/w200/mRkziEqiJEvaCAqDOlvJjEGbGuO.jpg"
     },
     {
-      "title": "Maurice Jarre / Irwin Kostal",
-      "release_date": "1965"
+        "title": "Liberty Belle",
+        "year": 1983,
+        "id": 444484,
+        "poster": "https://image.tmdb.org/t/p/w200/p6CzIv0mi8aBR5EfZbYNIKZ85MY.jpg"
     },
     {
-      "title": "A Man for All Seasons",
-      "release_date": "1966-12-12"
+        "title": "Exposed",
+        "year": 1983,
+        "id": 107246,
+        "poster": "https://image.tmdb.org/t/p/w200/vBZwYg8T3LgCeHSDT2ezjP9ALnO.jpg"
     },
     {
-      "title": "King of Hearts",
-      "release_date": "1966-12-21"
+        "title": "The Black Stallion Returns",
+        "year": 1983,
+        "id": 24883,
+        "poster": "https://image.tmdb.org/t/p/w200/bozQVxJLeHMXMdfY76YLSAwVQBI.jpg"
     },
     {
-      "title": "John Barry / Ken Thorne",
-      "release_date": "1966"
+        "title": "Le Bon Plaisir",
+        "year": 1984,
+        "id": 104349,
+        "poster": "https://image.tmdb.org/t/p/w200/rk91V6n6chTeZ4FhBUDndaf9wrU.jpg"
     },
     {
-      "title": "The Sunday of Life",
-      "release_date": "1967"
+        "title": "Aurora",
+        "year": 1984,
+        "id": 253743,
+        "poster": "https://image.tmdb.org/t/p/w200/jyu9runFhoGOlpLaQjofQhDrI20.jpg"
     },
     {
-      "title": "The 25th Hour",
-      "release_date": "1967-02-16"
+        "title": "Love Thy Neighbor",
+        "year": 1984,
+        "id": 549082,
+        "poster": "https://image.tmdb.org/t/p/w200/66MnhtG1fnekaktQaOLRtastfd2.jpg"
     },
     {
-      "title": "The Two of Us",
-      "release_date": "1967"
+        "title": "Silence of the Heart",
+        "year": 1984,
+        "id": 320753,
+        "poster": "https://image.tmdb.org/t/p/w200/GJR4XsEkFcmbt2e3fymO1sz01V.jpg"
     },
     {
-      "title": "Our Mother's House",
-      "release_date": "1967-09-14"
+        "title": "Arch of Triumph",
+        "year": 1984,
+        "id": 125745,
+        "poster": "https://image.tmdb.org/t/p/w200/snnAtB6AFxQuUwfF7Uem77mxJyW.jpg"
     },
     {
-      "title": "Thursday We Shall Sing Like Sunday",
-      "release_date": "1967"
+        "title": "The Vultures",
+        "year": 1984,
+        "id": 72664,
+        "poster": "https://image.tmdb.org/t/p/w200/f3C4gZ9uZdsJzWUJYcMXlRQZ8WT.jpg"
     },
     {
-      "title": "Oscar",
-      "release_date": "1967"
+        "title": "Mesmerized",
+        "year": 1985,
+        "id": 73515,
+        "poster": "https://image.tmdb.org/t/p/w200/gE12XOvEU0wJEw2GvlmgcpLKjBx.jpg"
     },
     {
-      "title": "Elmer Bernstein / Alfred Newman and Ken Darby",
-      "release_date": "1967"
+        "title": "Stone Pillow",
+        "year": 1985,
+        "id": 83139,
+        "poster": "https://image.tmdb.org/t/p/w200/liI7EZz0ueJmkKGy0aJLguzk2Cn.jpg"
     },
     {
-      "title": "A Little Virtuous",
-      "release_date": "1968-02-21"
+        "title": "Amos",
+        "year": 1985,
+        "id": 263057,
+        "poster": "https://image.tmdb.org/t/p/w200/cRFyCqIAKDWtfFynpI4Vaw0ooCz.jpg"
     },
     {
-      "title": "The Hotshots",
-      "release_date": "1968"
+        "title": "Agnes of God",
+        "year": 1985,
+        "id": 24735,
+        "poster": "https://image.tmdb.org/t/p/w200/m2QrxkojSmQb9k4DN6qhovDHLwD.jpg"
     },
     {
-      "title": "Interlude",
-      "release_date": "1968"
+        "title": "The Execution",
+        "year": 1985,
+        "id": 358120,
+        "poster": "https://image.tmdb.org/t/p/w200/5I07Zvq1hSuOr6fgYlCui9SAYui.jpg"
     },
     {
-      "title": "The High Commissioner",
-      "release_date": "1968-08-22"
+        "title": "A Time to Live",
+        "year": 1985,
+        "id": 412386,
+        "poster": "https://image.tmdb.org/t/p/w200/ieDt9mur7nfQ0n11t2sVqERvnds.jpg"
     },
     {
-      "title": "John Barry / Johnny Green",
-      "release_date": "1968"
+        "title": "Platoon",
+        "year": 1986,
+        "id": 792,
+        "poster": "https://image.tmdb.org/t/p/w200/m3mmFkPQKvPZq5exmh0bDuXlD9T.jpg"
     },
     {
-      "title": "The Erasers",
-      "release_date": "1969"
+        "title": "Salvador",
+        "year": 1986,
+        "id": 6106,
+        "poster": "https://image.tmdb.org/t/p/w200/c5JgUmzN7syTFy9suwoHF3vhNsN.jpg"
     },
     {
-      "title": "The Brain",
-      "release_date": "1969-03-07"
+        "title": "Crimes of the Heart",
+        "year": 1986,
+        "id": 48259,
+        "poster": "https://image.tmdb.org/t/p/w200/yet0Ww2A7f5qT7MisDuIBSXdV3r.jpg"
     },
     {
-      "title": "The Devil by the Tail",
-      "release_date": "1969-02-07"
+        "title": "Sword of Gideon",
+        "year": 1986,
+        "id": 43626,
+        "poster": "https://image.tmdb.org/t/p/w200/xohJrnuUGlij7raPx9wcA6xY6GO.jpg"
     },
     {
-      "title": "Hibernatus",
-      "release_date": "1969"
+        "title": "Family Business",
+        "year": 1986,
+        "id": 63398,
+        "poster": "https://image.tmdb.org/t/p/w200/vvfK0G7DLrY11sLJsUXnTV50MMJ.jpg"
     },
     {
-      "title": "Women in Love",
-      "release_date": "1969-11-13"
+        "title": "Women of Valor",
+        "year": 1986,
+        "id": 210486,
+        "poster": "https://image.tmdb.org/t/p/w200/uNf7Kszn2w6bDBxcbsVpTIfCROr.jpg"
     },
     {
-      "title": "A Walk with Love and Death",
-      "release_date": "1969-10-05"
+        "title": "Maid to Order",
+        "year": 1987,
+        "id": 2608,
+        "poster": "https://image.tmdb.org/t/p/w200/l5XNXwjRieKMixWL7rGgtLANf75.jpg"
     },
     {
-      "title": "Anne of the Thousand Days",
-      "release_date": "1969-12-18"
+        "title": "The Lonely Passion of Judith Hearne",
+        "year": 1987,
+        "id": 35841,
+        "poster": "https://image.tmdb.org/t/p/w200/g8Nv1flxRFzjhSywUVApHKWeAMV.jpg"
     },
     {
-      "title": "Burt Bacharach / Lennie Hayton and Lionel Newman",
-      "release_date": "1969"
+        "title": "A Man in Love",
+        "year": 1987,
+        "id": 80605,
+        "poster": "https://image.tmdb.org/t/p/w200/lbCwckiCZZDPSnDBhWVeQLspQqF.jpg"
     },
     {
-      "title": "Happy He Who Like Ulysses",
-      "release_date": "1970"
+        "title": "Escape from Sobibor",
+        "year": 1987,
+        "id": 25318,
+        "poster": "https://image.tmdb.org/t/p/w200/w3IGS3gAecPB5dNeQH4926S9PSi.jpg"
     },
     {
-      "title": "Give Her the Moon",
-      "release_date": "1970"
+        "title": "Beaches",
+        "year": 1988,
+        "id": 15592,
+        "poster": "https://image.tmdb.org/t/p/w200/vol5TCGHDbi8r0yo0TrIGFiGxJ7.jpg"
     },
     {
-      "title": "The Conformist",
-      "release_date": "1970-07-01"
+        "title": "A Summer Story",
+        "year": 1988,
+        "id": 123623,
+        "poster": "https://image.tmdb.org/t/p/w200/3uy8p48wyd4gBBtJKbyQPvE0nze.jpg"
     },
     {
-      "title": "Promise at Dawn",
-      "release_date": "1970"
+        "title": "Twins",
+        "year": 1988,
+        "id": 9493,
+        "poster": "https://image.tmdb.org/t/p/w200/stJx9BQZbXrZnTGf9Erc7d2UMVc.jpg"
     },
     {
-      "title": "Il Conformista",
-      "release_date": "1970"
+        "title": "Biloxi Blues",
+        "year": 1988,
+        "id": 19382,
+        "poster": "https://image.tmdb.org/t/p/w200/vAhQegSNb0OYwBN2KbSr8GRSUsI.jpg"
     },
     {
-      "title": "Francis Lai / The Beatles (John Lennon, Paul McCartney, George Harrison and Ringo Starr)",
-      "release_date": "1970"
+        "title": "Heartbreak Hotel",
+        "year": 1988,
+        "id": 38615,
+        "poster": "https://image.tmdb.org/t/p/w200/9FeHaHPHXsZZle8qAQWTJSGPOji.jpg"
     },
     {
-      "title": "Malpertuis: The Legend of Doom House",
-      "release_date": "1971"
+        "title": "The House on Carroll Street",
+        "year": 1988,
+        "id": 75889,
+        "poster": "https://image.tmdb.org/t/p/w200/kqYP8ZWYTObqzrGEDafUSfEQyFg.jpg"
     },
     {
-      "title": "Reckonings Against the Grain",
-      "release_date": "1971"
+        "title": "The French Revolution",
+        "year": 1989,
+        "id": 4228,
+        "poster": "https://image.tmdb.org/t/p/w200/qkIOwWwXQTNxr9q8X9YSfeYgvmA.jpg"
     },
     {
-      "title": "Mira",
-      "release_date": "1971"
+        "title": "Steel Magnolias",
+        "year": 1989,
+        "id": 10860,
+        "poster": "https://image.tmdb.org/t/p/w200/7ExUSN9s9gX9bhVM17zDLEizano.jpg"
     },
     {
-      "title": "The Most Gentle Confessions",
-      "release_date": "1971"
+        "title": "Her Alibi",
+        "year": 1989,
+        "id": 17819,
+        "poster": "https://image.tmdb.org/t/p/w200/zPewmxWwDOMucFnaXXH26tfAv7m.jpg"
     },
     {
-      "title": "The Horsemen",
-      "release_date": "1971-07-24"
+        "title": "Seven Minutes",
+        "year": 1989,
+        "id": 264943,
+        "poster": "https://image.tmdb.org/t/p/w200/gi1QMnjfyQzZJ3caeYhJXTqAYz1.jpg"
     },
     {
-      "title": "Two English Girls",
-      "release_date": "1971-11-18"
+        "title": "Paris by Night",
+        "year": 1989,
+        "id": 475628,
+        "poster": "https://image.tmdb.org/t/p/w200/qLnBl0xfBlBCyYo4NtJ2Uk43P74.jpg"
     },
     {
-      "title": "Michel Legrand / John Williams",
-      "release_date": "1971"
+        "title": "Joe Versus the Volcano",
+        "year": 1990,
+        "id": 2565,
+        "poster": "https://image.tmdb.org/t/p/w200/fwjMUuDZUxedfsUpVQKQN8cYfzB.jpg"
     },
     {
-      "title": "The Artless One",
-      "release_date": "1972"
+        "title": "Cadence",
+        "year": 1990,
+        "id": 28553,
+        "poster": "https://image.tmdb.org/t/p/w200/aPzyKG7eqjtmnKxrFcoJ8v7Ro5b.jpg"
     },
     {
-      "title": "Dear Louise",
-      "release_date": "1972-09-06"
+        "title": "A Show of Force",
+        "year": 1990,
+        "id": 26426,
+        "poster": "https://image.tmdb.org/t/p/w200/keqFwiYtHnTIMTMvQjAYyGEkrQp.jpg"
     },
     {
-      "title": "Such a Gorgeous Kid Like Me",
-      "release_date": "1972-09-12"
+        "title": "Curly Sue",
+        "year": 1991,
+        "id": 11894,
+        "poster": "https://image.tmdb.org/t/p/w200/cndkzlP5frVWxng5HLd4JvA2g2y.jpg"
     },
     {
-      "title": "Somewhere, Someone",
-      "release_date": "1972"
+        "title": "Black Robe",
+        "year": 1991,
+        "id": 41784,
+        "poster": "https://image.tmdb.org/t/p/w200/fsqwLjRIVgaykvf2jCwGNOfGoC1.jpg"
     },
     {
-      "title": "Charlie Chaplin, Raymond Rasch and Larry Russell / Ralph Burns",
-      "release_date": "1972"
+        "title": "Mister Johnson",
+        "year": 1991,
+        "id": 123772,
+        "poster": "https://image.tmdb.org/t/p/w200/pkvaIlFJOw4CKm7820Rhw7t9xUJ.jpg"
     },
     {
-      "title": "Day for Night",
-      "release_date": "1973-05-14"
+        "title": "The White Queen",
+        "year": 1991,
+        "id": 164023,
+        "poster": "https://image.tmdb.org/t/p/w200/mPURXkk1W80loTgh6Uheku26GB4.jpg"
     },
     {
-      "title": "The Day of the Jackal",
-      "release_date": "1973-05-16"
+        "title": "The Josephine Baker Story",
+        "year": 1991,
+        "id": 88614,
+        "poster": "https://image.tmdb.org/t/p/w200/mjwf8huzfK4TULeraBZeQxrA2Kr.jpg"
     },
     {
-      "title": "Love Comes Quietly",
-      "release_date": "1973"
+        "title": "American Friends",
+        "year": 1991,
+        "id": 75350,
+        "poster": "https://image.tmdb.org/t/p/w200/oDMaiL24iF9RJCnfX477YxFzbY0.jpg"
     },
     {
-      "title": "The Day of the Dolphin",
-      "release_date": "1973-12-19"
+        "title": "Di\u00ean Bi\u00ean Phu",
+        "year": 1992,
+        "id": 74714,
+        "poster": "https://image.tmdb.org/t/p/w200/snqmAzSevLzf8hip90clpdIvVip.jpg"
     },
     {
-      "title": "Marvin Hamlisch / Marvin Hamlisch",
-      "release_date": "1973"
+        "title": "Man Trouble",
+        "year": 1992,
+        "id": 39472,
+        "poster": "https://image.tmdb.org/t/p/w200/3hpxleh58Ln1jLcF9hczRTWxtP9.jpg"
     },
     {
-      "title": "Alien Thunder",
-      "release_date": "1974-02-22"
+        "title": "C\u00e9line",
+        "year": 1992,
+        "id": 123348,
+        "poster": "https://image.tmdb.org/t/p/w200/ipmmn3LMpZGG5Sgv7B4jXhO2hkZ.jpg"
     },
     {
-      "title": "La femme de Jean",
-      "release_date": "1974"
+        "title": "Rich in Love",
+        "year": 1992,
+        "id": 180576,
+        "poster": "https://image.tmdb.org/t/p/w200/wNz2pIVeFze8gYubn0iEgSyZ5dj.jpg"
     },
     {
-      "title": "The Slap",
-      "release_date": "1974-10-23"
+        "title": "Cin\u00e9ma, de notre temps: Dani\u00e8le Huillet, Jean-Marie Straub - cin\u00e9astes",
+        "year": 2001,
+        "id": 403061,
+        "poster": null
     },
     {
-      "title": "Paul Gauguin",
-      "release_date": "1974"
-    },
-    {
-      "title": "Nino Rota and Carmine Coppola / Nelson Riddle",
-      "release_date": "1974"
-    },
-    {
-      "title": "That Most Important Thing: Love",
-      "release_date": "1975-02-12"
-    },
-    {
-      "title": "Incorrigible",
-      "release_date": "1975"
-    },
-    {
-      "title": "John Williams / Leonard Rosenman",
-      "release_date": "1975"
-    },
-    {
-      "title": "Femmes fatales",
-      "release_date": "1976"
-    },
-    {
-      "title": "Forget Me, Mandoline",
-      "release_date": "1976"
-    },
-    {
-      "title": "Nevermore, Forever",
-      "release_date": "1976"
-    },
-    {
-      "title": "Police Python 357",
-      "release_date": "1976"
-    },
-    {
-      "title": "Boomerang",
-      "release_date": "1976-08-17"
-    },
-    {
-      "title": "The Game of Solitaire",
-      "release_date": "1976"
-    },
-    {
-      "title": "The Big Operator",
-      "release_date": "1976-12-01"
-    },
-    {
-      "title": "Jerry Goldsmith / Leonard Rosenman",
-      "release_date": "1976"
-    },
-    {
-      "title": "Fran\u00e7ois de Roubaix",
-      "release_date": "1976"
-    },
-    {
-      "title": "Julie Gluepot",
-      "release_date": "1977"
-    },
-    {
-      "title": "Julia",
-      "release_date": "1977-10-02"
-    },
-    {
-      "title": "Focal Point",
-      "release_date": "1977"
-    },
-    {
-      "title": "John Williams / Jonathan Tunick",
-      "release_date": "1977"
-    },
-    {
-      "title": "Philippe Sarde",
-      "release_date": "1977"
-    },
-    {
-      "title": "Get Out Your Handkerchiefs",
-      "release_date": "1978-01-11"
-    },
-    {
-      "title": "Dear Inspector",
-      "release_date": "1978"
-    },
-    {
-      "title": "Va voir maman, papa travaille",
-      "release_date": "1978"
-    },
-    {
-      "title": "La petite fille en velours bleu",
-      "release_date": "1978"
-    },
-    {
-      "title": "Giorgio Moroder / Joe Renzetti",
-      "release_date": "1978"
-    },
-    {
-      "title": "Miklos Rozsa",
-      "release_date": "1978"
-    },
-    {
-      "title": "Le cavaleur",
-      "release_date": "1979"
-    },
-    {
-      "title": "Love on the Run",
-      "release_date": "1979-01-29"
-    },
-    {
-      "title": "Mijn vriend",
-      "release_date": "1979"
-    },
-    {
-      "title": "A Little Romance",
-      "release_date": "1979"
-    },
-    {
-      "title": "An Almost Perfect Affair",
-      "release_date": "1979"
-    },
-    {
-      "title": "The Black Sheep",
-      "release_date": "1979"
-    },
-    {
-      "title": "Georges Delerue / Ralph Burns",
-      "release_date": "1979"
-    },
-    {
-      "title": "Georges Delerue",
-      "release_date": "1979"
-    },
-    {
-      "title": "First Voyage",
-      "release_date": "1980"
-    },
-    {
-      "title": "Willie & Phil",
-      "release_date": "1980"
-    },
-    {
-      "title": "The Last Metro",
-      "release_date": "1980"
-    },
-    {
-      "title": "Richard's Things",
-      "release_date": "1980"
-    },
-    {
-      "title": "Michael Gore",
-      "release_date": "1980"
-    },
-    {
-      "title": "Broken English",
-      "release_date": "1981"
-    },
-    {
-      "title": "Documenteur",
-      "release_date": "1981"
-    },
-    {
-      "title": "Rich and Famous",
-      "release_date": "1981-09-23"
-    },
-    {
-      "title": "Garde \u00e0 Vue",
-      "release_date": "1981-09-23"
-    },
-    {
-      "title": "La vie continue",
-      "release_date": "1981"
-    },
-    {
-      "title": "True Confessions",
-      "release_date": "1981-09-25"
-    },
-    {
-      "title": "The Woman Next Door",
-      "release_date": "1981-09-30"
-    },
-    {
-      "title": "The Borgias",
-      "release_date": "1981"
-    },
-    {
-      "title": "Vivement Dimanche!",
-      "release_date": "1981"
-    },
-    {
-      "title": "Vangelis",
-      "release_date": "1981"
-    },
-    {
-      "title": "Josepha",
-      "release_date": "1982"
-    },
-    {
-      "title": "A Little Sex",
-      "release_date": "1982-04-02"
-    },
-    {
-      "title": "Guy de Maupassant",
-      "release_date": "1982"
-    },
-    {
-      "title": "La Passante du Sans-Souci",
-      "release_date": "1982-04-14"
-    },
-    {
-      "title": "Partners",
-      "release_date": "1982-04-30"
-    },
-    {
-      "title": "The Escape Artist",
-      "release_date": "1982-05-07"
-    },
-    {
-      "title": "Something Wicked This Way Comes",
-      "release_date": "1983-04-29"
-    },
-    {
-      "title": "John Williams / Henry Mancini and Leslie Bricusse",
-      "release_date": "1982"
-    },
-    {
-      "title": "Vladimir Cosma",
-      "release_date": "1982"
-    },
-    {
-      "title": "L'africain",
-      "release_date": "1983"
-    },
-    {
-      "title": "The Black Stallion Returns",
-      "release_date": "1983-03-25"
-    },
-    {
-      "title": "Man, Woman and Child",
-      "release_date": "1983-04-01"
-    },
-    {
-      "title": "Exposed",
-      "release_date": "1983"
-    },
-    {
-      "title": "One Deadly Summer",
-      "release_date": "1983-05-10"
-    },
-    {
-      "title": "Confidentially Yours",
-      "release_date": "1983-08-05"
-    },
-    {
-      "title": "Liberty Belle",
-      "release_date": "1983-09-14"
-    },
-    {
-      "title": "Silkwood",
-      "release_date": "1983-12-14"
-    },
-    {
-      "title": "La Femma d'A Cote",
-      "release_date": "1983"
-    },
-    {
-      "title": "Bill Conti / Michel Legrand, Alan and Marilyn Bergman",
-      "release_date": "1983"
-    },
-    {
-      "title": "Michel Portal",
-      "release_date": "1983"
-    },
-    {
-      "title": "Love Thy Neighbor",
-      "release_date": "1984"
-    },
-    {
-      "title": "Le Bon Plaisir",
-      "release_date": "1984-01-18"
-    },
-    {
-      "title": "Femmes de personne",
-      "release_date": "1984"
-    },
-    {
-      "title": "Les Morfalous",
-      "release_date": "1984-03-28"
-    },
-    {
-      "title": "Agnes of God",
-      "release_date": "1985-08-21"
-    },
-    {
-      "title": "Maurice Jarre / Prince",
-      "release_date": "1984"
-    },
-    {
-      "title": "Vladimir Cosma",
-      "release_date": "1984"
-    },
-    {
-      "title": "Agnes of God",
-      "release_date": "1985-08-21"
-    },
-    {
-      "title": "Maxie",
-      "release_date": "1985"
-    },
-    {
-      "title": "A Time to Live",
-      "release_date": "1985"
-    },
-    {
-      "title": "John Barry",
-      "release_date": "1985"
-    },
-    {
-      "title": "Michel Portal",
-      "release_date": "1985"
-    },
-    {
-      "title": "Salvador",
-      "release_date": "1986-03-05"
-    },
-    {
-      "title": "Conseil de famille",
-      "release_date": "1986-03-19"
-    },
-    {
-      "title": "Touch and Go",
-      "release_date": "1986-08-22"
-    },
-    {
-      "title": "Descente Aux Enfers (Descent Into Hell)",
-      "release_date": "1986"
-    },
-    {
-      "title": "Crimes of the Heart",
-      "release_date": "1986-12-12"
-    },
-    {
-      "title": "Platoon",
-      "release_date": "1986-12-19"
-    },
-    {
-      "title": "My Letter to George",
-      "release_date": "1985-11-18"
-    },
-    {
-      "title": "Sword of Gideon",
-      "release_date": "1986"
-    },
-    {
-      "title": "Herbie Hancock",
-      "release_date": "1986"
-    },
-    {
-      "title": "Jos\u00e9 Luis Casti\u00f1eira de Dios and Astor Piazzolla",
-      "release_date": "1986"
-    },
-    {
-      "title": "A Man in Love",
-      "release_date": "1987"
-    },
-    {
-      "title": "Maid to Order",
-      "release_date": "1987-07-10"
-    },
-    {
-      "title": "The Pick-up Artist",
-      "release_date": "1987-09-18"
-    },
-    {
-      "title": "The Lonely Passion of Judith Hearne",
-      "release_date": "1987-12-23"
-    },
-    {
-      "title": "Ryuichi Sakamoto, David Byrne and Cong Su",
-      "release_date": "1987"
-    },
-    {
-      "title": "Herbie Hancock",
-      "release_date": "1987"
-    },
-    {
-      "title": "The House on Carroll Street",
-      "release_date": "1988-03-04"
-    },
-    {
-      "title": "Chouans!",
-      "release_date": "1988-03-23"
-    },
-    {
-      "title": "Biloxi Blues",
-      "release_date": "1988"
-    },
-    {
-      "title": "A Summer Story",
-      "release_date": "1988"
-    },
-    {
-      "title": "To Kill a Priest",
-      "release_date": "1988-09-07"
-    },
-    {
-      "title": "Memories of Me",
-      "release_date": "1988-10-07"
-    },
-    {
-      "title": "Heartbreak Hotel",
-      "release_date": "1988-09-30"
-    },
-    {
-      "title": "Paris by Night",
-      "release_date": "1988"
-    },
-    {
-      "title": "Twins",
-      "release_date": "1988-12-09"
-    },
-    {
-      "title": "Beaches",
-      "release_date": "1988-12-21"
-    },
-    {
-      "title": "Dave Grusin",
-      "release_date": "1988"
-    },
-    {
-      "title": "Michel Portal",
-      "release_date": "1988"
-    },
-    {
-      "title": "Her Alibi",
-      "release_date": "1989-02-03"
-    },
-    {
-      "title": "La R\u00e9volution fran\u00e7aise",
-      "release_date": "1989-05-10"
-    },
-    {
-      "title": "The Spirit",
-      "release_date": "1989"
-    },
-    {
-      "title": "Seven Minutes\u00a0(de)",
-      "release_date": "1989"
-    },
-    {
-      "title": "Steel Magnolias",
-      "release_date": "1989-11-15"
-    },
-    {
-      "title": "Alan Menken",
-      "release_date": "1989"
-    },
-    {
-      "title": "\u00c9ric Serra",
-      "release_date": "1989"
-    },
-    {
-      "title": "Joe Versus the Volcano",
-      "release_date": "1990-03-09"
-    },
-    {
-      "title": "A Show of Force",
-      "release_date": "1990"
-    },
-    {
-      "title": "Slacker",
-      "release_date": "1990-04-21"
-    },
-    {
-      "title": "Mister Johnson",
-      "release_date": "1991-03-22"
-    },
-    {
-      "title": "Cadence",
-      "release_date": "1991-01-18"
-    },
-    {
-      "title": "The London Sessions",
-      "release_date": "1990"
-    },
-    {
-      "title": "Delerue: Suite Cin\u00e9matographique, Tir\u00e9e des films",
-      "release_date": "1990"
-    },
-    {
-      "title": "John Barry",
-      "release_date": "1990"
-    },
-    {
-      "title": "Oswald d'Andr\u00e9a",
-      "release_date": "1990"
-    },
-    {
-      "title": "American Friends",
-      "release_date": "1991-03-22"
-    },
-    {
-      "title": "La reine blanche",
-      "release_date": "1991"
-    },
-    {
-      "title": "Black Robe",
-      "release_date": "1991-09-05"
-    },
-    {
-      "title": "Curly Sue",
-      "release_date": "1991-10-25"
-    },
-    {
-      "title": "Without Warning: The James Brady Story",
-      "release_date": "1991"
-    },
-    {
-      "title": "The Josephine Baker Story",
-      "release_date": "1991"
-    },
-    {
-      "title": "Les Deux Anglaises et le Continent",
-      "release_date": "1991"
-    },
-    {
-      "title": "Alan Menken",
-      "release_date": "1991"
-    },
-    {
-      "title": "Jean-Claude Petit",
-      "release_date": "1991"
-    },
-    {
-      "title": "Dien Bien Phu",
-      "release_date": "1992-03-04"
-    },
-    {
-      "title": "C\u00e9line",
-      "release_date": "1992"
-    },
-    {
-      "title": "Man Trouble",
-      "release_date": "1992-07-17"
-    },
-    {
-      "title": "Rich in Love",
-      "release_date": "1992-10-29"
-    },
-    {
-      "title": "Memento Mori1",
-      "release_date": "1992"
-    },
-    {
-      "title": "Black Robe",
-      "release_date": "1991-09-05"
-    },
-    {
-      "title": "Di\u00ean Bi\u00ean Ph\u00fa",
-      "release_date": "1992"
-    },
-    {
-      "title": "Alan Menken",
-      "release_date": "1992"
-    },
-    {
-      "title": "Jordi Savall",
-      "release_date": "1992"
-    },
-    {
-      "title": "Like a Boomerang",
-      "release_date": "1993"
-    },
-    {
-      "title": "John Williams",
-      "release_date": "1993"
-    },
-    {
-      "title": "Gabriel Yared",
-      "release_date": "1993"
-    },
-    {
-      "title": "Hans Zimmer",
-      "release_date": "1994"
-    },
-    {
-      "title": "Khaled",
-      "release_date": "1994"
-    },
-    {
-      "title": "Luis Bacalov / Alan Menken and Stephen Schwartz",
-      "release_date": "1995"
-    },
-    {
-      "title": "Zbigniew Preisner",
-      "release_date": "1995"
-    },
-    {
-      "title": "Gabriel Yared / Rachel Portman",
-      "release_date": "1996"
-    },
-    {
-      "title": "Michel Colombier, Serge Gainsbourg and Zbigniew Preisner",
-      "release_date": "1996"
-    },
-    {
-      "title": "Georges Delerue: Music from the Films of Fran\u00e7ois Truffaut",
-      "release_date": "1997"
-    },
-    {
-      "title": "James Horner / Anne Dudley",
-      "release_date": "1997"
-    },
-    {
-      "title": "Bruno Coulais",
-      "release_date": "1997"
-    },
-    {
-      "title": "Nicola Piovani / Stephen Warbeck",
-      "release_date": "1998"
-    },
-    {
-      "title": "Bernardo Sandoval",
-      "release_date": "1998"
-    },
-    {
-      "title": "John Corigliano",
-      "release_date": "1999"
-    },
-    {
-      "title": "Tony Gatlif",
-      "release_date": "1999"
-    },
-    {
-      "title": "Comme un Boomerang",
-      "release_date": "2000"
-    },
-    {
-      "title": "Tan Dun",
-      "release_date": "2000"
-    },
-    {
-      "title": "Bruno Coulais",
-      "release_date": "2000"
-    },
-    {
-      "title": "Howard Shore",
-      "release_date": "2001"
-    },
-    {
-      "title": "Tony Gatlif, La Caita, Sheikh Ahmad Al Tuni and Tomatito",
-      "release_date": "2001"
-    },
-    {
-      "title": "Joe Versus the Volcano",
-      "release_date": "1990-03-09"
-    },
-    {
-      "title": "Elliot Goldenthal",
-      "release_date": "2002"
-    },
-    {
-      "title": "Yann Tiersen",
-      "release_date": "2002"
-    },
-    {
-      "title": "Howard Shore",
-      "release_date": "2003"
-    },
-    {
-      "title": "Wojciech Kilar",
-      "release_date": "2003"
-    },
-    {
-      "title": "Jan A. P. Kaczmarek",
-      "release_date": "2004"
-    },
-    {
-      "title": "Beno\u00eet Charest",
-      "release_date": "2004"
-    },
-    {
-      "title": "True Confessions",
-      "release_date": "1981-09-25"
-    },
-    {
-      "title": "Gustavo Santaolalla",
-      "release_date": "2005"
-    },
-    {
-      "title": "Bruno Coulais",
-      "release_date": "2005"
-    },
-    {
-      "title": "An Almost Perfect Affair",
-      "release_date": "2006"
-    },
-    {
-      "title": "The Pick-Up Artist",
-      "release_date": "2006"
-    },
-    {
-      "title": "Gustavo Santaolalla",
-      "release_date": "2006"
-    },
-    {
-      "title": "Alexandre Desplat",
-      "release_date": "2006"
-    },
-    {
-      "title": "The Cinema of Fran\u00e7ois Truffaut",
-      "release_date": "2007"
-    },
-    {
-      "title": "Dario Marianelli",
-      "release_date": "2007"
-    },
-    {
-      "title": "-M-",
-      "release_date": "2007"
-    },
-    {
-      "title": "Promise at Dawn",
-      "release_date": "2008"
-    },
-    {
-      "title": "Georges Delerue: Jules et Jim; Les Deux Anglaises",
-      "release_date": "2008"
-    },
-    {
-      "title": "A. R. Rahman",
-      "release_date": "2008"
-    },
-    {
-      "title": "Alex Beaupain",
-      "release_date": "2008"
-    },
-    {
-      "title": "Michael Giacchino",
-      "release_date": "2009"
-    },
-    {
-      "title": "Michael Galasso",
-      "release_date": "2009"
-    },
-    {
-      "title": "Trent Reznor and Atticus Ross",
-      "release_date": "2010"
-    },
-    {
-      "title": "Armand Amar",
-      "release_date": "2010"
-    },
-    {
-      "title": "Partitions Inedites",
-      "release_date": "2011"
-    },
-    {
-      "title": "Ludovic Bource",
-      "release_date": "2011"
-    },
-    {
-      "title": "Alexandre Desplat",
-      "release_date": "2011"
-    },
-    {
-      "title": "Mychael Danna",
-      "release_date": "2012"
-    },
-    {
-      "title": "Ludovic Bource",
-      "release_date": "2012"
-    },
-    {
-      "title": "Steven Price",
-      "release_date": "2013"
-    },
-    {
-      "title": "Alexandre Desplat",
-      "release_date": "2013"
-    },
-    {
-      "title": "Alexandre Desplat",
-      "release_date": "2014"
-    },
-    {
-      "title": "Martin Wheeler",
-      "release_date": "2014"
-    },
-    {
-      "title": "Ennio Morricone",
-      "release_date": "2015"
-    },
-    {
-      "title": "Amine Bouhafa",
-      "release_date": "2015"
-    },
-    {
-      "title": "Justin Hurwitz",
-      "release_date": "2016"
-    },
-    {
-      "title": "Warren Ellis",
-      "release_date": "2016"
-    },
-    {
-      "title": "Alexandre Desplat",
-      "release_date": "2017"
-    },
-    {
-      "title": "Ibrahim Maalouf",
-      "release_date": "2017"
-    },
-    {
-      "title": "Ludwig G\u00f6ransson",
-      "release_date": "2018"
-    },
-    {
-      "title": "Arnaud Rebotini",
-      "release_date": "2018"
-    },
-    {
-      "title": "Hildur Gu\u00f0nad\u00f3ttir",
-      "release_date": "2019"
-    },
-    {
-      "title": "Vincent Blanchard and Romain Greffe",
-      "release_date": "2019"
-    },
-    {
-      "title": "Trent Reznor, Atticus Ross and Jon Batiste",
-      "release_date": "2020"
-    },
-    {
-      "title": "Dan Levy",
-      "release_date": "2020"
-    },
-    {
-      "title": "Hans Zimmer",
-      "release_date": "2021"
-    },
-    {
-      "title": "Rone",
-      "release_date": "2021"
-    },
-    {
-      "title": "Volker Bertelmann",
-      "release_date": "2022"
-    },
-    {
-      "title": "Sparks (Ron and Russell Mael)",
-      "release_date": "2022"
-    },
-    {
-      "title": "Ludwig G\u00f6ransson",
-      "release_date": "2023"
-    },
-    {
-      "title": "Ir\u00e8ne Dr\u00e9sel",
-      "release_date": "2023"
-    },
-    {
-      "title": "Daniel Blumberg",
-      "release_date": "2024"
-    },
-    {
-      "title": "Andrea Laszlo De Simone",
-      "release_date": "2024"
-    },
-    {
-      "title": "Articles with unsourced statements from August",
-      "release_date": "2024"
-    },
-    {
-      "title": "Cl\u00e9ment Ducol and Camille",
-      "release_date": "2025"
+        "title": "The Gleaners and I: Two Years Later",
+        "year": 2002,
+        "id": 84026,
+        "poster": "https://image.tmdb.org/t/p/w200/azTpxHHruFZlroxfcYir9ESpcAK.jpg"
     }
-  ]
-}
+]

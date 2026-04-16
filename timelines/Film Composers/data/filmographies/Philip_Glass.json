@@ -1,921 +1,374 @@
-{
-  "composer": "Philip Glass",
-  "filmography": [
+[
     {
-      "title": "Haze Gold for chorus",
-      "release_date": "1962"
+        "title": "Inquiring Nuns",
+        "year": 1968,
+        "id": 291275,
+        "poster": "https://image.tmdb.org/t/p/w200/pZs4Nvfi4abwKqCPuSfavMeO7EU.jpg"
     },
     {
-      "title": "Play for two saxophones",
-      "release_date": "1965"
+        "title": "Koyaanisqatsi",
+        "year": 1983,
+        "id": 11314,
+        "poster": "https://image.tmdb.org/t/p/w200/6zCNciRcob8lwuydVXgq0esla8L.jpg"
     },
     {
-      "title": "Music for Ensemble and Two Actresses for wind sextet and two speakers",
-      "release_date": "1965"
+        "title": "Mishima: A Life in Four Chapters",
+        "year": 1985,
+        "id": 27064,
+        "poster": "https://image.tmdb.org/t/p/w200/4kIXsE4SwUjO0eUqpolsHNO5GLH.jpg"
     },
     {
-      "title": "Piece for Chamber Orchestra",
-      "release_date": "1965"
+        "title": "Empire City",
+        "year": 1985,
+        "id": 649144,
+        "poster": "https://image.tmdb.org/t/p/w200/aZQlJ3zNkPskE974fNYDBhe59tL.jpg"
     },
     {
-      "title": "String Quartet No. 1",
-      "release_date": "1966"
+        "title": "Hamburger Hill",
+        "year": 1987,
+        "id": 10652,
+        "poster": "https://image.tmdb.org/t/p/w200/a84FDoIm64qcyKq6BEMB9Ycldpt.jpg"
     },
     {
-      "title": "600 Lines",
-      "release_date": "1967"
+        "title": "Anima Mundi",
+        "year": 1991,
+        "id": 54220,
+        "poster": "https://image.tmdb.org/t/p/w200/p3y1G5CDFGtw7XMp3XyRzoHBvGE.jpg"
     },
     {
-      "title": "In Again Out Again for two pianos",
-      "release_date": "1967"
+        "title": "Mindwalk",
+        "year": 1991,
+        "id": 48745,
+        "poster": "https://image.tmdb.org/t/p/w200/1gw9BlsexGu8xTZYqxFOsd2j3fW.jpg"
     },
     {
-      "title": "Head On for violin, cello and piano",
-      "release_date": "1967"
+        "title": "A Brief History of Time",
+        "year": 1991,
+        "id": 1358,
+        "poster": "https://image.tmdb.org/t/p/w200/A3sVrDThz8Xthfq2EglWoypKEfU.jpg"
     },
     {
-      "title": "Music in the Shape of a Square for two flutes",
-      "release_date": "1967"
+        "title": "Candyman",
+        "year": 1992,
+        "id": 9529,
+        "poster": "https://image.tmdb.org/t/p/w200/jQtgkgDZE7egMq532sOt83DnT83.jpg"
     },
     {
-      "title": "Two Down for two saxophones",
-      "release_date": "1967"
+        "title": "Mirror of the Planet",
+        "year": 1992,
+        "id": 418769,
+        "poster": "https://image.tmdb.org/t/p/w200/Ajlc3pd8nCkmrnDxphXMJpnFRFC.jpg"
     },
     {
-      "title": "Strung Out for amplified violin",
-      "release_date": "1967"
+        "title": "Candyman: Farewell to the Flesh",
+        "year": 1995,
+        "id": 10824,
+        "poster": "https://image.tmdb.org/t/p/w200/2scgM9dFaHEppWb3tS99gCAh8KX.jpg"
     },
     {
-      "title": "One Plus One for amplified tabletop",
-      "release_date": "1967"
+        "title": "Evidence",
+        "year": 1995,
+        "id": 106828,
+        "poster": null
     },
     {
-      "title": "How Now for piano or electric organ",
-      "release_date": "1968"
+        "title": "The Interview",
+        "year": 1995,
+        "id": 471130,
+        "poster": "https://image.tmdb.org/t/p/w200/pkVpIcoPb8nrcadhjCa4h1Ywmcy.jpg"
     },
     {
-      "title": "Two Pages for piano or electric organ",
-      "release_date": "1968"
+        "title": "The Secret Agent",
+        "year": 1996,
+        "id": 47199,
+        "poster": "https://image.tmdb.org/t/p/w200/tPHoV5WGQROGQmbSw4h8NGWB22c.jpg"
     },
     {
-      "title": "Best Out of Three for three clarinets",
-      "release_date": "1968"
+        "title": "Mama General",
+        "year": 1997,
+        "id": 1191018,
+        "poster": null
     },
     {
-      "title": "Gradus for soprano saxophone",
-      "release_date": "1968"
+        "title": "Kundun",
+        "year": 1997,
+        "id": 9746,
+        "poster": "https://image.tmdb.org/t/p/w200/yvdFRDoQIQ5PBk4u8x8gJT8NJAw.jpg"
     },
     {
-      "title": "Music in Fifths",
-      "release_date": "1969"
+        "title": "Bent",
+        "year": 1997,
+        "id": 19601,
+        "poster": "https://image.tmdb.org/t/p/w200/mTRIVPmRK01rgLlE6XJPGbbRdXb.jpg"
     },
     {
-      "title": "Music in Similar Motion",
-      "release_date": "1969"
+        "title": "Perfect Moment",
+        "year": 1997,
+        "id": 530394,
+        "poster": "https://image.tmdb.org/t/p/w200/qtATC89DTFZJg9mkbZ9dV0tJZSy.jpg"
     },
     {
-      "title": "Music in Contrary Motion for electric organ",
-      "release_date": "1969"
+        "title": "The Truman Show",
+        "year": 1998,
+        "id": 37165,
+        "poster": "https://image.tmdb.org/t/p/w200/vuza0WqY239yBXOadKlGwJsZJFE.jpg"
     },
     {
-      "title": "Music in Eight Parts for two soprano saxophones, viola, cello and three electric organs",
-      "release_date": "1969"
+        "title": "The Hours",
+        "year": 2002,
+        "id": 590,
+        "poster": "https://image.tmdb.org/t/p/w200/4myDtowDJQPQnkEDB1IWGtJR1Fo.jpg"
     },
     {
-      "title": "Music in Similar Motion for chamber orchestra",
-      "release_date": "1969"
+        "title": "The Baroness and the Pig",
+        "year": 2002,
+        "id": 93239,
+        "poster": "https://image.tmdb.org/t/p/w200/i5T0MWLwD7RjdVqcF6b3QDk6b7j.jpg"
     },
     {
-      "title": "Long Beach Island, Word Location",
-      "release_date": "1969"
+        "title": "The Fog of War",
+        "year": 2003,
+        "id": 12698,
+        "poster": "https://image.tmdb.org/t/p/w200/m1dEnkrdJGBSLeAyJepuGrU9sNI.jpg"
     },
     {
-      "title": "Music with Changing Parts",
-      "release_date": "1970"
+        "title": "Taking Lives",
+        "year": 2004,
+        "id": 11081,
+        "poster": "https://image.tmdb.org/t/p/w200/1JEt0qtEaYrJZuPeTArR691V256.jpg"
     },
     {
-      "title": "Music for Voices",
-      "release_date": "1970"
+        "title": "Secret Window",
+        "year": 2004,
+        "id": 1586,
+        "poster": "https://image.tmdb.org/t/p/w200/hvzw4wufKZkDCTPVeG71Z7pGfZh.jpg"
     },
     {
-      "title": "Another Look at Harmony, Parts 1 and 2",
-      "release_date": "1975"
+        "title": "Undertow",
+        "year": 2004,
+        "id": 16131,
+        "poster": "https://image.tmdb.org/t/p/w200/dWjsI848P3kPT0wbVYZ8huydJPW.jpg"
     },
     {
-      "title": "Another Look at Harmony, Part 3 for electric organ",
-      "release_date": "1975"
+        "title": "The Moustache",
+        "year": 2005,
+        "id": 16998,
+        "poster": "https://image.tmdb.org/t/p/w200/4xTwprpMi7KpMukbGl21CMCz4sk.jpg"
     },
     {
-      "title": "Knee Play 4 for piano",
-      "release_date": "1975"
+        "title": "The Giant Buddhas",
+        "year": 2005,
+        "id": 274262,
+        "poster": "https://image.tmdb.org/t/p/w200/tOwxcyfyr5q6wianJZG7776734.jpg"
     },
     {
-      "title": "North Star",
-      "release_date": "1977"
+        "title": "Neverwas",
+        "year": 2005,
+        "id": 22473,
+        "poster": "https://image.tmdb.org/t/p/w200/qJVHrTJtGsSrWFNzVmKaoC71v33.jpg"
     },
     {
-      "title": "Another Look at Harmony, Part IV for chorus and organ",
-      "release_date": "1977"
+        "title": "Notes on a Scandal",
+        "year": 2006,
+        "id": 1259,
+        "poster": "https://image.tmdb.org/t/p/w200/ieX6ZO2Kf2qjoIBXbQW5awivbhY.jpg"
     },
     {
-      "title": "North Star: Mark di Suvero, Sculptor (Fran\u00e7ois de Menil and Barbara Rose)",
-      "release_date": "1977"
+        "title": "The Illusionist",
+        "year": 2006,
+        "id": 1491,
+        "poster": "https://image.tmdb.org/t/p/w200/1O9jUvqkHaGBMVRyOJz1AlkmALW.jpg"
     },
     {
-      "title": "Modern Love Waltz for chamber orchestra",
-      "release_date": "1978"
+        "title": "Roving Mars",
+        "year": 2006,
+        "id": 18085,
+        "poster": "https://image.tmdb.org/t/p/w200/l2SX7melm80fHU0KNYRSwW5KmPg.jpg"
     },
     {
-      "title": "Dance No. 4 for organ",
-      "release_date": "1979"
+        "title": "Un leader in ascolto",
+        "year": 2006,
+        "id": 1309002,
+        "poster": null
     },
     {
-      "title": "Dance",
-      "release_date": "1979"
+        "title": "Glass: A Portrait of Philip in Twelve Parts",
+        "year": 2007,
+        "id": 39764,
+        "poster": "https://image.tmdb.org/t/p/w200/a4LeIkkCfwwJxIWh8gJM1SuUUsp.jpg"
     },
     {
-      "title": "Sesame Street Cues",
-      "release_date": "1979"
+        "title": "Cassandra's Dream",
+        "year": 2007,
+        "id": 4787,
+        "poster": "https://image.tmdb.org/t/p/w200/rZLKa5mXJzfmJsC9DFNkcpZ5vS0.jpg"
     },
     {
-      "title": "A Madrigal Opera for six voices, violin and viola",
-      "release_date": "1980"
+        "title": "No Reservations",
+        "year": 2007,
+        "id": 3638,
+        "poster": "https://image.tmdb.org/t/p/w200/eKqfRSf0DZ0Qey1f9ZHuZfsmXVR.jpg"
     },
     {
-      "title": "Glassworks",
-      "release_date": "1981"
+        "title": "Mr. Nice",
+        "year": 2010,
+        "id": 46934,
+        "poster": "https://image.tmdb.org/t/p/w200/uag1ajVUMuHTXqkX0H52z0FveON.jpg"
     },
     {
-      "title": "Opening for piano",
-      "release_date": "1981"
+        "title": "Astral City: A Spiritual Journey",
+        "year": 2010,
+        "id": 52333,
+        "poster": "https://image.tmdb.org/t/p/w200/aUsqP3347kkNIbcx05uglDIs5jb.jpg"
     },
     {
-      "title": "Opening from Glassworks for piano, cello and percussion",
-      "release_date": "1981"
+        "title": "They Were There",
+        "year": 2011,
+        "id": 86375,
+        "poster": "https://image.tmdb.org/t/p/w200/5kaz7u9dWkPD1HDP5cKuTjN9U5i.jpg"
     },
     {
-      "title": "Fa\u00e7ades, for two saxophones (or flute and clarinet) and string ensemble",
-      "release_date": "1981"
+        "title": "Rebirth",
+        "year": 2011,
+        "id": 132709,
+        "poster": "https://image.tmdb.org/t/p/w200/jL8Tz77txotTukWhT3SIiFaqWAF.jpg"
     },
     {
-      "title": "Fa\u00e7ades for two saxophones (or flutes) and string orchestra",
-      "release_date": "1981"
+        "title": "Elena",
+        "year": 2011,
+        "id": 78182,
+        "poster": "https://image.tmdb.org/t/p/w200/pdSxysKTeE6oTYhtVBF08Nwj2Ir.jpg"
     },
     {
-      "title": "Closing from \"Glassworks\" for piano and string orchestra",
-      "release_date": "1981"
+        "title": "Glass: Kepler",
+        "year": 2011,
+        "id": 568488,
+        "poster": "https://image.tmdb.org/t/p/w200/7JSlZAl4liLk0y45pPxMiY0JuiE.jpg"
     },
     {
-      "title": "The Photographer for soloists, chorus and orchestra",
-      "release_date": "1982"
+        "title": "Besa: The Promise",
+        "year": 2012,
+        "id": 265807,
+        "poster": "https://image.tmdb.org/t/p/w200/wyRAl5JjO3qwvIXqCWx9NSuTjIT.jpg"
     },
     {
-      "title": "Koyaanisqatsi: Life out of balance for chorus, ensemble and orchestra",
-      "release_date": "1982"
+        "title": "The Apostle",
+        "year": 2012,
+        "id": 139900,
+        "poster": "https://image.tmdb.org/t/p/w200/qg1UAkyVqQCqlDmUzk95jzjOWYV.jpg"
     },
     {
-      "title": "Hebeve Song for soprano, clarinet and bassoon",
-      "release_date": "1982"
+        "title": "Re: Awakenings",
+        "year": 2013,
+        "id": 339084,
+        "poster": "https://image.tmdb.org/t/p/w200/jMIYakkrXHjgydi0xusQNPBAObA.jpg"
     },
     {
-      "title": "Koyaanisqatsi",
-      "release_date": "1982-09-05"
+        "title": "Glass: The Perfect American",
+        "year": 2013,
+        "id": 310806,
+        "poster": "https://image.tmdb.org/t/p/w200/ljYjhY3SCpEG5yixFca2ccgrwGC.jpg"
     },
     {
-      "title": "Akhnaten",
-      "release_date": "1983"
+        "title": "Einstein on the Beach",
+        "year": 2014,
+        "id": 327079,
+        "poster": "https://image.tmdb.org/t/p/w200/iliEtQuQniRvS8kq6NU2kBR3FaV.jpg"
     },
     {
-      "title": "The Civil Wars: A Tree Is Best Measured When It Is Down, Act V \u2013 The Rome Section",
-      "release_date": "1983"
+        "title": "Fantastic Four",
+        "year": 2015,
+        "id": 166424,
+        "poster": "https://image.tmdb.org/t/p/w200/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg"
     },
     {
-      "title": "Company for string orchestra (1983; orchestral version of String Quartet No. 2 Company",
-      "release_date": "1983"
+        "title": "Jane",
+        "year": 2017,
+        "id": 470819,
+        "poster": "https://image.tmdb.org/t/p/w200/lasO6v47evkx4JfRqf4Rhqp8FZd.jpg"
     },
     {
-      "title": "Glass Pieces for orchestra",
-      "release_date": "1983"
+        "title": "Cr\u00f4nica da Demoli\u00e7\u00e3o",
+        "year": 2017,
+        "id": 365343,
+        "poster": "https://image.tmdb.org/t/p/w200/4vXcsKLEvnB9yLXdrAbMFAtxRqZ.jpg"
     },
     {
-      "title": "Prelude and Dance from Akhnaten for orchestra",
-      "release_date": "1983"
+        "title": "The Last Dalai Lama?",
+        "year": 2017,
+        "id": 466182,
+        "poster": "https://image.tmdb.org/t/p/w200/vPXKiJMhloUg3mFWsLnoSzJYDX9.jpg"
     },
     {
-      "title": "Glass Pieces",
-      "release_date": "1983"
+        "title": "Paris Opera Ballet: Tribute to Jerome Robbins 2",
+        "year": 2018,
+        "id": 695795,
+        "poster": "https://image.tmdb.org/t/p/w200/2BxFrDz2N1SL04flFyKZquSVMP.jpg"
     },
     {
-      "title": "The Late Great Johnny Ace, coda to the song from Paul Simon's Hearts and Bones",
-      "release_date": "1983"
+        "title": "Samurai Marathon",
+        "year": 2019,
+        "id": 578514,
+        "poster": "https://image.tmdb.org/t/p/w200/yusSNvTIKItyVgAZFUmSqAd5o1k.jpg"
     },
     {
-      "title": "The Juniper Tree",
-      "release_date": "1990-04-10"
+        "title": "Philip Glass: Akhnaten",
+        "year": 2020,
+        "id": 954762,
+        "poster": "https://image.tmdb.org/t/p/w200/iCML69Wnoz1DtFqFybbxUJilTSD.jpg"
     },
     {
-      "title": "The Olympian for piano",
-      "release_date": "1984"
+        "title": "Alice",
+        "year": 2022,
+        "id": 1181718,
+        "poster": "https://image.tmdb.org/t/p/w200/zcTFreP3FN4cWDf3wqD0NOOx9Ih.jpg"
     },
     {
-      "title": "Closing from \"Mishima\" for piano",
-      "release_date": "1984"
+        "title": "The Pigeon Tunnel",
+        "year": 2023,
+        "id": 1155770,
+        "poster": "https://image.tmdb.org/t/p/w200/xsDb7JlPS6QnI26bTP3sREz9n0K.jpg"
     },
     {
-      "title": "String Quartet No. 2 Company",
-      "release_date": "1984"
+        "title": "Klaus M\u00e4kel\u00e4 conducts Ravel With Yuja Wang and the Orchestre de Paris",
+        "year": 2023,
+        "id": 1468425,
+        "poster": "https://image.tmdb.org/t/p/w200/xC3b1eaVfqLK0Jhb4NGHCwvFjqS.jpg"
     },
     {
-      "title": "Prelude to Endgame for timpani and double bass",
-      "release_date": "1984"
+        "title": "Once Within a Time",
+        "year": 2023,
+        "id": 1061859,
+        "poster": "https://image.tmdb.org/t/p/w200/lynZTmyyNnL7jfohkerZJvNEXtl.jpg"
     },
     {
-      "title": "the CIVIL warS \u2013 the Cologne Section for orchestra with optional mixed chorus",
-      "release_date": "1984"
+        "title": "Dobrawa Czocher Europavox Sessions 2023",
+        "year": 2023,
+        "id": 1496019,
+        "poster": "https://image.tmdb.org/t/p/w200/17RWAK0GWCpiIg09Y4Il9g3Id8Q.jpg"
     },
     {
-      "title": "Two Interludes from the CIVIL warS \u2013 the Rome Section for orchestra",
-      "release_date": "1984"
+        "title": "Concert for Notre-Dame La Temp\u00eate | Sabine Devieilhe | Olivier Latry",
+        "year": 2025,
+        "id": 1459690,
+        "poster": "https://image.tmdb.org/t/p/w200/d8wBLhvYLcSIPtBmnsVJvZ3mGB6.jpg"
     },
     {
-      "title": "The Olympian: Lighting of the Torch and Closing for orchestra and chorus",
-      "release_date": "1984"
+        "title": "Yuja Wang x David Hockney London Lightroom",
+        "year": 2025,
+        "id": 1490410,
+        "poster": "https://image.tmdb.org/t/p/w200/gu92yXp9t9YYcoBRxPfWOJU6KEm.jpg"
     },
     {
-      "title": "Three Songs for chorus a cappella",
-      "release_date": "1984"
+        "title": "Carolyn Carlson : Midnight Souls",
+        "year": 2025,
+        "id": 1604303,
+        "poster": "https://image.tmdb.org/t/p/w200/8MvQoiZ9l7Q5Q9KfB6RQSGqigRO.jpg"
     },
     {
-      "title": "String Quartet No. 3 Mishima",
-      "release_date": "1985"
-    },
-    {
-      "title": "Runaway Horses from Mishima for string orchestra and harp",
-      "release_date": "1985"
-    },
-    {
-      "title": "In the Upper Room for chamber orchestra",
-      "release_date": "1986"
-    },
-    {
-      "title": "Phaedra for string orchestra and percussion",
-      "release_date": "1986"
-    },
-    {
-      "title": "In the Upper Room",
-      "release_date": "1986"
-    },
-    {
-      "title": "Cadenza for Mozart's Piano Concerto No. 21 (K. 467, 1786)",
-      "release_date": "1987"
-    },
-    {
-      "title": "The Light, a Symphonic Portrait for orchestra",
-      "release_date": "1987"
-    },
-    {
-      "title": "Concerto for Violin and Orchestra No. 1",
-      "release_date": "1987"
-    },
-    {
-      "title": "Pink Noise, acoustic installation",
-      "release_date": "1987"
-    },
-    {
-      "title": "Glass, Philip",
-      "release_date": "1987"
-    },
-    {
-      "title": "Wichita Vortex Sutra for piano",
-      "release_date": "1988"
-    },
-    {
-      "title": "Metamorphosis for piano",
-      "release_date": "1988"
-    },
-    {
-      "title": "Arabesque in Memoriam for flute",
-      "release_date": "1988"
-    },
-    {
-      "title": "The Thin Blue Line for string orchestra",
-      "release_date": "1988"
-    },
-    {
-      "title": "De Cie for four voices",
-      "release_date": "1988"
-    },
-    {
-      "title": "The French Lieutenant Sleeps from The Screens for piano",
-      "release_date": "1989"
-    },
-    {
-      "title": "String Quartet No. 4 Buczak",
-      "release_date": "1989"
-    },
-    {
-      "title": "The Orchard (from The Screens) for cello and piano (plus optional percussion)",
-      "release_date": "1989"
-    },
-    {
-      "title": "France from The Screens for violin",
-      "release_date": "1989"
-    },
-    {
-      "title": "Itaipu, a symphonic portrait for chorus and orchestra in four movements",
-      "release_date": "1989"
-    },
-    {
-      "title": "Passages for Saxophone Quartet and Orchestra",
-      "release_date": "1989"
-    },
-    {
-      "title": "The Voyage",
-      "release_date": "1990"
-    },
-    {
-      "title": "Passages for chamber ensemble",
-      "release_date": "1990"
-    },
-    {
-      "title": "Passages for chamber orchestra",
-      "release_date": "1990"
-    },
-    {
-      "title": "Mechanical Ballet from The Voyage for orchestra",
-      "release_date": "1990"
-    },
-    {
-      "title": "White Raven",
-      "release_date": "1991"
-    },
-    {
-      "title": "Orph\u00e9e for voices and chamber orchestra",
-      "release_date": "1991"
-    },
-    {
-      "title": "Anima Mundi for piano",
-      "release_date": "1991"
-    },
-    {
-      "title": "Selections from \"A Brief History of Time\" for piano",
-      "release_date": "1991"
-    },
-    {
-      "title": "The Orph\u00e9e Suite for piano",
-      "release_date": "1991"
-    },
-    {
-      "title": "String Quartet No. 5",
-      "release_date": "1991"
-    },
-    {
-      "title": "Suite from Orph\u00e9e for chamber orchestra",
-      "release_date": "1991"
-    },
-    {
-      "title": "Music for Mysteries and What's So Funny",
-      "release_date": "1991"
-    },
-    {
-      "title": "Candyman: Helen's Theme and more for piano",
-      "release_date": "1992"
-    },
-    {
-      "title": "Love Divided By for flute and piano",
-      "release_date": "1992"
-    },
-    {
-      "title": "Symphony No. 1",
-      "release_date": "1992"
-    },
-    {
-      "title": "Concerto Grosso for chamber orchestra",
-      "release_date": "1992"
-    },
-    {
-      "title": "Tesra for piano",
-      "release_date": "1993"
-    },
-    {
-      "title": "12 Pieces for Ballet for piano",
-      "release_date": "1993"
-    },
-    {
-      "title": "In the Summer House for violin and cello",
-      "release_date": "1993"
-    },
-    {
-      "title": "La Belle et la B\u00eate for voices and the Philip Glass Ensemble or chamber orchestra",
-      "release_date": "1994"
-    },
-    {
-      "title": "Overture from La Belle et la B\u00eate for piano",
-      "release_date": "1994"
-    },
-    {
-      "title": "Symphony No. 2",
-      "release_date": "1994"
-    },
-    {
-      "title": "Overture to La Belle et la B\u00eate for string orchestra and piano",
-      "release_date": "1994"
-    },
-    {
-      "title": "Persephone (T.S.E.) for orchestra and chorus",
-      "release_date": "1994"
-    },
-    {
-      "title": "Brown Piano, Martingala, Double Rhythm, Boogie Mood, Sax, Variation: alarm bleeps for Swatch wristwatches",
-      "release_date": "1994"
-    },
-    {
-      "title": "Jenipapo: No. 14 for piano",
-      "release_date": "1995"
-    },
-    {
-      "title": "Melodies for saxophone",
-      "release_date": "1995"
-    },
-    {
-      "title": "Symphony No. 3",
-      "release_date": "1995"
-    },
-    {
-      "title": "Three Pieces from The Secret Agent for orchestra",
-      "release_date": "1995"
-    },
-    {
-      "title": "Echorus for two violins and string orchestra",
-      "release_date": "1995"
-    },
-    {
-      "title": "Concerto for Saxophone Quartet and Orchestra",
-      "release_date": "1995"
-    },
-    {
-      "title": "Ignorant Sky, Song",
-      "release_date": "1995"
-    },
-    {
-      "title": "Icct Hedral for orchestra",
-      "release_date": "1995"
-    },
-    {
-      "title": "Les Enfants terribles (1996), Dance Opera for voices and three pianos",
-      "release_date": "1996"
-    },
-    {
-      "title": "Six Scenes from Les Enfants Terribles for two pianos",
-      "release_date": "1996"
-    },
-    {
-      "title": "Symphony No. 4",
-      "release_date": "1996"
-    },
-    {
-      "title": "Heroes Symphony",
-      "release_date": "1996"
-    },
-    {
-      "title": "The Marriages Between Zones Three, Four, and Five",
-      "release_date": "1997"
-    },
-    {
-      "title": "The Witches of Venice, children's opera-ballet",
-      "release_date": "1997"
-    },
-    {
-      "title": "Bent for String Quartet",
-      "release_date": "1997"
-    },
-    {
-      "title": "Days and Nights in Rocinha, Dance for orchestra",
-      "release_date": "1997"
-    },
-    {
-      "title": "Songs of Milarepa for baritone and chamber orchestra",
-      "release_date": "1997"
-    },
-    {
-      "title": "The Streets of Berlin, Song",
-      "release_date": "1997"
-    },
-    {
-      "title": "Planctus, Song for voice and piano",
-      "release_date": "1997"
-    },
-    {
-      "title": "Monsters of Grace, chamber opera for the Philip Glass Ensemble",
-      "release_date": "1998"
-    },
-    {
-      "title": "The Joyful Moment for piano",
-      "release_date": "1998"
-    },
-    {
-      "title": "Truman Sleeps",
-      "release_date": "1998"
-    },
-    {
-      "title": "Epilogue from Monsters of Grace for piano",
-      "release_date": "1998"
-    },
-    {
-      "title": "Dracula for piano",
-      "release_date": "1998"
-    },
-    {
-      "title": "Dracula for string quartet (or piano and string quartet)",
-      "release_date": "1998"
-    },
-    {
-      "title": "Psalm 126 for orchestra and chorus",
-      "release_date": "1998"
-    },
-    {
-      "title": "Dracula: Suite for string orchestra and piano",
-      "release_date": "1998"
-    },
-    {
-      "title": "Dracula",
-      "release_date": "1998"
-    },
-    {
-      "title": "Symphony No. 5",
-      "release_date": "1999"
-    },
-    {
-      "title": "DRA Fanfare for orchestra",
-      "release_date": "1999"
-    },
-    {
-      "title": "Dracula",
-      "release_date": "1999"
-    },
-    {
-      "title": "In the Penal Colony for voices and string quintet",
-      "release_date": "2000"
-    },
-    {
-      "title": "Piano Concerto No. 1 Tirol, for piano and string orchestra",
-      "release_date": "2000"
-    },
-    {
-      "title": "Concerto Fantasy for Two Timpanists and Orchestra",
-      "release_date": "2000"
-    },
-    {
-      "title": "Dancissimo for orchestra",
-      "release_date": "2001"
-    },
-    {
-      "title": "Concerto for Cello and Orchestra No.1",
-      "release_date": "2001"
-    },
-    {
-      "title": "Voices for organ, didgeridoo and narrator",
-      "release_date": "2001"
-    },
-    {
-      "title": "The Elephant Man",
-      "release_date": "2001"
-    },
-    {
-      "title": "Galileo Galilei",
-      "release_date": "1968-09-07"
-    },
-    {
-      "title": "Naqoyqatsi: Primacy of Number for piano",
-      "release_date": "2002"
-    },
-    {
-      "title": "The Fog of War for piano",
-      "release_date": "2002"
-    },
-    {
-      "title": "Tissues (from Naqoyqatsi) for cello, percussion and piano",
-      "release_date": "2002"
-    },
-    {
-      "title": "Symphony No. 6",
-      "release_date": "2002"
-    },
-    {
-      "title": "Concerto for Harpsichord and Orchestra",
-      "release_date": "2002"
-    },
-    {
-      "title": "Suite from The Hours for piano, strings, harp and celeste",
-      "release_date": "2002"
-    },
-    {
-      "title": "Godfrey Reggio's trilogy Koyaanisqatsi (1982), Powaqqatsi (1988) and Naqoyqatsi",
-      "release_date": "2002"
-    },
-    {
-      "title": "The Hours",
-      "release_date": "2002-12-25"
-    },
-    {
-      "title": "The Sound of a Voice for voices and chamber ensemble including a pipa",
-      "release_date": "2003"
-    },
-    {
-      "title": "Dreaming Awake for piano",
-      "release_date": "2003"
-    },
-    {
-      "title": "Taoist Sacred Dance for piano and flute",
-      "release_date": "2003"
-    },
-    {
-      "title": "Music from The Sound of a Voice for flute, pipa, violin, cello and percussion",
-      "release_date": "2003"
-    },
-    {
-      "title": "Orion",
-      "release_date": "2015-08-01"
-    },
-    {
-      "title": "Concerto No. 2 \"After Lewis and Clark\" for piano",
-      "release_date": "2004"
-    },
-    {
-      "title": "Piano Concerto No. 2 After Lewis and Clark, for piano, Native American flute, and orchestra",
-      "release_date": "2004"
-    },
-    {
-      "title": "Going Upriver",
-      "release_date": "2004-09-14"
-    },
-    {
-      "title": "Waiting for the Barbarians for voices, chorus and orchestra",
-      "release_date": "2005"
-    },
-    {
-      "title": "A Musical Portrait of Chuck Close, two movements for piano",
-      "release_date": "2005"
-    },
-    {
-      "title": "Neverwas Set for piano",
-      "release_date": "2005"
-    },
-    {
-      "title": "Symphony No. 7",
-      "release_date": "2005"
-    },
-    {
-      "title": "Symphony No. 8",
-      "release_date": "2005"
-    },
-    {
-      "title": "In the Night Kitchen for voices and chamber ensemble",
-      "release_date": "2005"
-    },
-    {
-      "title": "Night Stalker",
-      "release_date": "2005"
-    },
-    {
-      "title": "Sound of Silence for piano",
-      "release_date": "2005"
-    },
-    {
-      "title": "\"Life in the Mountains\" from \"The Illusionist\" for piano",
-      "release_date": "2006"
-    },
-    {
-      "title": "Notes on a Scandal: I knew her for piano",
-      "release_date": "2006"
-    },
-    {
-      "title": "Life: A Journey Through Time in seven sections for orchestra",
-      "release_date": "2006"
-    },
-    {
-      "title": "The Passion of Ramakrishna for chorus and orchestra",
-      "release_date": "2006"
-    },
-    {
-      "title": "Spoleto Fanfare",
-      "release_date": "2006"
-    },
-    {
-      "title": "Roving Mars",
-      "release_date": "2006-01-27"
-    },
-    {
-      "title": "Appomattox",
-      "release_date": "2007"
-    },
-    {
-      "title": "No Reservations Combine for piano",
-      "release_date": "2007"
-    },
-    {
-      "title": "Overture from La Belle et la B\u00eate for string orchestra",
-      "release_date": "2007"
-    },
-    {
-      "title": "Four Pieces from \"Dracula\" for string orchestra and piano",
-      "release_date": "2007"
-    },
-    {
-      "title": "Book of Longing for solo voices and chamber ensemble",
-      "release_date": "2007"
-    },
-    {
-      "title": "Notes on a Scandal",
-      "release_date": "2006-12-25"
-    },
-    {
-      "title": "Cassandra's Dream",
-      "release_date": "2007-06-18"
-    },
-    {
-      "title": "Los Paisajes del Rio",
-      "release_date": "2008"
-    },
-    {
-      "title": "Four Movements for Two Pianos",
-      "release_date": "2008"
-    },
-    {
-      "title": "Sonata for Violin and Piano",
-      "release_date": "2008"
-    },
-    {
-      "title": "Kepler",
-      "release_date": "2009"
-    },
-    {
-      "title": "Duo for Viola & Percussion",
-      "release_date": "2009"
-    },
-    {
-      "title": "Concerto for Violin and Orchestra No. 2, \"The American Four Seasons\"",
-      "release_date": "2009"
-    },
-    {
-      "title": "Pendulum, movement for violin and piano",
-      "release_date": "2010"
-    },
-    {
-      "title": "Songs and Poems No. 2 for Solo Cello",
-      "release_date": "2010"
-    },
-    {
-      "title": "Icarus at the Edge of Time for narrator and orchestra",
-      "release_date": "2010"
-    },
-    {
-      "title": "Double Concerto for Violin, Cello and Orchestra",
-      "release_date": "2010"
-    },
-    {
-      "title": "Icarus at the End of Time",
-      "release_date": "2010"
-    },
-    {
-      "title": "The Perfect American",
-      "release_date": "2011"
-    },
-    {
-      "title": "Symphony No. 9",
-      "release_date": "2019-02-03"
-    },
-    {
-      "title": "Harmonium Mountain for orchestra",
-      "release_date": "2011"
-    },
-    {
-      "title": "Black and White Scherzo for orchestra",
-      "release_date": "2011"
-    },
-    {
-      "title": "Symphony No. 10",
-      "release_date": "2012"
-    },
-    {
-      "title": "Overture 2012 for orchestra",
-      "release_date": "2012"
-    },
-    {
-      "title": "Use mdy dates from January",
-      "release_date": "2012"
-    },
-    {
-      "title": "Spuren der Verirrten (The Lost)",
-      "release_date": "2013"
-    },
-    {
-      "title": "Two Movements for Four Pianos",
-      "release_date": "2013"
-    },
-    {
-      "title": "String Quartet No. 6",
-      "release_date": "2013"
-    },
-    {
-      "title": "The Trial",
-      "release_date": "2014-10-15"
-    },
-    {
-      "title": "String Quartet No. 7",
-      "release_date": "2014"
-    },
-    {
-      "title": "Prophecies from Koyaanisqatsi for piano",
-      "release_date": "2015"
-    },
-    {
-      "title": "Partita for Solo Double Bass (The Not Doings of an Insomniac)",
-      "release_date": "2015"
-    },
-    {
-      "title": "Double Concerto for Two Pianos and Orchestra",
-      "release_date": "2015"
-    },
-    {
-      "title": "Fantastic Four",
-      "release_date": "2015-08-04"
-    },
-    {
-      "title": "Distant Figure \u2013 Passacaglia",
-      "release_date": "2017"
-    },
-    {
-      "title": "Symphony No. 11",
-      "release_date": "2017"
-    },
-    {
-      "title": "Piano Concerto No. 3, for piano and string orchestra",
-      "release_date": "2017"
-    },
-    {
-      "title": "Orph\u00e9e Suite from the opera Orph\u00e9e for flute, strings and percussion",
-      "release_date": "2017"
-    },
-    {
-      "title": "Jane",
-      "release_date": "2017-09-10"
-    },
-    {
-      "title": "String Quartet No. 8",
-      "release_date": "2018"
-    },
-    {
-      "title": "Annunciation, piano quintet for two violins, viola, cello, and piano",
-      "release_date": "2018"
-    },
-    {
-      "title": "First Piano Sonata",
-      "release_date": "2019"
-    },
-    {
-      "title": "King Lear (music for the Broadway production)",
-      "release_date": "2019"
-    },
-    {
-      "title": "Perpetulum, percussion quartet",
-      "release_date": "2019"
-    },
-    {
-      "title": "Symphony No. 12",
-      "release_date": "2019"
-    },
-    {
-      "title": "King Lear Overture for orchestra",
-      "release_date": "2019"
-    },
-    {
-      "title": "Symphony No. 14",
-      "release_date": "2021"
-    },
-    {
-      "title": "String Quartet No. 9 King Lear",
-      "release_date": "2022"
-    },
-    {
-      "title": "Symphony No. 13",
-      "release_date": "2022"
-    },
-    {
-      "title": "Alice ballet for orchestra",
-      "release_date": "2022"
-    },
-    {
-      "title": "Triumph of the Octagon for orchestra",
-      "release_date": "2023"
-    },
-    {
-      "title": "Prelude for Organ",
-      "release_date": "2025"
-    },
-    {
-      "title": "Symphony No. 15",
-      "release_date": "2026"
+        "title": "Vanessa Wagner & Friends @ Paris Sur Mesure",
+        "year": 2025,
+        "id": 1646089,
+        "poster": "https://image.tmdb.org/t/p/w200/9F3IXbzxhxUspmUx8FgTIY6BRQU.jpg"
     }
-  ]
-}
+]

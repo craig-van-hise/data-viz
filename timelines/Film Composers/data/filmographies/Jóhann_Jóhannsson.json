@@ -1,169 +1,176 @@
-{
-  "composer": "J\u00f3hann J\u00f3hannsson",
-  "filmography": [
+[
     {
-      "title": "Corpus Camera",
-      "release_date": "1999"
+        "title": "The Icelandic Dream",
+        "year": 2000,
+        "id": 84882,
+        "poster": "https://image.tmdb.org/t/p/w200/ywcdXiBphcT4W32nHDFuttKCF3n.jpg"
     },
     {
-      "title": "\u00cdslenski draumurinn",
-      "release_date": "2001-10-19"
+        "title": "A Man Like Me",
+        "year": 2002,
+        "id": 157114,
+        "poster": "https://image.tmdb.org/t/p/w200/mDHeEf1pVdm6jeyi5EJx7Mof6JE.jpg"
     },
     {
-      "title": "\u00d3skab\u00f6rn \u00fej\u00f3\u00f0arinnar",
-      "release_date": "2000"
+        "title": "D\u00eds",
+        "year": 2004,
+        "id": 97359,
+        "poster": "https://image.tmdb.org/t/p/w200/1r4OoefaZI0U8jDDUkOmEfaVE8l.jpg"
     },
     {
-      "title": "Leyndard\u00f3mar \u00cdslenskra Skr\u00edmsla",
-      "release_date": "2000"
+        "title": "Thicker Than Water",
+        "year": 2006,
+        "id": 25252,
+        "poster": "https://image.tmdb.org/t/p/w200/qUoaer5QUrhlOkXD6G9Io0mcjQs.jpg"
     },
     {
-      "title": "Err\u00f3- Nor\u00f0ur, su\u00f0ur, austur, vestur",
-      "release_date": "2000"
+        "title": "Opium: Diary of a Madwoman",
+        "year": 2007,
+        "id": 20907,
+        "poster": "https://image.tmdb.org/t/p/w200/4FNH0Eq5WMSy6Ivjh3PYwXGjPt.jpg"
     },
     {
-      "title": "A Man Like Me",
-      "release_date": "2002"
+        "title": "Varmints",
+        "year": 2008,
+        "id": 159587,
+        "poster": "https://image.tmdb.org/t/p/w200/tYmV3jDgkfGcsNJusMlQOGOd2j4.jpg"
     },
     {
-      "title": "Keepsake",
-      "release_date": "2003"
+        "title": "Personal Effects",
+        "year": 2009,
+        "id": 14857,
+        "poster": "https://image.tmdb.org/t/p/w200/rrHOhH51iFLCCxKmyogecd1osLo.jpg"
     },
     {
-      "title": "D\u00eds",
-      "release_date": "2004"
+        "title": "Mama",
+        "year": 2010,
+        "id": 1150332,
+        "poster": "https://image.tmdb.org/t/p/w200/k4yfBAhZfSvdTfp1GMTrw7tRkku.jpg"
     },
     {
-      "title": "Bl\u00f3\u00f0b\u00f6nd AKA Thicker than Water",
-      "release_date": "2006"
+        "title": "Mystery",
+        "year": 2012,
+        "id": 103875,
+        "poster": "https://image.tmdb.org/t/p/w200/62G6awdqmVWTLhPjVPP03W3k1yg.jpg"
     },
     {
-      "title": "Svartir Englar",
-      "release_date": "2007"
+        "title": "The Miners' Hymns",
+        "year": 2012,
+        "id": 105553,
+        "poster": "https://image.tmdb.org/t/p/w200/bZflj7gNNEZrSSKbaXYbEAfhsZV.jpg"
     },
     {
-      "title": "Personal Effects",
-      "release_date": "2008-12-12"
+        "title": "White Black Boy",
+        "year": 2012,
+        "id": 340498,
+        "poster": null
     },
     {
-      "title": "Varmints",
-      "release_date": "2008"
+        "title": "For Ellen",
+        "year": 2012,
+        "id": 84201,
+        "poster": "https://image.tmdb.org/t/p/w200/w3qMjOVOzwheOh9PbLEnZfNKNmh.jpg"
     },
     {
-      "title": "By Day and by Night",
-      "release_date": "2010"
+        "title": "Prisoners",
+        "year": 2013,
+        "id": 146233,
+        "poster": "https://image.tmdb.org/t/p/w200/jsS3a3ep2KyBVmmiwaz3LvK49b1.jpg"
     },
     {
-      "title": "Dreams in Copenhagen",
-      "release_date": "2010"
+        "title": "Blind Massage",
+        "year": 2014,
+        "id": 256106,
+        "poster": "https://image.tmdb.org/t/p/w200/kLCtjuQiZqlWINKloqebWftRJY4.jpg"
     },
     {
-      "title": "The Miners' Hymns",
-      "release_date": "2011"
+        "title": "The Theory of Everything",
+        "year": 2014,
+        "id": 266856,
+        "poster": "https://image.tmdb.org/t/p/w200/kJuL37NTE51zVP3eG5aGMyKAIlh.jpg"
     },
     {
-      "title": "The Good Life",
-      "release_date": "2011"
+        "title": "McCanick",
+        "year": 2014,
+        "id": 214140,
+        "poster": "https://image.tmdb.org/t/p/w200/1pgyEGVwh2MHCS4NzEj4LYtDwfP.jpg"
     },
     {
-      "title": "Junk Love",
-      "release_date": "2011"
+        "title": "End of Summer",
+        "year": 2014,
+        "id": 354596,
+        "poster": "https://image.tmdb.org/t/p/w200/rhOBHY1cKEkIeeH3qnwC22FfCiX.jpg"
     },
     {
-      "title": "For Ellen",
-      "release_date": "2012-01-21"
+        "title": "Sicario",
+        "year": 2015,
+        "id": 273481,
+        "poster": "https://image.tmdb.org/t/p/w200/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg"
     },
     {
-      "title": "Mystery",
-      "release_date": "2012-05-18"
+        "title": "I Am Here",
+        "year": 2015,
+        "id": 289191,
+        "poster": "https://image.tmdb.org/t/p/w200/yA06Duc3TgvDvIJn72sOB0G19mH.jpg"
     },
     {
-      "title": "Free the Mind",
-      "release_date": "2012"
+        "title": "Arrival",
+        "year": 2016,
+        "id": 329865,
+        "poster": "https://image.tmdb.org/t/p/w200/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg"
     },
     {
-      "title": "White Black",
-      "release_date": "2012"
+        "title": "A Man Returned",
+        "year": 2016,
+        "id": 405908,
+        "poster": "https://image.tmdb.org/t/p/w200/eUgbnUWznHAQILemppltcJUrOJw.jpg"
     },
     {
-      "title": "McCanick",
-      "release_date": "2013-09-09"
+        "title": "In the Blood",
+        "year": 2016,
+        "id": 406808,
+        "poster": "https://image.tmdb.org/t/p/w200/y0MmmwPLjMcNn79tWPyVnnMpFfX.jpg"
     },
     {
-      "title": "Prisoners",
-      "release_date": "2013-08-30"
+        "title": "Lovesong",
+        "year": 2017,
+        "id": 371447,
+        "poster": "https://image.tmdb.org/t/p/w200/43yEeZbFeFOah9mZWIIJe57STKS.jpg"
     },
     {
-      "title": "I Am Here (with BJNilsen)",
-      "release_date": "2014"
+        "title": "Mandy",
+        "year": 2018,
+        "id": 460885,
+        "poster": "https://image.tmdb.org/t/p/w200/m0yf7J7HsKeK6E81SMRcX8vx6mH.jpg"
     },
     {
-      "title": "Blind Massage",
-      "release_date": "2014"
+        "title": "Mary Magdalene",
+        "year": 2018,
+        "id": 407439,
+        "poster": "https://image.tmdb.org/t/p/w200/oLbqnVAmD8ISel1SLTY3Ek0TWz8.jpg"
     },
     {
-      "title": "The Theory of Everything",
-      "release_date": "2014-09-07"
+        "title": "The Mercy",
+        "year": 2018,
+        "id": 414001,
+        "poster": "https://image.tmdb.org/t/p/w200/51qWwl16Mb0hqorgffCtyENwTPP.jpg"
     },
     {
-      "title": "Sicario",
-      "release_date": "2015-05-19"
+        "title": "The Butcher, The Whore and the One-Eyed Man",
+        "year": 2018,
+        "id": 482129,
+        "poster": "https://image.tmdb.org/t/p/w200/fgP0yHqZSnPhCmKNxJONrMzjRos.jpg"
     },
     {
-      "title": "End of Summer",
-      "release_date": "2015"
+        "title": "The Shadow Play",
+        "year": 2019,
+        "id": 454161,
+        "poster": "https://image.tmdb.org/t/p/w200/kfm4S5DZCh2FwXXdsI4GdjpgXQc.jpg"
     },
     {
-      "title": "Trapped",
-      "release_date": "2015"
-    },
-    {
-      "title": "Lovesong",
-      "release_date": "2016-01-24"
-    },
-    {
-      "title": "Arrival",
-      "release_date": "2016-09-01"
-    },
-    {
-      "title": "The OA",
-      "release_date": "2016"
-    },
-    {
-      "title": "Mother!",
-      "release_date": "2017-09-05"
-    },
-    {
-      "title": "Blade Runner 2049",
-      "release_date": "2017-10-03"
-    },
-    {
-      "title": "The Handmaid's Tale \"Faithful\"",
-      "release_date": "2017"
-    },
-    {
-      "title": "Mandy",
-      "release_date": "2018-01-19"
-    },
-    {
-      "title": "The Mercy",
-      "release_date": "2017-11-28"
-    },
-    {
-      "title": "Mary Magdalene",
-      "release_date": "2018-02-26"
-    },
-    {
-      "title": "Christopher Robin",
-      "release_date": "2018-07-30"
-    },
-    {
-      "title": "The Shadow Play",
-      "release_date": "2018-11-09"
-    },
-    {
-      "title": "Last and First Men",
-      "release_date": "2020-02-25"
+        "title": "Last and First Men",
+        "year": 2020,
+        "id": 566038,
+        "poster": "https://image.tmdb.org/t/p/w200/7B9t8lTFCJQ6GVvSbhrbrA7nsVu.jpg"
     }
-  ]
-}
+]

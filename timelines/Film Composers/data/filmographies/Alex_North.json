@@ -1,1149 +1,356 @@
-{
-  "composer": "Alex North",
-  "filmography": [
+[
     {
-      "title": "Warner Bros. / Charlie Chaplin",
-      "release_date": "1928"
+        "title": "A Streetcar Named Desire",
+        "year": 1951,
+        "id": 702,
+        "poster": "https://image.tmdb.org/t/p/w200/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg"
     },
     {
-      "title": "Walt Disney",
-      "release_date": "1932"
+        "title": "The 13th Letter",
+        "year": 1951,
+        "id": 39306,
+        "poster": "https://image.tmdb.org/t/p/w200/jPzUgfoHHGx5XK3fpsYdt92Zurl.jpg"
     },
     {
-      "title": "Shirley Temple",
-      "release_date": "1934"
+        "title": "Death of a Salesman",
+        "year": 1951,
+        "id": 104394,
+        "poster": "https://image.tmdb.org/t/p/w200/xnyRkG1LMQX0NUpROq61GiKW7eJ.jpg"
     },
     {
-      "title": "D. W. Griffith",
-      "release_date": "1935"
+        "title": "Viva Zapata!",
+        "year": 1952,
+        "id": 1810,
+        "poster": "https://image.tmdb.org/t/p/w200/vfarxn9ddiaZpRDml8FGhB46Qrc.jpg"
     },
     {
-      "title": "The March of Time / W. Howard Greene and Harold Rosson",
-      "release_date": "1936"
+        "title": "Les Miserables",
+        "year": 1952,
+        "id": 132654,
+        "poster": "https://image.tmdb.org/t/p/w200/vNjUYTCqMHAeRUOcTKHCoFtvl7M.jpg"
     },
     {
-      "title": "Edgar Bergen / W. Howard Greene / Museum of Modern Art Film Library / Mack Sennett",
-      "release_date": "1937"
+        "title": "Pony Soldier",
+        "year": 1952,
+        "id": 171019,
+        "poster": "https://image.tmdb.org/t/p/w200/vZynvTz4oVDlORA9Svrh6aBdjK0.jpg"
     },
     {
-      "title": "J. Arthur Ball / Walt Disney / Deanna Durbin and Mickey Rooney / Gordon Jennings, Jan Domela, Devereaux Jennings, Irmin Roberts, Art Smith, Farciot Edouart, Loyal Griggs, Loren L. Ryder, Harry D. Mills, Louis Mesenkop, Walter Oberst / Oliver T. Marsh and Allen Davey / Harry Warner",
-      "release_date": "1938"
+        "title": "The Member of the Wedding",
+        "year": 1952,
+        "id": 93775,
+        "poster": "https://image.tmdb.org/t/p/w200/i1QymzFHXx9ZKbqqNayuzmUHRIo.jpg"
     },
     {
-      "title": "Douglas Fairbanks / Judy Garland / William Cameron Menzies / Motion Picture Relief Fund (Jean Hersholt, Ralph Morgan, Ralph Block, Conrad Nagel) / Technicolor SA",
-      "release_date": "1939"
+        "title": "Decision for Chemistry",
+        "year": 1954,
+        "id": 1290805,
+        "poster": "https://image.tmdb.org/t/p/w200/tbN8sQGmPxu6ajvgxIDndFy5SaY.jpg"
     },
     {
-      "title": "Bob Hope / Nathan Levinson",
-      "release_date": "1940"
+        "title": "Go Man Go",
+        "year": 1954,
+        "id": 108582,
+        "poster": "https://image.tmdb.org/t/p/w200/sasvA9gTtKYlKaTnMK7Ab8C4KjH.jpg"
     },
     {
-      "title": "Walt Disney, William Garity, John N. A. Hawkins, and the RCA Manufacturing Company / Leopold Stokowski and his associates / Rey Scott / British Ministry of Information",
-      "release_date": "1941"
+        "title": "D\u00e9sir\u00e9e",
+        "year": 1954,
+        "id": 43333,
+        "poster": "https://image.tmdb.org/t/p/w200/mvTDhI11hpiWJDRKAheoWtBknTf.jpg"
     },
     {
-      "title": "Charles Boyer / No\u00ebl Coward / Metro-Goldwyn-Mayer",
-      "release_date": "1942"
+        "title": "Man with the Gun",
+        "year": 1955,
+        "id": 26758,
+        "poster": "https://image.tmdb.org/t/p/w200/4QTV9kkliG5wrsHj0x6fNYsaQ34.jpg"
     },
     {
-      "title": "George Pal",
-      "release_date": "1943"
+        "title": "I'll Cry Tomorrow",
+        "year": 1955,
+        "id": 28575,
+        "poster": "https://image.tmdb.org/t/p/w200/8UfnjpxvNa5nbckfE9EWdc38VRg.jpg"
     },
     {
-      "title": "Bob Hope / Margaret O'Brien",
-      "release_date": "1944"
+        "title": "The Rose Tattoo",
+        "year": 1955,
+        "id": 65550,
+        "poster": "https://image.tmdb.org/t/p/w200/3W3dgP2l24JJWq6sVEl6TddLwbe.jpg"
     },
     {
-      "title": "Republic Studio, Daniel J. Bloomberg, and the Republic Studio Sound Department / Walter Wanger / The House I Live In / Peggy Ann Garner",
-      "release_date": "1945"
+        "title": "The Racers",
+        "year": 1955,
+        "id": 137343,
+        "poster": "https://image.tmdb.org/t/p/w200/yU4BUiRcoec9MLlx83cUHZFkJKE.jpg"
     },
     {
-      "title": "Harold Russell / Laurence Olivier / Ernst Lubitsch / Claude Jarman Jr.",
-      "release_date": "1946"
+        "title": "Unchained",
+        "year": 1955,
+        "id": 216876,
+        "poster": "https://image.tmdb.org/t/p/w200/xfZzlqi3S8R41E4Hi3TaFH9lOxg.jpg"
     },
     {
-      "title": "James Baskett / Thomas Armat, William Nicholas Selig, Albert E. Smith, and George Kirke Spoor / Bill and Coo / Shoeshine",
-      "release_date": "1947"
+        "title": "The Bad Seed",
+        "year": 1956,
+        "id": 42196,
+        "poster": "https://image.tmdb.org/t/p/w200/iAgSkpZslQ2s3onL9TaHbyWygtC.jpg"
     },
     {
-      "title": "Life with Father \u2013 Max Steiner",
-      "release_date": "1947"
+        "title": "The King and Four Queens",
+        "year": 1956,
+        "id": 43310,
+        "poster": "https://image.tmdb.org/t/p/w200/w6lTWootXbnAH0HwPcEkShId9jH.jpg"
     },
     {
-      "title": "Walter Wanger / Monsieur Vincent / Sid Grauman / Adolph Zukor",
-      "release_date": "1948"
+        "title": "The Rainmaker",
+        "year": 1956,
+        "id": 43542,
+        "poster": "https://image.tmdb.org/t/p/w200/3E2dmfh3e2LOKq0psiNXAGwtZGl.jpg"
     },
     {
-      "title": "The Red Shoes \u2013 Brian Easdale",
-      "release_date": "1948"
+        "title": "The Bachelor Party",
+        "year": 1957,
+        "id": 185263,
+        "poster": "https://image.tmdb.org/t/p/w200/to8xodOCvR57xDOS8rojBTwqGa5.jpg"
     },
     {
-      "title": "Jean Hersholt / Fred Astaire / Cecil B. DeMille / The Bicycle Thief",
-      "release_date": "1949"
+        "title": "Four Girls in Town",
+        "year": 1957,
+        "id": 108247,
+        "poster": "https://image.tmdb.org/t/p/w200/3GdW663UW8hVQ4FHp0vb5UVzp2G.jpg"
     },
     {
-      "title": "The Inspector General \u2013 Johnny Green",
-      "release_date": "1949"
+        "title": "Stage Struck",
+        "year": 1958,
+        "id": 111910,
+        "poster": "https://image.tmdb.org/t/p/w200/2taT00UvxPyKIofYvIJ5RTV1pV9.jpg"
     },
     {
-      "title": "Louis B. Mayer / George Murphy / The Walls of Malapaga",
-      "release_date": "1950"
+        "title": "The Long, Hot Summer",
+        "year": 1958,
+        "id": 40085,
+        "poster": "https://image.tmdb.org/t/p/w200/nWQddN7kfkVqSimb4SQc35gNUnP.jpg"
     },
     {
-      "title": "Sunset Boulevard \u2013 Franz Waxman",
-      "release_date": "1950"
+        "title": "Hot Spell",
+        "year": 1958,
+        "id": 185266,
+        "poster": "https://image.tmdb.org/t/p/w200/mJwdq74GWTaEXTOS4CXRI2ARHx7.jpg"
     },
     {
-      "title": "Nominated - A Streetcar Named Desire",
-      "release_date": "1951"
+        "title": "South Seas Adventure",
+        "year": 1958,
+        "id": 157095,
+        "poster": "https://image.tmdb.org/t/p/w200/BrT5zWG2rHZicd5xVr7wDNg0YA.jpg"
     },
     {
-      "title": "Nominated - Death of a Salesman",
-      "release_date": "1951"
+        "title": "The Wonderful Country",
+        "year": 1959,
+        "id": 6610,
+        "poster": "https://image.tmdb.org/t/p/w200/nS12kvSCEEp6SCi3TU6Hk5bRjo2.jpg"
     },
     {
-      "title": "A Streetcar Named Desire",
-      "release_date": "1951-09-19"
+        "title": "The Sound and the Fury",
+        "year": 1959,
+        "id": 159615,
+        "poster": "https://image.tmdb.org/t/p/w200/vNzr5YImhoBwOyCSBhcIZhAF9IA.jpg"
     },
     {
-      "title": "Death of a Salesman",
-      "release_date": "1951-12-20"
+        "title": "Spartacus",
+        "year": 1960,
+        "id": 967,
+        "poster": "https://image.tmdb.org/t/p/w200/r0Fgg1GyZgzokaiw2HFQv3oPaL2.jpg"
     },
     {
-      "title": "Gene Kelly / Rashomon",
-      "release_date": "1951"
+        "title": "The Children's Hour",
+        "year": 1961,
+        "id": 20139,
+        "poster": "https://image.tmdb.org/t/p/w200/goyEWixvULM2IRN4KsKibyrJE4J.jpg"
     },
     {
-      "title": "September Affair \u2013 Victor Young",
-      "release_date": "1951"
+        "title": "The Misfits",
+        "year": 1961,
+        "id": 11536,
+        "poster": "https://image.tmdb.org/t/p/w200/rkIkyPhT5oetT463HxpdIuct30l.jpg"
     },
     {
-      "title": "Viva Zapata!",
-      "release_date": "1952-02-13"
+        "title": "Sanctuary",
+        "year": 1961,
+        "id": 210808,
+        "poster": "https://image.tmdb.org/t/p/w200/5TNdwZYfTpeBzEI5WYoHcLPjRvi.jpg"
     },
     {
-      "title": "Nominated - Viva Zapata!",
-      "release_date": "1952"
+        "title": "All Fall Down",
+        "year": 1962,
+        "id": 86240,
+        "poster": "https://image.tmdb.org/t/p/w200/kY826mLuUOc8CXEyWSXiPUAb0xv.jpg"
     },
     {
-      "title": "Les Mis\u00e9rables",
-      "release_date": "1952-08-14"
+        "title": "Cleopatra",
+        "year": 1963,
+        "id": 8095,
+        "poster": "https://image.tmdb.org/t/p/w200/bj7rUGUewofA9cpHt1h36gvDFfy.jpg"
     },
     {
-      "title": "Merian C. Cooper / Bob Hope / Harold Lloyd / George Mitchell / Joseph M. Schenck / Forbidden Games",
-      "release_date": "1952"
+        "title": "Cheyenne Autumn",
+        "year": 1964,
+        "id": 40630,
+        "poster": "https://image.tmdb.org/t/p/w200/kYc1NuT9Cvm6GHAdf5nlEXb3evl.jpg"
     },
     {
-      "title": "High Noon \u2013 Dimitri Tiomkin",
-      "release_date": "1952"
+        "title": "The Outrage",
+        "year": 1964,
+        "id": 85609,
+        "poster": "https://image.tmdb.org/t/p/w200/9dhtCGXMu0oCLf9Hysrth4cqgKc.jpg"
     },
     {
-      "title": "20th Century-Fox Film Corporation / Bell & Howell Company / Joseph Breen / Pete Smith",
-      "release_date": "1953"
+        "title": "The Agony and the Ecstasy",
+        "year": 1965,
+        "id": 36815,
+        "poster": "https://image.tmdb.org/t/p/w200/4ZiwyXtyxYDmMnNiVemCPgxY8X6.jpg"
     },
     {
-      "title": "D\u00e9sir\u00e9e",
-      "release_date": "1954-11-16"
+        "title": "Who's Afraid of Virginia Woolf?",
+        "year": 1966,
+        "id": 396,
+        "poster": "https://image.tmdb.org/t/p/w200/wF7ihB5V5gSm6zxjv3ZhHOpgREI.jpg"
     },
     {
-      "title": "Bausch & Lomb Optical Company / Danny Kaye / Kemp Niver / Greta Garbo / Jon Whiteley / Vincent Winter / Gate of Hell",
-      "release_date": "1954"
+        "title": "The Shoes of the Fisherman",
+        "year": 1968,
+        "id": 17665,
+        "poster": "https://image.tmdb.org/t/p/w200/m9HqMSaDz7Peo0ufCaBUP8gG5gf.jpg"
     },
     {
-      "title": "Nominated - The Rose Tattoo",
-      "release_date": "1955"
+        "title": "The Devil's Brigade",
+        "year": 1968,
+        "id": 31938,
+        "poster": "https://image.tmdb.org/t/p/w200/kbcyQHD93FcPxUvKQai5oJ9tUtE.jpg"
     },
     {
-      "title": "Nominated - Best Original Song (with Hy Zaret) \"Unchained Melody\"",
-      "release_date": "1955"
+        "title": "A Dream of Kings",
+        "year": 1969,
+        "id": 272162,
+        "poster": "https://image.tmdb.org/t/p/w200/vWZFi8DWKMTSwzL9HkIfb7w45Pf.jpg"
     },
     {
-      "title": "Unchained",
-      "release_date": "1955-01-19"
+        "title": "Hard Contract",
+        "year": 1969,
+        "id": 67220,
+        "poster": "https://image.tmdb.org/t/p/w200/e5xeWDPyCUKzktgxl4IX8TZ95Js.jpg"
     },
     {
-      "title": "The Rose Tattoo",
-      "release_date": "1955-12-12"
+        "title": "Willard",
+        "year": 1971,
+        "id": 42532,
+        "poster": "https://image.tmdb.org/t/p/w200/uhDAH8JRO9R1ROjSH24GoJPaJBJ.jpg"
     },
     {
-      "title": "I'll Cry Tomorrow",
-      "release_date": "1955-12-25"
+        "title": "Pocket Money",
+        "year": 1972,
+        "id": 45512,
+        "poster": "https://image.tmdb.org/t/p/w200/sfSFXd5vrJ1Zo29Vz6G3t3iK1Yv.jpg"
     },
     {
-      "title": "Samurai I: Musashi Miyamoto",
-      "release_date": "1954-09-26"
+        "title": "Shanks",
+        "year": 1974,
+        "id": 29399,
+        "poster": "https://image.tmdb.org/t/p/w200/7QlcNEGeEXp5ixtCaOuQyGlEb7S.jpg"
     },
     {
-      "title": "Nominated - The Rainmaker",
-      "release_date": "1956"
+        "title": "Once Upon a Scoundrel",
+        "year": 1974,
+        "id": 206188,
+        "poster": "https://image.tmdb.org/t/p/w200/mdnxqKpbNZ7SGpKmSKubpYwyA4p.jpg"
     },
     {
-      "title": "The Bad Seed",
-      "release_date": "1956-09-12"
+        "title": "Bite the Bullet",
+        "year": 1975,
+        "id": 32617,
+        "poster": "https://image.tmdb.org/t/p/w200/2tg8EWatD9mwuKTsTJJ5A96oy5G.jpg"
     },
     {
-      "title": "The Rainmaker",
-      "release_date": "1956-12-13"
+        "title": "Journey into Fear",
+        "year": 1975,
+        "id": 200331,
+        "poster": "https://image.tmdb.org/t/p/w200/hpwhvnefWCqcfSjkmSqkoKf2GJE.jpg"
     },
     {
-      "title": "The King and Four Queens",
-      "release_date": "1956-12-26"
+        "title": "The Passover Plot",
+        "year": 1976,
+        "id": 152256,
+        "poster": "https://image.tmdb.org/t/p/w200/iT7CdYetTJB0qIyJXMkenzPbZQe.jpg"
     },
     {
-      "title": "Eddie Cantor",
-      "release_date": "1956"
+        "title": "Somebody Killed Her Husband",
+        "year": 1978,
+        "id": 120520,
+        "poster": "https://image.tmdb.org/t/p/w200/1MaxW1Cv1XwZ1mVw6KFsxHe4ynz.jpg"
     },
     {
-      "title": "Society of Motion Picture and Television Engineers / Gilbert M. \"Broncho Billy\" Anderson / Charles Brackett / B. B. Kahane",
-      "release_date": "1957"
+        "title": "Wise Blood",
+        "year": 1979,
+        "id": 42179,
+        "poster": "https://image.tmdb.org/t/p/w200/gSZQC6u86iaugBSs1KBrXST7KSL.jpg"
     },
     {
-      "title": "The Long, Hot Summer",
-      "release_date": "1958-03-13"
+        "title": "Carny",
+        "year": 1980,
+        "id": 32027,
+        "poster": "https://image.tmdb.org/t/p/w200/jXiS5rTxZ9hNdXJbTTIQ1ICtGKP.jpg"
     },
     {
-      "title": "Stage Struck",
-      "release_date": "1958-03-06"
+        "title": "Dragonslayer",
+        "year": 1981,
+        "id": 848,
+        "poster": "https://image.tmdb.org/t/p/w200/92VXAEwbjebYqTeUa7uX5bBtDuD.jpg"
     },
     {
-      "title": "Hot Spell",
-      "release_date": "1958"
+        "title": "Sister, Sister",
+        "year": 1982,
+        "id": 489775,
+        "poster": "https://image.tmdb.org/t/p/w200/fnbZaZo8uMjCEw6AEosTdRScGeI.jpg"
     },
     {
-      "title": "Maurice Chevalier",
-      "release_date": "1958"
+        "title": "Under the Volcano",
+        "year": 1984,
+        "id": 41089,
+        "poster": "https://image.tmdb.org/t/p/w200/414VrLFf8gffMUNTGm0zlg2UuHh.jpg"
     },
     {
-      "title": "The Sound and the Fury",
-      "release_date": "1959"
+        "title": "Prizzi's Honor",
+        "year": 1985,
+        "id": 2075,
+        "poster": "https://image.tmdb.org/t/p/w200/5azGfZXuUFYjYfz6etYOdlyLXwL.jpg"
     },
     {
-      "title": "The Wonderful Country",
-      "release_date": "1959-10-21"
+        "title": "Death of a Salesman",
+        "year": 1985,
+        "id": 12615,
+        "poster": "https://image.tmdb.org/t/p/w200/tIRmjfaLmVHjGFaIcNGD3hggvbO.jpg"
     },
     {
-      "title": "Buster Keaton / Lee de Forest",
-      "release_date": "1959"
+        "title": "Good Morning, Vietnam",
+        "year": 1987,
+        "id": 801,
+        "poster": "https://image.tmdb.org/t/p/w200/sreISlFUn5TyR41QNjlfAdX5SEW.jpg"
     },
     {
-      "title": "On the Beach \u2013 Ernest Gold",
-      "release_date": "1959"
+        "title": "The Dead",
+        "year": 1987,
+        "id": 39507,
+        "poster": "https://image.tmdb.org/t/p/w200/hFLUqiwvvtcUqA5NZNejaaNpTv0.jpg"
     },
     {
-      "title": "Spartacus",
-      "release_date": "1960-10-06"
+        "title": "The Penitent",
+        "year": 1988,
+        "id": 334098,
+        "poster": "https://image.tmdb.org/t/p/w200/faaLeS26vQroTP3fBEg51fg5ruL.jpg"
     },
     {
-      "title": "Nominated - Spartacus",
-      "release_date": "1960"
-    },
-    {
-      "title": "Gary Cooper / Stan Laurel / Hayley Mills",
-      "release_date": "1960"
-    },
-    {
-      "title": "The Alamo \u2013 Dimitri Tiomkin",
-      "release_date": "1960"
-    },
-    {
-      "title": "The Misfits",
-      "release_date": "1961-02-01"
-    },
-    {
-      "title": "Sanctuary",
-      "release_date": "1961-04-18"
-    },
-    {
-      "title": "The Children's Hour",
-      "release_date": "1961-12-19"
-    },
-    {
-      "title": "William L. Hendricks / Fred L. Metzler / Jerome Robbins",
-      "release_date": "1961"
-    },
-    {
-      "title": "The Guns of Navarone \u2013 Dimitri Tiomkin",
-      "release_date": "1961"
-    },
-    {
-      "title": "All Fall Down",
-      "release_date": "1962-04-11"
-    },
-    {
-      "title": "To Kill a Mockingbird \u2013 Elmer Bernstein",
-      "release_date": "1962"
-    },
-    {
-      "title": "Cleopatra",
-      "release_date": "1963-06-12"
-    },
-    {
-      "title": "Nominated - Cleopatra",
-      "release_date": "1963"
-    },
-    {
-      "title": "Cheyenne Autumn",
-      "release_date": "1964-10-03"
-    },
-    {
-      "title": "The Outrage",
-      "release_date": "1964-10-08"
-    },
-    {
-      "title": "William J. Tuttle",
-      "release_date": "1964"
-    },
-    {
-      "title": "The Fall of the Roman Empire \u2013 Dimitri Tiomkin",
-      "release_date": "1964"
-    },
-    {
-      "title": "Nominated - The Agony and the Ecstasy",
-      "release_date": "1965"
-    },
-    {
-      "title": "The Agony and the Ecstasy",
-      "release_date": "1965-10-07"
-    },
-    {
-      "title": "Bob Hope",
-      "release_date": "1965"
-    },
-    {
-      "title": "Doctor Zhivago \u2013 Maurice Jarre",
-      "release_date": "1965"
-    },
-    {
-      "title": "Who's Afraid of Virginia Woolf?",
-      "release_date": "1966"
-    },
-    {
-      "title": "Nominated - Who's Afraid of Virginia Woolf?",
-      "release_date": "1966"
-    },
-    {
-      "title": "Yakima Canutt / Y. Frank Freeman",
-      "release_date": "1966"
-    },
-    {
-      "title": "Laurence Rosenthal",
-      "release_date": "1966"
-    },
-    {
-      "title": "Hawaii \u2013 Elmer Bernstein",
-      "release_date": "1966"
-    },
-    {
-      "title": "Arthur Freed",
-      "release_date": "1967"
-    },
-    {
-      "title": "No Award",
-      "release_date": "1967"
-    },
-    {
-      "title": "Camelot \u2013 Frederick Loewe",
-      "release_date": "1967"
-    },
-    {
-      "title": "Nominated - The Shoes of the Fisherman",
-      "release_date": "1968"
-    },
-    {
-      "title": "Winner - The Shoes of the Fisherman",
-      "release_date": "1968"
-    },
-    {
-      "title": "The Devil's Brigade",
-      "release_date": "1968-05-14"
-    },
-    {
-      "title": "The Shoes of the Fisherman",
-      "release_date": "1968-11-14"
-    },
-    {
-      "title": "John Chambers / Onna White",
-      "release_date": "1968"
-    },
-    {
-      "title": "Earle Hagen",
-      "release_date": "1968"
-    },
-    {
-      "title": "The Shoes of the Fisherman \u2013 Alex North",
-      "release_date": "1968"
-    },
-    {
-      "title": "Hard Contract",
-      "release_date": "1969-04-30"
-    },
-    {
-      "title": "A Dream of Kings",
-      "release_date": "1969-12-15"
-    },
-    {
-      "title": "Cary Grant",
-      "release_date": "1969"
-    },
-    {
-      "title": "John Williams",
-      "release_date": "1969"
-    },
-    {
-      "title": "Butch Cassidy and the Sundance Kid \u2013 Burt Bacharach",
-      "release_date": "1969"
-    },
-    {
-      "title": "Lillian Gish / Orson Welles",
-      "release_date": "1970"
-    },
-    {
-      "title": "Morton Stevens",
-      "release_date": "1970"
-    },
-    {
-      "title": "Love Story \u2013 Francis Lai",
-      "release_date": "1970"
-    },
-    {
-      "title": "Willard",
-      "release_date": "1971-02-26"
-    },
-    {
-      "title": "Charlie Chaplin",
-      "release_date": "1971"
-    },
-    {
-      "title": "David Rose",
-      "release_date": "1971"
-    },
-    {
-      "title": "Shaft \u2013 Isaac Hayes",
-      "release_date": "1971"
-    },
-    {
-      "title": "Pocket Money",
-      "release_date": "1972-02-14"
-    },
-    {
-      "title": "Charles S. Boren / Edward G. Robinson",
-      "release_date": "1972"
-    },
-    {
-      "title": "Pete Rugolo",
-      "release_date": "1972"
-    },
-    {
-      "title": "The Godfather \u2013 Nino Rota",
-      "release_date": "1972"
-    },
-    {
-      "title": "Henri Langlois / Groucho Marx",
-      "release_date": "1973"
-    },
-    {
-      "title": "Charles Fox",
-      "release_date": "1973"
-    },
-    {
-      "title": "Jonathan Livingston Seagull \u2013 Neil Diamond",
-      "release_date": "1973"
-    },
-    {
-      "title": "Nominated - Shanks",
-      "release_date": "1974"
-    },
-    {
-      "title": "Shanks",
-      "release_date": "1974-10-09"
-    },
-    {
-      "title": "Howard Hawks / Jean Renoir",
-      "release_date": "1974"
-    },
-    {
-      "title": "Morton Stevens",
-      "release_date": "1974"
-    },
-    {
-      "title": "The Little Prince \u2013 Alan Jay Lerner and Frederick Loewe",
-      "release_date": "1974"
-    },
-    {
-      "title": "Nominated - Bite the Bullet",
-      "release_date": "1975"
-    },
-    {
-      "title": "Bite the Bullet",
-      "release_date": "1975-04-20"
-    },
-    {
-      "title": "Journey into Fear",
-      "release_date": "1975-08-08"
-    },
-    {
-      "title": "Mary Pickford",
-      "release_date": "1975"
-    },
-    {
-      "title": "Billy Goldenberg",
-      "release_date": "1975"
-    },
-    {
-      "title": "Jaws \u2013 John Williams",
-      "release_date": "1975"
-    },
-    {
-      "title": "Winner - Rich Man, Poor Man",
-      "release_date": "1976"
-    },
-    {
-      "title": "Nominated - Rich Man, Poor Man",
-      "release_date": "1976"
-    },
-    {
-      "title": "Alex North",
-      "release_date": "1976"
-    },
-    {
-      "title": "A Star is Born \u2013 Kenneth Ascher and Paul Williams",
-      "release_date": "1976"
-    },
-    {
-      "title": "Margaret Booth",
-      "release_date": "1977"
-    },
-    {
-      "title": "Quincy Jones and Gerald Fried",
-      "release_date": "1977"
-    },
-    {
-      "title": "Star Wars \u2013 John Williams",
-      "release_date": "1977"
-    },
-    {
-      "title": "Nominated - The Word",
-      "release_date": "1978"
-    },
-    {
-      "title": "Somebody Killed Her Husband",
-      "release_date": "1978-09-29"
-    },
-    {
-      "title": "Walter Lantz / Laurence Olivier / King Vidor / Museum of Modern Art Department of Film",
-      "release_date": "1978"
-    },
-    {
-      "title": "Billy Goldenberg",
-      "release_date": "1978"
-    },
-    {
-      "title": "Midnight Express \u2013 Giorgio Moroder",
-      "release_date": "1978"
-    },
-    {
-      "title": "Wise Blood",
-      "release_date": "1979-05-23"
-    },
-    {
-      "title": "Hal Elias / Alec Guinness",
-      "release_date": "1979"
-    },
-    {
-      "title": "David Rose",
-      "release_date": "1979"
-    },
-    {
-      "title": "Apocalypse Now \u2013 Carmine Coppola and Francis Ford Coppola",
-      "release_date": "1979"
-    },
-    {
-      "title": "Carny",
-      "release_date": "1980-06-13"
-    },
-    {
-      "title": "Henry Fonda",
-      "release_date": "1980"
-    },
-    {
-      "title": "Patrick Williams",
-      "release_date": "1980"
-    },
-    {
-      "title": "The Stunt Man \u2013 Dominic Frontiere",
-      "release_date": "1980"
-    },
-    {
-      "title": "Nominated - Dragonslayer",
-      "release_date": "1981"
-    },
-    {
-      "title": "Dragonslayer",
-      "release_date": "1981-06-26"
-    },
-    {
-      "title": "Barbara Stanwyck",
-      "release_date": "1981"
-    },
-    {
-      "title": "Bruce Broughton",
-      "release_date": "1981"
-    },
-    {
-      "title": "No Award",
-      "release_date": "1981"
-    },
-    {
-      "title": "Mickey Rooney",
-      "release_date": "1982"
-    },
-    {
-      "title": "David Rose",
-      "release_date": "1982"
-    },
-    {
-      "title": "E.T. the Extra-Terrestrial \u2013 John Williams",
-      "release_date": "1982"
-    },
-    {
-      "title": "Hal Roach",
-      "release_date": "1983"
-    },
-    {
-      "title": "Bruce Broughton",
-      "release_date": "1983"
-    },
-    {
-      "title": "Flashdance \u2013 Giorgio Moroder",
-      "release_date": "1983"
-    },
-    {
-      "title": "Nominated - Under the Volcano",
-      "release_date": "1984"
-    },
-    {
-      "title": "Under the Volcano",
-      "release_date": "1984-05-18"
-    },
-    {
-      "title": "James Stewart / National Endowment for the Arts",
-      "release_date": "1984"
-    },
-    {
-      "title": "Bruce Broughton",
-      "release_date": "1984"
-    },
-    {
-      "title": "A Passage to India \u2013 Maurice Jarre",
-      "release_date": "1984"
-    },
-    {
-      "title": "Nominated - Death of a Salesman",
-      "release_date": "1985"
-    },
-    {
-      "title": "Prizzi's Honor",
-      "release_date": "1985-06-14"
-    },
-    {
-      "title": "Paul Newman / Alex North",
-      "release_date": "1985"
-    },
-    {
-      "title": "John Addison",
-      "release_date": "1985"
-    },
-    {
-      "title": "Out of Africa \u2013 John Barry",
-      "release_date": "1985"
-    },
-    {
-      "title": "Winner - Honorary Oscar \"in recognition of his brilliant artistry in the creation of memorable music for a host of distinguished motion pictures.\"",
-      "release_date": "1986"
-    },
-    {
-      "title": "Winner - Lifetime Achievement",
-      "release_date": "1986"
-    },
-    {
-      "title": "Ralph Bellamy",
-      "release_date": "1986"
-    },
-    {
-      "title": "Arthur B. Rubinstein",
-      "release_date": "1986"
-    },
-    {
-      "title": "The Mission \u2013 Ennio Morricone",
-      "release_date": "1986"
-    },
-    {
-      "title": "Winner - Good Morning, Vietnam",
-      "release_date": "1987"
-    },
-    {
-      "title": "The Dead",
-      "release_date": "1987-12-18"
-    },
-    {
-      "title": "Good Morning, Vietnam",
-      "release_date": "1987-12-23"
-    },
-    {
-      "title": "Joel Rosenbaum",
-      "release_date": "1987"
-    },
-    {
-      "title": "The Last Emperor \u2013 David Byrne, Ryuichi Sakamoto and Cong Su",
-      "release_date": "1987"
-    },
-    {
-      "title": "The Penitent",
-      "release_date": "1988-05-27"
-    },
-    {
-      "title": "Eastman Kodak Company / National Film Board of Canada",
-      "release_date": "1988"
-    },
-    {
-      "title": "Lee Holdridge",
-      "release_date": "1988"
-    },
-    {
-      "title": "Gorillas in the Mist \u2013 Maurice Jarre",
-      "release_date": "1988"
-    },
-    {
-      "title": "Akira Kurosawa",
-      "release_date": "1989"
-    },
-    {
-      "title": "Joel Rosenbaum",
-      "release_date": "1989"
-    },
-    {
-      "title": "The Little Mermaid \u2013 Alan Menken",
-      "release_date": "1989"
-    },
-    {
-      "title": "Sophia Loren / Myrna Loy",
-      "release_date": "1990"
-    },
-    {
-      "title": "Don Davis",
-      "release_date": "1990"
-    },
-    {
-      "title": "The Sheltering Sky \u2013 Richard Horowitz and Ryuichi Sakamoto",
-      "release_date": "1990"
-    },
-    {
-      "title": "Satyajit Ray",
-      "release_date": "1991"
-    },
-    {
-      "title": "John Debney",
-      "release_date": "1991"
-    },
-    {
-      "title": "Beauty and the Beast \u2013 Alan Menken",
-      "release_date": "1991"
-    },
-    {
-      "title": "Federico Fellini",
-      "release_date": "1992"
-    },
-    {
-      "title": "Bruce Babcock",
-      "release_date": "1992"
-    },
-    {
-      "title": "Aladdin \u2013 Alan Menken",
-      "release_date": "1992"
-    },
-    {
-      "title": "Deborah Kerr",
-      "release_date": "1993"
-    },
-    {
-      "title": "Joel McNeely",
-      "release_date": "1993"
-    },
-    {
-      "title": "Heaven & Earth \u2013 Kitar\u014d",
-      "release_date": "1993"
-    },
-    {
-      "title": "Michelangelo Antonioni",
-      "release_date": "1994"
-    },
-    {
-      "title": "Laurence Rosenthal",
-      "release_date": "1994"
-    },
-    {
-      "title": "The Lion King \u2013 Hans Zimmer",
-      "release_date": "1994"
-    },
-    {
-      "title": "Kirk Douglas / Chuck Jones",
-      "release_date": "1995"
-    },
-    {
-      "title": "Don Davis",
-      "release_date": "1995"
-    },
-    {
-      "title": "A Walk in the Clouds \u2013 Maurice Jarre",
-      "release_date": "1995"
-    },
-    {
-      "title": "Michael Kidd",
-      "release_date": "1996"
-    },
-    {
-      "title": "Hummie Mann",
-      "release_date": "1996"
-    },
-    {
-      "title": "The English Patient \u2013 Gabriel Yared",
-      "release_date": "1996"
-    },
-    {
-      "title": "Stanley Donen",
-      "release_date": "1997"
-    },
-    {
-      "title": "John Debney and Louis Febre",
-      "release_date": "1997"
-    },
-    {
-      "title": "Titanic \u2013 James Horner",
-      "release_date": "1997"
-    },
-    {
-      "title": "Elia Kazan",
-      "release_date": "1998"
-    },
-    {
-      "title": "Christophe Beck",
-      "release_date": "1998"
-    },
-    {
-      "title": "The Truman Show \u2013 Burkhard Dallwitz and Philip Glass",
-      "release_date": "1998"
-    },
-    {
-      "title": "Andrzej Wajda",
-      "release_date": "1999"
-    },
-    {
-      "title": "Carl Johnson",
-      "release_date": "1999"
-    },
-    {
-      "title": "The Legend of 1900 \u2013 Ennio Morricone",
-      "release_date": "1999"
-    },
-    {
-      "title": "Jack Cardiff / Ernest Lehman",
-      "release_date": "2000"
-    },
-    {
-      "title": "Joseph LoDuca",
-      "release_date": "2000"
-    },
-    {
-      "title": "Gladiator \u2013 Hans Zimmer, Lisa Gerrard",
-      "release_date": "2000"
-    },
-    {
-      "title": "Sidney Poitier / Robert Redford",
-      "release_date": "2001"
-    },
-    {
-      "title": "Jay Chattaway",
-      "release_date": "2001"
-    },
-    {
-      "title": "Moulin Rouge! \u2013 Craig Armstrong",
-      "release_date": "2001"
-    },
-    {
-      "title": "Peter O'Toole",
-      "release_date": "2002"
-    },
-    {
-      "title": "George Fenton",
-      "release_date": "2002"
-    },
-    {
-      "title": "Frida \u2013 Elliot Goldenthal",
-      "release_date": "2002"
-    },
-    {
-      "title": "Blake Edwards",
-      "release_date": "2003"
-    },
-    {
-      "title": "Sean Callery",
-      "release_date": "2003"
-    },
-    {
-      "title": "The Lord of the Rings: The Return of the King \u2013 Howard Shore",
-      "release_date": "2003"
-    },
-    {
-      "title": "Sidney Lumet",
-      "release_date": "2004"
-    },
-    {
-      "title": "Velton Ray Bunch",
-      "release_date": "2004"
-    },
-    {
-      "title": "The Aviator \u2013 Howard Shore",
-      "release_date": "2004"
-    },
-    {
-      "title": "Robert Altman",
-      "release_date": "2005"
-    },
-    {
-      "title": "Michael Giacchino",
-      "release_date": "2005"
-    },
-    {
-      "title": "Memoirs of a Geisha \u2013 John Williams",
-      "release_date": "2005"
-    },
-    {
-      "title": "Ennio Morricone",
-      "release_date": "2006"
-    },
-    {
-      "title": "Sean Callery",
-      "release_date": "2006"
-    },
-    {
-      "title": "The Painted Veil \u2013 Alexandre Desplat",
-      "release_date": "2006"
-    },
-    {
-      "title": "Robert F. Boyle",
-      "release_date": "2007"
-    },
-    {
-      "title": "George Fenton",
-      "release_date": "2007"
-    },
-    {
-      "title": "Atonement \u2013 Dario Marianelli",
-      "release_date": "2007"
-    },
-    {
-      "title": "James Dooley",
-      "release_date": "2008"
-    },
-    {
-      "title": "Slumdog Millionaire \u2013 A. R. Rahman",
-      "release_date": "2008"
-    },
-    {
-      "title": "Lauren Bacall / Roger Corman / Gordon Willis",
-      "release_date": "2009"
-    },
-    {
-      "title": "Joseph LoDuca",
-      "release_date": "2009"
-    },
-    {
-      "title": "Up \u2013 Michael Giacchino",
-      "release_date": "2009"
-    },
-    {
-      "title": "Kevin Brownlow / Jean-Luc Godard / Eli Wallach",
-      "release_date": "2010"
-    },
-    {
-      "title": "Sean Callery",
-      "release_date": "2010"
-    },
-    {
-      "title": "The Social Network \u2013 Trent Reznor and Atticus Ross",
-      "release_date": "2010"
-    },
-    {
-      "title": "James Earl Jones / Dick Smith",
-      "release_date": "2011"
-    },
-    {
-      "title": "Garth Neustadter",
-      "release_date": "2011"
-    },
-    {
-      "title": "The Artist \u2013 Ludovic Bource",
-      "release_date": "2011"
-    },
-    {
-      "title": "D. A. Pennebaker / Hal Needham / George Stevens Jr.",
-      "release_date": "2012"
-    },
-    {
-      "title": "John Lunn",
-      "release_date": "2012"
-    },
-    {
-      "title": "Life of Pi \u2013 Mychael Danna",
-      "release_date": "2012"
-    },
-    {
-      "title": "Angela Lansbury / Steve Martin / Piero Tosi",
-      "release_date": "2013"
-    },
-    {
-      "title": "John Lunn",
-      "release_date": "2013"
-    },
-    {
-      "title": "All Is Lost \u2013 Alex Ebert",
-      "release_date": "2013"
-    },
-    {
-      "title": "Jean-Claude Carri\u00e8re / Hayao Miyazaki / Maureen O'Hara",
-      "release_date": "2014"
-    },
-    {
-      "title": "Alan Silvestri",
-      "release_date": "2014"
-    },
-    {
-      "title": "The Theory of Everything \u2013 J\u00f3hann J\u00f3hannsson",
-      "release_date": "2014"
-    },
-    {
-      "title": "Spike Lee / Gena Rowlands",
-      "release_date": "2015"
-    },
-    {
-      "title": "Jeff Beal",
-      "release_date": "2015"
-    },
-    {
-      "title": "The Hateful Eight \u2013 Ennio Morricone",
-      "release_date": "2015"
-    },
-    {
-      "title": "Jackie Chan / Lynn Stalmaster / Anne V. Coates / Frederick Wiseman",
-      "release_date": "2016"
-    },
-    {
-      "title": "Mac Quayle",
-      "release_date": "2016"
-    },
-    {
-      "title": "La La Land \u2013 Justin Hurwitz",
-      "release_date": "2016"
-    },
-    {
-      "title": "Charles Burnett / Owen Roizman / Donald Sutherland / Agn\u00e8s Varda",
-      "release_date": "2017"
-    },
-    {
-      "title": "Jeff Beal",
-      "release_date": "2017"
-    },
-    {
-      "title": "The Shape of Water \u2013 Alexandre Desplat",
-      "release_date": "2017"
-    },
-    {
-      "title": "Marvin Levy / Lalo Schifrin / Cicely Tyson",
-      "release_date": "2018"
-    },
-    {
-      "title": "Ramin Djawadi",
-      "release_date": "2018"
-    },
-    {
-      "title": "First Man \u2013 Justin Hurwitz",
-      "release_date": "2018"
-    },
-    {
-      "title": "David Lynch / Wes Studi / Lina Wertm\u00fcller",
-      "release_date": "2019"
-    },
-    {
-      "title": "Ramin Djawadi",
-      "release_date": "2019"
-    },
-    {
-      "title": "Joker \u2013 Hildur Gu\u00f0nad\u00f3ttir",
-      "release_date": "2019"
-    },
-    {
-      "title": "Ludwig G\u00f6ransson",
-      "release_date": "2020"
-    },
-    {
-      "title": "Soul \u2013 Trent Reznor, Atticus Ross, and Jon Batiste",
-      "release_date": "2020"
-    },
-    {
-      "title": "Samuel L. Jackson / Elaine May / Liv Ullmann",
-      "release_date": "2021"
-    },
-    {
-      "title": "Ludwig G\u00f6ransson",
-      "release_date": "2021"
-    },
-    {
-      "title": "Dune \u2013 Hans Zimmer",
-      "release_date": "2021"
-    },
-    {
-      "title": "Euzhan Palcy / Diane Warren / Peter Weir",
-      "release_date": "2022"
-    },
-    {
-      "title": "Theodore Shapiro",
-      "release_date": "2022"
-    },
-    {
-      "title": "Babylon \u2013 Justin Hurwitz",
-      "release_date": "2022"
-    },
-    {
-      "title": "Angela Bassett / Mel Brooks / Carol Littleton",
-      "release_date": "2023"
-    },
-    {
-      "title": "Cristobal Tapia de Veer",
-      "release_date": "2023"
-    },
-    {
-      "title": "Oppenheimer \u2013 Ludwig G\u00f6ransson",
-      "release_date": "2023"
-    },
-    {
-      "title": "Quincy Jones / Juliet Taylor",
-      "release_date": "2024"
-    },
-    {
-      "title": "Siddhartha Khosla",
-      "release_date": "2024"
-    },
-    {
-      "title": "Challengers \u2013 Trent Reznor and Atticus Ross",
-      "release_date": "2024"
-    },
-    {
-      "title": "Debbie Allen / Tom Cruise / Wynn Thomas",
-      "release_date": "2025"
-    },
-    {
-      "title": "Theodore Shapiro",
-      "release_date": "2025"
+        "title": "The Last Butterfly",
+        "year": 1991,
+        "id": 108970,
+        "poster": "https://image.tmdb.org/t/p/w200/mD7E1tqDKEsQfsDdz5CTJNi9wz.jpg"
     }
-  ]
-}
+]

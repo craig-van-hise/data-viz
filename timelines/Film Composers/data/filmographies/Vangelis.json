@@ -1,125 +1,128 @@
-{
-  "composer": "Vangelis",
-  "filmography": [
+[
     {
-      "title": "\"Djemilla\"",
-      "release_date": "1970"
+        "title": "Vortex",
+        "year": 1967,
+        "id": 268855,
+        "poster": "https://image.tmdb.org/t/p/w200/BlEDcd7JbQBdodAILe5LkM1u0I.jpg"
     },
     {
-      "title": "\"Come On\"",
-      "release_date": "1973"
+        "title": "Sex-Power",
+        "year": 1970,
+        "id": 4568,
+        "poster": "https://image.tmdb.org/t/p/w200/2HFAde4uA9xUzonlbgspoMe2WTR.jpg"
     },
     {
-      "title": "\"Pulstar\"",
-      "release_date": "1976"
+        "title": "Frenzy",
+        "year": 1971,
+        "id": 425313,
+        "poster": "https://image.tmdb.org/t/p/w200/w2kFAVFGQVbeyO4vo9C1geLrivG.jpg"
     },
     {
-      "title": "\"Th\u00e8me D'Amour\"",
-      "release_date": "1976"
+        "title": "Love",
+        "year": 1974,
+        "id": 564789,
+        "poster": "https://image.tmdb.org/t/p/w200/fZZVa3BAcSp7HjGFY3jA5q4wNmE.jpg"
     },
     {
-      "title": "\"Ignacio - Part I\"",
-      "release_date": "1977"
+        "title": "Mater amat\u00edsima",
+        "year": 1980,
+        "id": 221618,
+        "poster": "https://image.tmdb.org/t/p/w200/puHMGDg2KdYCzw1R6dbl3y5LWxY.jpg"
     },
     {
-      "title": "\"To the Unknown Man\"",
-      "release_date": "1977"
+        "title": "Defiant Delta",
+        "year": 1980,
+        "id": 473263,
+        "poster": "https://image.tmdb.org/t/p/w200/sZvNlX7XKjSWT1uHNG5LARdwVVk.jpg"
     },
     {
-      "title": "\"Dervish D\"",
-      "release_date": "1977"
+        "title": "Chariots of Fire",
+        "year": 1981,
+        "id": 9443,
+        "poster": "https://image.tmdb.org/t/p/w200/qnRaum8k0HqGRml2i7OawFqUtEb.jpg"
     },
     {
-      "title": "\"China\"\u25cf \"The Dragon\"\u25cf \"The Long March\"\u25cf \"The Tao of Love\"",
-      "release_date": "1978"
+        "title": "Blade Runner",
+        "year": 1982,
+        "id": 78,
+        "poster": "https://image.tmdb.org/t/p/w200/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg"
     },
     {
-      "title": "\"The Long March\"",
-      "release_date": "1979"
+        "title": "Missing",
+        "year": 1982,
+        "id": 15600,
+        "poster": "https://image.tmdb.org/t/p/w200/fAAhC4RkpXu7SJgIESWQwVxcelo.jpg"
     },
     {
-      "title": "\"The Tao of Love\"",
-      "release_date": "1979"
+        "title": "Antarctica",
+        "year": 1983,
+        "id": 17895,
+        "poster": "https://image.tmdb.org/t/p/w200/rSVGUA8DATylRYoxXerl5gORxqw.jpg"
     },
     {
-      "title": "\"Hymne\"",
-      "release_date": "1979"
+        "title": "The Bounty",
+        "year": 1984,
+        "id": 2669,
+        "poster": "https://image.tmdb.org/t/p/w200/hXFXIc6F4NXI5emWCKcUwqEPjIZ.jpg"
     },
     {
-      "title": "\"L'Enfant\"",
-      "release_date": "1979"
+        "title": "Nosferatu in Venice",
+        "year": 1988,
+        "id": 28198,
+        "poster": "https://image.tmdb.org/t/p/w200/9WoZrEl55sPbyd1OKieidPa1CRR.jpg"
     },
     {
-      "title": "\"Don't Be Foolish\"",
-      "release_date": "1980"
+        "title": "Francesco",
+        "year": 1989,
+        "id": 84981,
+        "poster": "https://image.tmdb.org/t/p/w200/8hfyrgk66U2KkT49dvJUy5oWQ0d.jpg"
     },
     {
-      "title": "\"My Love\"",
-      "release_date": "1980"
+        "title": "1492: Conquest of Paradise",
+        "year": 1992,
+        "id": 1492,
+        "poster": "https://image.tmdb.org/t/p/w200/3effmbI6BbGW9i0HzEDfVGuOsvz.jpg"
     },
     {
-      "title": "\"Not a Bit - All of It\"",
-      "release_date": "1981"
+        "title": "Bitter Moon",
+        "year": 1992,
+        "id": 10497,
+        "poster": "https://image.tmdb.org/t/p/w200/bW7E4cLWh0elRRbp2VCrtXrY1if.jpg"
     },
     {
-      "title": "\"Chariots of Fire - Titles\"",
-      "release_date": "1981"
+        "title": "The Plague",
+        "year": 1992,
+        "id": 36907,
+        "poster": "https://image.tmdb.org/t/p/w200/q0h7BR9iXaPYZs30dWaX1Lr4atd.jpg"
     },
     {
-      "title": "\"Heaven and Hell: 3rd Movement\"",
-      "release_date": "1981"
+        "title": "Cavafy",
+        "year": 1996,
+        "id": 251361,
+        "poster": "https://image.tmdb.org/t/p/w200/Asel8MPvOwYUDps5JV4SP55f44z.jpg"
     },
     {
-      "title": "\"Blade Runner - End Title\"",
-      "release_date": "1982"
+        "title": "Alexander",
+        "year": 2004,
+        "id": 1966,
+        "poster": "https://image.tmdb.org/t/p/w200/jrwQu72sGwGqwE8Ijne89PSIvhp.jpg"
     },
     {
-      "title": "\"Theme from Antarctica\"",
-      "release_date": "1983"
+        "title": "El Greco",
+        "year": 2007,
+        "id": 29272,
+        "poster": "https://image.tmdb.org/t/p/w200/aBxPj6oB0XdjUo5HcAd60xZruH1.jpg"
     },
     {
-      "title": "\"The Will of the Wind\"",
-      "release_date": "1988"
+        "title": "Twilight of Shadows",
+        "year": 2014,
+        "id": 348740,
+        "poster": "https://image.tmdb.org/t/p/w200/vIu759syT88V0vUXFf2Lplh5Cz9.jpg"
     },
     {
-      "title": "\"Missing\"",
-      "release_date": "1989"
-    },
-    {
-      "title": "\"Conquest of Paradise\"",
-      "release_date": "1992"
-    },
-    {
-      "title": "\"Twenty Eighth Parallel\"",
-      "release_date": "1993"
-    },
-    {
-      "title": "\"Voices\"",
-      "release_date": "1995"
-    },
-    {
-      "title": "\"Ask the Mountains\"",
-      "release_date": "1996"
-    },
-    {
-      "title": "\"Sauvage et Beau\"",
-      "release_date": "1996"
-    },
-    {
-      "title": "\"Song of the Seas\"",
-      "release_date": "1996"
-    },
-    {
-      "title": "\"March with Me\"",
-      "release_date": "1997"
-    },
-    {
-      "title": "\"Mythodea\"",
-      "release_date": "2001"
-    },
-    {
-      "title": "\"Anthem - 2002 FIFA World Cup Official Anthem\"",
-      "release_date": "2002"
+        "title": "Nuclear Now",
+        "year": 2023,
+        "id": 1004685,
+        "poster": "https://image.tmdb.org/t/p/w200/vdxG11NGlnDUWoSjRRkDKXh34ee.jpg"
     }
-  ]
-}
+]

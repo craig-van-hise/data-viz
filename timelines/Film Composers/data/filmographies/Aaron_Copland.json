@@ -1,4 +1,68 @@
-{
-  "composer": "Aaron Copland",
-  "filmography": []
-}
+[
+    {
+        "title": "Of Mice and Men",
+        "year": 1939,
+        "id": 51802,
+        "poster": "https://image.tmdb.org/t/p/w200/ihgGS9K8pCYdgb9SpanxoKcJ0Al.jpg"
+    },
+    {
+        "title": "The City",
+        "year": 1939,
+        "id": 163093,
+        "poster": "https://image.tmdb.org/t/p/w200/9tmX2VcgEJpGNycljDpk0sq78Xf.jpg"
+    },
+    {
+        "title": "Our Town",
+        "year": 1940,
+        "id": 23283,
+        "poster": "https://image.tmdb.org/t/p/w200/tXYWSUIUfiG06XzgSSkd4sQFOru.jpg"
+    },
+    {
+        "title": "The Cummington Story",
+        "year": 1945,
+        "id": 526977,
+        "poster": "https://image.tmdb.org/t/p/w200/krimSbjhlxzYq3206kt5xMAymIX.jpg"
+    },
+    {
+        "title": "The Heiress",
+        "year": 1949,
+        "id": 28571,
+        "poster": "https://image.tmdb.org/t/p/w200/1oN0zsjw3iS1HaOLoZbmptzrD1W.jpg"
+    },
+    {
+        "title": "The Red Pony",
+        "year": 1949,
+        "id": 23395,
+        "poster": "https://image.tmdb.org/t/p/w200/mVFxAQEmKqTyY96HNk6xtcgyFCC.jpg"
+    },
+    {
+        "title": "Something Wild",
+        "year": 1961,
+        "id": 82944,
+        "poster": "https://image.tmdb.org/t/p/w200/j6j4LQKevC8YPBowUxrPbMAGJIg.jpg"
+    },
+    {
+        "title": "Concerto diretto da John Axelrod",
+        "year": 2009,
+        "id": 1662829,
+        "poster": "https://image.tmdb.org/t/p/w200/nb81JGRKW1Wi8XD13tAekFWsW5q.jpg"
+    },
+    {
+        "title": "Copland, Bernstein",
+        "year": 2014,
+        "id": 1588129,
+        "poster": "https://image.tmdb.org/t/p/w200/cDbfMfgMQV7tYlQkqX2qzV9hCyj.jpg"
+    },
+    {
+        "title": "Zahia Ziouani & Mourad Merzouki : Les Nouveaux Mondes",
+        "year": 2024,
+        "id": 1398513,
+        "poster": "https://image.tmdb.org/t/p/w200/zmpDFxrUo30OP3QjM7OTxqKfXv2.jpg"
+    },
+    {
+        "title": "International ARD Music Competition 2025 Prize Winners' Concert",
+        "year": 2025,
+        "id": 1611008,
+        "poster": "https://image.tmdb.org/t/p/w200/zVGrr9jbfeKcenNTYy9eGR0OV3w.jpg"
+    }
+]

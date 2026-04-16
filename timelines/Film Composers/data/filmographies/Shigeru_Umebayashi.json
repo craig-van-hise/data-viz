@@ -1,569 +1,344 @@
-{
-  "composer": "Shigeru Umebayashi",
-  "filmography": [
+[
     {
-      "title": "Hiroshi Yoshizawa",
-      "release_date": "1950"
+        "title": "Dansen",
+        "year": 1983,
+        "id": 503002,
+        "poster": "https://image.tmdb.org/t/p/w200/cN0ilH6JzXtAEi9QDcR9hbQr3fD.jpg"
     },
     {
-      "title": "Toshiro Mayuzumi",
-      "release_date": "1950"
+        "title": "Someday, Someone Will Be Killed",
+        "year": 1984,
+        "id": 437350,
+        "poster": "https://image.tmdb.org/t/p/w200/aLcVZu73lgE5XVaRMAb94GtM644.jpg"
     },
     {
-      "title": "Shinichi Takata",
-      "release_date": "1951"
+        "title": "And Then",
+        "year": 1985,
+        "id": 118785,
+        "poster": "https://image.tmdb.org/t/p/w200/4qih3JeneA3QooN0sDa26aGBuPZ.jpg"
     },
     {
-      "title": "Ichir\u014d Sait\u014d",
-      "release_date": "1952"
+        "title": "Let Him Rest in Peace",
+        "year": 1985,
+        "id": 226860,
+        "poster": "https://image.tmdb.org/t/p/w200/ahKY9uIXJdPfEvMXxW45Lp01Rnd.jpg"
     },
     {
-      "title": "Yasushi Akutagawa",
-      "release_date": "1953"
+        "title": "The Gentlemen\u2019s Alliance",
+        "year": 1986,
+        "id": 454356,
+        "poster": "https://image.tmdb.org/t/p/w200/x7pCNOmDrKDf7MRd9XybHMPQ5Au.jpg"
     },
     {
-      "title": "Ch\u016bji Kinoshita",
-      "release_date": "1954"
+        "title": "Love and Action in Osaka",
+        "year": 1988,
+        "id": 433777,
+        "poster": "https://image.tmdb.org/t/p/w200/evxXwWtgqPfWnGNTdyFZL48CkM4.jpg"
     },
     {
-      "title": "Akira Ifukube",
-      "release_date": "1956"
+        "title": "Tekken",
+        "year": 1990,
+        "id": 618739,
+        "poster": "https://image.tmdb.org/t/p/w200/uubQnXi2uYfEhtwu19Au4dCt4oW.jpg"
     },
     {
-      "title": "Toshiro Mayuzumi",
-      "release_date": "1957"
+        "title": "Yumeji",
+        "year": 1991,
+        "id": 110903,
+        "poster": "https://image.tmdb.org/t/p/w200/hWpDDjkRHzYb1EyS6XwnFAlDOJD.jpg"
     },
     {
-      "title": "Rokuzaemon Kineya",
-      "release_date": "1958"
+        "title": "Investigation of a Typical Love",
+        "year": 1992,
+        "id": 686374,
+        "poster": "https://image.tmdb.org/t/p/w200/nPGoWAIxsaC7DKdafGwVlAZOada.jpg"
     },
     {
-      "title": "Matsunosuke Nozawa",
-      "release_date": "1958"
+        "title": "The City That Never Sleeps: Shinjuku Shark",
+        "year": 1993,
+        "id": 316995,
+        "poster": "https://image.tmdb.org/t/p/w200/4PSZLnBgGmGKSipPBWydWdoDZI2.jpg"
     },
     {
-      "title": "Hikaru Hayashi",
-      "release_date": "1959"
+        "title": "Yoi Ko to Asobou",
+        "year": 1994,
+        "id": 1023600,
+        "poster": "https://image.tmdb.org/t/p/w200/sSr9va5xZZnYhrryIHvevqpIAO2.jpg"
     },
     {
-      "title": "Masaru Sato",
-      "release_date": "1960"
+        "title": "Ghost Pub",
+        "year": 1994,
+        "id": 431044,
+        "poster": "https://image.tmdb.org/t/p/w200/A0QQBOz2lbZLCNODSDoJW3IQUj.jpg"
     },
     {
-      "title": "Toshiro Mayuzumi",
-      "release_date": "1963"
+        "title": "Boxer Joe",
+        "year": 1995,
+        "id": 1141440,
+        "poster": "https://image.tmdb.org/t/p/w200/fAhA5cjiIU8RxEQzbAKcdGLsqOZ.jpg"
     },
     {
-      "title": "T\u014dru Takemitsu",
-      "release_date": "1964"
+        "title": "The Christ of Nanjing",
+        "year": 1995,
+        "id": 307064,
+        "poster": "https://image.tmdb.org/t/p/w200/luzGME28V6TdCnbbvmzt8owbJx2.jpg"
     },
     {
-      "title": "Toshiro Mayuzumi",
-      "release_date": "1965"
+        "title": "Option Zero",
+        "year": 1997,
+        "id": 68422,
+        "poster": "https://image.tmdb.org/t/p/w200/hsjWV01dqMlsfwfETUHugMKHj7Y.jpg"
     },
     {
-      "title": "T\u014dru Takemitsu",
-      "release_date": "1966"
+        "title": "The Things We Liked",
+        "year": 1997,
+        "id": 313573,
+        "poster": null
     },
     {
-      "title": "Seiichr\u014d Uno",
-      "release_date": "1967"
+        "title": "Ichigo domei",
+        "year": 1997,
+        "id": 645867,
+        "poster": "https://image.tmdb.org/t/p/w200/lyMkDQYTzSx0XoXqqDYDF5PGSCM.jpg"
     },
     {
-      "title": "Masaru Sato",
-      "release_date": "1968"
+        "title": "Sleepless Town",
+        "year": 1998,
+        "id": 68913,
+        "poster": "https://image.tmdb.org/t/p/w200/uJpj7Nx9ZvVZbKbduF9iQfKs8Jq.jpg"
     },
     {
-      "title": "T\u014dru Takemitsu",
-      "release_date": "1969"
+        "title": "In the Mood for Love",
+        "year": 2000,
+        "id": 843,
+        "poster": "https://image.tmdb.org/t/p/w200/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg"
     },
     {
-      "title": "Teizo Matsumura",
-      "release_date": "1970"
+        "title": "2000 AD",
+        "year": 2000,
+        "id": 32249,
+        "poster": "https://image.tmdb.org/t/p/w200/cYJRSQkk2l1U3h4xY3pBQlHe3S8.jpg"
     },
     {
-      "title": "T\u014dru Takemitsu",
-      "release_date": "1971"
+        "title": "Onmyoji",
+        "year": 2001,
+        "id": 21325,
+        "poster": "https://image.tmdb.org/t/p/w200/ptiwNaV092Ut3qWLnN07fx2hFjl.jpg"
     },
     {
-      "title": "Teizo Matsumura",
-      "release_date": "1972"
+        "title": "An Adolescent",
+        "year": 2001,
+        "id": 106438,
+        "poster": "https://image.tmdb.org/t/p/w200/8TB3TrTJ4613moX81tVFapEZN55.jpg"
     },
     {
-      "title": "T\u014dru Takemitsu",
-      "release_date": "1973"
+        "title": "Midnight Fly",
+        "year": 2001,
+        "id": 256076,
+        "poster": "https://image.tmdb.org/t/p/w200/qeqL49tLjf3HnuMAT9Morn1A6nP.jpg"
     },
     {
-      "title": "Yasushi Akutagawa",
-      "release_date": "1974"
+        "title": "Rain of Light",
+        "year": 2001,
+        "id": 353549,
+        "poster": "https://image.tmdb.org/t/p/w200/uZWbbrm9Q2tJmVKXvevPbvnZOGW.jpg"
     },
     {
-      "title": "Mitsuaki Kanno",
-      "release_date": "1974"
+        "title": "Zhou Yu's Train",
+        "year": 2002,
+        "id": 61477,
+        "poster": "https://image.tmdb.org/t/p/w200/etTZFDdXUjGB0cagwyWIeHlx6Xb.jpg"
     },
     {
-      "title": "T\u014dru Takemitsu",
-      "release_date": "1975"
+        "title": "Onmyoji II",
+        "year": 2003,
+        "id": 45719,
+        "poster": "https://image.tmdb.org/t/p/w200/aGptUOgEo8AusrUBtPyjSQRGGoR.jpg"
     },
     {
-      "title": "Yuji Ohno",
-      "release_date": "1976"
+        "title": "The Floating Landscape",
+        "year": 2003,
+        "id": 95728,
+        "poster": "https://image.tmdb.org/t/p/w200/h1B43bbbDEYDbZQ5SlxareNTgsV.jpg"
     },
     {
-      "title": "Masaru Sato",
-      "release_date": "1977"
+        "title": "2046",
+        "year": 2004,
+        "id": 844,
+        "poster": "https://image.tmdb.org/t/p/w200/jIN65qw0Giplo4CshzMrxz204Wn.jpg"
     },
     {
-      "title": "T\u014dru Takemitsu",
-      "release_date": "1978"
+        "title": "House of Flying Daggers",
+        "year": 2004,
+        "id": 9550,
+        "poster": "https://image.tmdb.org/t/p/w200/93feGsGiCtG5ymrRcErUgBsdo6v.jpg"
     },
     {
-      "title": "Masaru Sato",
-      "release_date": "1979"
+        "title": "Curse of the Golden Flower",
+        "year": 2006,
+        "id": 1494,
+        "poster": "https://image.tmdb.org/t/p/w200/gHkkDpfo5YnOrbVfwtDHi91BkrU.jpg"
     },
     {
-      "title": "Shin'ichir\u014d Ikebe",
-      "release_date": "1980"
+        "title": "The Dark Sea",
+        "year": 2006,
+        "id": 28144,
+        "poster": "https://image.tmdb.org/t/p/w200/8SMNfy81fC1AlJYsFrKc34sFKhM.jpg"
     },
     {
-      "title": "Ryudo Uzaki",
-      "release_date": "1981"
+        "title": "Daisy",
+        "year": 2006,
+        "id": 18426,
+        "poster": "https://image.tmdb.org/t/p/w200/twmYZWjyrHm0fhJnPxHcC4XtrA3.jpg"
     },
     {
-      "title": "Hikaru Hayashi",
-      "release_date": "1982"
+        "title": "Fearless",
+        "year": 2006,
+        "id": 7549,
+        "poster": "https://image.tmdb.org/t/p/w200/yKJ7rjIwOa8XvACELo9eV8IvMPb.jpg"
     },
     {
-      "title": "Jiang Dingxian",
-      "release_date": "1982"
+        "title": "Hannibal Rising",
+        "year": 2007,
+        "id": 1248,
+        "poster": "https://image.tmdb.org/t/p/w200/7FTDMQoac0uqJUquZk4KenDzLMZ.jpg"
     },
     {
-      "title": "Ryuichi Sakamoto",
-      "release_date": "1983"
+        "title": "Incendiary",
+        "year": 2008,
+        "id": 15705,
+        "poster": "https://image.tmdb.org/t/p/w200/jJWBiaN0nCRdbKpFKEkUIZe3Q6b.jpg"
     },
     {
-      "title": "Itsuka Darekaga Korosareru",
-      "release_date": "1984"
+        "title": "Tears for Sale",
+        "year": 2008,
+        "id": 16403,
+        "poster": "https://image.tmdb.org/t/p/w200/90dWmvkiNDEgIhy4cC8HbKAsiLk.jpg"
     },
     {
-      "title": "Shin'ichir\u014d Ikebe",
-      "release_date": "1984"
+        "title": "Absurdistan",
+        "year": 2008,
+        "id": 7344,
+        "poster": "https://image.tmdb.org/t/p/w200/r6RchJPk6PiSX8LCw1PjQEyTyS0.jpg"
     },
     {
-      "title": "Tomoyo Shizukani Nemure",
-      "release_date": "1985"
+        "title": "Murderer",
+        "year": 2009,
+        "id": 72074,
+        "poster": "https://image.tmdb.org/t/p/w200/hWXohEViuvWDeBjwPFDNe3S9dmN.jpg"
     },
     {
-      "title": "Sorekara",
-      "release_date": "1985-11-09"
+        "title": "True Legend",
+        "year": 2010,
+        "id": 37034,
+        "poster": "https://image.tmdb.org/t/p/w200/6UICxESwvJbvRHdgT0jenH1xPmW.jpg"
     },
     {
-      "title": "Shigeru Umebayashi",
-      "release_date": "1985"
+        "title": "Trishna",
+        "year": 2011,
+        "id": 85542,
+        "poster": "https://image.tmdb.org/t/p/w200/xFCJeLJDXYhrX6Z4bHbdiDeVUgm.jpg"
     },
     {
-      "title": "Sorobanzuku",
-      "release_date": "1986-08-23"
+        "title": "Days of Grace",
+        "year": 2012,
+        "id": 68556,
+        "poster": "https://image.tmdb.org/t/p/w200/kOJnUPFJ9vpzxMkUAxzNFCR96Bw.jpg"
     },
     {
-      "title": "Shinshi Domei",
-      "release_date": "1986"
+        "title": "Nightfall",
+        "year": 2012,
+        "id": 96664,
+        "poster": "https://image.tmdb.org/t/p/w200/bUbrXzhVKImZsUn7xTfVVUeKeq5.jpg"
     },
     {
-      "title": "Saeko Suzuki",
-      "release_date": "1986"
+        "title": "The Assassins",
+        "year": 2012,
+        "id": 136701,
+        "poster": "https://image.tmdb.org/t/p/w200/iflthXJoh1jDND6CWCrEAG9JgwT.jpg"
     },
     {
-      "title": "Kyohu no Yacchan",
-      "release_date": "1987"
+        "title": "The Grandmaster",
+        "year": 2013,
+        "id": 44865,
+        "poster": "https://image.tmdb.org/t/p/w200/ydBVVIscL6TsX5hYztA5YpBCwJ3.jpg"
     },
     {
-      "title": "Toshiyuki Honda",
-      "release_date": "1987"
+        "title": "Like the Wind",
+        "year": 2013,
+        "id": 235208,
+        "poster": "https://image.tmdb.org/t/p/w200/sgOgPIFfpjcucXocH4e2TKO9Dce.jpg"
     },
     {
-      "title": "Getting Blue in Color",
-      "release_date": "1988"
+        "title": "One Step Away",
+        "year": 2014,
+        "id": 309795,
+        "poster": "https://image.tmdb.org/t/p/w200/8HXsv8wlTCyEGT7LhVvt7be8rGs.jpg"
     },
     {
-      "title": "Hiroaki Yoshino",
-      "release_date": "1988"
+        "title": "Rise of the Legend",
+        "year": 2014,
+        "id": 294993,
+        "poster": "https://image.tmdb.org/t/p/w200/rQLhQytqw27NHUlmrArOIs4yQl.jpg"
     },
     {
-      "title": "K\u014dji Ueno",
-      "release_date": "1989"
+        "title": "The Bride",
+        "year": 2015,
+        "id": 350849,
+        "poster": "https://image.tmdb.org/t/p/w200/uyoXnjqwY5ay8SPqXqyFgIF8RVO.jpg"
     },
     {
-      "title": "Hong Kong Paradise",
-      "release_date": "1990-04-28"
+        "title": "Crouching Tiger, Hidden Dragon: Sword of Destiny",
+        "year": 2016,
+        "id": 263341,
+        "poster": "https://image.tmdb.org/t/p/w200/te3aeAyhkfqgpa5BSTq3oNxGqQD.jpg"
     },
     {
-      "title": "Tekken",
-      "release_date": "1990"
+        "title": "The Wasted Times",
+        "year": 2016,
+        "id": 382572,
+        "poster": "https://image.tmdb.org/t/p/w200/vQm1jnqrQQoDxBRYFKQ9uq8Rbm7.jpg"
     },
     {
-      "title": "Shin'ichir\u014d Ikebe",
-      "release_date": "1990"
+        "title": "Leap",
+        "year": 2020,
+        "id": 638032,
+        "poster": "https://image.tmdb.org/t/p/w200/uX2JYxu1riaaPD2sQID6SMPct6d.jpg"
     },
     {
-      "title": "Yumeji",
-      "release_date": "1991-05-31"
+        "title": "The Yin Yang Master",
+        "year": 2021,
+        "id": 758902,
+        "poster": "https://image.tmdb.org/t/p/w200/6RJwhxEtEFZKC8ogLJ4eBwr42yc.jpg"
     },
     {
-      "title": "Ote",
-      "release_date": "1991"
+        "title": "Greetings from Cr\u00eenga\u0219i",
+        "year": 2023,
+        "id": 1178951,
+        "poster": "https://image.tmdb.org/t/p/w200/sNjdYRvg6SHZP4Zaale4eVCxC9N.jpg"
     },
     {
-      "title": "Goaisatsu",
-      "release_date": "1991"
+        "title": "Dwelling by the West Lake",
+        "year": 2024,
+        "id": 925293,
+        "poster": "https://image.tmdb.org/t/p/w200/a8X7hMZIqwn8nRl1wKyBTakE0Yh.jpg"
     },
     {
-      "title": "Arihureta Ai ni Kansuru Chosa",
-      "release_date": "1992"
+        "title": "In the Belly of a Tiger",
+        "year": 2024,
+        "id": 1062522,
+        "poster": "https://image.tmdb.org/t/p/w200/9EBvk3HbWSfmOFhawXpEQihOc0t.jpg"
     },
     {
-      "title": "Byoin he Iko 2 Yamai ha Kikara",
-      "release_date": "1992"
+        "title": "In the Mood for Love 2001",
+        "year": 2025,
+        "id": 1430370,
+        "poster": "https://image.tmdb.org/t/p/w200/9veh00OKZ68ZZmh3EfkvmYvzzss.jpg"
     },
     {
-      "title": "Nemuranai Machi Shinjuku Zame",
-      "release_date": "1993"
-    },
-    {
-      "title": "Masaru Sato",
-      "release_date": "1993"
-    },
-    {
-      "title": "Izakaya Yurei",
-      "release_date": "1994"
-    },
-    {
-      "title": "Shigeru Umebayashi",
-      "release_date": "1994"
-    },
-    {
-      "title": "Zero Woman",
-      "release_date": "1995"
-    },
-    {
-      "title": "Kumokiri Nizaemon",
-      "release_date": "1995"
-    },
-    {
-      "title": "Boxer Joe",
-      "release_date": "1995"
-    },
-    {
-      "title": "Kitanai Yatsu",
-      "release_date": "1995"
-    },
-    {
-      "title": "Hashirana Akan Yoake Made",
-      "release_date": "1995"
-    },
-    {
-      "title": "The Christ of Nanjing",
-      "release_date": "1995-11-24"
-    },
-    {
-      "title": "Chen Ming Chang",
-      "release_date": "1995"
-    },
-    {
-      "title": "Shin Gokudo Kisha",
-      "release_date": "1996"
-    },
-    {
-      "title": "Izakaya Yurei 2",
-      "release_date": "1996"
-    },
-    {
-      "title": "Toshio Hosokawa",
-      "release_date": "1996"
-    },
-    {
-      "title": "Ichigo Domei",
-      "release_date": "1997"
-    },
-    {
-      "title": "Isana no Umi",
-      "release_date": "1997"
-    },
-    {
-      "title": "Watashitachi ga Sukidatta Koto",
-      "release_date": "1997"
-    },
-    {
-      "title": "G4 Option Zero",
-      "release_date": "1997"
-    },
-    {
-      "title": "Michiru \u014cshima",
-      "release_date": "1997"
-    },
-    {
-      "title": "Fuyajo",
-      "release_date": "1998"
-    },
-    {
-      "title": "Belle Epoch",
-      "release_date": "1998"
-    },
-    {
-      "title": "Y\u014dsuke Yamashita",
-      "release_date": "1998"
-    },
-    {
-      "title": "Haruyuki Suzuki",
-      "release_date": "1999"
-    },
-    {
-      "title": "2000 A.D.",
-      "release_date": "2000-02-03"
-    },
-    {
-      "title": "Shojo",
-      "release_date": "2000"
-    },
-    {
-      "title": "In the Mood for Love",
-      "release_date": "2000-05-20"
-    },
-    {
-      "title": "Kenichir\u014d Isoda",
-      "release_date": "2000"
-    },
-    {
-      "title": "Midnight Fly",
-      "release_date": "2001"
-    },
-    {
-      "title": "Hikari no Ame",
-      "release_date": "2001"
-    },
-    {
-      "title": "Onmyoji",
-      "release_date": "2001-10-06"
-    },
-    {
-      "title": "Joe Hisaishi",
-      "release_date": "2001"
-    },
-    {
-      "title": "Youmi Kimura",
-      "release_date": "2001"
-    },
-    {
-      "title": "Zhou Yu's Train",
-      "release_date": "2002-08-01"
-    },
-    {
-      "title": "Takashi Kako",
-      "release_date": "2002"
-    },
-    {
-      "title": "Onmyoji II",
-      "release_date": "2003-10-04"
-    },
-    {
-      "title": "Floating Land Scape",
-      "release_date": "2003"
-    },
-    {
-      "title": "Kenichir\u014d Isoda",
-      "release_date": "2003"
-    },
-    {
-      "title": "House of Flying Daggers",
-      "release_date": "2004-05-19"
-    },
-    {
-      "title": "2046",
-      "release_date": "2004-05-20"
-    },
-    {
-      "title": "Hibi",
-      "release_date": "2004"
-    },
-    {
-      "title": "Terumasa Hino",
-      "release_date": "2004"
-    },
-    {
-      "title": "Kazuhiko Kat\u014d",
-      "release_date": "2005"
-    },
-    {
-      "title": "Fearless",
-      "release_date": "2006-01-26"
-    },
-    {
-      "title": "Daisy",
-      "release_date": "2006-03-09"
-    },
-    {
-      "title": "Curse of the Golden Flower",
-      "release_date": "2006-12-21"
-    },
-    {
-      "title": "Takashi Kako",
-      "release_date": "2006"
-    },
-    {
-      "title": "Hannibal Rising",
-      "release_date": "2007-02-07"
-    },
-    {
-      "title": "Rei Harakami",
-      "release_date": "2007"
-    },
-    {
-      "title": "Absurdistan",
-      "release_date": "2008-03-20"
-    },
-    {
-      "title": "Incendiary",
-      "release_date": "2008-01-20"
-    },
-    {
-      "title": "Tears for Sale",
-      "release_date": "2008-01-30"
-    },
-    {
-      "title": "The Real Shaolin",
-      "release_date": "2008-09-07"
-    },
-    {
-      "title": "Taro Iwashiro",
-      "release_date": "2008"
-    },
-    {
-      "title": "Murderer",
-      "release_date": "2009-07-09"
-    },
-    {
-      "title": "A Single Man",
-      "release_date": "2009-09-11"
-    },
-    {
-      "title": "October 2009 video interview in Greek, from the Ghent Film Festival",
-      "release_date": "2009"
-    },
-    {
-      "title": "Shigeomi Hasumi",
-      "release_date": "2009"
-    },
-    {
-      "title": "True Legend",
-      "release_date": "2010-02-09"
-    },
-    {
-      "title": "Jim O'Rourke",
-      "release_date": "2010"
-    },
-    {
-      "title": "Days of Grace",
-      "release_date": "2011-05-17"
-    },
-    {
-      "title": "Trishna",
-      "release_date": "2011-09-09"
-    },
-    {
-      "title": "Hikaru Hayashi",
-      "release_date": "2011"
-    },
-    {
-      "title": "Michiru \u014cshima",
-      "release_date": "2012"
-    },
-    {
-      "title": "The Grandmaster",
-      "release_date": "2013-01-08"
-    },
-    {
-      "title": "Gor\u014d Yasukawa",
-      "release_date": "2013"
-    },
-    {
-      "title": "Rise of the Legend",
-      "release_date": "2014-11-21"
-    },
-    {
-      "title": "Yoshikazu Suo",
-      "release_date": "2014"
-    },
-    {
-      "title": "The Bride",
-      "release_date": "2015-09-23"
-    },
-    {
-      "title": "Ryuichi Sakamoto",
-      "release_date": "2015"
-    },
-    {
-      "title": "Crouching Tiger, Hidden Dragon: Sword of Destiny",
-      "release_date": "2016-02-18"
-    },
-    {
-      "title": "The Wasted Times",
-      "release_date": "2016-12-16"
-    },
-    {
-      "title": "Kotringo",
-      "release_date": "2016"
-    },
-    {
-      "title": "Soi48",
-      "release_date": "2017"
-    },
-    {
-      "title": "Young-G",
-      "release_date": "2017"
-    },
-    {
-      "title": "Hi'Spec",
-      "release_date": "2018"
-    },
-    {
-      "title": "Radwimps",
-      "release_date": "2019"
-    },
-    {
-      "title": "Ghost of Tsushima",
-      "release_date": "2020"
-    },
-    {
-      "title": "Keiichir\u014d Shibuya",
-      "release_date": "2020"
-    },
-    {
-      "title": "BLP articles lacking sources from November",
-      "release_date": "2020"
-    },
-    {
-      "title": "Masaki Hayashi",
-      "release_date": "2021"
-    },
-    {
-      "title": "Ichiko Aoba",
-      "release_date": "2022"
-    },
-    {
-      "title": "Jim O'Rourke",
-      "release_date": "2023"
-    },
-    {
-      "title": "In the Belly of a Tiger",
-      "release_date": "2024"
-    },
-    {
-      "title": "Eiko Ishibashi",
-      "release_date": "2024"
-    },
-    {
-      "title": "Shigeru",
-      "release_date": "2025"
+        "title": "My World without Me",
+        "year": 2025,
+        "id": 1575593,
+        "poster": "https://image.tmdb.org/t/p/w200/aAJCR3IHipwy9J3UE3Le3SFkzGO.jpg"
     }
-  ]
-}
+]

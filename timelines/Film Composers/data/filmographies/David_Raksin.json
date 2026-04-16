@@ -1,425 +1,302 @@
-{
-  "composer": "David Raksin",
-  "filmography": [
+[
     {
-      "title": "Thumbs Up!",
-      "release_date": "1934"
+        "title": "Wings Over Honolulu",
+        "year": 1937,
+        "id": 97226,
+        "poster": "https://image.tmdb.org/t/p/w200/o8DdpnVB3rQiuVzbXH1EnZrCgZ6.jpg"
     },
     {
-      "title": "Parade",
-      "release_date": "1935"
+        "title": "The Mighty Treve",
+        "year": 1937,
+        "id": 611045,
+        "poster": "https://image.tmdb.org/t/p/w200/pnDkiKEMyhJ6deJEKT3qql9xNXU.jpg"
     },
     {
-      "title": "At Home Abroad",
-      "release_date": "1935"
+        "title": "The Witness Vanishes",
+        "year": 1939,
+        "id": 188738,
+        "poster": "https://image.tmdb.org/t/p/w200/264nRSY5ZRXJXHj8zA8zlRW7dHP.jpg"
     },
     {
-      "title": "Modern Times (arranger)",
-      "release_date": "1936"
+        "title": "Dead Men Tell",
+        "year": 1941,
+        "id": 38460,
+        "poster": "https://image.tmdb.org/t/p/w200/m44nRXkb7bFkGpUF2TbANj5xBsy.jpg"
     },
     {
-      "title": "New Faces of 1936",
-      "release_date": "1936"
+        "title": "Dr. Renault's Secret",
+        "year": 1942,
+        "id": 18100,
+        "poster": "https://image.tmdb.org/t/p/w200/kZ6Mowm2Rae8aJlS4uB34MaLGey.jpg"
     },
     {
-      "title": "The Adventures of Sherlock Holmes",
-      "release_date": "1939-09-01"
+        "title": "The Man Who Wouldn't Die",
+        "year": 1942,
+        "id": 106060,
+        "poster": "https://image.tmdb.org/t/p/w200/bZJOxN0N91ftyO4AfD4DSwupM7Q.jpg"
     },
     {
-      "title": "Stanley and Livingstone",
-      "release_date": "1939-08-18"
+        "title": "On the Sunny Side",
+        "year": 1942,
+        "id": 97583,
+        "poster": "https://image.tmdb.org/t/p/w200/80iCzmfmwPyf2NGN0zW8ET6cY2.jpg"
     },
     {
-      "title": "The Hound of the Baskervilles",
-      "release_date": "1939-03-31"
+        "title": "Laura",
+        "year": 1944,
+        "id": 1939,
+        "poster": "https://image.tmdb.org/t/p/w200/j0zEiFFrdbZnMXqD3piOtZBJeNB.jpg"
     },
     {
-      "title": "The Men in Her Life",
-      "release_date": "1941-10-30"
+        "title": "Belle of the Yukon",
+        "year": 1944,
+        "id": 44323,
+        "poster": "https://image.tmdb.org/t/p/w200/wRvS189AluV8F8zjWODKkZazS2M.jpg"
     },
     {
-      "title": "City Without Men",
-      "release_date": "1943-01-14"
+        "title": "Fallen Angel",
+        "year": 1945,
+        "id": 26243,
+        "poster": "https://image.tmdb.org/t/p/w200/8WLGwhpJWaSu8W8geauaaWpJC8A.jpg"
     },
     {
-      "title": "Laura",
-      "release_date": "1944-10-11"
+        "title": "Don Juan Quilligan",
+        "year": 1945,
+        "id": 254618,
+        "poster": "https://image.tmdb.org/t/p/w200/o4niAADuXSy0p4iKEqcyJJobSVy.jpg"
     },
     {
-      "title": "Tampico",
-      "release_date": "1944-04-10"
+        "title": "The Secret Life of Walter Mitty",
+        "year": 1947,
+        "id": 40092,
+        "poster": "https://image.tmdb.org/t/p/w200/cctKBFz6VoDDW56PbuWiq4F9Nmr.jpg"
     },
     {
-      "title": "Fallen Angel",
-      "release_date": "1945-12-14"
+        "title": "Forever Amber",
+        "year": 1947,
+        "id": 104720,
+        "poster": "https://image.tmdb.org/t/p/w200/lbqzwUxawDiKwPbIc46yKpDgL4R.jpg"
     },
     {
-      "title": "Smoky",
-      "release_date": "1946-06-26"
+        "title": "Daisy Kenyon",
+        "year": 1947,
+        "id": 20301,
+        "poster": "https://image.tmdb.org/t/p/w200/A3uIBvjXZVIAsenyJyMvonarqQf.jpg"
     },
     {
-      "title": "If the Shoe Fits",
-      "release_date": "1991-06-26"
+        "title": "Apartment for Peggy",
+        "year": 1948,
+        "id": 218212,
+        "poster": "https://image.tmdb.org/t/p/w200/YFyDCazbIH9NXppekCrGsmgFaE.jpg"
     },
     {
-      "title": "Daisy Kenyon",
-      "release_date": "1947-12-25"
+        "title": "Fury at Furnace Creek",
+        "year": 1948,
+        "id": 154066,
+        "poster": "https://image.tmdb.org/t/p/w200/3I32SsJHbZEDDiMVRSiH6InkKp7.jpg"
     },
     {
-      "title": "Forever Amber",
-      "release_date": "1947-10-22"
+        "title": "A Lady Without Passport",
+        "year": 1950,
+        "id": 30195,
+        "poster": "https://image.tmdb.org/t/p/w200/wJfzpAglQhQLtUICju4A2cRmK77.jpg"
     },
     {
-      "title": "The Secret Life of Walter Mitty",
-      "release_date": "1947-08-04"
+        "title": "Whirlpool",
+        "year": 1950,
+        "id": 29106,
+        "poster": "https://image.tmdb.org/t/p/w200/swwFPsZxjYMyQPkcqDrQs6yQ7Aq.jpg"
     },
     {
-      "title": "Force of Evil",
-      "release_date": "1948-12-25"
+        "title": "The Next Voice You Hear...",
+        "year": 1950,
+        "id": 62188,
+        "poster": "https://image.tmdb.org/t/p/w200/6UmXghAhzq5cw11P2n0hYByfIHD.jpg"
     },
     {
-      "title": "Apartment for Peggy",
-      "release_date": "1948-10-15"
+        "title": "Right Cross",
+        "year": 1950,
+        "id": 178607,
+        "poster": "https://image.tmdb.org/t/p/w200/s8GHffbO7nV24tVl5PYca854YAj.jpg"
     },
     {
-      "title": "Fury at Furnace Creek",
-      "release_date": "1948-04-30"
+        "title": "The Reformer and the Redhead",
+        "year": 1950,
+        "id": 61936,
+        "poster": "https://image.tmdb.org/t/p/w200/1IgYv0tkJYf5JhU7TsGnRa2CUSQ.jpg"
     },
     {
-      "title": "The Next Voice You Hear...",
-      "release_date": "1950-06-29"
+        "title": "The Magnificent Yankee",
+        "year": 1950,
+        "id": 101653,
+        "poster": "https://image.tmdb.org/t/p/w200/mCbx68P3X9pMStvSzoA0Hyvp2ol.jpg"
     },
     {
-      "title": "The Magnificent Yankee",
-      "release_date": "1950-12-20"
+        "title": "Across the Wide Missouri",
+        "year": 1951,
+        "id": 34269,
+        "poster": "https://image.tmdb.org/t/p/w200/5CaJjN9FKSujvnTzbyhDF6ZJVjp.jpg"
     },
     {
-      "title": "Whirlpool",
-      "release_date": "1950-01-13"
+        "title": "The Man with a Cloak",
+        "year": 1951,
+        "id": 83664,
+        "poster": "https://image.tmdb.org/t/p/w200/xZbpS0m9G2F3DR2y2RGwTgSVNcX.jpg"
     },
     {
-      "title": "The Man with a Cloak",
-      "release_date": "1951-11-27"
+        "title": "The Girl in White",
+        "year": 1952,
+        "id": 176399,
+        "poster": "https://image.tmdb.org/t/p/w200/hFfym0LE2t25F0RV9KOSLKlWnQp.jpg"
     },
     {
-      "title": "Across the Wide Missouri",
-      "release_date": "1951-10-26"
+        "title": "Carrie",
+        "year": 1952,
+        "id": 43358,
+        "poster": "https://image.tmdb.org/t/p/w200/hif1GraUbvlocgqtrwYMaybsGcJ.jpg"
     },
     {
-      "title": "Kind Lady",
-      "release_date": "1951-06-20"
+        "title": "The Bad and the Beautiful",
+        "year": 1952,
+        "id": 32499,
+        "poster": "https://image.tmdb.org/t/p/w200/ajAXzTiPkL7JxeCRw5lQBqrKNGx.jpg"
     },
     {
-      "title": "The Bad and the Beautiful",
-      "release_date": "1952-12-25"
+        "title": "Suddenly",
+        "year": 1954,
+        "id": 18398,
+        "poster": "https://image.tmdb.org/t/p/w200/v0eQfRMVJtvEkaJjBsSrd6ri1UI.jpg"
     },
     {
-      "title": "Madeline (cartoon)",
-      "release_date": "1952"
+        "title": "Apache",
+        "year": 1954,
+        "id": 43329,
+        "poster": "https://image.tmdb.org/t/p/w200/5Q05vmMNL2syEciyUqOmlEq3JC2.jpg"
     },
     {
-      "title": "Carrie",
-      "release_date": "1952-07-17"
+        "title": "Bigger Than Life",
+        "year": 1956,
+        "id": 26036,
+        "poster": "https://image.tmdb.org/t/p/w200/nC3J5B2lkWDLm7Q7C26AVFzqJLV.jpg"
     },
     {
-      "title": "Pat and Mike",
-      "release_date": "1952-06-14"
+        "title": "Hilda Crane",
+        "year": 1956,
+        "id": 130933,
+        "poster": "https://image.tmdb.org/t/p/w200/4fVQFED8Z1VbTEB5uFsejbUtAFm.jpg"
     },
     {
-      "title": "The Unicorn in the Garden",
-      "release_date": "1953-09-24"
+        "title": "Jubal",
+        "year": 1956,
+        "id": 43260,
+        "poster": "https://image.tmdb.org/t/p/w200/kmxuxREFLJfmeJhv9CnoOZpKS7D.jpg"
     },
     {
-      "title": "Suddenly",
-      "release_date": "1954-10-07"
+        "title": "Man on Fire",
+        "year": 1957,
+        "id": 4945,
+        "poster": "https://image.tmdb.org/t/p/w200/yK94Dreg3x09dWDRBhirRxvMPHu.jpg"
     },
     {
-      "title": "Apache",
-      "release_date": "1954-07-09"
+        "title": "Gunsight Ridge",
+        "year": 1957,
+        "id": 204232,
+        "poster": "https://image.tmdb.org/t/p/w200/ftOxlardb9XuZumfRg7tp8YTG8H.jpg"
     },
     {
-      "title": "Seven Wonders of the World",
-      "release_date": "1956-04-10"
+        "title": "Until They Sail",
+        "year": 1957,
+        "id": 108812,
+        "poster": "https://image.tmdb.org/t/p/w200/rMG5WS7mRGfwpHJKVLitikxmCJ.jpg"
     },
     {
-      "title": "The Big Combo",
-      "release_date": "1955-02-13"
+        "title": "Separate Tables",
+        "year": 1958,
+        "id": 43136,
+        "poster": "https://image.tmdb.org/t/p/w200/y8exawP0Je3MXVIS3olpJ2fu07.jpg"
     },
     {
-      "title": "Bigger Than Life",
-      "release_date": "1956-08-02"
+        "title": "Twilight for the Gods",
+        "year": 1958,
+        "id": 86721,
+        "poster": "https://image.tmdb.org/t/p/w200/7uRmYA4b6LyQBLrcbfXVpjlvTln.jpg"
     },
     {
-      "title": "Hilda Crane",
-      "release_date": "1956-05-02"
+        "title": "Al Capone",
+        "year": 1959,
+        "id": 43051,
+        "poster": "https://image.tmdb.org/t/p/w200/xmtLUojTRYTswWEx7U9lWjZeZtx.jpg"
     },
     {
-      "title": "Jubal",
-      "release_date": "1956-04-24"
+        "title": "Pay or Die!",
+        "year": 1960,
+        "id": 37083,
+        "poster": "https://image.tmdb.org/t/p/w200/dGKWWLhxiAq99LnlePc5y1Chdwk.jpg"
     },
     {
-      "title": "Until They Sail",
-      "release_date": "1957-10-08"
+        "title": "Night Tide",
+        "year": 1961,
+        "id": 38775,
+        "poster": "https://image.tmdb.org/t/p/w200/bd8pTcZQNRBFrShJoCQUWnJxmZJ.jpg"
     },
     {
-      "title": "Gunsight Ridge",
-      "release_date": "1957"
+        "title": "Too Late Blues",
+        "year": 1961,
+        "id": 75752,
+        "poster": "https://image.tmdb.org/t/p/w200/zklWXL0nlmJRyG9TGaCxr7f5IKN.jpg"
     },
     {
-      "title": "Man on Fire",
-      "release_date": "1957-07-05"
+        "title": "The Patsy",
+        "year": 1964,
+        "id": 24062,
+        "poster": "https://image.tmdb.org/t/p/w200/3ZzZNKCIBrIHWdChzA55DwXLDoa.jpg"
     },
     {
-      "title": "The Vintage",
-      "release_date": "1957-05-08"
+        "title": "Love Has Many Faces",
+        "year": 1965,
+        "id": 4881,
+        "poster": "https://image.tmdb.org/t/p/w200/hcxFENKqPzKjDQt8odGkNCPshnp.jpg"
     },
     {
-      "title": "Separate Tables",
-      "release_date": "1958-12-18"
+        "title": "A Big Hand for the Little Lady",
+        "year": 1966,
+        "id": 37301,
+        "poster": "https://image.tmdb.org/t/p/w200/cfLpJPfcg1XQtfymoiM2me4PScm.jpg"
     },
     {
-      "title": "Twilight for the Gods",
-      "release_date": "1958-08-06"
+        "title": "Will Penny",
+        "year": 1967,
+        "id": 1676,
+        "poster": "https://image.tmdb.org/t/p/w200/v3RcNrqutEPGsiTLd31J3U735kB.jpg"
     },
     {
-      "title": "Al Capone",
-      "release_date": "1959-03-25"
+        "title": "The Over-the-Hill Gang Rides Again",
+        "year": 1970,
+        "id": 59984,
+        "poster": "https://image.tmdb.org/t/p/w200/pFtuCVlwX07y9MIgPOynvZC8zGM.jpg"
     },
     {
-      "title": "Pay or Die",
-      "release_date": "1960-07-27"
+        "title": "What's the Matter with Helen?",
+        "year": 1971,
+        "id": 42530,
+        "poster": "https://image.tmdb.org/t/p/w200/9u8Jn04HR4n2u6IQB9otYoYKAxY.jpg"
     },
     {
-      "title": "Too Late Blues",
-      "release_date": "1961-11-07"
+        "title": "The Ghost of Flight 401",
+        "year": 1978,
+        "id": 72111,
+        "poster": "https://image.tmdb.org/t/p/w200/zxHCCQCNHX4IKsydgV0X368wHsS.jpg"
     },
     {
-      "title": "Night Tide",
-      "release_date": "1961"
+        "title": "Memoirs of a Movie Palace: The Kings of Flatbush",
+        "year": 1980,
+        "id": 851057,
+        "poster": "https://image.tmdb.org/t/p/w200/fKbjJ6wJ0qu87pl0xYemn8DsFrx.jpg"
     },
     {
-      "title": "Two Weeks in Another Town",
-      "release_date": "1962-08-17"
-    },
-    {
-      "title": "Invitation to a Gunfighter",
-      "release_date": "1964-10-14"
-    },
-    {
-      "title": "The Patsy",
-      "release_date": "1964-08-12"
-    },
-    {
-      "title": "Love Has Many Faces",
-      "release_date": "1965-02-24"
-    },
-    {
-      "title": "Sylvia",
-      "release_date": "1965-02-10"
-    },
-    {
-      "title": "A Big Hand for the Little Lady",
-      "release_date": "1966-05-31"
-    },
-    {
-      "title": "Will Penny",
-      "release_date": "1968-02-16"
-    },
-    {
-      "title": "The Over-the-Hill Gang Rides Again",
-      "release_date": "1970"
-    },
-    {
-      "title": "What's the Matter with Helen?",
-      "release_date": "1971"
-    },
-    {
-      "title": "Glass Houses",
-      "release_date": "1972-06-01"
-    },
-    {
-      "title": "Bernard Herrmann",
-      "release_date": "1973"
-    },
-    {
-      "title": "David Raksin",
-      "release_date": "1976"
-    },
-    {
-      "title": "John Williams",
-      "release_date": "1977"
-    },
-    {
-      "title": "The Ghost of Flight 401",
-      "release_date": "1978"
-    },
-    {
-      "title": "John Williams",
-      "release_date": "1978"
-    },
-    {
-      "title": "Mikl\u00f3s R\u00f3zsa",
-      "release_date": "1979"
-    },
-    {
-      "title": "John Barry",
-      "release_date": "1980"
-    },
-    {
-      "title": "John Williams",
-      "release_date": "1981"
-    },
-    {
-      "title": "John Williams",
-      "release_date": "1982"
-    },
-    {
-      "title": "The Day After",
-      "release_date": "1983"
-    },
-    {
-      "title": "James Horner",
-      "release_date": "1983"
-    },
-    {
-      "title": "Jerry Goldsmith",
-      "release_date": "1984"
-    },
-    {
-      "title": "Bruce Broughton",
-      "release_date": "1985"
-    },
-    {
-      "title": "Alan Menken",
-      "release_date": "1986"
-    },
-    {
-      "title": "Alan Silvestri",
-      "release_date": "1987"
-    },
-    {
-      "title": "Streaming audio interview with Raksin, by Charles Amirkhanian, January 28,",
-      "release_date": "1988"
-    },
-    {
-      "title": "David Raksin interview by Bruce Duffie, May",
-      "release_date": "1988"
-    },
-    {
-      "title": "Christopher Young",
-      "release_date": "1988"
-    },
-    {
-      "title": "Loek Dikker",
-      "release_date": "1991"
-    },
-    {
-      "title": "Angelo Badalamenti",
-      "release_date": "1992"
-    },
-    {
-      "title": "Danny Elfman",
-      "release_date": "1993"
-    },
-    {
-      "title": "Howard Shore",
-      "release_date": "1994"
-    },
-    {
-      "title": "John Ottman",
-      "release_date": "1995"
-    },
-    {
-      "title": "Danny Elfman",
-      "release_date": "1996"
-    },
-    {
-      "title": "Dream",
-      "release_date": "1997"
-    },
-    {
-      "title": "Danny Elfman",
-      "release_date": "1997"
-    },
-    {
-      "title": "John Carpenter",
-      "release_date": "1998"
-    },
-    {
-      "title": "Danny Elfman",
-      "release_date": "1999"
-    },
-    {
-      "title": "James Horner",
-      "release_date": "2000"
-    },
-    {
-      "title": "John Williams",
-      "release_date": "2001"
-    },
-    {
-      "title": "Danny Elfman",
-      "release_date": "2002"
-    },
-    {
-      "title": "Howard Shore",
-      "release_date": "2003"
-    },
-    {
-      "title": "Alan Silvestri",
-      "release_date": "2004"
-    },
-    {
-      "title": "John Williams",
-      "release_date": "2005"
-    },
-    {
-      "title": "John Ottman",
-      "release_date": "2006"
-    },
-    {
-      "title": "Alan Menken",
-      "release_date": "2007"
-    },
-    {
-      "title": "James Newton Howard and Hans Zimmer",
-      "release_date": "2008"
-    },
-    {
-      "title": "James Horner",
-      "release_date": "2009"
-    },
-    {
-      "title": "Hans Zimmer",
-      "release_date": "2010"
-    },
-    {
-      "title": "Michael Giacchino",
-      "release_date": "2011"
-    },
-    {
-      "title": "Danny Elfman",
-      "release_date": "2012"
-    },
-    {
-      "title": "Frank Ilfman",
-      "release_date": "2013"
-    },
-    {
-      "title": "Hans Zimmer",
-      "release_date": "2014"
-    },
-    {
-      "title": "John Williams",
-      "release_date": "2015"
-    },
-    {
-      "title": "Justin Hurwitz",
-      "release_date": "2016"
-    },
-    {
-      "title": "Michael Giacchino",
-      "release_date": "2017"
+        "title": "The Day After",
+        "year": 1983,
+        "id": 7012,
+        "poster": "https://image.tmdb.org/t/p/w200/brieV17D6R6HcubOqehLNYuxnvs.jpg"
     }
-  ]
-}
+]

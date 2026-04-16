@@ -1,1201 +1,518 @@
-{
-  "composer": "Rachel Portman",
-  "filmography": [
+[
     {
-      "title": "Louis Silvers",
-      "release_date": "1934"
+        "title": "Privileged",
+        "year": 1982,
+        "id": 465096,
+        "poster": "https://image.tmdb.org/t/p/w200/8nhrKK4WwFnVDzBONiZNJQ7RYjf.jpg"
     },
     {
-      "title": "Max Steiner",
-      "release_date": "1935"
+        "title": "Experience Preferred... But Not Essential",
+        "year": 1982,
+        "id": 276635,
+        "poster": "https://image.tmdb.org/t/p/w200/6RSeUO3nDh48PzDUeqBuRUwIn5j.jpg"
     },
     {
-      "title": "Leo F. Forbstein",
-      "release_date": "1936"
+        "title": "Four Days in July",
+        "year": 1984,
+        "id": 187569,
+        "poster": "https://image.tmdb.org/t/p/w200/bB05tIC4NhxYASRwECbHayYls7Z.jpg"
     },
     {
-      "title": "Charles Previn",
-      "release_date": "1937"
+        "title": "Last Day of Summer",
+        "year": 1984,
+        "id": 508977,
+        "poster": "https://image.tmdb.org/t/p/w200/zVUoL32YTLcR2XqDbNpjWoHkfOO.jpg"
     },
     {
-      "title": "Erich Wolfgang Korngold / Alfred Newman",
-      "release_date": "1938"
+        "title": "Sharma and Beyond",
+        "year": 1984,
+        "id": 279779,
+        "poster": "https://image.tmdb.org/t/p/w200/akOelRJBdFd8Hoy97VuAONN1BJ.jpg"
     },
     {
-      "title": "Herbert Stothart / Richard Hageman, W. Franke Harling, John Leipold and Leo Shuken",
-      "release_date": "1939"
+        "title": "Reflections",
+        "year": 1984,
+        "id": 248734,
+        "poster": null
     },
     {
-      "title": "Leigh Harline, Paul J. Smith and Ned Washington / Alfred Newman",
-      "release_date": "1940"
+        "title": "The Short & Curlies",
+        "year": 1987,
+        "id": 49455,
+        "poster": "https://image.tmdb.org/t/p/w200/vHPJGFP7UONECmRW1blxcJ5clJ6.jpg"
     },
     {
-      "title": "Bernard Herrmann / Frank Churchill and Oliver Wallace",
-      "release_date": "1941"
+        "title": "1914 All Out",
+        "year": 1987,
+        "id": 444993,
+        "poster": "https://image.tmdb.org/t/p/w200/wjcEMguMqMwZYhJaFGktqYZ7zuC.jpg"
     },
     {
-      "title": "Max Steiner / Ray Heindorf and Heinz Roemheld",
-      "release_date": "1942"
+        "title": "The Falklands War: The Untold Story",
+        "year": 1987,
+        "id": 514317,
+        "poster": "https://image.tmdb.org/t/p/w200/bTEM2ilIjvDaEt637GB8TId2Zjy.jpg"
     },
     {
-      "title": "Alfred Newman / Ray Heindorf",
-      "release_date": "1943"
+        "title": "The Woman in Black",
+        "year": 1989,
+        "id": 16182,
+        "poster": "https://image.tmdb.org/t/p/w200/qVNCJJlU2Z99ulRRJyhMp7T3q4Q.jpg"
     },
     {
-      "title": "Max Steiner / Morris Stoloff and Carmen Dragon",
-      "release_date": "1944"
+        "title": "Precious Bane",
+        "year": 1989,
+        "id": 497827,
+        "poster": "https://image.tmdb.org/t/p/w200/jmPlCpdbLvH2ortVmW5ZH0VBuIW.jpg"
     },
     {
-      "title": "Miklos Rozsa / Georgie Stoll",
-      "release_date": "1945"
+        "title": "Living with Dinosaurs",
+        "year": 1990,
+        "id": 486394,
+        "poster": "https://image.tmdb.org/t/p/w200/apHBPkFBo4f5AfFg8k3WVP5a8Ia.jpg"
     },
     {
-      "title": "Hugo Friedhofer / Morris Stoloff",
-      "release_date": "1946"
+        "title": "The Widowmaker",
+        "year": 1990,
+        "id": 379024,
+        "poster": "https://image.tmdb.org/t/p/w200/1CrqEPv70mIWatcPExhiJAYWkos.jpg"
     },
     {
-      "title": "Miklos Rozsa / Alfred Newman",
-      "release_date": "1947"
+        "title": "Antonia and Jane",
+        "year": 1990,
+        "id": 58100,
+        "poster": "https://image.tmdb.org/t/p/w200/5d1AgAgtXxvkTkyY2n2eI943wZy.jpg"
     },
     {
-      "title": "Brian Easdale / Johnny Green and Roger Edens",
-      "release_date": "1948"
+        "title": "Shoot to Kill",
+        "year": 1990,
+        "id": 341632,
+        "poster": "https://image.tmdb.org/t/p/w200/bJJPPUB5yTeZc1V3V6VxFq2Zvp3.jpg"
     },
     {
-      "title": "Aaron Copland / Roger Edens and Lennie Hayton",
-      "release_date": "1949"
+        "title": "Where Angels Fear to Tread",
+        "year": 1991,
+        "id": 59704,
+        "poster": "https://image.tmdb.org/t/p/w200/5SVoW24Fjj6tLSrImaQ2CnusVPF.jpg"
     },
     {
-      "title": "Franz Waxman / Adolph Deutsch and Roger Edens",
-      "release_date": "1950"
+        "title": "Life Is Sweet",
+        "year": 1991,
+        "id": 36843,
+        "poster": "https://image.tmdb.org/t/p/w200/zdkKNQzzwyciP9vAohAPFZdujlA.jpg"
     },
     {
-      "title": "Franz Waxman / Johnny Green and Saul Chaplin",
-      "release_date": "1951"
+        "title": "Used People",
+        "year": 1992,
+        "id": 41779,
+        "poster": "https://image.tmdb.org/t/p/w200/eRMf2zYV46rM9DB5S54PGTPGi55.jpg"
     },
     {
-      "title": "Dimitri Tiomkin / Alfred Newman",
-      "release_date": "1952"
+        "title": "Flea Bites",
+        "year": 1992,
+        "id": 393581,
+        "poster": null
     },
     {
-      "title": "Bronislau Kaper / Alfred Newman",
-      "release_date": "1953"
+        "title": "Rebecca's Daughters",
+        "year": 1992,
+        "id": 144190,
+        "poster": "https://image.tmdb.org/t/p/w200/h1D9tlGvDe1ZWgzu1IO5DIp9bBy.jpg"
     },
     {
-      "title": "Dimitri Tiomkin / Adolph Deutsch and Saul Chaplin",
-      "release_date": "1954"
+        "title": "The Cloning of Joanna May",
+        "year": 1992,
+        "id": 207915,
+        "poster": "https://image.tmdb.org/t/p/w200/z6KLsZPi6nuwqAROvpII2fdaHI1.jpg"
     },
     {
-      "title": "Alfred Newman / Robert Russell Bennett, Jay Blackton and Adolph Deutsch",
-      "release_date": "1955"
+        "title": "The Joy Luck Club",
+        "year": 1993,
+        "id": 19931,
+        "poster": "https://image.tmdb.org/t/p/w200/s1Sk0hhVARNs7i9wqRHqbCriu8n.jpg"
     },
     {
-      "title": "Walter Schumann",
-      "release_date": "1955"
+        "title": "Ethan Frome",
+        "year": 1993,
+        "id": 61807,
+        "poster": "https://image.tmdb.org/t/p/w200/wsXL08E4gQHWW5pRX4qpIyyeBfs.jpg"
     },
     {
-      "title": "Victor Young / Alfred Newman and Ken Darby",
-      "release_date": "1956"
+        "title": "Benny & Joon",
+        "year": 1993,
+        "id": 4104,
+        "poster": "https://image.tmdb.org/t/p/w200/7g7qYdUN9wDXJGIOj6U67RPIBHO.jpg"
     },
     {
-      "title": "Malcolm Arnold",
-      "release_date": "1957"
+        "title": "The Road to Wellville",
+        "year": 1994,
+        "id": 10467,
+        "poster": "https://image.tmdb.org/t/p/w200/zh7OVdFMpqpZ027z9RgVIwzxYjZ.jpg"
     },
     {
-      "title": "Dimitri Tiomkin / Andr\u00e9 Previn",
-      "release_date": "1958"
+        "title": "Sirens",
+        "year": 1994,
+        "id": 12519,
+        "poster": "https://image.tmdb.org/t/p/w200/bOUDHgOlxANs1KsYZEsLSjZBTkd.jpg"
     },
     {
-      "title": "Miklos Rozsa / Andr\u00e9 Previn and Ken Darby",
-      "release_date": "1959"
+        "title": "Only You",
+        "year": 1994,
+        "id": 9058,
+        "poster": "https://image.tmdb.org/t/p/w200/7mLLANXgUg3bibTiUitDlB0NZcU.jpg"
     },
     {
-      "title": "Ernest Gold / Morris Stoloff and Harry Sukman",
-      "release_date": "1960"
+        "title": "War of the Buttons",
+        "year": 1994,
+        "id": 38348,
+        "poster": "https://image.tmdb.org/t/p/w200/uqsNLBj1MKzq2uqvegAgoE0gG1M.jpg"
     },
     {
-      "title": "Henry Mancini / Saul Chaplin, Johnny Green, Sid Ramin and Irwin Kostal",
-      "release_date": "1961"
+        "title": "Friends",
+        "year": 1994,
+        "id": 196924,
+        "poster": "https://image.tmdb.org/t/p/w200/dZB6ny9nGD56crinf4hfeVFTZ2E.jpg"
     },
     {
-      "title": "Maurice Jarre / Ray Heindorf",
-      "release_date": "1962"
+        "title": "Great Moments in Aviation",
+        "year": 1994,
+        "id": 124312,
+        "poster": "https://image.tmdb.org/t/p/w200/v1RrXKWXmnvtQ4lnVzK7IFzfAJI.jpg"
     },
     {
-      "title": "Richard Rodgers",
-      "release_date": "1962"
+        "title": "A Pyromaniac's Love Story",
+        "year": 1995,
+        "id": 2307,
+        "poster": "https://image.tmdb.org/t/p/w200/tjhmiAVkxl1EHkE9o6C93yKQdJ1.jpg"
     },
     {
-      "title": "John Addison / Andr\u00e9 Previn",
-      "release_date": "1963"
+        "title": "Smoke",
+        "year": 1995,
+        "id": 10149,
+        "poster": "https://image.tmdb.org/t/p/w200/1WMUaTQaj2dQrhsPI3Px0OR9eTF.jpg"
     },
     {
-      "title": "Robert Russell Bennett",
-      "release_date": "1963"
+        "title": "To Wong Foo, Thanks for Everything! Julie Newmar",
+        "year": 1995,
+        "id": 9090,
+        "poster": "https://image.tmdb.org/t/p/w200/8bkJiI6N8wDxAtQ49bLUt0qCBII.jpg"
     },
     {
-      "title": "Richard M. Sherman and Robert B. Sherman / Andr\u00e9 Previn",
-      "release_date": "1964"
+        "title": "Palookaville",
+        "year": 1995,
+        "id": 37616,
+        "poster": "https://image.tmdb.org/t/p/w200/vmlO5CbUKmqvn5BVtEprxAmNOkp.jpg"
     },
     {
-      "title": "Elmer Bernstein",
-      "release_date": "1964"
+        "title": "Marvin's Room",
+        "year": 1996,
+        "id": 9819,
+        "poster": "https://image.tmdb.org/t/p/w200/lTHq1K5Y6EDRjxTBvReXHY6AKQ3.jpg"
     },
     {
-      "title": "Maurice Jarre / Irwin Kostal",
-      "release_date": "1965"
+        "title": "The Adventures of Pinocchio",
+        "year": 1996,
+        "id": 18975,
+        "poster": "https://image.tmdb.org/t/p/w200/rGPFPkUmPam6arT22ey8jWpKzL2.jpg"
     },
     {
-      "title": "John Barry / Ken Thorne",
-      "release_date": "1966"
+        "title": "Emma",
+        "year": 1996,
+        "id": 3573,
+        "poster": "https://image.tmdb.org/t/p/w200/fM5goQ6c3uq3hzNJj3ZAFfTFkX9.jpg"
     },
     {
-      "title": "Elmer Bernstein / Alfred Newman and Ken Darby",
-      "release_date": "1967"
+        "title": "Addicted to Love",
+        "year": 1997,
+        "id": 2058,
+        "poster": "https://image.tmdb.org/t/p/w200/sRfuSc6E9GvVaOHdPv4vG3ywfMw.jpg"
     },
     {
-      "title": "John Barry / Johnny Green",
-      "release_date": "1968"
+        "title": "Beauty and the Beast: The Enchanted Christmas",
+        "year": 1997,
+        "id": 13313,
+        "poster": "https://image.tmdb.org/t/p/w200/l1Tb0fvnj9wnCgm5qnTRoO6OxDT.jpg"
     },
     {
-      "title": "Burt Bacharach / Lennie Hayton and Lionel Newman",
-      "release_date": "1969"
+        "title": "Home Fries",
+        "year": 1998,
+        "id": 12257,
+        "poster": "https://image.tmdb.org/t/p/w200/rXEpaJIPlBqKq7QepB8uowmeAT2.jpg"
     },
     {
-      "title": "Francis Lai / The Beatles (John Lennon, Paul McCartney, George Harrison and Ringo Starr)",
-      "release_date": "1970"
+        "title": "Beloved",
+        "year": 1998,
+        "id": 39437,
+        "poster": "https://image.tmdb.org/t/p/w200/jIoT0J2fNXXCYZst6OkKStQIPw9.jpg"
     },
     {
-      "title": "Pete Rugolo",
-      "release_date": "1970"
+        "title": "Ratcatcher",
+        "year": 1999,
+        "id": 29698,
+        "poster": "https://image.tmdb.org/t/p/w200/dvrN33jql75Bd0I0i75oSJ9pXzX.jpg"
     },
     {
-      "title": "Michel Legrand / John Williams",
-      "release_date": "1971"
+        "title": "The Cider House Rules",
+        "year": 1999,
+        "id": 1715,
+        "poster": "https://image.tmdb.org/t/p/w200/qAECAgqjSFRVZzEEGbFAZqZNiDh.jpg"
     },
     {
-      "title": "Walter Scharf",
-      "release_date": "1971"
+        "title": "The Other Sister",
+        "year": 1999,
+        "id": 18417,
+        "poster": "https://image.tmdb.org/t/p/w200/4rBrYRkB7btGex5Bs0yOpqBZgsR.jpg"
     },
     {
-      "title": "Charlie Chaplin, Raymond Rasch and Larry Russell / Ralph Burns",
-      "release_date": "1972"
+        "title": "Chocolat",
+        "year": 2000,
+        "id": 392,
+        "poster": "https://image.tmdb.org/t/p/w200/lnwPvyj8UR7MetG2pQ92453IIoR.jpg"
     },
     {
-      "title": "John Williams",
-      "release_date": "1972"
+        "title": "The Legend of Bagger Vance",
+        "year": 2000,
+        "id": 4958,
+        "poster": "https://image.tmdb.org/t/p/w200/7jKjh9PZvHJYYtCycQmTbBoZVV4.jpg"
     },
     {
-      "title": "Marvin Hamlisch / Marvin Hamlisch",
-      "release_date": "1973"
+        "title": "The Closer You Get",
+        "year": 2000,
+        "id": 73642,
+        "poster": "https://image.tmdb.org/t/p/w200/xeENuqgJtRcum0hJCrmUJ8HA4k8.jpg"
     },
     {
-      "title": "Jerry Goldsmith",
-      "release_date": "1973"
+        "title": "The Emperor's New Clothes",
+        "year": 2001,
+        "id": 52258,
+        "poster": "https://image.tmdb.org/t/p/w200/iTonTn91U4X1px7KXAHTFnIA4ud.jpg"
     },
     {
-      "title": "Nino Rota and Carmine Coppola / Nelson Riddle",
-      "release_date": "1974"
+        "title": "Nicholas Nickleby",
+        "year": 2002,
+        "id": 29339,
+        "poster": "https://image.tmdb.org/t/p/w200/uLilCY2We3Ore9Ke7CdafntHvmT.jpg"
     },
     {
-      "title": "Fred Karlin",
-      "release_date": "1974"
+        "title": "The Truth About Charlie",
+        "year": 2002,
+        "id": 13440,
+        "poster": "https://image.tmdb.org/t/p/w200/kQ6SdbWStviMhTFt5tatjpGvRGV.jpg"
     },
     {
-      "title": "John Williams / Leonard Rosenman",
-      "release_date": "1975"
+        "title": "Hart's War",
+        "year": 2002,
+        "id": 10592,
+        "poster": "https://image.tmdb.org/t/p/w200/yRUhSU7vzs5ePa72LNPcKKCCMZ5.jpg"
     },
     {
-      "title": "Jerry Goldsmith",
-      "release_date": "1975"
+        "title": "The Human Stain",
+        "year": 2003,
+        "id": 10922,
+        "poster": "https://image.tmdb.org/t/p/w200/zRgYzYpcXyXznlSc4swqNpXcnVs.jpg"
     },
     {
-      "title": "Jerry Goldsmith / Leonard Rosenman",
-      "release_date": "1976"
+        "title": "Mona Lisa Smile",
+        "year": 2003,
+        "id": 11820,
+        "poster": "https://image.tmdb.org/t/p/w200/bg0VKsXnLjIZ0cHmZHZLs9gzrvm.jpg"
     },
     {
-      "title": "Jerry Goldsmith",
-      "release_date": "1976"
+        "title": "The Manchurian Candidate",
+        "year": 2004,
+        "id": 14462,
+        "poster": "https://image.tmdb.org/t/p/w200/4xEWtEbKK2EXMZ8UPff8hDCSiVW.jpg"
     },
     {
-      "title": "John Williams / Jonathan Tunick",
-      "release_date": "1977"
+        "title": "The Return of the Dancing Master",
+        "year": 2004,
+        "id": 161132,
+        "poster": "https://image.tmdb.org/t/p/w200/qdi05LN77ZMcR7okTo12Lbs5alG.jpg"
     },
     {
-      "title": "Leonard Rosenman, Alan and Marilyn Bergman",
-      "release_date": "1977"
+        "title": "Oliver Twist",
+        "year": 2005,
+        "id": 257,
+        "poster": "https://image.tmdb.org/t/p/w200/zhPdYZ3x2uanhM1SyBj4CuL6hSa.jpg"
     },
     {
-      "title": "Giorgio Moroder / Joe Renzetti",
-      "release_date": "1978"
+        "title": "Because of Winn-Dixie",
+        "year": 2005,
+        "id": 17880,
+        "poster": "https://image.tmdb.org/t/p/w200/k2zDrIqMFi8944h3BbBAQfsBn9h.jpg"
     },
     {
-      "title": "Jimmie Haskell",
-      "release_date": "1978"
+        "title": "The Lake House",
+        "year": 2006,
+        "id": 2044,
+        "poster": "https://image.tmdb.org/t/p/w200/tHpc1118dYWLnHZleGhwZxRbpae.jpg"
     },
     {
-      "title": "Georges Delerue / Ralph Burns",
-      "release_date": "1979"
+        "title": "Infamous",
+        "year": 2006,
+        "id": 9672,
+        "poster": "https://image.tmdb.org/t/p/w200/cIQUn20lUQpi70W0Z7ixezQJ7gj.jpg"
     },
     {
-      "title": "Leonard Rosenman",
-      "release_date": "1979"
+        "title": "Twist by Polanski",
+        "year": 2006,
+        "id": 743720,
+        "poster": null
     },
     {
-      "title": "Michael Gore",
-      "release_date": "1980"
+        "title": "The Duchess",
+        "year": 2008,
+        "id": 12783,
+        "poster": "https://image.tmdb.org/t/p/w200/77ckyYrWmR12kl3qToqmDySnuwv.jpg"
     },
     {
-      "title": "Jerry Fielding",
-      "release_date": "1980"
+        "title": "The Sisterhood of the Traveling Pants 2",
+        "year": 2008,
+        "id": 10188,
+        "poster": "https://image.tmdb.org/t/p/w200/bAdkVOD91jCHos4163qyVu1TFua.jpg"
     },
     {
-      "title": "Vangelis",
-      "release_date": "1981"
+        "title": "Grey Gardens",
+        "year": 2009,
+        "id": 19851,
+        "poster": "https://image.tmdb.org/t/p/w200/9iO11PLhIGCzN6n2V92XcANQ8M9.jpg"
     },
     {
-      "title": "Jerry Goldsmith",
-      "release_date": "1981"
+        "title": "Never Let Me Go",
+        "year": 2010,
+        "id": 42188,
+        "poster": "https://image.tmdb.org/t/p/w200/7okcm65P7WfpF3f0HiQBFTsvcXV.jpg"
     },
     {
-      "title": "Privileged",
-      "release_date": "1982"
+        "title": "His Way",
+        "year": 2011,
+        "id": 63472,
+        "poster": "https://image.tmdb.org/t/p/w200/oYRZr4CsZiSNSQSvodFUVRXnpLJ.jpg"
     },
     {
-      "title": "John Williams / Henry Mancini and Leslie Bricusse",
-      "release_date": "1982"
+        "title": "Snow Flower and the Secret Fan",
+        "year": 2011,
+        "id": 58882,
+        "poster": "https://image.tmdb.org/t/p/w200/lhhlq19I9BjcfmGLZc7SzHQULo0.jpg"
     },
     {
-      "title": "Patrick Williams",
-      "release_date": "1982"
+        "title": "One Day",
+        "year": 2011,
+        "id": 51828,
+        "poster": "https://image.tmdb.org/t/p/w200/n9jMwSg4IavdD8wqdYnyW5w3Mvp.jpg"
     },
     {
-      "title": "Bill Conti / Michel Legrand, Alan and Marilyn Bergman",
-      "release_date": "1983"
+        "title": "Bel Ami",
+        "year": 2012,
+        "id": 86467,
+        "poster": "https://image.tmdb.org/t/p/w200/59bgVtpX6MPy2d5zberJiRNkDDx.jpg"
     },
     {
-      "title": "Billy Goldenberg",
-      "release_date": "1983"
+        "title": "Private Peaceful",
+        "year": 2012,
+        "id": 143970,
+        "poster": "https://image.tmdb.org/t/p/w200/hTL5SBKCiR7P0sA2Tr2L5NSjvQD.jpg"
     },
     {
-      "title": "Reflections",
-      "release_date": "1984"
+        "title": "The Vow",
+        "year": 2012,
+        "id": 72570,
+        "poster": "https://image.tmdb.org/t/p/w200/y5GUXzTvt7kSQbdQrSvbYNoa8HB.jpg"
     },
     {
-      "title": "Last Day of Summer",
-      "release_date": "2009-10-24"
+        "title": "The Right Kind of Wrong",
+        "year": 2013,
+        "id": 209406,
+        "poster": "https://image.tmdb.org/t/p/w200/qw3cFdCxLOP4cENuhHemrVzwfOh.jpg"
     },
     {
-      "title": "Maurice Jarre / Prince",
-      "release_date": "1984"
+        "title": "Still Life",
+        "year": 2013,
+        "id": 216156,
+        "poster": "https://image.tmdb.org/t/p/w200/WxGIgw13bKHXFbMhJqBc8Sk2TY.jpg"
     },
     {
-      "title": "Bruce Broughton",
-      "release_date": "1984"
+        "title": "Paradise",
+        "year": 2013,
+        "id": 152756,
+        "poster": "https://image.tmdb.org/t/p/w200/ghBJXpOeQ6IQN00Eq2d9WVtnefH.jpg"
     },
     {
-      "title": "Four Days in July",
-      "release_date": "1985"
+        "title": "Belle",
+        "year": 2013,
+        "id": 205601,
+        "poster": "https://image.tmdb.org/t/p/w200/qCK00C3L0bM5jphoYU0gFpG3Hly.jpg"
     },
     {
-      "title": "John Barry",
-      "release_date": "1985"
+        "title": "Dolphin Tale 2",
+        "year": 2014,
+        "id": 227735,
+        "poster": "https://image.tmdb.org/t/p/w200/7ujGA9YqxQ3uwtMelCEsaBKasuR.jpg"
     },
     {
-      "title": "Allyn Ferguson",
-      "release_date": "1985"
+        "title": "Bessie",
+        "year": 2015,
+        "id": 330544,
+        "poster": "https://image.tmdb.org/t/p/w200/kanAZsL3kZwFWRuR6tqLvNrEFco.jpg"
     },
     {
-      "title": "Daniel Schmid (BMD)",
-      "release_date": "1985"
+        "title": "Race",
+        "year": 2016,
+        "id": 323677,
+        "poster": "https://image.tmdb.org/t/p/w200/ubbNizkhjEYw06XB7b0YMgsHXG1.jpg"
     },
     {
-      "title": "Jean-Luc Godard (BUEM)",
-      "release_date": "1985"
+        "title": "Despite the Falling Snow",
+        "year": 2016,
+        "id": 366901,
+        "poster": "https://image.tmdb.org/t/p/w200/uZ3o8weY8zcwmACdhqJXgkAe5zU.jpg"
     },
     {
-      "title": "Sharma and Beyond",
-      "release_date": "1986"
+        "title": "I Wish For You",
+        "year": 2016,
+        "id": 1015646,
+        "poster": "https://image.tmdb.org/t/p/w200/qVY7JP8NJpodlByuMPbShIHroXO.jpg"
     },
     {
-      "title": "Good as Gold",
-      "release_date": "1927-06-12"
+        "title": "Their Finest",
+        "year": 2017,
+        "id": 340101,
+        "poster": "https://image.tmdb.org/t/p/w200/tF0dhJfxzOjvkybJVfNPuuj5ClH.jpg"
     },
     {
-      "title": "A Little Princess",
-      "release_date": "1986"
+        "title": "A Dog's Purpose",
+        "year": 2017,
+        "id": 381289,
+        "poster": "https://image.tmdb.org/t/p/w200/3jcNvhtVQe5Neoffdic39fRactM.jpg"
     },
     {
-      "title": "Herbie Hancock",
-      "release_date": "1986"
+        "title": "The Street",
+        "year": 2019,
+        "id": 627069,
+        "poster": "https://image.tmdb.org/t/p/w200/u5WUpfhZ4rCxcDUm0zE05DZ2Nvi.jpg"
     },
     {
-      "title": "Laurence Rosenthal",
-      "release_date": "1986"
+        "title": "Godmothered",
+        "year": 2020,
+        "id": 662546,
+        "poster": "https://image.tmdb.org/t/p/w200/80tDCErk6ymHS7YfvqJcbnnTtqa.jpg"
     },
     {
-      "title": "Ry Cooder (BOM)",
-      "release_date": "1986"
+        "title": "Julia",
+        "year": 2021,
+        "id": 811933,
+        "poster": "https://image.tmdb.org/t/p/w200/eOLgOrjOPtjaU3c7LNNnhuZ4cS5.jpg"
     },
     {
-      "title": "Pirjo Honkasalo and Pekka Lehto (BAM)",
-      "release_date": "1986"
+        "title": "Dancing Fruit",
+        "year": 2023,
+        "id": 1178935,
+        "poster": "https://image.tmdb.org/t/p/w200/dJVI8Yq1jXr6dTkmCJ1Zl9qw6VI.jpg"
     },
     {
-      "title": "1914 All Out",
-      "release_date": "1987"
-    },
-    {
-      "title": "The Short and Curlies",
-      "release_date": "1987"
-    },
-    {
-      "title": "The Falklands War: The Untold Story",
-      "release_date": "1987"
-    },
-    {
-      "title": "90 Degrees South",
-      "release_date": "1987"
-    },
-    {
-      "title": "Ryuichi Sakamoto, David Byrne and Cong Su",
-      "release_date": "1987"
-    },
-    {
-      "title": "Laurence Rosenthal",
-      "release_date": "1987"
-    },
-    {
-      "title": "Beno\u00eet Lamy",
-      "release_date": "1987"
-    },
-    {
-      "title": "The Storyteller",
-      "release_date": "1988"
-    },
-    {
-      "title": "Loving Hazel",
-      "release_date": "1988"
-    },
-    {
-      "title": "Sometime in August",
-      "release_date": "2009-02-08"
-    },
-    {
-      "title": "Dave Grusin",
-      "release_date": "1988"
-    },
-    {
-      "title": "Laurence Rosenthal",
-      "release_date": "1988"
-    },
-    {
-      "title": "Astor Piazzolla",
-      "release_date": "1988"
-    },
-    {
-      "title": "The Woman in Black",
-      "release_date": "1989"
-    },
-    {
-      "title": "Young Charlie Chaplin",
-      "release_date": "1989"
-    },
-    {
-      "title": "Monster Maker",
-      "release_date": "1989"
-    },
-    {
-      "title": "Living with Dinosaurs",
-      "release_date": "1989"
-    },
-    {
-      "title": "Precious Bane",
-      "release_date": "1989"
-    },
-    {
-      "title": "Alan Menken",
-      "release_date": "1989"
-    },
-    {
-      "title": "Basil Poledouris",
-      "release_date": "1989"
-    },
-    {
-      "title": "T\u014dru Takemitsu",
-      "release_date": "1989"
-    },
-    {
-      "title": "Michael Haneke (BUMF)",
-      "release_date": "1989"
-    },
-    {
-      "title": "Oranges Are Not the Only Fruit",
-      "release_date": "1990"
-    },
-    {
-      "title": "Shoot to Kill",
-      "release_date": "1990"
-    },
-    {
-      "title": "Life Is Sweet",
-      "release_date": "1990-11-11"
-    },
-    {
-      "title": "The Storyteller: Greek Myths",
-      "release_date": "1990"
-    },
-    {
-      "title": "The Widowmaker",
-      "release_date": "1990"
-    },
-    {
-      "title": "John Barry",
-      "release_date": "1990"
-    },
-    {
-      "title": "James Di Pasquale",
-      "release_date": "1990"
-    },
-    {
-      "title": "Michael Kamen",
-      "release_date": "1990"
-    },
-    {
-      "title": "Where Angels Fear to Tread",
-      "release_date": "1991-06-21"
-    },
-    {
-      "title": "Antonia and Jane",
-      "release_date": "1991"
-    },
-    {
-      "title": "Flea Bites",
-      "release_date": "1991"
-    },
-    {
-      "title": "Alan Menken",
-      "release_date": "1991"
-    },
-    {
-      "title": "Richard Bellis",
-      "release_date": "1991"
-    },
-    {
-      "title": "Rachid Bouchareb",
-      "release_date": "1991"
-    },
-    {
-      "title": "Elizabeth R: A Year in the Life of the Queen",
-      "release_date": "1992"
-    },
-    {
-      "title": "Used People",
-      "release_date": "1992-12-16"
-    },
-    {
-      "title": "Mr Wakefield's Crusade",
-      "release_date": "1992"
-    },
-    {
-      "title": "Rebecca's Daughters",
-      "release_date": "1992-03-05"
-    },
-    {
-      "title": "The Cloning of Joanna May",
-      "release_date": "1992"
-    },
-    {
-      "title": "Alan Menken",
-      "release_date": "1992"
-    },
-    {
-      "title": "Bruce Broughton",
-      "release_date": "1992"
-    },
-    {
-      "title": "David Robbins",
-      "release_date": "1992"
-    },
-    {
-      "title": "Friends",
-      "release_date": "1993-09-15"
-    },
-    {
-      "title": "The Joy Luck Club",
-      "release_date": "1993-09-08"
-    },
-    {
-      "title": "Benny & Joon",
-      "release_date": "1993-04-23"
-    },
-    {
-      "title": "Ethan Frome",
-      "release_date": "1993-03-05"
-    },
-    {
-      "title": "Great Moments in Aviation",
-      "release_date": "1994-05-17"
-    },
-    {
-      "title": "John Williams",
-      "release_date": "1993"
-    },
-    {
-      "title": "Patrick Williams",
-      "release_date": "1993"
-    },
-    {
-      "title": "Hou Hsiao-hsien",
-      "release_date": "1993"
-    },
-    {
-      "title": "The Road to Wellville",
-      "release_date": "1994-10-28"
-    },
-    {
-      "title": "Only You",
-      "release_date": "1994-10-07"
-    },
-    {
-      "title": "Sirens",
-      "release_date": "1994-04-28"
-    },
-    {
-      "title": "War of the Buttons",
-      "release_date": "1994-08-05"
-    },
-    {
-      "title": "Hans Zimmer",
-      "release_date": "1994"
-    },
-    {
-      "title": "Lennie Niehaus",
-      "release_date": "1994"
-    },
-    {
-      "title": "Fr\u00e9d\u00e9ric Devreese",
-      "release_date": "1994"
-    },
-    {
-      "title": "Feast of July",
-      "release_date": "1995-10-13"
-    },
-    {
-      "title": "To Wong Foo, Thanks for Everything! Julie Newmar",
-      "release_date": "1995-09-08"
-    },
-    {
-      "title": "Palookaville",
-      "release_date": "1995-09-07"
-    },
-    {
-      "title": "Smoke",
-      "release_date": "1995-06-09"
-    },
-    {
-      "title": "A Pyromaniac's Love Story",
-      "release_date": "1995-04-28"
-    },
-    {
-      "title": "Luis Bacalov / Alan Menken and Stephen Schwartz",
-      "release_date": "1995"
-    },
-    {
-      "title": "Laurence Rosenthal",
-      "release_date": "1995"
-    },
-    {
-      "title": "T\u00f4n-Th\u1ea5t Ti\u1ebft",
-      "release_date": "1995"
-    },
-    {
-      "title": "Marvin's Room",
-      "release_date": "1996-12-18"
-    },
-    {
-      "title": "Emma",
-      "release_date": "1996"
-    },
-    {
-      "title": "The Adventures of Pinocchio",
-      "release_date": "1996-07-26"
-    },
-    {
-      "title": "Gabriel Yared / Rachel Portman",
-      "release_date": "1996"
-    },
-    {
-      "title": "Ernest Troost",
-      "release_date": "1996"
-    },
-    {
-      "title": "Bruno Coulais",
-      "release_date": "1996"
-    },
-    {
-      "title": "Beauty and the Beast: The Enchanted Christmas",
-      "release_date": "1997-11-11"
-    },
-    {
-      "title": "Addicted to Love",
-      "release_date": "1997-05-23"
-    },
-    {
-      "title": "James Horner / Anne Dudley",
-      "release_date": "1997"
-    },
-    {
-      "title": "Laurence Rosenthal",
-      "release_date": "1997"
-    },
-    {
-      "title": "Vangelis",
-      "release_date": "1997"
-    },
-    {
-      "title": "Beloved",
-      "release_date": "1998-10-08"
-    },
-    {
-      "title": "Home Fries",
-      "release_date": "1998-11-25"
-    },
-    {
-      "title": "Nicola Piovani / Stephen Warbeck",
-      "release_date": "1998"
-    },
-    {
-      "title": "Bruce Broughton",
-      "release_date": "1998"
-    },
-    {
-      "title": "Simon Fisher Turner",
-      "release_date": "1998"
-    },
-    {
-      "title": "The Cider House Rules",
-      "release_date": "1999-09-07"
-    },
-    {
-      "title": "Ratcatcher",
-      "release_date": "1999-05-13"
-    },
-    {
-      "title": "The Other Sister",
-      "release_date": "1999-02-26"
-    },
-    {
-      "title": "John Corigliano",
-      "release_date": "1999"
-    },
-    {
-      "title": "Richard Hartley",
-      "release_date": "1999"
-    },
-    {
-      "title": "Rachel Portman",
-      "release_date": "1999"
-    },
-    {
-      "title": "Chocolat",
-      "release_date": "2000-12-22"
-    },
-    {
-      "title": "The Legend of Bagger Vance",
-      "release_date": "2000-11-03"
-    },
-    {
-      "title": "The Closer You Get",
-      "release_date": "2000"
-    },
-    {
-      "title": "Tan Dun",
-      "release_date": "2000"
-    },
-    {
-      "title": "John Altman",
-      "release_date": "2000"
-    },
-    {
-      "title": "The Emperor's New Clothes",
-      "release_date": "2001-08-11"
-    },
-    {
-      "title": "Howard Shore",
-      "release_date": "2001"
-    },
-    {
-      "title": "Arturo Sandoval",
-      "release_date": "2001"
-    },
-    {
-      "title": "Vladim\u00edr God\u00e1r",
-      "release_date": "2001"
-    },
-    {
-      "title": "Nicholas Nickleby",
-      "release_date": "2002-12-27"
-    },
-    {
-      "title": "The Truth About Charlie",
-      "release_date": "2002-10-25"
-    },
-    {
-      "title": "Hart's War",
-      "release_date": "2002-02-15"
-    },
-    {
-      "title": "Elliot Goldenthal",
-      "release_date": "2002"
-    },
-    {
-      "title": "Adrian Johnston",
-      "release_date": "2002"
-    },
-    {
-      "title": "Howard Shore",
-      "release_date": "2002"
-    },
-    {
-      "title": "Mona Lisa Smile",
-      "release_date": "2003-12-19"
-    },
-    {
-      "title": "The Human Stain",
-      "release_date": "2003-08-29"
-    },
-    {
-      "title": "The Little Prince",
-      "release_date": "2003"
-    },
-    {
-      "title": "Howard Shore",
-      "release_date": "2003"
-    },
-    {
-      "title": "Bruce Broughton",
-      "release_date": "2003"
-    },
-    {
-      "title": "Zygmunt Konieczny",
-      "release_date": "2003"
-    },
-    {
-      "title": "The Manchurian Candidate",
-      "release_date": "2004-07-30"
-    },
-    {
-      "title": "Lard",
-      "release_date": "2004"
-    },
-    {
-      "title": "Jan A. P. Kaczmarek",
-      "release_date": "2004"
-    },
-    {
-      "title": "Bruce Broughton",
-      "release_date": "2004"
-    },
-    {
-      "title": "Miguel Miranda and Jos\u00e9 Tobar",
-      "release_date": "2004"
-    },
-    {
-      "title": "Oliver Twist",
-      "release_date": "2005-09-11"
-    },
-    {
-      "title": "Define Normal",
-      "release_date": "2005"
-    },
-    {
-      "title": "Because of Winn-Dixie",
-      "release_date": "2005-01-26"
-    },
-    {
-      "title": "Gustavo Santaolalla",
-      "release_date": "2005"
-    },
-    {
-      "title": "Bruce Broughton",
-      "release_date": "2005"
-    },
-    {
-      "title": "Stephen Warbeck",
-      "release_date": "2005"
-    },
-    {
-      "title": "Infamous",
-      "release_date": "2006-08-31"
-    },
-    {
-      "title": "The Lake House",
-      "release_date": "2006-06-16"
-    },
-    {
-      "title": "Gustavo Santaolalla",
-      "release_date": "2006"
-    },
-    {
-      "title": "Geoff Zanelli",
-      "release_date": "2006"
-    },
-    {
-      "title": "Tony Gatlif and Delphine Mantoulet",
-      "release_date": "2006"
-    },
-    {
-      "title": "H2Hope: The Water Diviner's Tale (Musical, BBC Prom 57)",
-      "release_date": "2007"
-    },
-    {
-      "title": "Dario Marianelli",
-      "release_date": "2007"
-    },
-    {
-      "title": "Jeff Beal",
-      "release_date": "2007"
-    },
-    {
-      "title": "Benny Andersson",
-      "release_date": "2007"
-    },
-    {
-      "title": "The Sisterhood of the Traveling Pants 2",
-      "release_date": "2008-08-06"
-    },
-    {
-      "title": "The Duchess",
-      "release_date": "2008-09-05"
-    },
-    {
-      "title": "Little House on the Prairie",
-      "release_date": "2008"
-    },
-    {
-      "title": "A. R. Rahman",
-      "release_date": "2008"
-    },
-    {
-      "title": "Jeff Beal",
-      "release_date": "2008"
-    },
-    {
-      "title": "Tolib Shakhidi",
-      "release_date": "2008"
-    },
-    {
-      "title": "Grey Gardens",
-      "release_date": "1975-09-27"
-    },
-    {
-      "title": "Michael Giacchino",
-      "release_date": "2009"
-    },
-    {
-      "title": "Howard Goodall",
-      "release_date": "2009"
-    },
-    {
-      "title": "Nathan Larson",
-      "release_date": "2009"
-    },
-    {
-      "title": "Never Let Me Go",
-      "release_date": "2010-09-03"
-    },
-    {
-      "title": "Snow Flower and the Secret Fan",
-      "release_date": "2011-07-15"
-    },
-    {
-      "title": "Trent Reznor and Atticus Ross",
-      "release_date": "2010"
-    },
-    {
-      "title": "Alex Wurman",
-      "release_date": "2010"
-    },
-    {
-      "title": "Hong-jip Kim",
-      "release_date": "2010"
-    },
-    {
-      "title": "One Day",
-      "release_date": "2011-08-08"
-    },
-    {
-      "title": "Ludovic Bource",
-      "release_date": "2011"
-    },
-    {
-      "title": "Carter Burwell",
-      "release_date": "2011"
-    },
-    {
-      "title": "Evgueni and Sacha Galperine",
-      "release_date": "2011"
-    },
-    {
-      "title": "Private Peaceful",
-      "release_date": "2012-10-12"
-    },
-    {
-      "title": "Mychael Danna",
-      "release_date": "2012"
-    },
-    {
-      "title": "Javier Navarrete",
-      "release_date": "2012"
-    },
-    {
-      "title": "Olivier Assayas",
-      "release_date": "2012"
-    },
-    {
-      "title": "Use British English from May",
-      "release_date": "2012"
-    },
-    {
-      "title": "Still Life",
-      "release_date": "2013-09-03"
-    },
-    {
-      "title": "Paradise",
-      "release_date": "2013"
-    },
-    {
-      "title": "Girl Rising (documentary)",
-      "release_date": "2013"
-    },
-    {
-      "title": "The Right Kind of Wrong",
-      "release_date": "2013-09-12"
-    },
-    {
-      "title": "Steven Price",
-      "release_date": "2013"
-    },
-    {
-      "title": "Mychael Danna",
-      "release_date": "2013"
-    },
-    {
-      "title": "Lim Giong",
-      "release_date": "2013"
-    },
-    {
-      "title": "Dolphin Tale 2",
-      "release_date": "2014-09-12"
-    },
-    {
-      "title": "Alexandre Desplat",
-      "release_date": "2014"
-    },
-    {
-      "title": "David Arnold and Michael Price",
-      "release_date": "2014"
-    },
-    {
-      "title": "Boris Debackere",
-      "release_date": "2014"
-    },
-    {
-      "title": "Mark Adler",
-      "release_date": "2014"
-    },
-    {
-      "title": "Bessie",
-      "release_date": "2015"
-    },
-    {
-      "title": "Mog's Christmas Calamity",
-      "release_date": "2015"
-    },
-    {
-      "title": "Ennio Morricone",
-      "release_date": "2015"
-    },
-    {
-      "title": "Rachel Portman",
-      "release_date": "2015"
-    },
-    {
-      "title": "Johnnie Burn",
-      "release_date": "2015"
-    },
-    {
-      "title": "Miriam Cutler",
-      "release_date": "2015"
-    },
-    {
-      "title": "Despite the Falling Snow",
-      "release_date": "2016"
-    },
-    {
-      "title": "Their Finest",
-      "release_date": "2016-09-10"
-    },
-    {
-      "title": "Race",
-      "release_date": "2016-02-11"
-    },
-    {
-      "title": "Justin Hurwitz",
-      "release_date": "2016"
-    },
-    {
-      "title": "Victor Reyes",
-      "release_date": "2016"
-    },
-    {
-      "title": "Johnny Jewel",
-      "release_date": "2016"
-    },
-    {
-      "title": "Mark Adler",
-      "release_date": "2016"
-    },
-    {
-      "title": "A Dog's Purpose",
-      "release_date": "2017"
-    },
-    {
-      "title": "Alexandre Desplat",
-      "release_date": "2017"
-    },
-    {
-      "title": "Jeff Russo",
-      "release_date": "2017"
-    },
-    {
-      "title": "Dan Romer",
-      "release_date": "2017"
-    },
-    {
-      "title": "Philip Glass",
-      "release_date": "2017"
-    },
-    {
-      "title": "Ludwig G\u00f6ransson",
-      "release_date": "2018"
-    },
-    {
-      "title": "Cyril Aufort",
-      "release_date": "2018"
-    },
-    {
-      "title": "Stuart A. Staples",
-      "release_date": "2018"
-    },
-    {
-      "title": "Cyrille Aufort",
-      "release_date": "2018"
-    },
-    {
-      "title": "Mimi and the Mountain Dragon",
-      "release_date": "2019"
-    },
-    {
-      "title": "Hildur Gu\u00f0nad\u00f3ttir",
-      "release_date": "2019"
-    },
-    {
-      "title": "Mica Levi and Lena Esquenazi",
-      "release_date": "2019"
-    },
-    {
-      "title": "Jeff Beal",
-      "release_date": "2019"
-    },
-    {
-      "title": "Godmothered",
-      "release_date": "2020-12-04"
-    },
-    {
-      "title": "Trent Reznor, Atticus Ross and Jon Batiste",
-      "release_date": "2020"
-    },
-    {
-      "title": "Trent Reznor and Atticus Ross",
-      "release_date": "2020"
-    },
-    {
-      "title": "Steven Price",
-      "release_date": "2020"
-    },
-    {
-      "title": "Julia",
-      "release_date": "2021-09-03"
-    },
-    {
-      "title": "Hans Zimmer",
-      "release_date": "2021"
-    },
-    {
-      "title": "Carlos Rafael Rivera",
-      "release_date": "2021"
-    },
-    {
-      "title": "Rachel Portman",
-      "release_date": "2021"
-    },
-    {
-      "title": "Use dmy dates from July",
-      "release_date": "2021"
-    },
-    {
-      "title": "Volker Bertelmann",
-      "release_date": "2022"
-    },
-    {
-      "title": "Cristobal Tapia de Veer",
-      "release_date": "2022"
-    },
-    {
-      "title": "Jessica Jones",
-      "release_date": "2022"
-    },
-    {
-      "title": "Ludwig G\u00f6ransson",
-      "release_date": "2023"
-    },
-    {
-      "title": "Leo Birenberg and Zach Robinson",
-      "release_date": "2023"
-    },
-    {
-      "title": "John Powell",
-      "release_date": "2023"
-    },
-    {
-      "title": "We Were the Lucky Ones",
-      "release_date": "2024"
-    },
-    {
-      "title": "The Return",
-      "release_date": "2024-09-07"
-    },
-    {
-      "title": "Daniel Blumberg",
-      "release_date": "2024"
-    },
-    {
-      "title": "Carlos Rafael Rivera",
-      "release_date": "2024"
-    },
-    {
-      "title": "Ilan Eshkeri",
-      "release_date": "2024"
-    },
-    {
-      "title": "Mick Giacchino",
-      "release_date": "2025"
-    },
-    {
-      "title": "Anne Nikitin",
-      "release_date": "2025"
+        "title": "The Return",
+        "year": 2024,
+        "id": 975511,
+        "poster": "https://image.tmdb.org/t/p/w200/xSj6EbdwHs3MFT2tRj9L3I7TE5j.jpg"
     }
-  ]
-}
+]

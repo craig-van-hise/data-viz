@@ -1,609 +1,1124 @@
-{
-  "composer": "Akira Ifukube",
-  "filmography": [
+[
     {
-      "title": "Snow Trail",
-      "release_date": "1947-08-05"
+        "title": "Snow Trail",
+        "year": 1947,
+        "id": 127112,
+        "poster": "https://image.tmdb.org/t/p/w200/70Pzxhp69KWVlIlfBCB4gSBAKQL.jpg"
     },
     {
-      "title": "K\u00f4fuku eno sh\u00f4tai",
-      "release_date": "1947"
+        "title": "Invitation to Happiness",
+        "year": 1947,
+        "id": 832555,
+        "poster": "https://image.tmdb.org/t/p/w200/7me6cKL3qDjsNIG5ERUzsamSEku.jpg"
     },
     {
-      "title": "Daini no jinsei",
-      "release_date": "1948"
+        "title": "A Woman in the Typhoon Area",
+        "year": 1948,
+        "id": 462216,
+        "poster": "https://image.tmdb.org/t/p/w200/gLQTnoiiys9erGGNkvg3Z26VHuJ.jpg"
     },
     {
-      "title": "Kuro-uma no danshichi",
-      "release_date": "1948"
+        "title": "A Second Life",
+        "year": 1948,
+        "id": 718713,
+        "poster": "https://image.tmdb.org/t/p/w200/oCffafPGmgVMKFz3dKzFg4tbd7b.jpg"
     },
     {
-      "title": "Woman In the Typhoon Belt",
-      "release_date": "1948"
+        "title": "Kuro-uma no danshichi",
+        "year": 1948,
+        "id": 923657,
+        "poster": "https://image.tmdb.org/t/p/w200/61JrmDR2yLx8bznZ2WDXWPKGjUg.jpg"
     },
     {
-      "title": "The President and a Female Clerk",
-      "release_date": "1948"
+        "title": "Shach\u014d to onna tenin",
+        "year": 1948,
+        "id": 1030616,
+        "poster": null
     },
     {
-      "title": "The Quiet Duel",
-      "release_date": "1949-03-13"
+        "title": "Kirare no Senta",
+        "year": 1949,
+        "id": 707377,
+        "poster": "https://image.tmdb.org/t/p/w200/5agKptw4OMeCKJtBL56BE4jh44u.jpg"
     },
     {
-      "title": "Late Night Confession",
-      "release_date": "1949"
+        "title": "The Quiet Duel",
+        "year": 1949,
+        "id": 37513,
+        "poster": "https://image.tmdb.org/t/p/w200/19dqy5MgZDiWLaXEmvz6oOd3M1Y.jpg"
     },
     {
-      "title": "Jakoman and Tetsu",
-      "release_date": "1949"
+        "title": "Late Night Confession",
+        "year": 1949,
+        "id": 399430,
+        "poster": null
     },
     {
-      "title": "Rainbow Man",
-      "release_date": "1949"
+        "title": "The Rainbow Man",
+        "year": 1949,
+        "id": 300143,
+        "poster": "https://image.tmdb.org/t/p/w200/1UnAR0p8jFxq419RGAD4ojpYeVy.jpg"
     },
     {
-      "title": "Detective Hiroshi",
-      "release_date": "1949"
+        "title": "Jakoman and Tetsu",
+        "year": 1949,
+        "id": 799988,
+        "poster": "https://image.tmdb.org/t/p/w200/a1T889OeVjXuNIpL4cMr7xS97Zy.jpg"
     },
     {
-      "title": "City of the Spider",
-      "release_date": "1950"
+        "title": "Devil's Gold",
+        "year": 1950,
+        "id": 707385,
+        "poster": "https://image.tmdb.org/t/p/w200/q24GUXshbkWs2zQsX6pK81xV3lc.jpg"
     },
     {
-      "title": "White Beast",
-      "release_date": "1950"
+        "title": "The Motherland Far Far Away",
+        "year": 1950,
+        "id": 284233,
+        "poster": "https://image.tmdb.org/t/p/w200/mAFTnRX01zTu3PqTbGcI7IHffna.jpg"
     },
     {
-      "title": "Listen to the Student's Memoirs Senbotsu Japan,Voice of Wadatsumi",
-      "release_date": "1950"
+        "title": "Listen to the Voices of the Sea",
+        "year": 1950,
+        "id": 360532,
+        "poster": "https://image.tmdb.org/t/p/w200/kytQN9ZcAzzYO2pvdGVRxfn5FyS.jpg"
     },
     {
-      "title": "Flowers of Seven Colors",
-      "release_date": "1950"
+        "title": "White Beast",
+        "year": 1950,
+        "id": 92956,
+        "poster": "https://image.tmdb.org/t/p/w200/h2jkiN5euKpEfy6OLHStr2IJKtD.jpg"
     },
     {
-      "title": "Beyond Love and Hate",
-      "release_date": "1951"
+        "title": "The Rainbow-Colored Flower",
+        "year": 1950,
+        "id": 398696,
+        "poster": "https://image.tmdb.org/t/p/w200/gMq6wJLZOM82JWuzTHq8EhaKfIo.jpg"
     },
     {
-      "title": "Clothes of Deception",
-      "release_date": "1951"
+        "title": "Senka o koete",
+        "year": 1950,
+        "id": 593546,
+        "poster": null
     },
     {
-      "title": "Free School",
-      "release_date": "1951"
+        "title": "Les Miserables II: Banner of Love and Freedom",
+        "year": 1950,
+        "id": 1026965,
+        "poster": "https://image.tmdb.org/t/p/w200/bqRj0LpFCmCnFUTUz805g2Jvwza.jpg"
     },
     {
-      "title": "The Tale of Genji",
-      "release_date": "1951-11-02"
+        "title": "Les Miserables I: God and the Devil",
+        "year": 1950,
+        "id": 1026960,
+        "poster": "https://image.tmdb.org/t/p/w200/bqRj0LpFCmCnFUTUz805g2Jvwza.jpg"
     },
     {
-      "title": "Children of Hiroshima",
-      "release_date": "1952-08-06"
+        "title": "Crazy Uproar",
+        "year": 1950,
+        "id": 728847,
+        "poster": "https://image.tmdb.org/t/p/w200/7oFZ1Hk3ep9MTh7ova6eOQDlgQf.jpg"
     },
     {
-      "title": "Violence",
-      "release_date": "1952"
+        "title": "Heat and Mud",
+        "year": 1950,
+        "id": 1094856,
+        "poster": "https://image.tmdb.org/t/p/w200/oaDUs2oxDO0RYW588Agk7txdriE.jpg"
     },
     {
-      "title": "Swift Current",
-      "release_date": "1952"
+        "title": "Ore wa y\u014djimb\u014d",
+        "year": 1950,
+        "id": 1282769,
+        "poster": "https://image.tmdb.org/t/p/w200/mSyOhM944wjPSJlIxLQCwgHQDlR.jpg"
     },
     {
-      "title": "Tenryu River",
-      "release_date": "1952"
+        "title": "Judge of the Ashuras",
+        "year": 1951,
+        "id": 927612,
+        "poster": "https://image.tmdb.org/t/p/w200/h7BCGgzsKpntlxg2xQ2V2ORsflO.jpg"
     },
     {
-      "title": "A Thousand Paper Cranes",
-      "release_date": "1953"
+        "title": "Beyond Love and Hate",
+        "year": 1951,
+        "id": 459558,
+        "poster": "https://image.tmdb.org/t/p/w200/hpG9LilPRwY39BhRGlU1H9N4FE2.jpg"
     },
     {
-      "title": "Epitome",
-      "release_date": "1953-04-08"
+        "title": "Freedom School",
+        "year": 1951,
+        "id": 1237849,
+        "poster": "https://image.tmdb.org/t/p/w200/19eGv7y0osnGZhLUDvWujYks6Hg.jpg"
     },
     {
-      "title": "Anatahan",
-      "release_date": "1953-06-28"
+        "title": "The Tale of Genji",
+        "year": 1951,
+        "id": 199493,
+        "poster": "https://image.tmdb.org/t/p/w200/jg2ineZdPsqN0oRtCMdNnDgabCn.jpg"
     },
     {
-      "title": "White Fish",
-      "release_date": "1953"
+        "title": "Clothes of Deception",
+        "year": 1951,
+        "id": 354588,
+        "poster": "https://image.tmdb.org/t/p/w200/hp7kuC4GzrFag52Ad48ozT5JTEY.jpg"
     },
     {
-      "title": "Crab Ship",
-      "release_date": "1953"
+        "title": "Stolen Love",
+        "year": 1951,
+        "id": 915565,
+        "poster": "https://image.tmdb.org/t/p/w200/4z0dTIx4YS3Dqie8GmcI1IuFIpk.jpg"
     },
     {
-      "title": "Hiroshima",
-      "release_date": "1953-10-07"
+        "title": "\u9650\u308a\u306a\u304d\u60c5\u71b1",
+        "year": 1951,
+        "id": 1249698,
+        "poster": "https://image.tmdb.org/t/p/w200/xbNwRWDTnkjZfKTfXlwHQVtrRg1.jpg"
     },
     {
-      "title": "Sakuma Dam Part One",
-      "release_date": "1954"
+        "title": "Who Will Judge Me?",
+        "year": 1951,
+        "id": 707535,
+        "poster": "https://image.tmdb.org/t/p/w200/eVPT3rf0JYBt91bdM89AM9Zl25D.jpg"
     },
     {
-      "title": "Cape Ashizuri",
-      "release_date": "1954"
+        "title": "The Man Without a Nationality",
+        "year": 1951,
+        "id": 915559,
+        "poster": "https://image.tmdb.org/t/p/w200/2NKnvhfCvv4xG7nbDXQrci6TYqX.jpg"
     },
     {
-      "title": "Muddy Youth",
-      "release_date": "1954"
+        "title": "Children of Hiroshima",
+        "year": 1952,
+        "id": 77057,
+        "poster": "https://image.tmdb.org/t/p/w200/od3ZsMNLJvfqqQUCqmbawnmRdno.jpg"
     },
     {
-      "title": "Godzilla",
-      "release_date": "1954-10-27"
+        "title": "Sisters of Nishijin",
+        "year": 1952,
+        "id": 512735,
+        "poster": "https://image.tmdb.org/t/p/w200/zrRZNXNk6DAz1qyPtSQA4JtbA3u.jpg"
     },
     {
-      "title": "Dobu",
-      "release_date": "1954-07-27"
+        "title": "Shi no machi wo nogarete",
+        "year": 1952,
+        "id": 361729,
+        "poster": "https://image.tmdb.org/t/p/w200/7hOMi2jsuLvI4BUJEcvwYjW5P8i.jpg"
     },
     {
-      "title": "Ningen Gyorai Kaiten",
-      "release_date": "1955-01-09"
+        "title": "Swift Current",
+        "year": 1952,
+        "id": 713490,
+        "poster": "https://image.tmdb.org/t/p/w200/zvcPApxXokeCzcFw1xYsQ7TWY0L.jpg"
     },
     {
-      "title": "Women of Ginza",
-      "release_date": "1955"
+        "title": "Violence",
+        "year": 1952,
+        "id": 1353956,
+        "poster": "https://image.tmdb.org/t/p/w200/oHlgO2sbDxEjal4GMhFz78sERIy.jpg"
     },
     {
-      "title": "The Maid's Kid",
-      "release_date": "1955-06-26"
+        "title": "Murahachibu",
+        "year": 1953,
+        "id": 1219991,
+        "poster": "https://image.tmdb.org/t/p/w200/pEUs2kKNmv3TkIO5fCH9LaWF6be.jpg"
     },
     {
-      "title": "Sakuma Dam Part Two:Transformation of the Great Tenryu",
-      "release_date": "1955"
+        "title": "Anatahan",
+        "year": 1953,
+        "id": 104776,
+        "poster": "https://image.tmdb.org/t/p/w200/hfut8CVv8VlTH0DnIE2pI0Zlv7z.jpg"
     },
     {
-      "title": "Three Faces",
-      "release_date": "2018-05-12"
+        "title": "The Cannery Boat",
+        "year": 1953,
+        "id": 393889,
+        "poster": "https://image.tmdb.org/t/p/w200/95TM4saZmGeUuSJnffIZGN8Sgco.jpg"
     },
     {
-      "title": "Kabuki J\u016bhachiban Narukami:Beauty and the Sea Dragon",
-      "release_date": "1955"
+        "title": "Before Dawn",
+        "year": 1953,
+        "id": 360482,
+        "poster": "https://image.tmdb.org/t/p/w200/njvXJYBTW5FT6Rp6IIbnuW6ngLZ.jpg"
     },
     {
-      "title": "Baruuba",
-      "release_date": "1955"
+        "title": "Reminiscence",
+        "year": 1953,
+        "id": 517710,
+        "poster": "https://image.tmdb.org/t/p/w200/7AEvc7guDsysacSn2SxomeUwbqF.jpg"
     },
     {
-      "title": "The Burmese Harp",
-      "release_date": "1956-01-29"
+        "title": "Hiroshima",
+        "year": 1953,
+        "id": 273433,
+        "poster": "https://image.tmdb.org/t/p/w200/cOXoD7BN4R8J8VB4AxcXYcspd4G.jpg"
     },
     {
-      "title": "Wandering Shore",
-      "release_date": "1956"
+        "title": "Miniature",
+        "year": 1953,
+        "id": 298371,
+        "poster": "https://image.tmdb.org/t/p/w200/oBjKBIRQBnuorXgZTTtRYdPae4s.jpg"
     },
     {
-      "title": "Onibi",
-      "release_date": "1997-04-19"
+        "title": "Onna no issho",
+        "year": 1953,
+        "id": 728866,
+        "poster": "https://image.tmdb.org/t/p/w200/xJbIcWUKaO8LOYoLQiyNaamyRMv.jpg"
     },
     {
-      "title": "Sound of the Fog",
-      "release_date": "1956"
+        "title": "White Fish",
+        "year": 1953,
+        "id": 916349,
+        "poster": "https://image.tmdb.org/t/p/w200/wJ7vqKoOmWYIbR0BddjauUj6jYU.jpg"
     },
     {
-      "title": "The Good Natured Couple",
-      "release_date": "1956"
+        "title": "Aij\u00f4 ni tsuite",
+        "year": 1953,
+        "id": 877386,
+        "poster": "https://image.tmdb.org/t/p/w200/qU6gV1LqX8M9i5zvRm1fzi4K275.jpg"
     },
     {
-      "title": "Godzilla, King of the Monsters!",
-      "release_date": "1956-04-04"
+        "title": "Yokubo",
+        "year": 1953,
+        "id": 728862,
+        "poster": "https://image.tmdb.org/t/p/w200/2xYYbV3Vpla7dwzfyQR6PFfbUPz.jpg"
     },
     {
-      "title": "Rodan",
-      "release_date": "1956-12-26"
+        "title": "\u751f\u308c\u304b\u308f\u308b\u5ba2\u8eca",
+        "year": 1953,
+        "id": 1236664,
+        "poster": null
     },
     {
-      "title": "Osaka Story",
-      "release_date": "1999-03-27"
+        "title": "Godzilla",
+        "year": 1954,
+        "id": 1678,
+        "poster": "https://image.tmdb.org/t/p/w200/2W0Yw0qrgVMgdsSCZRKtfvaAh0i.jpg"
     },
     {
-      "title": "Advancing Vitamin B1",
-      "release_date": "1957"
+        "title": "Cape Ashizuri",
+        "year": 1954,
+        "id": 360484,
+        "poster": "https://image.tmdb.org/t/p/w200/iQzq7laJnRzosBDQki4gqA0xtU2.jpg"
     },
     {
-      "title": "Yagyu Secret Scrolls",
-      "release_date": "1957-04-14"
+        "title": "Ditch",
+        "year": 1954,
+        "id": 257471,
+        "poster": "https://image.tmdb.org/t/p/w200/av2R8BAULE5YLVCXKX8LYdWzhbq.jpg"
     },
     {
-      "title": "Sakuma Dam Part Three",
-      "release_date": "1957"
+        "title": "A Samurai's Love",
+        "year": 1954,
+        "id": 299439,
+        "poster": null
     },
     {
-      "title": "Hateful Things",
-      "release_date": "1957"
+        "title": "Wakai hito-tachi",
+        "year": 1954,
+        "id": 1417717,
+        "poster": "https://image.tmdb.org/t/p/w200/dI2er5LRWbbiTTdATUoGtnnFhsK.jpg"
     },
     {
-      "title": "Who Committed Murder",
-      "release_date": "1957"
+        "title": "Turbid Youth",
+        "year": 1954,
+        "id": 882072,
+        "poster": "https://image.tmdb.org/t/p/w200/2wStuh5dQZTbvIX723fkevkIpax.jpg"
     },
     {
-      "title": "The Final Escape",
-      "release_date": "1957"
+        "title": "Jinsei Gekijo Yokubo hen: sanshu kirako",
+        "year": 1954,
+        "id": 708317,
+        "poster": "https://image.tmdb.org/t/p/w200/9Yp0eG39aQyy0tDSGP1nIrDUWpY.jpg"
     },
     {
-      "title": "Bastards of the Sea",
-      "release_date": "1957"
+        "title": "Sakuma Damu",
+        "year": 1954,
+        "id": 1632884,
+        "poster": "https://image.tmdb.org/t/p/w200/1HPfopfEiuNtZrW6gOX54qDkqMg.jpg"
     },
     {
-      "title": "Downtown",
-      "release_date": "1990-01-12"
+        "title": "Brooba",
+        "year": 1955,
+        "id": 572436,
+        "poster": "https://image.tmdb.org/t/p/w200/tyKXvgwgVS068FPlB3Kt9gOAM6e.jpg"
     },
     {
-      "title": "The Ground",
-      "release_date": "1957"
+        "title": "Typhoon's Eye",
+        "year": 1955,
+        "id": 1232396,
+        "poster": null
     },
     {
-      "title": "The Mysterians",
-      "release_date": "1957-12-28"
+        "title": "Life of Geisha",
+        "year": 1955,
+        "id": 400022,
+        "poster": null
     },
     {
-      "title": "Yagyu Secret Scrolls: Ninjitsu",
-      "release_date": "1958"
+        "title": "The Wolves",
+        "year": 1955,
+        "id": 257187,
+        "poster": "https://image.tmdb.org/t/p/w200/1bkExG4OEk5t72QsX33iwO5Bagd.jpg"
     },
     {
-      "title": "Sorrow Is Only for Women",
-      "release_date": "1958-02-26"
+        "title": "The Maid's Kid",
+        "year": 1955,
+        "id": 360460,
+        "poster": "https://image.tmdb.org/t/p/w200/eZq5n6cFoXcpByU7rrZSiQAOANs.jpg"
     },
     {
-      "title": "A Bridge for Us Alone",
-      "release_date": "1958"
+        "title": "Policeman's Diary, Part 2",
+        "year": 1955,
+        "id": 776126,
+        "poster": "https://image.tmdb.org/t/p/w200/4FpZ3pEkVaPVJW06XIlCoDHlnNQ.jpg"
     },
     {
-      "title": "Ice Wall",
-      "release_date": "1958"
+        "title": "The Beauty and the Dragon",
+        "year": 1955,
+        "id": 830446,
+        "poster": "https://image.tmdb.org/t/p/w200/l1qYR0qz94rdNGrL2yf30dl9PW0.jpg"
     },
     {
-      "title": "Varan the Unbelievable",
-      "release_date": "1958-10-14"
+        "title": "Three Faces",
+        "year": 1955,
+        "id": 882090,
+        "poster": "https://image.tmdb.org/t/p/w200/ycWQJjOxR21R9kplDnZbYVdkzbD.jpg"
     },
     {
-      "title": "Boss of the Underworld",
-      "release_date": "1959"
+        "title": "Women of Ginza",
+        "year": 1955,
+        "id": 876629,
+        "poster": "https://image.tmdb.org/t/p/w200/4TuK32RGee16P9MQF3Z4jxQsWRR.jpg"
     },
     {
-      "title": "Whistling in the Kotan",
-      "release_date": "1959"
+        "title": "The Road to the Spring",
+        "year": 1955,
+        "id": 1535597,
+        "poster": "https://image.tmdb.org/t/p/w200/qsMnJeE1slrlmi9NHXtFuCZ4uPA.jpg"
     },
     {
-      "title": "Woman and the Pirates",
-      "release_date": "1959"
+        "title": "The Burmese Harp",
+        "year": 1956,
+        "id": 33319,
+        "poster": "https://image.tmdb.org/t/p/w200/zTKpylld64pjRYgRMK9GN6Jo2bA.jpg"
     },
     {
-      "title": "Tear Down Those Walls",
-      "release_date": "1959"
+        "title": "Darkness at Noon",
+        "year": 1956,
+        "id": 262480,
+        "poster": "https://image.tmdb.org/t/p/w200/vi7V0fPIzp02LcIoqOxN0Xlwka4.jpg"
     },
     {
-      "title": "The Three Treasures",
-      "release_date": "1959-11-01"
+        "title": "Rodan",
+        "year": 1956,
+        "id": 19742,
+        "poster": "https://image.tmdb.org/t/p/w200/tcSSYYFsRrQCvy2HskkwpY29NnB.jpg"
     },
     {
-      "title": "Battle in Outer Space",
-      "release_date": "1959-12-26"
+        "title": "Love is Lost",
+        "year": 1956,
+        "id": 559046,
+        "poster": "https://image.tmdb.org/t/p/w200/azStX0s47LbEZJhSpSOl1xJHgvb.jpg"
     },
     {
-      "title": "Baluchaung Project",
-      "release_date": "1960"
+        "title": "Actress",
+        "year": 1956,
+        "id": 695161,
+        "poster": "https://image.tmdb.org/t/p/w200/pF179H4qIYg3THCSiJnk8SCPsc5.jpg"
     },
     {
-      "title": "Shinran",
-      "release_date": "1960"
+        "title": "Sound in the Mist",
+        "year": 1956,
+        "id": 741414,
+        "poster": "https://image.tmdb.org/t/p/w200/scn6ybr27K65FuyptKIL0VYtXkJ.jpg"
     },
     {
-      "title": "Shinran Continued",
-      "release_date": "1960"
+        "title": "Will-o'-the-Wisp",
+        "year": 1956,
+        "id": 1256565,
+        "poster": "https://image.tmdb.org/t/p/w200/2yuk6wq5XUGUzMdoZF2LQTtAPfE.jpg"
     },
     {
-      "title": "Castle of Flames",
-      "release_date": "1960"
+        "title": "Ry\u00fbri no kishi",
+        "year": 1956,
+        "id": 895919,
+        "poster": "https://image.tmdb.org/t/p/w200/hxK93G3MDbE1xbLEWLv76FvVoSr.jpg"
     },
     {
-      "title": "The Story of Osaka Castle",
-      "release_date": "1961-01-03"
+        "title": "Godzilla, King of the Monsters!",
+        "year": 1956,
+        "id": 18983,
+        "poster": "https://image.tmdb.org/t/p/w200/19RDmhX6LtzMxv0KXXAU1IBIvvA.jpg"
     },
     {
-      "title": "Musashi Miyamoto",
-      "release_date": "1954-09-26"
+        "title": "Rainy Night Duel",
+        "year": 1956,
+        "id": 800218,
+        "poster": "https://image.tmdb.org/t/p/w200/oEwqKt7mCGd6hvWR3ZahASFBRyi.jpg"
     },
     {
-      "title": "Challenge in the Snow",
-      "release_date": "1961"
+        "title": "Seishun no oto",
+        "year": 1956,
+        "id": 1636800,
+        "poster": "https://image.tmdb.org/t/p/w200/7dm6Tk49JpgqWpf4p2FUJpuuSjq.jpg"
     },
     {
-      "title": "Buddha",
-      "release_date": "1961"
+        "title": "Kojinbutu no fufu",
+        "year": 1956,
+        "id": 1555205,
+        "poster": "https://image.tmdb.org/t/p/w200/qBiNkz4SkgVZyksAd5VgyGerF0o.jpg"
     },
     {
-      "title": "Hangyakuji",
-      "release_date": "1961"
+        "title": "The Mysterians",
+        "year": 1957,
+        "id": 43226,
+        "poster": "https://image.tmdb.org/t/p/w200/eILFc9gTP1Yxj9oI4hXEBRGnt1w.jpg"
     },
     {
-      "title": "Different Sons",
-      "release_date": "1961"
+        "title": "Harbor Rats",
+        "year": 1957,
+        "id": 432385,
+        "poster": "https://image.tmdb.org/t/p/w200/e4zuQGHW9CpmW2TZogF467mzXDm.jpg"
     },
     {
-      "title": "The Tale of Zatoichi",
-      "release_date": "1962-04-12"
+        "title": "Down Town",
+        "year": 1957,
+        "id": 625072,
+        "poster": "https://image.tmdb.org/t/p/w200/rRoWVfyrUkIh2j3AQ619BZTZGQV.jpg"
     },
     {
-      "title": "The Whale God",
-      "release_date": "1962-07-15"
+        "title": "An Osaka Story",
+        "year": 1957,
+        "id": 262624,
+        "poster": "https://image.tmdb.org/t/p/w200/3tYe8HtvmnaaFv3JiB2byJh7oTv.jpg"
     },
     {
-      "title": "King Kong vs. Godzilla",
-      "release_date": "1962-08-11"
+        "title": "On This Earth",
+        "year": 1957,
+        "id": 461125,
+        "poster": "https://image.tmdb.org/t/p/w200/oqgh6prFmpXNZn1cMkjWORCPS7j.jpg"
     },
     {
-      "title": "The Great Wall",
-      "release_date": "2016-12-06"
+        "title": "Roar and Earth",
+        "year": 1957,
+        "id": 830440,
+        "poster": "https://image.tmdb.org/t/p/w200/ukfPrXUyIcRliFA1r9RBWIcr1II.jpg"
     },
     {
-      "title": "Ch\u016bshingura: Hana no Maki, Yuki no Maki",
-      "release_date": "1962-11-03"
+        "title": "Who's the Real Killer",
+        "year": 1957,
+        "id": 434466,
+        "poster": "https://image.tmdb.org/t/p/w200/7iWMA01arjUHYKmvhw7XJlUoUsC.jpg"
     },
     {
-      "title": "The New Tale of Zatoichi",
-      "release_date": "1963-03-15"
+        "title": "Jigoku bana",
+        "year": 1957,
+        "id": 530308,
+        "poster": "https://image.tmdb.org/t/p/w200/5H4uSrgkxO0txfrT1pjCUHLEZdP.jpg"
     },
     {
-      "title": "The Little Prince and the Eight-Headed Dragon",
-      "release_date": "1963-03-24"
+        "title": "Yagyu Secret Scrolls",
+        "year": 1957,
+        "id": 112579,
+        "poster": "https://image.tmdb.org/t/p/w200/puaCaXOejdqsmW3LYavFybIvVR6.jpg"
     },
     {
-      "title": "13 Assassins",
-      "release_date": "1963"
+        "title": "Godzilla, the Monster of the Pacific Ocean",
+        "year": 1957,
+        "id": 699718,
+        "poster": "https://image.tmdb.org/t/p/w200/4gIId0vOPih7Vq4CtZxGOVWhDKS.jpg"
     },
     {
-      "title": "Zatoichi the Fugitive",
-      "release_date": "1963-08-10"
+        "title": "Rodan! The Flying Monster",
+        "year": 1957,
+        "id": 1439182,
+        "poster": "https://image.tmdb.org/t/p/w200/6dAXHzazdMJ6z6kpPJhkrY9iEvx.jpg"
     },
     {
-      "title": "Yoso",
-      "release_date": "1963"
+        "title": "Hateful Things",
+        "year": 1957,
+        "id": 1554570,
+        "poster": "https://image.tmdb.org/t/p/w200/q8gni7JjBmNI0cqXmfuvUNYaJj0.jpg"
     },
     {
-      "title": "Zatoichi on the Road",
-      "release_date": "1963-11-30"
+        "title": "Varan",
+        "year": 1958,
+        "id": 438604,
+        "poster": "https://image.tmdb.org/t/p/w200/rPy9rvqp0I5ZUBuZ5yiRTjYn5tU.jpg"
     },
     {
-      "title": "Atragon",
-      "release_date": "1963-12-22"
+        "title": "Beyond the Seasonal Wind",
+        "year": 1958,
+        "id": 497625,
+        "poster": "https://image.tmdb.org/t/p/w200/ahq5SAS4DdTMP6JG0bF7YTv3rgf.jpg"
     },
     {
-      "title": "Teikoku Bank Incident:Prisoner of Death Row",
-      "release_date": "1964"
+        "title": "A Bridge for Two Alone",
+        "year": 1958,
+        "id": 623799,
+        "poster": "https://image.tmdb.org/t/p/w200/9h9UrwlUKv5hOqkzW6MxGSri0NG.jpg"
     },
     {
-      "title": "Mothra vs. Godzilla",
-      "release_date": "1964-04-29"
+        "title": "The Precipice",
+        "year": 1958,
+        "id": 224156,
+        "poster": "https://image.tmdb.org/t/p/w200/33o7ZE56xplEVltoZarNMcOWVnM.jpg"
     },
     {
-      "title": "Dogora",
-      "release_date": "1964-08-11"
+        "title": "Yagyu Secret Scrolls: Ninjitsu - Part II",
+        "year": 1958,
+        "id": 158054,
+        "poster": "https://image.tmdb.org/t/p/w200/A3A6urMVjlSbg89iNAxRKEFk3yy.jpg"
     },
     {
-      "title": "Fight, Zatoichi, Fight",
-      "release_date": "1964-10-17"
+        "title": "Sorrow Is Only for Women",
+        "year": 1958,
+        "id": 726816,
+        "poster": "https://image.tmdb.org/t/p/w200/la6ZDsocDUWiLc64oaGE6Pnt8MJ.jpg"
     },
     {
-      "title": "The Last Woman of Shang",
-      "release_date": "1964"
+        "title": "Night Drum",
+        "year": 1958,
+        "id": 171488,
+        "poster": "https://image.tmdb.org/t/p/w200/uSQkL1H0smo48Abavg6t7hW7Qvi.jpg"
     },
     {
-      "title": "The Woman Running on the Shore",
-      "release_date": "1964"
+        "title": "Break Down that Wall",
+        "year": 1959,
+        "id": 188686,
+        "poster": "https://image.tmdb.org/t/p/w200/zep4ot6eLc6lLhUhHeAG9GTkrQO.jpg"
     },
     {
-      "title": "Suruga yukyoden",
-      "release_date": "1964"
+        "title": "Battle in Outer Space",
+        "year": 1959,
+        "id": 62472,
+        "poster": "https://image.tmdb.org/t/p/w200/dKAqyu8aiYlnmAHzOzJt69B6m20.jpg"
     },
     {
-      "title": "Ghidorah, the Three-Headed Monster",
-      "release_date": "1964-12-20"
+        "title": "Samurai Saga",
+        "year": 1959,
+        "id": 186624,
+        "poster": "https://image.tmdb.org/t/p/w200/uhVUiICaEOp1B1MlM31tkXd9ldr.jpg"
     },
     {
-      "title": "Whirlwind",
-      "release_date": "1964"
+        "title": "The Big Boss",
+        "year": 1959,
+        "id": 182859,
+        "poster": "https://image.tmdb.org/t/p/w200/aw78lCjFMGDJS1V5TF4POAatUYj.jpg"
     },
     {
-      "title": "Tokugawa Ieyasu",
-      "release_date": "1965"
+        "title": "A Whistle in My Heart",
+        "year": 1959,
+        "id": 233596,
+        "poster": "https://image.tmdb.org/t/p/w200/o8PSfynS1BxMZqzvejw29aYzASp.jpg"
     },
     {
-      "title": "Zatoichi's Revenge",
-      "release_date": "1965-04-03"
+        "title": "The Three Treasures",
+        "year": 1959,
+        "id": 224119,
+        "poster": "https://image.tmdb.org/t/p/w200/qJMKNuVPayFisBeyu7AHlZDngAg.jpg"
     },
     {
-      "title": "Japanese Archipelago",
-      "release_date": "1965"
+        "title": "A Killed Stewardess: White or Black",
+        "year": 1959,
+        "id": 1354391,
+        "poster": "https://image.tmdb.org/t/p/w200/5yBhvqnuT6AHZuKBqzQJz8M8pWK.jpg"
     },
     {
-      "title": "Frankenstein vs. Baragon",
-      "release_date": "1965-08-08"
+        "title": "The Woman and the Pirate",
+        "year": 1959,
+        "id": 1196824,
+        "poster": "https://image.tmdb.org/t/p/w200/zc6312xus4W2mbZbVUEvP3fvx2W.jpg"
     },
     {
-      "title": "Invasion of Astro-Monster",
-      "release_date": "1965-12-19"
+        "title": "Castle of Flames",
+        "year": 1960,
+        "id": 279815,
+        "poster": "https://image.tmdb.org/t/p/w200/5darvexADbirmIL9xudkAAuoA2C.jpg"
     },
     {
-      "title": "Zatoichi and the Chess Expert",
-      "release_date": "1965-12-24"
+        "title": "Scars of Honor",
+        "year": 1960,
+        "id": 535737,
+        "poster": "https://image.tmdb.org/t/p/w200/qCpht7A7GnOjvTxfqOdTEiVIurQ.jpg"
     },
     {
-      "title": "Daimajin",
-      "release_date": "1966-04-17"
+        "title": "Lord Tadanao",
+        "year": 1960,
+        "id": 763858,
+        "poster": "https://image.tmdb.org/t/p/w200/sqZwOzwMx4jtMnihjd0ZIgg8A0k.jpg"
     },
     {
-      "title": "Adventure in Kigan Castle",
-      "release_date": "1966"
+        "title": "Shinran, Part II",
+        "year": 1960,
+        "id": 1240967,
+        "poster": "https://image.tmdb.org/t/p/w200/1jPaXRKaD3fJSIfr4DMgr8Za37c.jpg"
     },
     {
-      "title": "Zatoichi's Vengeance",
-      "release_date": "1966-05-03"
+        "title": "Shinran",
+        "year": 1960,
+        "id": 1113898,
+        "poster": "https://image.tmdb.org/t/p/w200/5PrllpiHICBEMdVO1nKT26cSgwU.jpg"
     },
     {
-      "title": "The War of the Gargantuas",
-      "release_date": "1966-07-31"
+        "title": "Buddha",
+        "year": 1961,
+        "id": 329747,
+        "poster": "https://image.tmdb.org/t/p/w200/8UE6KsVrX0KMjYAOVUxb8eveaVM.jpg"
     },
     {
-      "title": "Return of Daimajin",
-      "release_date": "1966"
+        "title": "The Conspirator",
+        "year": 1961,
+        "id": 284230,
+        "poster": "https://image.tmdb.org/t/p/w200/ntbtXdqxdg7WbeHwlb1N8nAQIgp.jpg"
     },
     {
-      "title": "Thirteen Thousand Suspects",
-      "release_date": "1966"
+        "title": "Miyamoto Musashi",
+        "year": 1961,
+        "id": 154764,
+        "poster": "https://image.tmdb.org/t/p/w200/jwBtKTX2nuQe5Crx7d4JNGXkqME.jpg"
     },
     {
-      "title": "Daimajin Strikes Again",
-      "release_date": "1966"
+        "title": "Daredevil in the Castle",
+        "year": 1961,
+        "id": 229339,
+        "poster": "https://image.tmdb.org/t/p/w200/c7XJnormqBGVTNDRmjrNITQbD2V.jpg"
     },
     {
-      "title": "King Kong Escapes",
-      "release_date": "1967-07-22"
+        "title": "Different Sons",
+        "year": 1961,
+        "id": 1152026,
+        "poster": "https://image.tmdb.org/t/p/w200/tw4iJgy3W2QuOAOufIT9MV0OUJk.jpg"
     },
     {
-      "title": "Eleven Samurai",
-      "release_date": "1967-12-16"
+        "title": "King Kong vs. Godzilla",
+        "year": 1962,
+        "id": 1680,
+        "poster": "https://image.tmdb.org/t/p/w200/hXUiDE1CgRJlcXMVZC1g5wFAdn6.jpg"
     },
     {
-      "title": "Zatoichi Challenged",
-      "release_date": "1967-12-30"
+        "title": "The Tale of Zatoichi",
+        "year": 1962,
+        "id": 16692,
+        "poster": "https://image.tmdb.org/t/p/w200/ohFJMGouR4rwH32QOM9zk4TC000.jpg"
     },
     {
-      "title": "The Snow Woman",
-      "release_date": "1968-04-20"
+        "title": "The Great Wall",
+        "year": 1962,
+        "id": 68906,
+        "poster": "https://image.tmdb.org/t/p/w200/cturYwUo3tsv5AfLtv5Ir5bmbEv.jpg"
     },
     {
-      "title": "Destroy All Monsters",
-      "release_date": "1968-08-01"
+        "title": "Ch\u00fbshingura",
+        "year": 1962,
+        "id": 44662,
+        "poster": "https://image.tmdb.org/t/p/w200/Ac9n6tJOhfLz9SYaoMKkMJaoLQd.jpg"
     },
     {
-      "title": "Young Challengers",
-      "release_date": "1968"
+        "title": "The Whale God",
+        "year": 1962,
+        "id": 377026,
+        "poster": "https://image.tmdb.org/t/p/w200/ns17c4bRTWN6LWO1XLFeQ1QPBye.jpg"
     },
     {
-      "title": "Dawn of the Skyscraper",
-      "release_date": "1969"
+        "title": "A Carpenter and Children",
+        "year": 1962,
+        "id": 378104,
+        "poster": "https://image.tmdb.org/t/p/w200/yd3yTZSSGuR8iLrI3lYoVgH0WSv.jpg"
     },
     {
-      "title": "The Devil's Temple",
-      "release_date": "1969"
+        "title": "The King",
+        "year": 1962,
+        "id": 895977,
+        "poster": "https://image.tmdb.org/t/p/w200/3rIVghjvOOmI6h3fEq17PLIfjUC.jpg"
     },
     {
-      "title": "Latitude Zero",
-      "release_date": "1969-07-26"
+        "title": "Her Hidden Past",
+        "year": 1962,
+        "id": 571686,
+        "poster": "https://image.tmdb.org/t/p/w200/adEmEdGL16JZYJlrgo4QH9IHYU5.jpg"
     },
     {
-      "title": "Zatoichi Meets Yojimbo",
-      "release_date": "1970-01-15"
+        "title": "The Little Prince and the Eight-Headed Dragon",
+        "year": 1963,
+        "id": 84480,
+        "poster": "https://image.tmdb.org/t/p/w200/hx68nhniEwkLpeaeyS5TOsKwlM1.jpg"
     },
     {
-      "title": "Space Amoeba",
-      "release_date": "1970-08-01"
+        "title": "New Tale of Zatoichi",
+        "year": 1963,
+        "id": 18510,
+        "poster": "https://image.tmdb.org/t/p/w200/tP8r41Raxj0JjaUGMJ6P09DNWSH.jpg"
     },
     {
-      "title": "Will to Conquer",
-      "release_date": "1970"
+        "title": "Zatoichi the Fugitive",
+        "year": 1963,
+        "id": 18511,
+        "poster": "https://image.tmdb.org/t/p/w200/giR1dC7hRfpps1M2TSGs1eR1F1Z.jpg"
     },
     {
-      "title": "Godzilla vs. Gigan",
-      "release_date": "1972-03-12"
+        "title": "Zatoichi on the Road",
+        "year": 1963,
+        "id": 18624,
+        "poster": "https://image.tmdb.org/t/p/w200/vF5RtmhcD1mdgYIAf9CJuCt6AN8.jpg"
     },
     {
-      "title": "Zatoichi's Conspiracy",
-      "release_date": "1973"
+        "title": "13 Assassins",
+        "year": 1963,
+        "id": 52011,
+        "poster": "https://image.tmdb.org/t/p/w200/vXidHcawgIXstU4EcDcgHm5s1YG.jpg"
     },
     {
-      "title": "The Human Revolution",
-      "release_date": "1973"
+        "title": "A Samurai Never Tells a Lie",
+        "year": 1963,
+        "id": 563853,
+        "poster": "https://image.tmdb.org/t/p/w200/l00bvorXYBwuG1JUKZHC70wlQxu.jpg"
     },
     {
-      "title": "The Last Samurai",
-      "release_date": "2003-11-20"
+        "title": "Bronze Magician",
+        "year": 1963,
+        "id": 238389,
+        "poster": "https://image.tmdb.org/t/p/w200/l3hOGRaq3b5jHYkMSqFyk92OwR8.jpg"
     },
     {
-      "title": "Sandakan No. 8",
-      "release_date": "1974-11-02"
+        "title": "Atragon",
+        "year": 1963,
+        "id": 35072,
+        "poster": "https://image.tmdb.org/t/p/w200/u5fD2mfsovtW1Pn2Umtl2G3280w.jpg"
     },
     {
-      "title": "Terror of Mechagodzilla",
-      "release_date": "1975-03-15"
+        "title": "Tragedy of the Coolie Samurai",
+        "year": 1963,
+        "id": 489898,
+        "poster": "https://image.tmdb.org/t/p/w200/9E4Ywnob4SRlxZVx5zP9wVmxvhq.jpg"
     },
     {
-      "title": "The Door Has Opened",
-      "release_date": "1975"
+        "title": "Mothra vs. Godzilla",
+        "year": 1964,
+        "id": 1682,
+        "poster": "https://image.tmdb.org/t/p/w200/y49vvM03gpuyhpyMc1f55VrNkP3.jpg"
     },
     {
-      "title": "The Great Elm",
-      "release_date": "1976"
+        "title": "Ghidorah, the Three-Headed Monster",
+        "year": 1964,
+        "id": 15766,
+        "poster": "https://image.tmdb.org/t/p/w200/qkI5nhvxx3233gQmoQvv0W3MB7A.jpg"
     },
     {
-      "title": "The Sea, the Wings and Tomorrow",
-      "release_date": "1977"
+        "title": "Whirlwind",
+        "year": 1964,
+        "id": 223829,
+        "poster": "https://image.tmdb.org/t/p/w200/1FRCIYwOUUtYiZ3YLF8qCfygfEk.jpg"
     },
     {
-      "title": "Ogin-sama",
-      "release_date": "1978"
+        "title": "Dogora",
+        "year": 1964,
+        "id": 62560,
+        "poster": "https://image.tmdb.org/t/p/w200/oLCbrX4tE9evZSRtkmZNYUlJDcS.jpg"
     },
     {
-      "title": "Dozoku no ranjo",
-      "release_date": "1991"
+        "title": "Fight, Zatoichi, Fight",
+        "year": 1964,
+        "id": 54266,
+        "poster": "https://image.tmdb.org/t/p/w200/8BecqM4fFbHrz994VYgwqUtD5xm.jpg"
     },
     {
-      "title": "Godzilla vs. King Ghidorah",
-      "release_date": "1991-12-14"
+        "title": "Shinobi no Mono 4: Siege",
+        "year": 1964,
+        "id": 159403,
+        "poster": "https://image.tmdb.org/t/p/w200/oyCCcR83sHofIOhVVuWgPSQhOIL.jpg"
     },
     {
-      "title": "Godzilla vs. Mothra",
-      "release_date": "1992-12-12"
+        "title": "The Long Death",
+        "year": 1964,
+        "id": 397980,
+        "poster": "https://image.tmdb.org/t/p/w200/4HbhkrQg2wqHrNY5seXaZtrJn2t.jpg"
     },
     {
-      "title": "Godzilla vs. Mechagodzilla II",
-      "release_date": "1993-12-11"
+        "title": "Kojiki taish\u014d",
+        "year": 1964,
+        "id": 1028358,
+        "poster": "https://image.tmdb.org/t/p/w200/fdviNgc1slM36YIotXgcb4QiZjW.jpg"
     },
     {
-      "title": "Kushiro Marshland",
-      "release_date": "1993"
+        "title": "The Life of a Chivalrous Man in Suruga: Broken Swords",
+        "year": 1964,
+        "id": 892439,
+        "poster": "https://image.tmdb.org/t/p/w200/hHoxrwdnjMtC0OtZ8siJAL3usyh.jpg"
     },
     {
-      "title": "Godzilla vs. Spacegodzilla",
-      "release_date": "1994-12-10"
+        "title": "Frankenstein Conquers the World",
+        "year": 1965,
+        "id": 3160,
+        "poster": "https://image.tmdb.org/t/p/w200/wXzG32nsY6i8mMslXGrsHMOZla9.jpg"
     },
     {
-      "title": "Godzilla vs. Destoroyah",
-      "release_date": "1995-12-09"
+        "title": "Invasion of Astro-Monster",
+        "year": 1965,
+        "id": 19545,
+        "poster": "https://image.tmdb.org/t/p/w200/70gwaushxXcpGRvadHtLD0YLHC1.jpg"
     },
     {
-      "title": "Godzilla 2000",
-      "release_date": "1999-11-06"
+        "title": "Lord Tokugawa Ieyasu",
+        "year": 1965,
+        "id": 385690,
+        "poster": "https://image.tmdb.org/t/p/w200/hb31KmsAf02ohCZy79DZQD5LyVq.jpg"
     },
     {
-      "title": "Godzilla vs. Megaguirus",
-      "release_date": "2000-11-03"
+        "title": "Zatoichi and the Chess Expert",
+        "year": 1965,
+        "id": 54275,
+        "poster": "https://image.tmdb.org/t/p/w200/holeUhFVatGhZmtVzWCNFTVvduZ.jpg"
     },
     {
-      "title": "Godzilla, Mothra and King Ghidorah:Giant Monsters All-Out Attack",
-      "release_date": "2001"
+        "title": "Zatoichi's Revenge",
+        "year": 1965,
+        "id": 54273,
+        "poster": "https://image.tmdb.org/t/p/w200/94LUhdkHPMjCfaqQuPrwGzmKUAK.jpg"
     },
     {
-      "title": "Godzilla: Final Wars",
-      "release_date": "2004-11-29"
+        "title": "A Chain of Islands",
+        "year": 1965,
+        "id": 262907,
+        "poster": "https://image.tmdb.org/t/p/w200/h9Gh7u55mCgargQ5M6WquAtAKYV.jpg"
     },
     {
-      "title": "Tetsujin 28-g\u00f4: Hakuch\u00fb no zangetsu",
-      "release_date": "2007"
+        "title": "Life of Matsu the Untamed",
+        "year": 1965,
+        "id": 1260553,
+        "poster": "https://image.tmdb.org/t/p/w200/22Hccg260K6zAZB5pdPoLMxu7LS.jpg"
     },
     {
-      "title": "Shin Godzilla",
-      "release_date": "2016-07-25"
+        "title": "The War of the Gargantuas",
+        "year": 1966,
+        "id": 3146,
+        "poster": "https://image.tmdb.org/t/p/w200/q8EH0y601mhYJmchoTRoo92Q0FS.jpg"
     },
     {
-      "title": "Godzilla King of the Monsters",
-      "release_date": "2019-05-13"
+        "title": "Daimajin",
+        "year": 1966,
+        "id": 28719,
+        "poster": "https://image.tmdb.org/t/p/w200/1SFtiK4m6qkLaVKbAHX5QuDDbkn.jpg"
     },
     {
-      "title": "Godzilla Minus One",
-      "release_date": "2023-10-18"
+        "title": "Wrath of Daimajin",
+        "year": 1966,
+        "id": 28856,
+        "poster": "https://image.tmdb.org/t/p/w200/6GR0G6B1YozsdhzJ2GCDnHyjrhr.jpg"
+    },
+    {
+        "title": "Return of Giant Majin",
+        "year": 1966,
+        "id": 28857,
+        "poster": "https://image.tmdb.org/t/p/w200/x2roQy33sv5Bv203RxJnoVEcN1e.jpg"
+    },
+    {
+        "title": "Adventure in Kigan Castle",
+        "year": 1966,
+        "id": 84854,
+        "poster": "https://image.tmdb.org/t/p/w200/70ylOR5LzocNln1iS4N5y9MpZ9T.jpg"
+    },
+    {
+        "title": "Zatoichi's Vengeance",
+        "year": 1966,
+        "id": 21410,
+        "poster": "https://image.tmdb.org/t/p/w200/9OkByHoDn8dqGUXfQlgEMSaEJaA.jpg"
+    },
+    {
+        "title": "A Thousand Suspects",
+        "year": 1966,
+        "id": 518845,
+        "poster": "https://image.tmdb.org/t/p/w200/qZeIugc87USvRPTG7lG0oJPiBDn.jpg"
+    },
+    {
+        "title": "Sleepy Eyes of Death 7: The Mask of the Princess",
+        "year": 1966,
+        "id": 128715,
+        "poster": "https://image.tmdb.org/t/p/w200/5jeEGE2wCRXTRIJkCRGtWZ5Nk9y.jpg"
+    },
+    {
+        "title": "Sleepy Eyes of Death 8: Sword of Villainy",
+        "year": 1966,
+        "id": 128708,
+        "poster": "https://image.tmdb.org/t/p/w200/ezqWQL0UWHzT6ME1Tbrrx3kPWIN.jpg"
+    },
+    {
+        "title": "The Betrayal",
+        "year": 1966,
+        "id": 26576,
+        "poster": "https://image.tmdb.org/t/p/w200/bjQvHorgUojpksy2DLtfMe7QQjn.jpg"
+    },
+    {
+        "title": "Eleven Samurai",
+        "year": 1967,
+        "id": 60099,
+        "poster": "https://image.tmdb.org/t/p/w200/vNCoJ9aL2AzloNWD6NoZcmoKWze.jpg"
+    },
+    {
+        "title": "King Kong Escapes",
+        "year": 1967,
+        "id": 39276,
+        "poster": "https://image.tmdb.org/t/p/w200/1Z2fL5ycdVGs83i4iPdliDZVeVM.jpg"
+    },
+    {
+        "title": "Zatoichi Challenged",
+        "year": 1967,
+        "id": 54279,
+        "poster": "https://image.tmdb.org/t/p/w200/b2XFVEQDXVzO1lUOfBPQot5XIck.jpg"
+    },
+    {
+        "title": "Destroy All Monsters",
+        "year": 1968,
+        "id": 3107,
+        "poster": "https://image.tmdb.org/t/p/w200/24r1hsRisfUidwLF67J0iMuWh7p.jpg"
+    },
+    {
+        "title": "The Snow Woman",
+        "year": 1968,
+        "id": 57875,
+        "poster": "https://image.tmdb.org/t/p/w200/4vFYCaNLBvHiZ210HuP4spnWWeB.jpg"
+    },
+    {
+        "title": "Young Challengers",
+        "year": 1968,
+        "id": 619041,
+        "poster": "https://image.tmdb.org/t/p/w200/fPwPhkFFQsb5h2ZG4MXGZY72tyy.jpg"
+    },
+    {
+        "title": "Kawachi f\u016bten zoku",
+        "year": 1968,
+        "id": 1329534,
+        "poster": "https://image.tmdb.org/t/p/w200/9vyZd7ZyXESUNqYm2Xxmdbp7D5U.jpg"
+    },
+    {
+        "title": "Latitude Zero",
+        "year": 1969,
+        "id": 49186,
+        "poster": "https://image.tmdb.org/t/p/w200/58fofE7vR7eYt8E1DQOa12gzccg.jpg"
+    },
+    {
+        "title": "Devil's Temple",
+        "year": 1969,
+        "id": 161261,
+        "poster": "https://image.tmdb.org/t/p/w200/pixu7rKqRs2IJ4874XEGAERB2EQ.jpg"
+    },
+    {
+        "title": "Zatoichi Meets Yojimbo",
+        "year": 1970,
+        "id": 42601,
+        "poster": "https://image.tmdb.org/t/p/w200/faY48OfU3M32JXWUNz8doaG3Cd4.jpg"
+    },
+    {
+        "title": "Space Amoeba",
+        "year": 1970,
+        "id": 38221,
+        "poster": "https://image.tmdb.org/t/p/w200/4vktVrt9H9R1yXUBKRRi6QWRA7r.jpg"
+    },
+    {
+        "title": "Will to Conquer",
+        "year": 1970,
+        "id": 363865,
+        "poster": "https://image.tmdb.org/t/p/w200/jA57iQUUpAV6GkuDdVFWpVVFYnR.jpg"
+    },
+    {
+        "title": "Wolfman vs. Baragon",
+        "year": 1972,
+        "id": 848372,
+        "poster": "https://image.tmdb.org/t/p/w200/4mzkpN7x6gChXtfwVpnoL0sIUAV.jpg"
+    },
+    {
+        "title": "The Human Revolution",
+        "year": 1973,
+        "id": 663998,
+        "poster": "https://image.tmdb.org/t/p/w200/ycEAFXqGsGgGYUIAkuf0YUfv8kf.jpg"
+    },
+    {
+        "title": "Zatoichi's Conspiracy",
+        "year": 1973,
+        "id": 54307,
+        "poster": "https://image.tmdb.org/t/p/w200/kJxvpauRjOfHUjQCJIPeQ360J7r.jpg"
+    },
+    {
+        "title": "Sandakan No. 8",
+        "year": 1974,
+        "id": 12470,
+        "poster": "https://image.tmdb.org/t/p/w200/x4ikER3SEpDBjPEyYhsxNVEtaUA.jpg"
+    },
+    {
+        "title": "The Last Samurai",
+        "year": 1974,
+        "id": 70385,
+        "poster": "https://image.tmdb.org/t/p/w200/e9tLV3xXLyt3VDmeatq9zJVARkf.jpg"
+    },
+    {
+        "title": "Terror of Mechagodzilla",
+        "year": 1975,
+        "id": 19333,
+        "poster": "https://image.tmdb.org/t/p/w200/kHBJNwdxTJ4ub01bWg6WFpS3WF2.jpg"
+    },
+    {
+        "title": "Love and Faith",
+        "year": 1978,
+        "id": 262905,
+        "poster": "https://image.tmdb.org/t/p/w200/o4PmreMDVlijeEjPhmu5ogH1PnV.jpg"
+    },
+    {
+        "title": "Sayonara Jupiter",
+        "year": 1984,
+        "id": 249415,
+        "poster": "https://image.tmdb.org/t/p/w200/jNTE4AKvs3OGGkWQjRQ6Xex552J.jpg"
+    },
+    {
+        "title": "Godzilla Fantasia",
+        "year": 1984,
+        "id": 433701,
+        "poster": "https://image.tmdb.org/t/p/w200/1AEP29J95pcD9nAoOxJbUeulbf8.jpg"
+    },
+    {
+        "title": "Toho Unused Special Effects Complete Collection",
+        "year": 1986,
+        "id": 680223,
+        "poster": "https://image.tmdb.org/t/p/w200/qpQRy86RH4ScrvTu7ZnKZriNPl4.jpg"
+    },
+    {
+        "title": "Godzilla vs. King Ghidorah",
+        "year": 1991,
+        "id": 36679,
+        "poster": "https://image.tmdb.org/t/p/w200/laCPiLcM3yq2I32mE9XNCftRhA.jpg"
+    },
+    {
+        "title": "Dozoku no ranjo",
+        "year": 1991,
+        "id": 926279,
+        "poster": "https://image.tmdb.org/t/p/w200/zSQ2z8olplg3M5MoNpZJcp7uSPS.jpg"
+    },
+    {
+        "title": "Godzilla vs. Mothra",
+        "year": 1992,
+        "id": 39465,
+        "poster": "https://image.tmdb.org/t/p/w200/oqhO8Vg8DOTnuen1rmL4BdS2su2.jpg"
+    },
+    {
+        "title": "Godzilla vs. Mechagodzilla II",
+        "year": 1993,
+        "id": 6593,
+        "poster": "https://image.tmdb.org/t/p/w200/ezZnnAit1N1Nj9sewMFQ1xy33YQ.jpg"
+    },
+    {
+        "title": "Godzilla vs. Destoroyah",
+        "year": 1995,
+        "id": 12561,
+        "poster": "https://image.tmdb.org/t/p/w200/csebMf1IWokaWOughl5s3uX8p44.jpg"
+    },
+    {
+        "title": "Tetsujin 28: Morning Moon of Midday",
+        "year": 2007,
+        "id": 90782,
+        "poster": "https://image.tmdb.org/t/p/w200/shZGiM4TQziUsSh0N4SruBAJT4N.jpg"
+    },
+    {
+        "title": "Godzilla Minus One",
+        "year": 2023,
+        "id": 940721,
+        "poster": "https://image.tmdb.org/t/p/w200/2E2WTX0TJEflAged6kzErwqX1kt.jpg"
     }
-  ]
-}
+]

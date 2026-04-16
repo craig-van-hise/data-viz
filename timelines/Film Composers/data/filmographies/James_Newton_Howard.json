@@ -1,837 +1,884 @@
-{
-  "composer": "James Newton Howard",
-  "filmography": [
+[
     {
-      "title": "Goodnight Vienna",
-      "release_date": "1932-03-28"
+        "title": "Dune",
+        "year": 1984,
+        "id": 841,
+        "poster": "https://image.tmdb.org/t/p/w200/4kJmUCE7mkVJjXa7A0g2rY4IGTm.jpg"
     },
     {
-      "title": "Rock 'n' Roll Survivors",
-      "release_date": "1974"
+        "title": "Head Office",
+        "year": 1985,
+        "id": 41625,
+        "poster": "https://image.tmdb.org/t/p/w200/u7MSmYbkLvkt2jdTAsb10N82kwZ.jpg"
     },
     {
-      "title": "James Newton Howard",
-      "release_date": "1974"
+        "title": "Tough Guys",
+        "year": 1986,
+        "id": 11038,
+        "poster": "https://image.tmdb.org/t/p/w200/eDp0MPUSCeXrIziaZC65iUHISLs.jpg"
     },
     {
-      "title": "Playing Possum",
-      "release_date": "1975"
+        "title": "8 Million Ways to Die",
+        "year": 1986,
+        "id": 20858,
+        "poster": "https://image.tmdb.org/t/p/w200/anxyPdDX3I0vtSwL68qQmpLqp05.jpg"
     },
     {
-      "title": "He Don't Like You, Like I Love You",
-      "release_date": "1975"
+        "title": "Wildcats",
+        "year": 1986,
+        "id": 29355,
+        "poster": "https://image.tmdb.org/t/p/w200/5uQc18I6Mfsg6plBb0VjDrzSZEa.jpg"
     },
     {
-      "title": "Melissa",
-      "release_date": "1975"
+        "title": "Nobody's Fool",
+        "year": 1986,
+        "id": 65326,
+        "poster": "https://image.tmdb.org/t/p/w200/4yAmG0mAjn7bZ3L9s1DrzN8oiIy.jpg"
     },
     {
-      "title": "It's in Everyone of Us",
-      "release_date": "1975"
+        "title": "Five Corners",
+        "year": 1987,
+        "id": 71881,
+        "poster": "https://image.tmdb.org/t/p/w200/sjCavnds8Yfk57fG5GGtBhnNjrt.jpg"
     },
     {
-      "title": "Rock of the Westies",
-      "release_date": "1975"
+        "title": "Campus Man",
+        "year": 1987,
+        "id": 73265,
+        "poster": "https://image.tmdb.org/t/p/w200/cb5QF2UKeP6z6oEp0c0nIwl36sw.jpg"
     },
     {
-      "title": "...That's the Way It Is",
-      "release_date": "1976"
+        "title": "Russkies",
+        "year": 1987,
+        "id": 27738,
+        "poster": "https://image.tmdb.org/t/p/w200/A7utYbyrvaKKIbGTH3tsPeSZA20.jpg"
     },
     {
-      "title": "Blue Moves",
-      "release_date": "1976"
+        "title": "Off Limits",
+        "year": 1988,
+        "id": 38617,
+        "poster": "https://image.tmdb.org/t/p/w200/1c3ueMtlIdu0u5bjEaXLPj2sScG.jpg"
     },
     {
-      "title": "The Faragher Brothers",
-      "release_date": "1976"
+        "title": "Some Girls",
+        "year": 1988,
+        "id": 31083,
+        "poster": "https://image.tmdb.org/t/p/w200/iZz3RKDstcniOSyo0yFr2DP9liB.jpg"
     },
     {
-      "title": "Help Is on the Way",
-      "release_date": "1976"
+        "title": "Everybody's All-American",
+        "year": 1988,
+        "id": 34053,
+        "poster": "https://image.tmdb.org/t/p/w200/kU8DdARin8VwV0j3G27mFEEitCy.jpg"
     },
     {
-      "title": "The Movies",
-      "release_date": "1925-10-04"
+        "title": "Promised Land",
+        "year": 1988,
+        "id": 62327,
+        "poster": "https://image.tmdb.org/t/p/w200/gP5lHwLdK73EDrKDbFp44wrNikO.jpg"
     },
     {
-      "title": "Endless Flight",
-      "release_date": "1976"
+        "title": "Major League",
+        "year": 1989,
+        "id": 9942,
+        "poster": "https://image.tmdb.org/t/p/w200/ypUedY9zX4nGGf1lQv1UGc8PhPA.jpg"
     },
     {
-      "title": "Better Days & Happy Endings",
-      "release_date": "1976"
+        "title": "The Package",
+        "year": 1989,
+        "id": 31606,
+        "poster": "https://image.tmdb.org/t/p/w200/pInBodZ7xrX8JL7KPL4G9kM5gRW.jpg"
     },
     {
-      "title": "Beautiful Noise",
-      "release_date": "2014-05-31"
+        "title": "Tap",
+        "year": 1989,
+        "id": 16560,
+        "poster": "https://image.tmdb.org/t/p/w200/cjy45SaOAzcyReyl4pr6jWss6uS.jpg"
     },
     {
-      "title": "Something New",
-      "release_date": "2006-02-03"
+        "title": "Pretty Woman",
+        "year": 1990,
+        "id": 114,
+        "poster": "https://image.tmdb.org/t/p/w200/hVHUfT801LQATGd26VPzhorIYza.jpg"
     },
     {
-      "title": "Kiki Dee",
-      "release_date": "1977"
+        "title": "Marked for Death",
+        "year": 1990,
+        "id": 10173,
+        "poster": "https://image.tmdb.org/t/p/w200/xYaetJsSm5FC1zxhdW8UR1NVXzc.jpg"
     },
     {
-      "title": "Wild Child",
-      "release_date": "2008-08-15"
+        "title": "3 Men and a Little Lady",
+        "year": 1990,
+        "id": 11630,
+        "poster": "https://image.tmdb.org/t/p/w200/4VWWEnhX0zddRKwZWGtIdDcV5U7.jpg"
     },
     {
-      "title": "Black Rose",
-      "release_date": "1980"
+        "title": "Descending Angel",
+        "year": 1990,
+        "id": 167252,
+        "poster": "https://image.tmdb.org/t/p/w200/3mD8NkRnLEDmS4jZSK5VD5uqNHf.jpg"
     },
     {
-      "title": "Toto IV",
-      "release_date": "1982"
+        "title": "Flatliners",
+        "year": 1990,
+        "id": 1551,
+        "poster": "https://image.tmdb.org/t/p/w200/wda3j7p7YHXKpFIlSzoTCtP7myF.jpg"
     },
     {
-      "title": "James Newton Howard and Friends",
-      "release_date": "1983"
+        "title": "Coupe de Ville",
+        "year": 1990,
+        "id": 39062,
+        "poster": "https://image.tmdb.org/t/p/w200/gji7RKz0CuSwjDYQQdZwuzOi25e.jpg"
     },
     {
-      "title": "In Your Eyes",
-      "release_date": "1983"
+        "title": "Revealing Evidence: Stalking the Honolulu Strangler",
+        "year": 1990,
+        "id": 376898,
+        "poster": "https://image.tmdb.org/t/p/w200/cY6wjxf1dk4nYRuEUkqa1iUO4Ee.jpg"
     },
     {
-      "title": "Allies",
-      "release_date": "2014-11-03"
+        "title": "The Prince of Tides",
+        "year": 1991,
+        "id": 10333,
+        "poster": "https://image.tmdb.org/t/p/w200/1AyeW3YlwfhRwLDeUCW686obceb.jpg"
     },
     {
-      "title": "What A Feelin'",
-      "release_date": "1983"
+        "title": "My Girl",
+        "year": 1991,
+        "id": 4032,
+        "poster": "https://image.tmdb.org/t/p/w200/qyJJNHteA7BUwQSey05t7qP4vRV.jpg"
     },
     {
-      "title": "Stompin' at the Savoy",
-      "release_date": "1983"
+        "title": "King Ralph",
+        "year": 1991,
+        "id": 10804,
+        "poster": "https://image.tmdb.org/t/p/w200/fRHq4KerVgNRLaDwwuYpCAHIQJX.jpg"
     },
     {
-      "title": "I Feel for You",
-      "release_date": "1984"
+        "title": "Dying Young",
+        "year": 1991,
+        "id": 9079,
+        "poster": "https://image.tmdb.org/t/p/w200/nLVV8TETjCxWQmIip6t3HO1znVJ.jpg"
     },
     {
-      "title": "20/20",
-      "release_date": "1984"
+        "title": "Grand Canyon",
+        "year": 1991,
+        "id": 13697,
+        "poster": "https://image.tmdb.org/t/p/w200/gpqLukoUXAXkyMZ0jPSuAbWf5Nx.jpg"
     },
     {
-      "title": "Emotion",
-      "release_date": "1984"
+        "title": "The Man in the Moon",
+        "year": 1991,
+        "id": 17474,
+        "poster": "https://image.tmdb.org/t/p/w200/57r0TXlqV5GIn4h0Htgh81OZou9.jpg"
     },
     {
-      "title": "Solid",
-      "release_date": "1984"
+        "title": "Guilty by Suspicion",
+        "year": 1991,
+        "id": 22423,
+        "poster": "https://image.tmdb.org/t/p/w200/fUpxydE70PNWr7Tu5WpefNnTv2i.jpg"
     },
     {
-      "title": "1100 Bel Air Place",
-      "release_date": "1984"
+        "title": "A Private Matter",
+        "year": 1992,
+        "id": 142751,
+        "poster": "https://image.tmdb.org/t/p/w200/yGhkMgUGPhR6DAoo1m8bHLetn1O.jpg"
     },
     {
-      "title": "Isolation",
-      "release_date": "1984"
+        "title": "Glengarry Glen Ross",
+        "year": 1992,
+        "id": 9504,
+        "poster": "https://image.tmdb.org/t/p/w200/zcaEDx8KlVfh4vKfMNLhiSi5Oz4.jpg"
     },
     {
-      "title": "Dune",
-      "release_date": "1984-12-03"
+        "title": "Diggstown",
+        "year": 1992,
+        "id": 19143,
+        "poster": "https://image.tmdb.org/t/p/w200/rJ0VsONJzyctlYX8W2rL8TQ4wD9.jpg"
     },
     {
-      "title": "Eaten Alive",
-      "release_date": "1976-10-18"
+        "title": "American Heart",
+        "year": 1992,
+        "id": 7015,
+        "poster": "https://image.tmdb.org/t/p/w200/3QdqCjeC9AExknVdV4hRSXomIwc.jpg"
     },
     {
-      "title": "Anywhere You Go",
-      "release_date": "1985"
+        "title": "Night and the City",
+        "year": 1992,
+        "id": 36288,
+        "poster": "https://image.tmdb.org/t/p/w200/tyImRcDzTdwIhRReKla6CFpXnPX.jpg"
     },
     {
-      "title": "The Magazine",
-      "release_date": "1985"
+        "title": "The Fugitive",
+        "year": 1993,
+        "id": 5503,
+        "poster": "https://image.tmdb.org/t/p/w200/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg"
     },
     {
-      "title": "Perspective",
-      "release_date": "1985"
+        "title": "Alive",
+        "year": 1993,
+        "id": 7305,
+        "poster": "https://image.tmdb.org/t/p/w200/uQACcCZqd7WCTRin9xRIW5gr1bd.jpg"
     },
     {
-      "title": "Behind the Sun",
-      "release_date": "2001-09-06"
+        "title": "Dave",
+        "year": 1993,
+        "id": 11566,
+        "poster": "https://image.tmdb.org/t/p/w200/wIUuf1NFchdCJe833JBTiSMzqfv.jpg"
     },
     {
-      "title": "Head Office",
-      "release_date": "1985-12-29"
+        "title": "Alive: 20 Years Later",
+        "year": 1993,
+        "id": 458401,
+        "poster": "https://image.tmdb.org/t/p/w200/jsrg1efNHgVSfSsHWRxANsMHyTf.jpg"
     },
     {
-      "title": "East of Midnight",
-      "release_date": "1986"
+        "title": "The Saint of Fort Washington",
+        "year": 1993,
+        "id": 56583,
+        "poster": "https://image.tmdb.org/t/p/w200/e8ie1x22wFEo63LQBbpBDqIH4oY.jpg"
     },
     {
-      "title": "Abstract Emotions",
-      "release_date": "1986"
+        "title": "Falling Down",
+        "year": 1993,
+        "id": 37094,
+        "poster": "https://image.tmdb.org/t/p/w200/7ujqyF96Zg3rfrsh9M0cEF0Yzqj.jpg"
     },
     {
-      "title": "Wildcats",
-      "release_date": "1986-02-14"
+        "title": "Junior",
+        "year": 1994,
+        "id": 6280,
+        "poster": "https://image.tmdb.org/t/p/w200/swxxtzYc60qqnFhfWMFdmx9QXvY.jpg"
     },
     {
-      "title": "8 Million Ways to Die",
-      "release_date": "1986-04-25"
+        "title": "Wyatt Earp",
+        "year": 1994,
+        "id": 12160,
+        "poster": "https://image.tmdb.org/t/p/w200/51LItgyecu2KMAtIchYogEykCIu.jpg"
     },
     {
-      "title": "Tough Guys",
-      "release_date": "1986-10-03"
+        "title": "Intersection",
+        "year": 1994,
+        "id": 46717,
+        "poster": "https://image.tmdb.org/t/p/w200/xRMbpD2WRxpVcU6Vvws32GkMxin.jpg"
     },
     {
-      "title": "Nobody's Fool",
-      "release_date": "1986-11-07"
+        "title": "French Kiss",
+        "year": 1995,
+        "id": 397,
+        "poster": "https://image.tmdb.org/t/p/w200/q5hXdMfxSwhuOmWmkTJmm5qVijc.jpg"
     },
     {
-      "title": "Flash In Japan",
-      "release_date": "1987"
+        "title": "Outbreak",
+        "year": 1995,
+        "id": 6950,
+        "poster": "https://image.tmdb.org/t/p/w200/4KymNvlWR0XF0sqX2BWRd9Z3yXR.jpg"
     },
     {
-      "title": "Collaboration",
-      "release_date": "1987"
+        "title": "Waterworld",
+        "year": 1995,
+        "id": 9804,
+        "poster": "https://image.tmdb.org/t/p/w200/X4UyUO5jgzs3c5YafnmYKLKKYw.jpg"
     },
     {
-      "title": "Campus Man",
-      "release_date": "1987-04-10"
+        "title": "Just Cause",
+        "year": 1995,
+        "id": 9061,
+        "poster": "https://image.tmdb.org/t/p/w200/hbkS4UpgHcGhLlGy9YCX4WIJ4lu.jpg"
     },
     {
-      "title": "Five Corners",
-      "release_date": "1987-09-11"
+        "title": "Restoration",
+        "year": 1995,
+        "id": 35196,
+        "poster": "https://image.tmdb.org/t/p/w200/z1YM3WFZnF2NwHT5IRGYUcvZBSl.jpg"
     },
     {
-      "title": "Russkies",
-      "release_date": "1987-11-06"
+        "title": "Primal Fear",
+        "year": 1996,
+        "id": 1592,
+        "poster": "https://image.tmdb.org/t/p/w200/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg"
     },
     {
-      "title": "Promised Land",
-      "release_date": "1987"
+        "title": "Space Jam",
+        "year": 1996,
+        "id": 2300,
+        "poster": "https://image.tmdb.org/t/p/w200/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg"
     },
     {
-      "title": "The Seventh One",
-      "release_date": "1988"
+        "title": "One Fine Day",
+        "year": 1996,
+        "id": 7300,
+        "poster": "https://image.tmdb.org/t/p/w200/5NiRRR7JDNHOr21JNoGRxPWh9vb.jpg"
     },
     {
-      "title": "The Rumour",
-      "release_date": "1988"
+        "title": "The Juror",
+        "year": 1996,
+        "id": 9623,
+        "poster": "https://image.tmdb.org/t/p/w200/31mRYhJvaknQx8PQnR2UV7YCkLT.jpg"
     },
     {
-      "title": "Land of Dreams",
-      "release_date": "1988-02-08"
+        "title": "The Trigger Effect",
+        "year": 1996,
+        "id": 58770,
+        "poster": "https://image.tmdb.org/t/p/w200/9LZLXVwhhmkdye4JXoLP06fm5G2.jpg"
     },
     {
-      "title": "Soul Searchin'",
-      "release_date": "1988"
+        "title": "Eye for an Eye",
+        "year": 1996,
+        "id": 17182,
+        "poster": "https://image.tmdb.org/t/p/w200/y2lZSdJ1o0VvLegTw3ad6KFtxra.jpg"
     },
     {
-      "title": "Off Limits",
-      "release_date": "1988-03-11"
+        "title": "Fathers' Day",
+        "year": 1997,
+        "id": 12499,
+        "poster": "https://image.tmdb.org/t/p/w200/834wRxQRbbctFupf8AES7CCeTSM.jpg"
     },
     {
-      "title": "Some Girls",
-      "release_date": "1988-09-09"
+        "title": "My Best Friend's Wedding",
+        "year": 1997,
+        "id": 8874,
+        "poster": "https://image.tmdb.org/t/p/w200/b5g4bp8gS5ovMyR5439AII6zQ3n.jpg"
     },
     {
-      "title": "Everybody's All-American",
-      "release_date": "1988"
+        "title": "The Postman",
+        "year": 1997,
+        "id": 9922,
+        "poster": "https://image.tmdb.org/t/p/w200/piVzOuKFLHNGLxnjwNtibC26lTy.jpg"
     },
     {
-      "title": "Somebody Loves You",
-      "release_date": "1989"
+        "title": "The Devil's Advocate",
+        "year": 1997,
+        "id": 1813,
+        "poster": "https://image.tmdb.org/t/p/w200/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg"
     },
     {
-      "title": "Vonda Shepard",
-      "release_date": "1989"
+        "title": "Dante's Peak",
+        "year": 1997,
+        "id": 9619,
+        "poster": "https://image.tmdb.org/t/p/w200/8PRVIfZzDgw8EV3sDWJ6NA1ZMAn.jpg"
     },
     {
-      "title": "Larger than Life",
-      "release_date": "1989"
+        "title": "A Perfect Murder",
+        "year": 1998,
+        "id": 1965,
+        "poster": "https://image.tmdb.org/t/p/w200/wC0ax12N9GQ8vMXPEs4nES5AAiB.jpg"
     },
     {
-      "title": "Can't Escape the Rhythm",
-      "release_date": "1989"
+        "title": "The Sixth Sense",
+        "year": 1999,
+        "id": 745,
+        "poster": "https://image.tmdb.org/t/p/w200/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg"
     },
     {
-      "title": "Tap",
-      "release_date": "1989-02-10"
+        "title": "Runaway Bride",
+        "year": 1999,
+        "id": 4806,
+        "poster": "https://image.tmdb.org/t/p/w200/wzivR0yWJStVdhcl0A5rQvVdTQ7.jpg"
     },
     {
-      "title": "Major League",
-      "release_date": "1989-04-07"
+        "title": "Stir of Echoes",
+        "year": 1999,
+        "id": 11601,
+        "poster": "https://image.tmdb.org/t/p/w200/9CyJ5aYF27cITX1WSUTENeP4wBE.jpg"
     },
     {
-      "title": "The Package",
-      "release_date": "1989-08-25"
+        "title": "Snow Falling on Cedars",
+        "year": 1999,
+        "id": 10219,
+        "poster": "https://image.tmdb.org/t/p/w200/h1CujbeKvwkR6LMr4jVuMM0C94X.jpg"
     },
     {
-      "title": "To Be Continued...",
-      "release_date": "1990"
+        "title": "Mumford",
+        "year": 1999,
+        "id": 24071,
+        "poster": "https://image.tmdb.org/t/p/w200/a2uqenG3BZICDrcrr49IZwoHA8Y.jpg"
     },
     {
-      "title": "Simple Mission",
-      "release_date": "1990"
+        "title": "Wayward Son",
+        "year": 1999,
+        "id": 476931,
+        "poster": "https://image.tmdb.org/t/p/w200/xQd0kx3aG0GtV6TuCi0s6LAOa2W.jpg"
     },
     {
-      "title": "Coupe de Ville",
-      "release_date": "1990-03-09"
+        "title": "Dinosaur",
+        "year": 2000,
+        "id": 10567,
+        "poster": "https://image.tmdb.org/t/p/w200/rSje3FS7ycJSglowlngjsvDt7vO.jpg"
     },
     {
-      "title": "Pretty Woman",
-      "release_date": "1990-03-23"
+        "title": "Unbreakable",
+        "year": 2000,
+        "id": 9741,
+        "poster": "https://image.tmdb.org/t/p/w200/mLuehrGLiK5zFCyRmDDOH6gbfPf.jpg"
     },
     {
-      "title": "Flatliners",
-      "release_date": "1990-08-10"
+        "title": "Vertical Limit",
+        "year": 2000,
+        "id": 11678,
+        "poster": "https://image.tmdb.org/t/p/w200/kpqQUEi8eAyYHMDFACf6YlnPIu7.jpg"
     },
     {
-      "title": "Marked for Death",
-      "release_date": "1990-10-05"
+        "title": "America's Sweethearts",
+        "year": 2001,
+        "id": 11467,
+        "poster": "https://image.tmdb.org/t/p/w200/4TQOYs8rCWi44O1tNbIQiRqHQkA.jpg"
     },
     {
-      "title": "Three Men and a Little Lady",
-      "release_date": "1990"
+        "title": "Atlantis: The Lost Empire",
+        "year": 2001,
+        "id": 10865,
+        "poster": "https://image.tmdb.org/t/p/w200/rdCyK9hgoA2vYrLtVFpDc3KWBaC.jpg"
     },
     {
-      "title": "It's Your Life",
-      "release_date": "1991"
+        "title": "Signs",
+        "year": 2002,
+        "id": 2675,
+        "poster": "https://image.tmdb.org/t/p/w200/YtrIdrTxpRhvCnlw43dwOjfLqx.jpg"
     },
     {
-      "title": "The Fire Inside",
-      "release_date": "2024-09-07"
+        "title": "Treasure Planet",
+        "year": 2002,
+        "id": 9016,
+        "poster": "https://image.tmdb.org/t/p/w200/kNhZkR3UNbXfvESQo7mJpOi4tGd.jpg"
     },
     {
-      "title": "King Ralph",
-      "release_date": "1991-02-15"
+        "title": "Unconditional Love",
+        "year": 2002,
+        "id": 37922,
+        "poster": "https://image.tmdb.org/t/p/w200/hhSnhxf4OjYeyyvxFPPPpeae7LU.jpg"
     },
     {
-      "title": "Guilty by Suspicion",
-      "release_date": "1991-03-15"
+        "title": "Big Trouble",
+        "year": 2002,
+        "id": 2185,
+        "poster": "https://image.tmdb.org/t/p/w200/h844gBztdYMLrroUen6qbsomrGx.jpg"
     },
     {
-      "title": "Dying Young",
-      "release_date": "1991-06-21"
+        "title": "Amongst the Shoes",
+        "year": 2002,
+        "id": 336482,
+        "poster": "https://image.tmdb.org/t/p/w200/3eH4MQ0I9HNL16ILfRoT8Fqpd8I.jpg"
     },
     {
-      "title": "The Man in the Moon",
-      "release_date": "1991-10-04"
+        "title": "The Emperor's Club",
+        "year": 2002,
+        "id": 17187,
+        "poster": "https://image.tmdb.org/t/p/w200/s7BRKAq0DNcXe8Bphm6Wd5KnvlF.jpg"
     },
     {
-      "title": "My Girl",
-      "release_date": "1991-11-27"
+        "title": "Dreamcatcher",
+        "year": 2003,
+        "id": 6171,
+        "poster": "https://image.tmdb.org/t/p/w200/lLhvwLNU4pLgvaNREVFaQ4n3lCf.jpg"
     },
     {
-      "title": "Grand Canyon",
-      "release_date": "1991-12-25"
+        "title": "Peter Pan",
+        "year": 2003,
+        "id": 10601,
+        "poster": "https://image.tmdb.org/t/p/w200/6QdU3TZZrIvXFzoHOwafZAynFjB.jpg"
     },
     {
-      "title": "The Prince of Tides",
-      "release_date": "1991-12-25"
+        "title": "Hidalgo",
+        "year": 2004,
+        "id": 2023,
+        "poster": "https://image.tmdb.org/t/p/w200/iGzENlBPYJEFWZnye4t3nqWSSp1.jpg"
     },
     {
-      "title": "Start the Car",
-      "release_date": "1992"
+        "title": "The Village",
+        "year": 2004,
+        "id": 6947,
+        "poster": "https://image.tmdb.org/t/p/w200/v7UvYtKfIVaHLaHwVgfalyrK7Ho.jpg"
     },
     {
-      "title": "The Radical Light",
-      "release_date": "1992"
+        "title": "Collateral",
+        "year": 2004,
+        "id": 1538,
+        "poster": "https://image.tmdb.org/t/p/w200/nV5316WUsVij8sVXLCF1g7TFitg.jpg"
     },
     {
-      "title": "Diggstown",
-      "release_date": "1992-08-14"
+        "title": "The Interpreter",
+        "year": 2005,
+        "id": 179,
+        "poster": "https://image.tmdb.org/t/p/w200/wTidq3J9fh8sEOAlD8WZFHVLSuB.jpg"
     },
     {
-      "title": "Glengarry Glen Ross",
-      "release_date": "1992-10-02"
+        "title": "King Kong",
+        "year": 2005,
+        "id": 254,
+        "poster": "https://image.tmdb.org/t/p/w200/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg"
     },
     {
-      "title": "American Heart",
-      "release_date": "1992-09-17"
+        "title": "Batman Begins",
+        "year": 2005,
+        "id": 272,
+        "poster": "https://image.tmdb.org/t/p/w200/sPX89Td70IDDjVr85jdSBb4rWGr.jpg"
     },
     {
-      "title": "Night and the City",
-      "release_date": "1992-10-16"
+        "title": "Magnificent Desolation: Walking on the Moon",
+        "year": 2005,
+        "id": 30172,
+        "poster": "https://image.tmdb.org/t/p/w200/r37asMhJd2iX030bxFl4l66c6za.jpg"
     },
     {
-      "title": "Alive",
-      "release_date": "1993-01-15"
+        "title": "Blood Diamond",
+        "year": 2006,
+        "id": 1372,
+        "poster": "https://image.tmdb.org/t/p/w200/bqKNoySmI4eOjsSjJEnLj4j2HAp.jpg"
     },
     {
-      "title": "Falling Down",
-      "release_date": "1993-02-26"
+        "title": "Lady in the Water",
+        "year": 2006,
+        "id": 9697,
+        "poster": "https://image.tmdb.org/t/p/w200/ddNmoSy1Jd3PBF5XDZvrrBIfrja.jpg"
     },
     {
-      "title": "Dave",
-      "release_date": "1993-05-07"
+        "title": "Freedomland",
+        "year": 2006,
+        "id": 9959,
+        "poster": "https://image.tmdb.org/t/p/w200/fM9MYcI7BHJ2YqEtcr8JKPE8nDB.jpg"
     },
     {
-      "title": "The Fugitive",
-      "release_date": "1993-07-29"
+        "title": "RV",
+        "year": 2006,
+        "id": 9530,
+        "poster": "https://image.tmdb.org/t/p/w200/eqV0JjfwcEJuK3JPZ2rsNvS1p30.jpg"
     },
     {
-      "title": "The Saint of Fort Washington",
-      "release_date": "1993-09-13"
+        "title": "Michael Clayton",
+        "year": 2007,
+        "id": 4566,
+        "poster": "https://image.tmdb.org/t/p/w200/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg"
     },
     {
-      "title": "Look What Love Has Done",
-      "release_date": "1994"
+        "title": "Charlie Wilson's War",
+        "year": 2007,
+        "id": 6538,
+        "poster": "https://image.tmdb.org/t/p/w200/45FghqcdSYRWK7PsHUInaFPNd8l.jpg"
     },
     {
-      "title": "Intersection",
-      "release_date": "1994-01-21"
+        "title": "The Lookout",
+        "year": 2007,
+        "id": 8270,
+        "poster": "https://image.tmdb.org/t/p/w200/wTYyXCoIBy2TDxetoGS4Sc0VBP1.jpg"
     },
     {
-      "title": "Wyatt Earp",
-      "release_date": "1994-06-24"
+        "title": "The Water Horse",
+        "year": 2007,
+        "id": 54318,
+        "poster": "https://image.tmdb.org/t/p/w200/h9DV6KItNutJmrPzT1xrAO6fIzy.jpg"
     },
     {
-      "title": "Junior",
-      "release_date": "1994-11-23"
+        "title": "The Great Debaters",
+        "year": 2007,
+        "id": 14047,
+        "poster": "https://image.tmdb.org/t/p/w200/pikfybjZNMh5MYsrmgWtyxkstmi.jpg"
     },
     {
-      "title": "One Clear Voice",
-      "release_date": "1995"
+        "title": "I Am Legend",
+        "year": 2007,
+        "id": 6479,
+        "poster": "https://image.tmdb.org/t/p/w200/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg"
     },
     {
-      "title": "A Spanner in the Works",
-      "release_date": "1995"
+        "title": "The Dark Knight",
+        "year": 2008,
+        "id": 155,
+        "poster": "https://image.tmdb.org/t/p/w200/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
     },
     {
-      "title": "Feel The Healing",
-      "release_date": "1995"
+        "title": "Mad Money",
+        "year": 2008,
+        "id": 12085,
+        "poster": "https://image.tmdb.org/t/p/w200/z6b6rQ1ZFEkM4tSt84yPtdAioCO.jpg"
     },
     {
-      "title": "Just Cause",
-      "release_date": "1995"
+        "title": "The Happening",
+        "year": 2008,
+        "id": 8645,
+        "poster": "https://image.tmdb.org/t/p/w200/fP4nBrtmc0teSDDHzYmDE7TLQBT.jpg"
     },
     {
-      "title": "Outbreak",
-      "release_date": "1995-03-10"
+        "title": "Youssou Ndour: I Bring What I Love",
+        "year": 2008,
+        "id": 131442,
+        "poster": "https://image.tmdb.org/t/p/w200/7ZaBoNgqqtRvWtuGcFzkpvkVCG6.jpg"
     },
     {
-      "title": "French Kiss",
-      "release_date": "1995-05-05"
+        "title": "Defiance",
+        "year": 2008,
+        "id": 13813,
+        "poster": "https://image.tmdb.org/t/p/w200/z6yNHcQOveRuAohuejdDFQDEBSs.jpg"
     },
     {
-      "title": "Waterworld",
-      "release_date": "1995-07-28"
+        "title": "Duplicity",
+        "year": 2009,
+        "id": 16558,
+        "poster": "https://image.tmdb.org/t/p/w200/vpWQs3CjwG6Er3DgZlv4L3NFjXg.jpg"
     },
     {
-      "title": "Restoration",
-      "release_date": "1995-12-29"
+        "title": "Confessions of a Shopaholic",
+        "year": 2009,
+        "id": 20048,
+        "poster": "https://image.tmdb.org/t/p/w200/r17R9OIC0pKDqqsNore6atYLCVZ.jpg"
     },
     {
-      "title": "If We Fall in Love Tonight",
-      "release_date": "1996"
+        "title": "The Last Airbender",
+        "year": 2010,
+        "id": 10196,
+        "poster": "https://image.tmdb.org/t/p/w200/kl9JJ8288bNsY8oqT1SpQh1w2mb.jpg"
     },
     {
-      "title": "Eye for an Eye",
-      "release_date": "1996-01-12"
+        "title": "Love & Other Drugs",
+        "year": 2010,
+        "id": 43347,
+        "poster": "https://image.tmdb.org/t/p/w200/wZLM2uKJRYNchLmiCIjosX0rXy8.jpg"
     },
     {
-      "title": "The Juror",
-      "release_date": "1996-02-02"
+        "title": "The Tourist",
+        "year": 2010,
+        "id": 37710,
+        "poster": "https://image.tmdb.org/t/p/w200/oXe1nw4HcS32YVpvxwsWEVdvEXA.jpg"
     },
     {
-      "title": "Primal Fear",
-      "release_date": "1996-04-01"
+        "title": "Inhale",
+        "year": 2010,
+        "id": 12645,
+        "poster": "https://image.tmdb.org/t/p/w200/x1JpxURGHRkaGM819kVipNdtgR0.jpg"
     },
     {
-      "title": "The Trigger Effect",
-      "release_date": "1996-05-16"
+        "title": "Salt",
+        "year": 2010,
+        "id": 27576,
+        "poster": "https://image.tmdb.org/t/p/w200/kqeIJG7VjwkcTR26QHg8D01x8yI.jpg"
     },
     {
-      "title": "The Rich Man's Wife",
-      "release_date": "1996-09-13"
+        "title": "Nanny McPhee and the Big Bang",
+        "year": 2010,
+        "id": 35019,
+        "poster": "https://image.tmdb.org/t/p/w200/9cgHfgBXVZmVR63AhwJ82R1kAFS.jpg"
     },
     {
-      "title": "Space Jam",
-      "release_date": "1996-11-10"
+        "title": "The Green Hornet",
+        "year": 2011,
+        "id": 40805,
+        "poster": "https://image.tmdb.org/t/p/w200/1YrRviphr3eXPus9iHyQX56QgIE.jpg"
     },
     {
-      "title": "The Other Side",
-      "release_date": "1997"
+        "title": "Green Lantern",
+        "year": 2011,
+        "id": 44912,
+        "poster": "https://image.tmdb.org/t/p/w200/fj21HwUprqjjwTdkKC1XZurRSpV.jpg"
     },
     {
-      "title": "The Heart of Chicago 1967\u20131997",
-      "release_date": "1997"
+        "title": "Water for Elephants",
+        "year": 2011,
+        "id": 55787,
+        "poster": "https://image.tmdb.org/t/p/w200/8T7Hvb9trKvCAmbSI8cEIU0Sl2T.jpg"
     },
     {
-      "title": "Dante's Peak",
-      "release_date": "1997-02-07"
+        "title": "Larry Crowne",
+        "year": 2011,
+        "id": 59861,
+        "poster": "https://image.tmdb.org/t/p/w200/8GDM7RqM6J1vNUdlU94rmtlNa3e.jpg"
     },
     {
-      "title": "Liar Liar",
-      "release_date": "1997-03-18"
+        "title": "Gnomeo & Juliet",
+        "year": 2011,
+        "id": 45772,
+        "poster": "https://image.tmdb.org/t/p/w200/vVQwgfS9gSFviVT4gS7tZAmhRFc.jpg"
     },
     {
-      "title": "Fathers' Day",
-      "release_date": "1997-05-09"
+        "title": "The Bourne Legacy",
+        "year": 2012,
+        "id": 49040,
+        "poster": "https://image.tmdb.org/t/p/w200/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg"
     },
     {
-      "title": "My Best Friend's Wedding",
-      "release_date": "1997-06-20"
+        "title": "Snow White and the Huntsman",
+        "year": 2012,
+        "id": 58595,
+        "poster": "https://image.tmdb.org/t/p/w200/8HUa5kRubYbnAD5UVpnhTGGgMTW.jpg"
     },
     {
-      "title": "The Postman",
-      "release_date": "1997-12-25"
+        "title": "The Hunger Games",
+        "year": 2012,
+        "id": 70160,
+        "poster": "https://image.tmdb.org/t/p/w200/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg"
     },
     {
-      "title": "A Perfect Murder",
-      "release_date": "1998-06-05"
+        "title": "Darling Companion",
+        "year": 2012,
+        "id": 89325,
+        "poster": "https://image.tmdb.org/t/p/w200/krKAMxPbzPcb0FvF9QoySiCHihi.jpg"
     },
     {
-      "title": "From the Earth to the Moon",
-      "release_date": "1958-11-06"
+        "title": "After Earth",
+        "year": 2013,
+        "id": 82700,
+        "poster": "https://image.tmdb.org/t/p/w200/iXMvYIlzzJBs352CfeiQcBvovZt.jpg"
     },
     {
-      "title": "Runaway Bride",
-      "release_date": "1999-07-30"
+        "title": "Parkland",
+        "year": 2013,
+        "id": 209262,
+        "poster": "https://image.tmdb.org/t/p/w200/23jc1Hclf1FFxpyYs9A4SxfRbK3.jpg"
     },
     {
-      "title": "Stir of Echoes",
-      "release_date": "1999-09-10"
+        "title": "The Hunger Games: Catching Fire",
+        "year": 2013,
+        "id": 101299,
+        "poster": "https://image.tmdb.org/t/p/w200/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg"
     },
     {
-      "title": "The Sixth Sense",
-      "release_date": "1999-08-02"
+        "title": "Maleficent",
+        "year": 2014,
+        "id": 102651,
+        "poster": "https://image.tmdb.org/t/p/w200/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg"
     },
     {
-      "title": "Mumford",
-      "release_date": "1999-09-24"
+        "title": "Nightcrawler",
+        "year": 2014,
+        "id": 242582,
+        "poster": "https://image.tmdb.org/t/p/w200/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg"
     },
     {
-      "title": "Snow Falling on Cedars",
-      "release_date": "1999-09-12"
+        "title": "Cut Bank",
+        "year": 2014,
+        "id": 276902,
+        "poster": "https://image.tmdb.org/t/p/w200/hP5N3R8qqe7JT4N3esgh23GOpCN.jpg"
     },
     {
-      "title": "Wayward Son",
-      "release_date": "1999-09-14"
+        "title": "The Hunger Games: Mockingjay - Part 1",
+        "year": 2014,
+        "id": 131631,
+        "poster": "https://image.tmdb.org/t/p/w200/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg"
     },
     {
-      "title": "Dinosaur",
-      "release_date": "2000-05-13"
+        "title": "The Hunger Games: Mockingjay - Part 2",
+        "year": 2015,
+        "id": 131634,
+        "poster": "https://image.tmdb.org/t/p/w200/lImKHDfExAulp16grYm8zD5eONE.jpg"
     },
     {
-      "title": "Unbreakable",
-      "release_date": "2000-11-03"
+        "title": "Concussion",
+        "year": 2015,
+        "id": 321741,
+        "poster": "https://image.tmdb.org/t/p/w200/gseayWAIFt3GQrEUNuUcYxT77Ud.jpg"
     },
     {
-      "title": "Vertical Limit",
-      "release_date": "2000-12-08"
+        "title": "Pawn Sacrifice",
+        "year": 2015,
+        "id": 245698,
+        "poster": "https://image.tmdb.org/t/p/w200/5vcLstd2hYn0XhyuEKaPbBZAqSh.jpg"
     },
     {
-      "title": "Atlantis: The Lost Empire",
-      "release_date": "2001-06-03"
+        "title": "Fantastic Beasts and Where to Find Them",
+        "year": 2016,
+        "id": 259316,
+        "poster": "https://image.tmdb.org/t/p/w200/fLsaFKExQt05yqjoAvKsmOMYvJR.jpg"
     },
     {
-      "title": "America's Sweethearts",
-      "release_date": "2001-07-20"
+        "title": "The Huntsman: Winter's War",
+        "year": 2016,
+        "id": 290595,
+        "poster": "https://image.tmdb.org/t/p/w200/ekHPrneEoa1EoDclWdillOKznqM.jpg"
     },
     {
-      "title": "Big Trouble",
-      "release_date": "2002-04-05"
+        "title": "All the Way",
+        "year": 2016,
+        "id": 347123,
+        "poster": "https://image.tmdb.org/t/p/w200/j4AEurmnYoRsA1nHhRK9AE4j2CL.jpg"
     },
     {
-      "title": "Signs",
-      "release_date": "2002-08-02"
+        "title": "Roman J. Israel, Esq.",
+        "year": 2017,
+        "id": 413362,
+        "poster": "https://image.tmdb.org/t/p/w200/epTCHVcyLkT8Aqt08Ki3PWC2sUh.jpg"
     },
     {
-      "title": "Unconditional Love",
-      "release_date": "2002-08-23"
+        "title": "Detroit",
+        "year": 2017,
+        "id": 407448,
+        "poster": "https://image.tmdb.org/t/p/w200/r0ldqSFASpqSM5xTrpcZGO6Ef2G.jpg"
     },
     {
-      "title": "The Emperor's Club",
-      "release_date": "2002-09-09"
+        "title": "The Nutcracker and the Four Realms",
+        "year": 2018,
+        "id": 426543,
+        "poster": "https://image.tmdb.org/t/p/w200/9vPDY8e7YxLwgVum7YZIUJbr4qc.jpg"
     },
     {
-      "title": "Treasure Planet",
-      "release_date": "2002-11-06"
+        "title": "Fantastic Beasts: The Crimes of Grindelwald",
+        "year": 2018,
+        "id": 338952,
+        "poster": "https://image.tmdb.org/t/p/w200/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg"
     },
     {
-      "title": "Dreamcatcher",
-      "release_date": "2003-03-21"
+        "title": "Red Sparrow",
+        "year": 2018,
+        "id": 401981,
+        "poster": "https://image.tmdb.org/t/p/w200/cdefNr6aS00IwVbSlxdFJnfmzKh.jpg"
     },
     {
-      "title": "Peter Pan",
-      "release_date": "2003-12-18"
+        "title": "A Hidden Life",
+        "year": 2019,
+        "id": 403300,
+        "poster": "https://image.tmdb.org/t/p/w200/rdG4jfH0rxkB2FgkYmjj9V4Q31M.jpg"
     },
     {
-      "title": "Cheyenne Enterprises ID",
-      "release_date": "2003"
+        "title": "News of the World",
+        "year": 2020,
+        "id": 581032,
+        "poster": "https://image.tmdb.org/t/p/w200/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg"
     },
     {
-      "title": "Hidalgo",
-      "release_date": "2004"
+        "title": "Jungle Cruise",
+        "year": 2021,
+        "id": 451048,
+        "poster": "https://image.tmdb.org/t/p/w200/yKy9ELL8CON5sqDg4yIvBb5LTZL.jpg"
     },
     {
-      "title": "The Village",
-      "release_date": "2004-07-26"
+        "title": "Raya and the Last Dragon",
+        "year": 2021,
+        "id": 527774,
+        "poster": "https://image.tmdb.org/t/p/w200/5nVhgCzxKbK47OLIKxCR1syulOn.jpg"
     },
     {
-      "title": "Collateral",
-      "release_date": "2004-08-06"
+        "title": "Fantastic Beasts: The Secrets of Dumbledore",
+        "year": 2022,
+        "id": 338953,
+        "poster": "https://image.tmdb.org/t/p/w200/3c5GNLB4yRSLBby0trHoA1DSQxQ.jpg"
     },
     {
-      "title": "The Interpreter",
-      "release_date": "2005-04-04"
+        "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "year": 2023,
+        "id": 695721,
+        "poster": "https://image.tmdb.org/t/p/w200/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg"
     },
     {
-      "title": "Batman Begins",
-      "release_date": "2005-05-31"
+        "title": "Pain Hustlers",
+        "year": 2023,
+        "id": 862968,
+        "poster": "https://image.tmdb.org/t/p/w200/m0gM9jE1KmCkXZRqkeNYEQZdVsZ.jpg"
     },
     {
-      "title": "Magnificent Desolation: Walking on the Moon 3D",
-      "release_date": "2005-09-23"
+        "title": "The Lost Bus",
+        "year": 2025,
+        "id": 1236470,
+        "poster": "https://image.tmdb.org/t/p/w200/4IPxzGlE17fJAwUTMul4opMeutA.jpg"
     },
     {
-      "title": "King Kong",
-      "release_date": "2005-12-05"
+        "title": "The Hunger Games: Sunrise on the Reaping",
+        "year": 2026,
+        "id": 1300968,
+        "poster": "https://image.tmdb.org/t/p/w200/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg"
     },
     {
-      "title": "Freedomland",
-      "release_date": "2006-02-17"
-    },
-    {
-      "title": "RV",
-      "release_date": "2006-04-28"
-    },
-    {
-      "title": "Lady in the Water",
-      "release_date": "2006-07-21"
-    },
-    {
-      "title": "Blood Diamond",
-      "release_date": "2006-12-08"
-    },
-    {
-      "title": "Sony Pictures Animation ID",
-      "release_date": "2006"
-    },
-    {
-      "title": "The Lookout",
-      "release_date": "2007-03-30"
-    },
-    {
-      "title": "Michael Clayton",
-      "release_date": "2007-08-31"
-    },
-    {
-      "title": "I Am Legend",
-      "release_date": "2007-12-14"
-    },
-    {
-      "title": "The Water Horse: Legend of the Deep",
-      "release_date": "2007-12-25"
-    },
-    {
-      "title": "Charlie Wilson's War",
-      "release_date": "2007-12-21"
-    },
-    {
-      "title": "The Great Debaters",
-      "release_date": "2007-12-11"
-    },
-    {
-      "title": "Mad Money",
-      "release_date": "2008-01-18"
-    },
-    {
-      "title": "The Happening",
-      "release_date": "2008-06-10"
-    },
-    {
-      "title": "The Dark Knight",
-      "release_date": "2008-07-14"
-    },
-    {
-      "title": "Youssou N'Dour: I Bring What I Love",
-      "release_date": "2008"
-    },
-    {
-      "title": "Defiance",
-      "release_date": "2008-12-31"
-    },
-    {
-      "title": "Confessions of a Shopaholic",
-      "release_date": "2009-02-13"
-    },
-    {
-      "title": "Duplicity",
-      "release_date": "2009-03-10"
-    },
-    {
-      "title": "It's Complicated",
-      "release_date": "2009-12-25"
-    },
-    {
-      "title": "Nanny McPhee and the Big Bang",
-      "release_date": "2010-04-02"
-    },
-    {
-      "title": "Salt",
-      "release_date": "2010-07-19"
-    },
-    {
-      "title": "The Last Airbender",
-      "release_date": "2010-06-30"
-    },
-    {
-      "title": "Inhale",
-      "release_date": "2010-09-12"
-    },
-    {
-      "title": "Love & Other Drugs",
-      "release_date": "2010-11-04"
-    },
-    {
-      "title": "The Tourist",
-      "release_date": "2010-12-10"
-    },
-    {
-      "title": "Legendary Pictures ID",
-      "release_date": "2010"
-    },
-    {
-      "title": "Larry Crowne",
-      "release_date": "2011-06-27"
-    },
-    {
-      "title": "Water for Elephants",
-      "release_date": "2011-04-22"
-    },
-    {
-      "title": "The Green Hornet",
-      "release_date": "2011-01-10"
-    },
-    {
-      "title": "Gnomeo & Juliet",
-      "release_date": "2011-01-23"
-    },
-    {
-      "title": "Green Lantern",
-      "release_date": "2011-06-15"
-    },
-    {
-      "title": "FilmDistrict ID",
-      "release_date": "2011"
-    },
-    {
-      "title": "Darling Companion",
-      "release_date": "2012-01-26"
-    },
-    {
-      "title": "The Hunger Games",
-      "release_date": "2012-03-12"
-    },
-    {
-      "title": "Snow White and the Huntsman",
-      "release_date": "2012-05-30"
-    },
-    {
-      "title": "The Bourne Legacy",
-      "release_date": "2012-07-30"
-    },
-    {
-      "title": "After Earth",
-      "release_date": "2013-05-01"
-    },
-    {
-      "title": "The Hunger Games: Catching Fire",
-      "release_date": "2013-11-11"
-    },
-    {
-      "title": "Parkland",
-      "release_date": "2013"
-    },
-    {
-      "title": "Cut Bank",
-      "release_date": "2014-06-16"
-    },
-    {
-      "title": "Maleficent",
-      "release_date": "2014-05-28"
-    },
-    {
-      "title": "Nightcrawler",
-      "release_date": "2014-09-05"
-    },
-    {
-      "title": "Pawn Sacrifice",
-      "release_date": "2014-09-11"
-    },
-    {
-      "title": "The Hunger Games: Mockingjay \u2013 Part 1",
-      "release_date": "2014"
-    },
-    {
-      "title": "The Hunger Games: Mockingjay \u2013 Part 2",
-      "release_date": "2015-11-04"
-    },
-    {
-      "title": "Concussion",
-      "release_date": "2015-11-10"
-    },
-    {
-      "title": "The Huntsman: Winter's War",
-      "release_date": "2016-03-29"
-    },
-    {
-      "title": "Fantastic Beasts and Where to Find Them",
-      "release_date": "2016-11-10"
-    },
-    {
-      "title": "Detroit",
-      "release_date": "2017-07-25"
-    },
-    {
-      "title": "Roman J. Israel, Esq.",
-      "release_date": "2017-09-10"
-    },
-    {
-      "title": "Red Sparrow",
-      "release_date": "2018-02-15"
-    },
-    {
-      "title": "The Nutcracker and the Four Realms",
-      "release_date": "2018-10-29"
-    },
-    {
-      "title": "Fantastic Beasts: The Crimes of Grindelwald",
-      "release_date": "2018-11-08"
-    },
-    {
-      "title": "A Hidden Life",
-      "release_date": "2019-05-19"
-    },
-    {
-      "title": "News of the World",
-      "release_date": "2020-12-25"
-    },
-    {
-      "title": "Raya and the Last Dragon",
-      "release_date": "2021-03-05"
-    },
-    {
-      "title": "Jungle Cruise",
-      "release_date": "2021-07-24"
-    },
-    {
-      "title": "Fantastic Beasts: The Secrets of Dumbledore",
-      "release_date": "2022-03-29"
-    },
-    {
-      "title": "Willow",
-      "release_date": "2022"
-    },
-    {
-      "title": "Pain Hustlers",
-      "release_date": "2023-09-11"
-    },
-    {
-      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
-      "release_date": "2023-11-05"
-    },
-    {
-      "title": "The Lost Bus",
-      "release_date": "2025-09-05"
+        "title": "Behemoth!",
+        "year": 9999,
+        "id": 1452168,
+        "poster": null
     }
-  ]
-}
+]

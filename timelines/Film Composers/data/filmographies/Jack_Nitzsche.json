@@ -1,145 +1,200 @@
-{
-  "composer": "Jack Nitzsche",
-  "filmography": [
+[
     {
-      "title": "Girls! Girls! Girls!",
-      "release_date": "1962-10-31"
+        "title": "Village of the Giants",
+        "year": 1965,
+        "id": 42780,
+        "poster": "https://image.tmdb.org/t/p/w200/7K3s6cl7tfws2dCq3j5vHDxBksJ.jpg"
     },
     {
-      "title": "Village of the Giants",
-      "release_date": "1965-10-20"
+        "title": "Performance",
+        "year": 1970,
+        "id": 26606,
+        "poster": "https://image.tmdb.org/t/p/w200/yKuqk84TtTpj0nYZS5m680JmprG.jpg"
     },
     {
-      "title": "Performance",
-      "release_date": "1970-08-03"
+        "title": "Greaser's Palace",
+        "year": 1972,
+        "id": 90715,
+        "poster": "https://image.tmdb.org/t/p/w200/ojPhdxrC00j0zN2hUrgn0kDdZT0.jpg"
     },
     {
-      "title": "Greaser's Palace",
-      "release_date": "1972-07-31"
+        "title": "The Exorcist",
+        "year": 1973,
+        "id": 9552,
+        "poster": "https://image.tmdb.org/t/p/w200/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg"
     },
     {
-      "title": "The Exorcist",
-      "release_date": "1973-12-26"
+        "title": "One Flew Over the Cuckoo's Nest",
+        "year": 1975,
+        "id": 510,
+        "poster": "https://image.tmdb.org/t/p/w200/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg"
     },
     {
-      "title": "One Flew Over the Cuckoo's Nest",
-      "release_date": "1975-11-19"
+        "title": "Two Tons of Turquoise to Taos Tonight",
+        "year": 1975,
+        "id": 112446,
+        "poster": "https://image.tmdb.org/t/p/w200/flqCRbWiGWc5RiA9iBhpbtNKVHd.jpg"
     },
     {
-      "title": "Heroes",
-      "release_date": "1977-11-04"
+        "title": "Heroes",
+        "year": 1977,
+        "id": 83061,
+        "poster": "https://image.tmdb.org/t/p/w200/ixScBPEizfgCM7BogZTpx3jgdVx.jpg"
     },
     {
-      "title": "Blue Collar",
-      "release_date": "1978-02-10"
+        "title": "Blue Collar",
+        "year": 1978,
+        "id": 14839,
+        "poster": "https://image.tmdb.org/t/p/w200/7WBBcgzESyX1qEq9x7tg22dlORL.jpg"
     },
     {
-      "title": "Hardcore",
-      "release_date": "1979-02-09"
+        "title": "Hardcore",
+        "year": 1979,
+        "id": 42172,
+        "poster": "https://image.tmdb.org/t/p/w200/g6m9xBTAzxXVhdJ624s9BLK9o6.jpg"
     },
     {
-      "title": "When You Comin' Back, Red Ryder?",
-      "release_date": "1979"
+        "title": "Cruising",
+        "year": 1980,
+        "id": 27958,
+        "poster": "https://image.tmdb.org/t/p/w200/bb9CND0WyfwdHOZY5XmP4Qn8taz.jpg"
     },
     {
-      "title": "Cruising",
-      "release_date": "1980-02-15"
+        "title": "Heart Beat",
+        "year": 1980,
+        "id": 190173,
+        "poster": "https://image.tmdb.org/t/p/w200/mKNzhKlfy0OE9FhZKUVEsPZ9N4B.jpg"
     },
     {
-      "title": "Heart Beat",
-      "release_date": "1980-04-25"
+        "title": "Cutter's Way",
+        "year": 1981,
+        "id": 31593,
+        "poster": "https://image.tmdb.org/t/p/w200/4Qsy3teeaBv3uH3vCVZPkbhyYih.jpg"
     },
     {
-      "title": "Cutter's Way",
-      "release_date": "1981"
+        "title": "An Officer and a Gentleman",
+        "year": 1982,
+        "id": 2623,
+        "poster": "https://image.tmdb.org/t/p/w200/69adZbLeRk5TNQ3e0008dMnde9p.jpg"
     },
     {
-      "title": "Personal Best",
-      "release_date": "1982-02-05"
+        "title": "Personal Best",
+        "year": 1982,
+        "id": 27609,
+        "poster": "https://image.tmdb.org/t/p/w200/sQbIDpQ421ioiEhyo1VSXCDp1Si.jpg"
     },
     {
-      "title": "Cannery Row",
-      "release_date": "1982-02-12"
+        "title": "Cannery Row",
+        "year": 1982,
+        "id": 25297,
+        "poster": "https://image.tmdb.org/t/p/w200/4U0NCom1slWMgGL9dCKsQdq82fP.jpg"
     },
     {
-      "title": "An Officer and a Gentleman",
-      "release_date": "1982-07-28"
+        "title": "Breathless",
+        "year": 1983,
+        "id": 1058,
+        "poster": "https://image.tmdb.org/t/p/w200/ipnsEbOsnQYO0HMrHTyqsO5osUV.jpg"
     },
     {
-      "title": "Without a Trace",
-      "release_date": "1983"
+        "title": "Without a Trace",
+        "year": 1983,
+        "id": 47944,
+        "poster": "https://image.tmdb.org/t/p/w200/xegLaEuvt5Ii21eochgdystk6x6.jpg"
     },
     {
-      "title": "Breathless",
-      "release_date": "1983-05-13"
+        "title": "The Razor's Edge",
+        "year": 1984,
+        "id": 24453,
+        "poster": "https://image.tmdb.org/t/p/w200/tBiw9KXH9agSgi4WhgVkFuEhYjO.jpg"
     },
     {
-      "title": "Windy City",
-      "release_date": "1984"
+        "title": "Starman",
+        "year": 1984,
+        "id": 9663,
+        "poster": "https://image.tmdb.org/t/p/w200/cgDeFWkYi6e9FT5RiQPCbQ9HlXZ.jpg"
     },
     {
-      "title": "The Razor's Edge",
-      "release_date": "1984-10-19"
+        "title": "Windy City",
+        "year": 1984,
+        "id": 297652,
+        "poster": "https://image.tmdb.org/t/p/w200/bJmgaDwU3bb4srAgYwIEPH4w0k9.jpg"
     },
     {
-      "title": "Starman",
-      "release_date": "1984-12-14"
+        "title": "The Jewel of the Nile",
+        "year": 1985,
+        "id": 10303,
+        "poster": "https://image.tmdb.org/t/p/w200/6VjsIhnIcrz2XdQVHdsMj5DdSa1.jpg"
     },
     {
-      "title": "The Jewel of the Nile",
-      "release_date": "1985-12-11"
+        "title": "Stand by Me",
+        "year": 1986,
+        "id": 235,
+        "poster": "https://image.tmdb.org/t/p/w200/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg"
     },
     {
-      "title": "9\u00bd Weeks",
-      "release_date": "1986-02-21"
+        "title": "The Whoopee Boys",
+        "year": 1986,
+        "id": 15029,
+        "poster": "https://image.tmdb.org/t/p/w200/yzlouRv4V9FxaElt4VNUeLUlaws.jpg"
     },
     {
-      "title": "Stand by Me",
-      "release_date": "1986-08-22"
+        "title": "Streets of Gold",
+        "year": 1986,
+        "id": 42026,
+        "poster": "https://image.tmdb.org/t/p/w200/7UQSskV2Tf23nNtEzDcqqxpVHz6.jpg"
     },
     {
-      "title": "The Whoopee Boys",
-      "release_date": "1986-08-22"
+        "title": "Nine 1/2 Weeks",
+        "year": 1986,
+        "id": 10068,
+        "poster": "https://image.tmdb.org/t/p/w200/aE1iunrgO8UHfoXKJcjCy4Ih17n.jpg"
     },
     {
-      "title": "Streets of Gold",
-      "release_date": "1986-11-14"
+        "title": "The Seventh Sign",
+        "year": 1988,
+        "id": 11082,
+        "poster": "https://image.tmdb.org/t/p/w200/vAgVzkPmfe2pcgzkpoz8cZ9i9wm.jpg"
     },
     {
-      "title": "The Seventh Sign",
-      "release_date": "1988-04-01"
+        "title": "Mermaids",
+        "year": 1990,
+        "id": 4587,
+        "poster": "https://image.tmdb.org/t/p/w200/1VufMcp0euY2LpmKiVv8xnbB9Om.jpg"
     },
     {
-      "title": "Next of Kin",
-      "release_date": "1989-10-20"
+        "title": "Revenge",
+        "year": 1990,
+        "id": 14249,
+        "poster": "https://image.tmdb.org/t/p/w200/83diOZcg6ZiY8voNy2k4BX9TsMf.jpg"
     },
     {
-      "title": "The Last of the Finest",
-      "release_date": "1990-03-09"
+        "title": "The Hot Spot",
+        "year": 1990,
+        "id": 14864,
+        "poster": "https://image.tmdb.org/t/p/w200/iQCP69183K1QZo8bb23nkcLap3W.jpg"
     },
     {
-      "title": "Revenge",
-      "release_date": "1990-02-16"
+        "title": "The Last of the Finest",
+        "year": 1990,
+        "id": 123770,
+        "poster": "https://image.tmdb.org/t/p/w200/q8EfhcI5BVtiv2Qh0McmL5pCA4z.jpg"
     },
     {
-      "title": "The Hot Spot",
-      "release_date": "1990-09-08"
+        "title": "The Indian Runner",
+        "year": 1991,
+        "id": 25598,
+        "poster": "https://image.tmdb.org/t/p/w200/1NmjsvXcqe4yyGKfOwLDcxl4HLY.jpg"
     },
     {
-      "title": "Mermaids",
-      "release_date": "1990-12-14"
+        "title": "Blue Sky",
+        "year": 1994,
+        "id": 57834,
+        "poster": "https://image.tmdb.org/t/p/w200/zG40OnO4Y98lo1iDHyFo5TaZyP1.jpg"
     },
     {
-      "title": "The Indian Runner",
-      "release_date": "1991-09-20"
-    },
-    {
-      "title": "Blue Sky",
-      "release_date": "1994-09-28"
-    },
-    {
-      "title": "The Crossing Guard",
-      "release_date": "1995-11-16"
+        "title": "The Crossing Guard",
+        "year": 1995,
+        "id": 27526,
+        "poster": "https://image.tmdb.org/t/p/w200/1WOfl9LN4gqpjwWZjGSHW8fCgSZ.jpg"
     }
-  ]
-}
+]

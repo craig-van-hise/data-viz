@@ -1,665 +1,872 @@
-{
-  "composer": "Mark Isham",
-  "filmography": [
+[
     {
-      "title": "Never Cry Wolf",
-      "release_date": "1983-10-07"
+        "title": "An Unsuitable Job for a Woman",
+        "year": 1982,
+        "id": 263565,
+        "poster": "https://image.tmdb.org/t/p/w200/buOFUQJxKN2iftlWcC0PKZX4MO0.jpg"
     },
     {
-      "title": "Country",
-      "release_date": "1984-09-28"
+        "title": "Never Cry Wolf",
+        "year": 1983,
+        "id": 14280,
+        "poster": "https://image.tmdb.org/t/p/w200/e61tGxVtobTQuFPmAC7xWwdC4O1.jpg"
     },
     {
-      "title": "Mrs. Soffel",
-      "release_date": "1984-12-26"
+        "title": "Mrs. Soffel",
+        "year": 1984,
+        "id": 31955,
+        "poster": "https://image.tmdb.org/t/p/w200/fT1HUPb74lAnDWyK0v5cBdYk6Qa.jpg"
     },
     {
-      "title": "The Times of Harvey Milk",
-      "release_date": "1984-10-26"
+        "title": "Windham Hill: Western Light",
+        "year": 1984,
+        "id": 207223,
+        "poster": null
     },
     {
-      "title": "Trouble in Mind",
-      "release_date": "1985-12-11"
+        "title": "The Times of Harvey Milk",
+        "year": 1984,
+        "id": 33138,
+        "poster": "https://image.tmdb.org/t/p/w200/icHnX0RALT9Mn8CVhtqBl04jqXi.jpg"
     },
     {
-      "title": "Portraits of Anorexia",
-      "release_date": "1985"
+        "title": "Trouble in Mind",
+        "year": 1985,
+        "id": 31694,
+        "poster": "https://image.tmdb.org/t/p/w200/3qyepsmFJ8tYFwk1FImAtsJmmXk.jpg"
     },
     {
-      "title": "Rabbit Ears: The Steadfast Tin Soldier",
-      "release_date": "1985"
+        "title": "The Hitcher",
+        "year": 1986,
+        "id": 9542,
+        "poster": "https://image.tmdb.org/t/p/w200/89giuiFssSVCUxkCP386v66cry8.jpg"
     },
     {
-      "title": "The Making of Liberty",
-      "release_date": "1986"
+        "title": "Made in Heaven",
+        "year": 1987,
+        "id": 42010,
+        "poster": "https://image.tmdb.org/t/p/w200/zJ6LiVvnIL9Nuiskrf1swGJ2fwE.jpg"
     },
     {
-      "title": "The Hitcher",
-      "release_date": "1986-02-21"
+        "title": "The Beast",
+        "year": 1988,
+        "id": 15267,
+        "poster": "https://image.tmdb.org/t/p/w200/ag0oez7oBuk8xCQ5pvb4pSj544Z.jpg"
     },
     {
-      "title": "Made in Heaven",
-      "release_date": "1987-11-06"
+        "title": "The Moderns",
+        "year": 1988,
+        "id": 41971,
+        "poster": "https://image.tmdb.org/t/p/w200/7ENbrVNqcoCJqyqfyoFv1ox08fC.jpg"
     },
     {
-      "title": "The Moderns",
-      "release_date": "1988"
+        "title": "Windham Hill: Tibet",
+        "year": 1988,
+        "id": 608736,
+        "poster": "https://image.tmdb.org/t/p/w200/zywLWpwFfAhRZpoWMHqDI4pMkQH.jpg"
     },
     {
-      "title": "C.A.T. Squad: Python Wolf",
-      "release_date": "1988"
+        "title": "Everybody Wins",
+        "year": 1990,
+        "id": 41816,
+        "poster": "https://image.tmdb.org/t/p/w200/djkoK0O3ARHiq9gEbVHMKpPTl4b.jpg"
     },
     {
-      "title": "The Beast",
-      "release_date": "1988-09-16"
+        "title": "Reversal of Fortune",
+        "year": 1990,
+        "id": 38718,
+        "poster": "https://image.tmdb.org/t/p/w200/jEmFeHPsoyHk6RRZslKzC5NVFad.jpg"
     },
     {
-      "title": "Everybody Wins",
-      "release_date": "1990-01-19"
+        "title": "Love at Large",
+        "year": 1990,
+        "id": 32035,
+        "poster": "https://image.tmdb.org/t/p/w200/A2l54MDhZjc2aD6sQPB7IeRAJjt.jpg"
     },
     {
-      "title": "Love at Large",
-      "release_date": "1990-03-09"
+        "title": "Point Break",
+        "year": 1991,
+        "id": 1089,
+        "poster": "https://image.tmdb.org/t/p/w200/tlbERIghrQ4oofqlbF7H0K0EYnx.jpg"
     },
     {
-      "title": "Reversal of Fortune",
-      "release_date": "1990-09-12"
+        "title": "Little Man Tate",
+        "year": 1991,
+        "id": 11521,
+        "poster": "https://image.tmdb.org/t/p/w200/eXf4xhJEc9c2NElBrExmiWFe4Pz.jpg"
     },
     {
-      "title": "Tibet",
-      "release_date": "1990"
+        "title": "Billy Bathgate",
+        "year": 1991,
+        "id": 12647,
+        "poster": "https://image.tmdb.org/t/p/w200/zDC0bY6IvGIf1SrDipLZJxR0Z2d.jpg"
     },
     {
-      "title": "Mortal Thoughts",
-      "release_date": "1991-04-19"
+        "title": "Kim's War",
+        "year": 1991,
+        "id": 455729,
+        "poster": "https://image.tmdb.org/t/p/w200/fml12vfRHePHHqZPyd58hhIwnoF.jpg"
     },
     {
-      "title": "Crooked Hearts",
-      "release_date": "1991-09-06"
+        "title": "Crooked Hearts",
+        "year": 1991,
+        "id": 93002,
+        "poster": "https://image.tmdb.org/t/p/w200/KaquePedqlWghwcatiLlT9emzg.jpg"
     },
     {
-      "title": "Point Break",
-      "release_date": "1991-07-10"
+        "title": "Mortal Thoughts",
+        "year": 1991,
+        "id": 30815,
+        "poster": "https://image.tmdb.org/t/p/w200/3Py7bFBsRjMVdOI5IlNSz6aa385.jpg"
     },
     {
-      "title": "Little Man Tate",
-      "release_date": "1991-10-18"
+        "title": "A River Runs Through It",
+        "year": 1992,
+        "id": 293,
+        "poster": "https://image.tmdb.org/t/p/w200/aVP45oS2cBL4WtZ1kB7r8uarruB.jpg"
     },
     {
-      "title": "Billy Bathgate",
-      "release_date": "1991-11-01"
+        "title": "Of Mice and Men",
+        "year": 1992,
+        "id": 9609,
+        "poster": "https://image.tmdb.org/t/p/w200/qAHLUMZyoW3iwj2b01B2nKcePTA.jpg"
     },
     {
-      "title": "A Midnight Clear",
-      "release_date": "1992-04-24"
+        "title": "The Public Eye",
+        "year": 1992,
+        "id": 31692,
+        "poster": "https://image.tmdb.org/t/p/w200/oiKWmtkGVOHR9Z49qZkkDkCeKyO.jpg"
     },
     {
-      "title": "Sketch Artist",
-      "release_date": "1992"
+        "title": "A Midnight Clear",
+        "year": 1992,
+        "id": 23908,
+        "poster": "https://image.tmdb.org/t/p/w200/cOLBAnK2PvHxwjdEHQl4n3pZI14.jpg"
     },
     {
-      "title": "Cool World",
-      "release_date": "1992"
+        "title": "Cool World",
+        "year": 1992,
+        "id": 14239,
+        "poster": "https://image.tmdb.org/t/p/w200/mqzRUHNtFwmgJCmSnvq3JnX0xgZ.jpg"
     },
     {
-      "title": "A River Runs Through It",
-      "release_date": "1992-09-11"
+        "title": "Sketch Artist",
+        "year": 1992,
+        "id": 108134,
+        "poster": "https://image.tmdb.org/t/p/w200/cioo465M7jKMB56pcIzTTD2Aj9a.jpg"
     },
     {
-      "title": "The Public Eye",
-      "release_date": "1992-09-15"
+        "title": "Short Cuts",
+        "year": 1993,
+        "id": 695,
+        "poster": "https://image.tmdb.org/t/p/w200/mbNTvbtWfV4soyErimDTdX67OAr.jpg"
     },
     {
-      "title": "Of Mice and Men",
-      "release_date": "1992-10-02"
+        "title": "Nowhere to Run",
+        "year": 1993,
+        "id": 10413,
+        "poster": "https://image.tmdb.org/t/p/w200/a2FGbyzk2dTAlu37iGeQBbUjLLE.jpg"
     },
     {
-      "title": "Nowhere to Run",
-      "release_date": "1993-01-14"
+        "title": "Romeo Is Bleeding",
+        "year": 1993,
+        "id": 2088,
+        "poster": "https://image.tmdb.org/t/p/w200/ojXNRpHMXU99UFmF9MKKiJCymKr.jpg"
     },
     {
-      "title": "Fire in the Sky",
-      "release_date": "1993-03-12"
+        "title": "Fire in the Sky",
+        "year": 1993,
+        "id": 15613,
+        "poster": "https://image.tmdb.org/t/p/w200/rTFrjAp1YV49DSTUGCyKSkaEHC8.jpg"
     },
     {
-      "title": "Made in America",
-      "release_date": "1993-05-28"
+        "title": "Made in America",
+        "year": 1993,
+        "id": 12121,
+        "poster": "https://image.tmdb.org/t/p/w200/1NLhOZN4AcTSvEPMI3HCjTVSfvy.jpg"
     },
     {
-      "title": "Short Cuts",
-      "release_date": "1993-10-03"
+        "title": "De fyras g\u00e4ng",
+        "year": 1993,
+        "id": 1081295,
+        "poster": "https://image.tmdb.org/t/p/w200/5XsoVuIwz0JOmetG8OPI9tz9tDI.jpg"
     },
     {
-      "title": "Romeo Is Bleeding",
-      "release_date": "1993"
+        "title": "Nell",
+        "year": 1994,
+        "id": 1945,
+        "poster": "https://image.tmdb.org/t/p/w200/aIDp3x2YfijtdherR28pIH6yenn.jpg"
     },
     {
-      "title": "Hawaii: Born in Paradise",
-      "release_date": "1993"
+        "title": "The Getaway",
+        "year": 1994,
+        "id": 2087,
+        "poster": "https://image.tmdb.org/t/p/w200/ftbdJTJi6mR5iZV5ESJWv8f8pWN.jpg"
     },
     {
-      "title": "Hidden Hawaii",
-      "release_date": "1993"
+        "title": "Quiz Show",
+        "year": 1994,
+        "id": 11450,
+        "poster": "https://image.tmdb.org/t/p/w200/yoGJo1h3Hl2exXPVcG9UXWDENtX.jpg"
     },
     {
-      "title": "The Getaway",
-      "release_date": "1994-02-11"
+        "title": "Timecop",
+        "year": 1994,
+        "id": 8831,
+        "poster": "https://image.tmdb.org/t/p/w200/bgxP6ws8ErBiarnb4S93vv0lkf4.jpg"
     },
     {
-      "title": "The Browning Version",
-      "release_date": "1994"
+        "title": "Mrs. Parker and the Vicious Circle",
+        "year": 1994,
+        "id": 23333,
+        "poster": "https://image.tmdb.org/t/p/w200/avTHiIim0Jm0rs4ehFLck8u3NFW.jpg"
     },
     {
-      "title": "Mrs. Parker and the Vicious Circle",
-      "release_date": "1994-09-07"
+        "title": "Safe Passage",
+        "year": 1994,
+        "id": 49803,
+        "poster": "https://image.tmdb.org/t/p/w200/b0pcExU3UvqUoaRiYwrVEAYC2iL.jpg"
     },
     {
-      "title": "Quiz Show",
-      "release_date": "1994-09-14"
+        "title": "The Browning Version",
+        "year": 1994,
+        "id": 49805,
+        "poster": "https://image.tmdb.org/t/p/w200/8My9Wnzu1zasVVzGdDj5y2dItuM.jpg"
     },
     {
-      "title": "Timecop",
-      "release_date": "1994-09-16"
+        "title": "The Net",
+        "year": 1995,
+        "id": 1642,
+        "poster": "https://image.tmdb.org/t/p/w200/dtupntUFMD5iXBo8HLfALt2ET4R.jpg"
     },
     {
-      "title": "Nell",
-      "release_date": "1994-12-16"
+        "title": "Losing Isaiah",
+        "year": 1995,
+        "id": 28313,
+        "poster": "https://image.tmdb.org/t/p/w200/oHALKuPewtqIn2BcluZsGvcEG1P.jpg"
     },
     {
-      "title": "Safe Passage",
-      "release_date": "1994-12-23"
+        "title": "Home for the Holidays",
+        "year": 1995,
+        "id": 9089,
+        "poster": "https://image.tmdb.org/t/p/w200/3zqlKdOttWyExzopVxglz50Vjxq.jpg"
     },
     {
-      "title": "Chicago Hope",
-      "release_date": "1994"
+        "title": "Miami Rhapsody",
+        "year": 1995,
+        "id": 17402,
+        "poster": "https://image.tmdb.org/t/p/w200/joturqaJfAJ8XHPadT8kibgSpS4.jpg"
     },
     {
-      "title": "Miami Rhapsody",
-      "release_date": "1995"
+        "title": "Last Dance",
+        "year": 1996,
+        "id": 46063,
+        "poster": "https://image.tmdb.org/t/p/w200/hsMe9TYfPs1VfpZs9xVLZBVGcES.jpg"
     },
     {
-      "title": "Waterworld",
-      "release_date": "1995-07-28"
+        "title": "Fly Away Home",
+        "year": 1996,
+        "id": 11076,
+        "poster": "https://image.tmdb.org/t/p/w200/obcQJkZB2OsRxd5GWIcQ5Qjv4YW.jpg"
     },
     {
-      "title": "Losing Isaiah",
-      "release_date": "1995-03-17"
+        "title": "Gotti",
+        "year": 1996,
+        "id": 14786,
+        "poster": "https://image.tmdb.org/t/p/w200/4ZeKN0jnXHlyloMFba1Xe4C1ell.jpg"
     },
     {
-      "title": "The Net",
-      "release_date": "1995-07-28"
+        "title": "Kiss the Girls",
+        "year": 1997,
+        "id": 9437,
+        "poster": "https://image.tmdb.org/t/p/w200/25h5I3E3ydhazsPDnscWHivq5pn.jpg"
     },
     {
-      "title": "Home for the Holidays",
-      "release_date": "1995-11-03"
+        "title": "The Education of Little Tree",
+        "year": 1997,
+        "id": 62394,
+        "poster": "https://image.tmdb.org/t/p/w200/cBJCiV56y5i5kEWZw1vXf2QYuFM.jpg"
     },
     {
-      "title": "Last Dance",
-      "release_date": "1996-05-03"
+        "title": "Afterglow",
+        "year": 1997,
+        "id": 26941,
+        "poster": "https://image.tmdb.org/t/p/w200/c13Luo9O09ah6nMPrsr3zqlLyF9.jpg"
     },
     {
-      "title": "Gotti",
-      "release_date": "1996"
+        "title": "Night Falls on Manhattan",
+        "year": 1997,
+        "id": 46027,
+        "poster": "https://image.tmdb.org/t/p/w200/sjvySDgeAOqrMmm965gdkqR5AML.jpg"
     },
     {
-      "title": "Fly Away Home",
-      "release_date": "1996-09-13"
+        "title": "The Defenders: Payback",
+        "year": 1997,
+        "id": 215082,
+        "poster": "https://image.tmdb.org/t/p/w200/26q1aCn44MUH0TMoGj3hfgm4Nw4.jpg"
     },
     {
-      "title": "Night Falls on Manhattan",
-      "release_date": "1996-10-18"
+        "title": "The Gingerbread Man",
+        "year": 1998,
+        "id": 12488,
+        "poster": "https://image.tmdb.org/t/p/w200/1bfWAXuFjsZAslkA2HqFU30OZ2b.jpg"
     },
     {
-      "title": "EZ Streets",
-      "release_date": "1996"
+        "title": "Blade",
+        "year": 1998,
+        "id": 36647,
+        "poster": "https://image.tmdb.org/t/p/w200/oWT70TvbsmQaqyphCZpsnQR7R32.jpg"
     },
     {
-      "title": "Afterglow",
-      "release_date": "1997"
+        "title": "Free Money",
+        "year": 1998,
+        "id": 30712,
+        "poster": "https://image.tmdb.org/t/p/w200/rthoTWBsSiaSdtQGwgvr1HcAweT.jpg"
     },
     {
-      "title": "Kiss the Girls",
-      "release_date": "1997-10-03"
+        "title": "The Blood Tide",
+        "year": 1998,
+        "id": 1291921,
+        "poster": "https://image.tmdb.org/t/p/w200/Ai6DcvtS4puogf0hkmTHTm9SMvm.jpg"
     },
     {
-      "title": "The Defenders: Payback",
-      "release_date": "1997"
+        "title": "The Defenders: Taking the First",
+        "year": 1998,
+        "id": 606901,
+        "poster": "https://image.tmdb.org/t/p/w200/vUCXdfW1G6p7F18q8EfdP5bQA9H.jpg"
     },
     {
-      "title": "The Education of Little Tree",
-      "release_date": "1997-12-25"
+        "title": "Breakfast of Champions",
+        "year": 1999,
+        "id": 12479,
+        "poster": "https://image.tmdb.org/t/p/w200/5uNVeZNt7qxDWLJAZ0PER03WtKE.jpg"
     },
     {
-      "title": "Michael Hayes",
-      "release_date": "1997"
+        "title": "IMAX: Galapagos 3D",
+        "year": 1999,
+        "id": 17701,
+        "poster": "https://image.tmdb.org/t/p/w200/aad6cWJKlOzv2Dip3jE3b5Qcz6K.jpg"
     },
     {
-      "title": "The Defenders: Choice of Evils",
-      "release_date": "1998"
+        "title": "Body Shots",
+        "year": 1999,
+        "id": 14484,
+        "poster": "https://image.tmdb.org/t/p/w200/1YihuAszdbPMPxK7k46UYLdP1mz.jpg"
     },
     {
-      "title": "The Gingerbread Man",
-      "release_date": "1998-01-23"
+        "title": "October Sky",
+        "year": 1999,
+        "id": 13466,
+        "poster": "https://image.tmdb.org/t/p/w200/umWrXCIWdcYPf764ruvMRCpG3cA.jpg"
     },
     {
-      "title": "Blade",
-      "release_date": "1998-08-21"
+        "title": "At First Sight",
+        "year": 1999,
+        "id": 15556,
+        "poster": "https://image.tmdb.org/t/p/w200/9nylrKj8zWxTor9BCy3umv6WHZe.jpg"
     },
     {
-      "title": "The Defenders: Taking the First",
-      "release_date": "1998"
+        "title": "Varsity Blues",
+        "year": 1999,
+        "id": 14709,
+        "poster": "https://image.tmdb.org/t/p/w200/g2jX2Xmx7drbc6J9MLJEBghR7Mg.jpg"
     },
     {
-      "title": "Free Money",
-      "release_date": "1998-12-03"
+        "title": "Rules of Engagement",
+        "year": 2000,
+        "id": 10479,
+        "poster": "https://image.tmdb.org/t/p/w200/38iMM0sHOqNz315ApF9bEjT4rFA.jpg"
     },
     {
-      "title": "From the Earth to the Moon",
-      "release_date": "1958-11-06"
+        "title": "Where the Money Is",
+        "year": 2000,
+        "id": 31776,
+        "poster": "https://image.tmdb.org/t/p/w200/s6FODEWgJ9XDwKunGLWEmexguUs.jpg"
     },
     {
-      "title": "The Blood Tide",
-      "release_date": "1998"
+        "title": "Men of Honor",
+        "year": 2000,
+        "id": 11978,
+        "poster": "https://image.tmdb.org/t/p/w200/wNUAnXV1mzOOfvnVBIYsalkk078.jpg"
     },
     {
-      "title": "The Cowboy and the Ballerina",
-      "release_date": "1998"
+        "title": "Trixie",
+        "year": 2000,
+        "id": 31610,
+        "poster": "https://image.tmdb.org/t/p/w200/fWNoZeG9GYj1uCBWIAlE5BRL7ad.jpg"
     },
     {
-      "title": "At First Sight",
-      "release_date": "1999"
+        "title": "Impostor",
+        "year": 2001,
+        "id": 4965,
+        "poster": "https://image.tmdb.org/t/p/w200/7Uy4JbalP0mEyKnFW2IorQDmbBa.jpg"
     },
     {
-      "title": "Varsity Blues",
-      "release_date": "1999-01-15"
+        "title": "The Majestic",
+        "year": 2001,
+        "id": 11086,
+        "poster": "https://image.tmdb.org/t/p/w200/m9WrB91B8ghxIZhyFugkoSleBE7.jpg"
     },
     {
-      "title": "Breakfast of Champions",
-      "release_date": "1999-09-17"
+        "title": "Life as a House",
+        "year": 2001,
+        "id": 11457,
+        "poster": "https://image.tmdb.org/t/p/w200/qNFlcei9vWh5NCRTVrs52qDvUmq.jpg"
     },
     {
-      "title": "October Sky",
-      "release_date": "1999-02-19"
+        "title": "Save the Last Dance",
+        "year": 2001,
+        "id": 9816,
+        "poster": "https://image.tmdb.org/t/p/w200/sV8GIxT3BjHIiwgKUNwk1S8VSLa.jpg"
     },
     {
-      "title": "Body Shots",
-      "release_date": "1999-10-07"
+        "title": "Don't Say a Word",
+        "year": 2001,
+        "id": 12103,
+        "poster": "https://image.tmdb.org/t/p/w200/mDawnZWQnePqQbiisEWZaY9e4UI.jpg"
     },
     {
-      "title": "Family Law",
-      "release_date": "1999"
+        "title": "Hardball",
+        "year": 2001,
+        "id": 20857,
+        "poster": "https://image.tmdb.org/t/p/w200/9RMcwwnK8a9WCt8dVlwmtNsFCg3.jpg"
     },
     {
-      "title": "Galapagos",
-      "release_date": "1999"
+        "title": "Moonlight Mile",
+        "year": 2002,
+        "id": 31005,
+        "poster": "https://image.tmdb.org/t/p/w200/jKDnCPUkL4QsgeqKCtyNMPL2XUU.jpg"
     },
     {
-      "title": "Rules of Engagement",
-      "release_date": "2000-04-07"
+        "title": "The Cooler",
+        "year": 2003,
+        "id": 10744,
+        "poster": "https://image.tmdb.org/t/p/w200/gq3cZxo7SS6HAXdaxObLIyw9N1r.jpg"
     },
     {
-      "title": "Where the Money Is",
-      "release_date": "2000-04-14"
+        "title": "The Hitcher: How Do These Movies Get Made?",
+        "year": 2003,
+        "id": 620485,
+        "poster": "https://image.tmdb.org/t/p/w200/1hqsVx2H411CcORWCfPs5LlGPGi.jpg"
     },
     {
-      "title": "Trixie",
-      "release_date": "2000-06-28"
+        "title": "Spartan",
+        "year": 2004,
+        "id": 11169,
+        "poster": "https://image.tmdb.org/t/p/w200/rcdhS2g1d38NOoeh0PPAN2bLE7w.jpg"
     },
     {
-      "title": "Men of Honor",
-      "release_date": "2000-11-10"
+        "title": "Twisted",
+        "year": 2004,
+        "id": 13572,
+        "poster": "https://image.tmdb.org/t/p/w200/nfdfU9tYsEnjlFGoY2HabFMdHLi.jpg"
     },
     {
-      "title": "Save the Last Dance",
-      "release_date": "2001-01-12"
+        "title": "Miracle",
+        "year": 2004,
+        "id": 14292,
+        "poster": "https://image.tmdb.org/t/p/w200/mxtej2th8t8x0ufVBTyhsO6Htxj.jpg"
     },
     {
-      "title": "Life as a House",
-      "release_date": "2001-10-26"
+        "title": "Highwaymen",
+        "year": 2004,
+        "id": 29979,
+        "poster": "https://image.tmdb.org/t/p/w200/fJb2XlqYSYFA25EMyodon0cBare.jpg"
     },
     {
-      "title": "Hardball",
-      "release_date": "2001"
+        "title": "Crash",
+        "year": 2005,
+        "id": 1640,
+        "poster": "https://image.tmdb.org/t/p/w200/86BdPC6RDX88NC880pLidKn2LCj.jpg"
     },
     {
-      "title": "Don't Say a Word",
-      "release_date": "2001"
+        "title": "Racing Stripes",
+        "year": 2005,
+        "id": 6439,
+        "poster": "https://image.tmdb.org/t/p/w200/epDsuf5oUdzTFYHqV2IRcyy8Rwc.jpg"
     },
     {
-      "title": "The Majestic",
-      "release_date": "2001-12-21"
+        "title": "Kicking & Screaming",
+        "year": 2005,
+        "id": 9981,
+        "poster": "https://image.tmdb.org/t/p/w200/4erPZ5V0yzNXRB2IcypOACMEgOA.jpg"
     },
     {
-      "title": "From the Ground Up",
-      "release_date": "2001"
+        "title": "In Her Shoes",
+        "year": 2005,
+        "id": 11931,
+        "poster": "https://image.tmdb.org/t/p/w200/gmd2n3TuXewrbINp8Jfhwd5Jw6S.jpg"
     },
     {
-      "title": "Impostor",
-      "release_date": "2001-10-27"
+        "title": "Bobby",
+        "year": 2006,
+        "id": 10741,
+        "poster": "https://image.tmdb.org/t/p/w200/ea6aSTUFQopOW7kWFZB9AvMYnbs.jpg"
     },
     {
-      "title": "Moonlight Mile",
-      "release_date": "2002-09-27"
+        "title": "Invincible",
+        "year": 2006,
+        "id": 11652,
+        "poster": "https://image.tmdb.org/t/p/w200/oEaUMn5POAiMLnU6hKOBKoZbDpo.jpg"
     },
     {
-      "title": "The Cooler",
-      "release_date": "2003-01-17"
+        "title": "Running Scared",
+        "year": 2006,
+        "id": 7304,
+        "poster": "https://image.tmdb.org/t/p/w200/f2LU6M8wFmt6G1fzv9JFWbIkRd9.jpg"
     },
     {
-      "title": "Spartan",
-      "release_date": "2004-01-31"
+        "title": "The Black Dahlia",
+        "year": 2006,
+        "id": 9676,
+        "poster": "https://image.tmdb.org/t/p/w200/su7yuXqGUHICfoijtcSaxWLE34Y.jpg"
     },
     {
-      "title": "Miracle",
-      "release_date": "2004-02-06"
+        "title": "Eight Below",
+        "year": 2006,
+        "id": 9036,
+        "poster": "https://image.tmdb.org/t/p/w200/39hR806Me4wI42LCFcK2LBiCRGW.jpg"
     },
     {
-      "title": "Highwaymen",
-      "release_date": "2004-02-13"
+        "title": "Running Scared: Through the Looking Glass",
+        "year": 2006,
+        "id": 595358,
+        "poster": null
     },
     {
-      "title": "Twisted",
-      "release_date": "2004-02-27"
+        "title": "The Mist",
+        "year": 2007,
+        "id": 5876,
+        "poster": "https://image.tmdb.org/t/p/w200/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg"
     },
     {
-      "title": "Crash",
-      "release_date": "2004-09-10"
+        "title": "Reservation Road",
+        "year": 2007,
+        "id": 8954,
+        "poster": "https://image.tmdb.org/t/p/w200/pZaYofgshgEkeW4Huo3o6tEX89C.jpg"
     },
     {
-      "title": "Racing Stripes",
-      "release_date": "2005-01-08"
+        "title": "Freedom Writers",
+        "year": 2007,
+        "id": 1646,
+        "poster": "https://image.tmdb.org/t/p/w200/81AdeUQT99N0xPg3j6RVh0YGOTk.jpg"
     },
     {
-      "title": "Kicking & Screaming",
-      "release_date": "2005-05-01"
+        "title": "In the Valley of Elah",
+        "year": 2007,
+        "id": 6973,
+        "poster": "https://image.tmdb.org/t/p/w200/ufCkeypovY01Dm123I2aPvGUA5H.jpg"
     },
     {
-      "title": "In Her Shoes",
-      "release_date": "2005-09-14"
+        "title": "Lions for Lambs",
+        "year": 2007,
+        "id": 4515,
+        "poster": "https://image.tmdb.org/t/p/w200/tpwq5AHgj13uBE06B07xWqWQV5i.jpg"
     },
     {
-      "title": "Running Scared",
-      "release_date": "2006"
+        "title": "Next",
+        "year": 2007,
+        "id": 1738,
+        "poster": "https://image.tmdb.org/t/p/w200/wtBOCJBCP0MWNjmBwjMAzbwgtTK.jpg"
     },
     {
-      "title": "Eight Below",
-      "release_date": "2006-02-17"
+        "title": "Gracie",
+        "year": 2007,
+        "id": 15568,
+        "poster": "https://image.tmdb.org/t/p/w200/gPmRGO7iwVRWNd0n5ePWLfSHeuH.jpg"
     },
     {
-      "title": "Invincible",
-      "release_date": "2006-08-25"
+        "title": "The Secret Life of Bees",
+        "year": 2008,
+        "id": 12837,
+        "poster": "https://image.tmdb.org/t/p/w200/m1LGEeoYfc6crbfG8WmTKg9SVqL.jpg"
     },
     {
-      "title": "Bobby",
-      "release_date": "2006-09-14"
+        "title": "Pride and Glory",
+        "year": 2008,
+        "id": 13150,
+        "poster": "https://image.tmdb.org/t/p/w200/8VZ1ABbtXqwPcc06yXbf3gj3anG.jpg"
     },
     {
-      "title": "The Black Dahlia",
-      "release_date": "2006-08-30"
+        "title": "The Women",
+        "year": 2008,
+        "id": 13972,
+        "poster": "https://image.tmdb.org/t/p/w200/u6UFSOsObmRqitnqIocZ776GmrR.jpg"
     },
     {
-      "title": "Freedom Writers",
-      "release_date": "2007-01-04"
+        "title": "The Express",
+        "year": 2008,
+        "id": 14325,
+        "poster": "https://image.tmdb.org/t/p/w200/l4bOPaxwx1WebQXTeqXzXwf9n3M.jpg"
     },
     {
-      "title": "In the Valley of Elah",
-      "release_date": "2007-09-01"
+        "title": "When Darkness Came: The Making of 'The Mist'",
+        "year": 2008,
+        "id": 601335,
+        "poster": "https://image.tmdb.org/t/p/w200/wh67Qhx7OaCmXWM1wMnxGKHmKlS.jpg"
     },
     {
-      "title": "Lions for Lambs",
-      "release_date": "2007-11-08"
+        "title": "Bad Lieutenant: Port of Call New Orleans",
+        "year": 2009,
+        "id": 11699,
+        "poster": "https://image.tmdb.org/t/p/w200/zRULXsd0rb1lVfnSyQkYPi2nLcB.jpg"
     },
     {
-      "title": "Gracie",
-      "release_date": "2007-06-01"
+        "title": "My One and Only",
+        "year": 2009,
+        "id": 26820,
+        "poster": "https://image.tmdb.org/t/p/w200/niwRJ18nJurSFEVHoeVaPsJVWoL.jpg"
     },
     {
-      "title": "Reservation Road",
-      "release_date": "2007-09-13"
+        "title": "Crossing Over",
+        "year": 2009,
+        "id": 15577,
+        "poster": "https://image.tmdb.org/t/p/w200/6A4WdvbWHJoIN4Y9Q5HXG8R1VYV.jpg"
     },
     {
-      "title": "No Reservations",
-      "release_date": "2007-07-27"
+        "title": "Fame",
+        "year": 2009,
+        "id": 28665,
+        "poster": "https://image.tmdb.org/t/p/w200/hm7f9a0BdjV9OLOJ5wFWQq55Jfd.jpg"
     },
     {
-      "title": "Next",
-      "release_date": "2007-04-27"
+        "title": "Not Forgotten",
+        "year": 2009,
+        "id": 22135,
+        "poster": "https://image.tmdb.org/t/p/w200/hRFrQ7XeD25ErwZMRgawcPrWlTK.jpg"
     },
     {
-      "title": "The Mist",
-      "release_date": "2007-10-18"
+        "title": "The Crazies",
+        "year": 2010,
+        "id": 29427,
+        "poster": "https://image.tmdb.org/t/p/w200/ggtG9DZELyTtM2Y0DRJDOJa5iP8.jpg"
     },
     {
-      "title": "The Black Donnellys",
-      "release_date": "2007"
+        "title": "The Mechanic",
+        "year": 2011,
+        "id": 27582,
+        "poster": "https://image.tmdb.org/t/p/w200/i8IcT4oBKL793qyo91P1RnhroiQ.jpg"
     },
     {
-      "title": "Pride and Glory",
-      "release_date": "2008-10-24"
+        "title": "The Conspirator",
+        "year": 2011,
+        "id": 60309,
+        "poster": "https://image.tmdb.org/t/p/w200/a2ubkGUjGYeKRN1C2Tib0rmjuWf.jpg"
     },
     {
-      "title": "The Express: The Ernie Davis Story",
-      "release_date": "2008-10-10"
+        "title": "Warrior",
+        "year": 2011,
+        "id": 59440,
+        "poster": "https://image.tmdb.org/t/p/w200/iM8n4nZJPR2abpnyZ36FUgHiRjr.jpg"
     },
     {
-      "title": "The Secret Life of Bees",
-      "release_date": "2008-10-17"
+        "title": "Dolphin Tale",
+        "year": 2011,
+        "id": 62837,
+        "poster": "https://image.tmdb.org/t/p/w200/af2SRFllNW26WFG84AfTv3xLT5t.jpg"
     },
     {
-      "title": "Crash",
-      "release_date": "2008"
+        "title": "Stolen",
+        "year": 2012,
+        "id": 127493,
+        "poster": "https://image.tmdb.org/t/p/w200/8rTcpPiet2Lt2uZXBFIH5U7ylBY.jpg"
     },
     {
-      "title": "Crossing Over",
-      "release_date": "2009-02-27"
+        "title": "The Lucky One",
+        "year": 2012,
+        "id": 77877,
+        "poster": "https://image.tmdb.org/t/p/w200/vF1ZuIkF9Z71VzVvG265xJUawb0.jpg"
     },
     {
-      "title": "Not Forgotten",
-      "release_date": "2009-05-01"
+        "title": "The Factory",
+        "year": 2012,
+        "id": 136911,
+        "poster": "https://image.tmdb.org/t/p/w200/qFyWoSJNOZlTRhGEYsd6hv1gGRO.jpg"
     },
     {
-      "title": "Bad Lieutenant: Port of Call New Orleans",
-      "release_date": "2009-11-20"
+        "title": "Homefront",
+        "year": 2013,
+        "id": 204082,
+        "poster": "https://image.tmdb.org/t/p/w200/xcFLM44jgl015wLe7lWC1C1bEEM.jpg"
     },
     {
-      "title": "Fame",
-      "release_date": "2009-09-23"
+        "title": "42",
+        "year": 2013,
+        "id": 109410,
+        "poster": "https://image.tmdb.org/t/p/w200/iZ7jVGQWj3eBUdqwAPUlKk0BaS2.jpg"
     },
     {
-      "title": "The Crazies",
-      "release_date": "2010-02-26"
+        "title": "The Inevitable Defeat of Mister & Pete",
+        "year": 2013,
+        "id": 158908,
+        "poster": "https://image.tmdb.org/t/p/w200/nh6xU7IKEPdrBPYKezf6iKi1Jgc.jpg"
     },
     {
-      "title": "The Conspirator",
-      "release_date": "2010-09-11"
+        "title": "Beyond the Lights",
+        "year": 2014,
+        "id": 241771,
+        "poster": "https://image.tmdb.org/t/p/w200/5Di9UXTa2bDec68WOFcZzgB1ot3.jpg"
     },
     {
-      "title": "The Mechanic",
-      "release_date": "2011-01-28"
+        "title": "The Longest Ride",
+        "year": 2015,
+        "id": 228205,
+        "poster": "https://image.tmdb.org/t/p/w200/qdUVfvPBvT6cetDDM7rn8y2CNZE.jpg"
     },
     {
-      "title": "Dolphin Tale",
-      "release_date": "2011-09-23"
+        "title": "The Great Gilly Hopkins",
+        "year": 2015,
+        "id": 331588,
+        "poster": "https://image.tmdb.org/t/p/w200/xQn2OgADfttTzk8pghMdjHPaKH3.jpg"
     },
     {
-      "title": "Warrior",
-      "release_date": "2011-09-09"
+        "title": "Papa Hemingway in Cuba",
+        "year": 2015,
+        "id": 389323,
+        "poster": "https://image.tmdb.org/t/p/w200/sUxyoy9hIZWqeNUEEbFByWEHzjf.jpg"
     },
     {
-      "title": "Once Upon a Time",
-      "release_date": "2011"
+        "title": "Septembers of Shiraz",
+        "year": 2015,
+        "id": 352179,
+        "poster": "https://image.tmdb.org/t/p/w200/1s2xayFVgYEQb8DxnmNCJZMXgGp.jpg"
     },
     {
-      "title": "\"Morning\"",
-      "release_date": "2011"
+        "title": "A Family Man",
+        "year": 2016,
+        "id": 375183,
+        "poster": "https://image.tmdb.org/t/p/w200/hCUrI8v523NQDJNKoDxGq2nvbvw.jpg"
     },
     {
-      "title": "The Factory",
-      "release_date": "2012-10-20"
+        "title": "Mr. Church",
+        "year": 2016,
+        "id": 374461,
+        "poster": "https://image.tmdb.org/t/p/w200/5fCfZEQwcbuqVPyMu7pN5XNpK5V.jpg"
     },
     {
-      "title": "The Lucky One",
-      "release_date": "2012-04-20"
+        "title": "The Accountant",
+        "year": 2016,
+        "id": 302946,
+        "poster": "https://image.tmdb.org/t/p/w200/fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg"
     },
     {
-      "title": "Beauty and the Beast",
-      "release_date": "2012"
+        "title": "Fallen",
+        "year": 2016,
+        "id": 283378,
+        "poster": "https://image.tmdb.org/t/p/w200/usGCM7wiUQhijEwz39brIaoGlVa.jpg"
     },
     {
-      "title": "The Conjuring",
-      "release_date": "2013-07-15"
+        "title": "Mechanic: Resurrection",
+        "year": 2016,
+        "id": 278924,
+        "poster": "https://image.tmdb.org/t/p/w200/bG3Q6EFcngpPn7uPuQTzTuq9DgV.jpg"
     },
     {
-      "title": "The Inevitable Defeat of Mister and Pete",
-      "release_date": "2013-01-25"
+        "title": "Sun Dogs",
+        "year": 2017,
+        "id": 403068,
+        "poster": "https://image.tmdb.org/t/p/w200/hiEHsguMwMyZMRXgjgQaB2Vpbzj.jpg"
     },
     {
-      "title": "42",
-      "release_date": "2013-04-12"
+        "title": "Megan Leavey",
+        "year": 2017,
+        "id": 424488,
+        "poster": "https://image.tmdb.org/t/p/w200/yq66hYkXFaj2DDqCkF6T2wT7VxQ.jpg"
     },
     {
-      "title": "Homefront",
-      "release_date": "2013-11-27"
+        "title": "Instrument of War",
+        "year": 2017,
+        "id": 480048,
+        "poster": "https://image.tmdb.org/t/p/w200/eI4ZZCC1oDjszKJ5RH3BPCbkVca.jpg"
     },
     {
-      "title": "Once Upon a Time in Wonderland",
-      "release_date": "2013"
+        "title": "Dirty Dancing",
+        "year": 2017,
+        "id": 444902,
+        "poster": "https://image.tmdb.org/t/p/w200/ySL7B4FgYZR5xFBWc7c7lssuCN9.jpg"
     },
     {
-      "title": "Beyond the Lights",
-      "release_date": "2014-09-06"
+        "title": "Duck Duck Goose",
+        "year": 2018,
+        "id": 375107,
+        "poster": "https://image.tmdb.org/t/p/w200/7XURM64DYa9DpS70I2rM4suvq1s.jpg"
     },
     {
-      "title": "The Longest Ride",
-      "release_date": "2015-04-10"
+        "title": "See You Soon",
+        "year": 2019,
+        "id": 610781,
+        "poster": "https://image.tmdb.org/t/p/w200/nKOHCFfMsTSpLAIQKMwXotdEggs.jpg"
     },
     {
-      "title": "Blood & Oil",
-      "release_date": "2015"
+        "title": "A Dog's Journey",
+        "year": 2019,
+        "id": 522518,
+        "poster": "https://image.tmdb.org/t/p/w200/wquJChp0NpoqthYdE3YjXNNxvVC.jpg"
     },
     {
-      "title": "American Crime",
-      "release_date": "2015"
+        "title": "Bolden",
+        "year": 2019,
+        "id": 506876,
+        "poster": "https://image.tmdb.org/t/p/w200/wRoCXrMlOP0PnftcPRvynpUy6Kw.jpg"
     },
     {
-      "title": "A Family Man",
-      "release_date": "2016-09-13"
+        "title": "Togo",
+        "year": 2019,
+        "id": 606856,
+        "poster": "https://image.tmdb.org/t/p/w200/921q4gPNN4J6UxvKaw6SCNBe3F8.jpg"
     },
     {
-      "title": "Mr. Church",
-      "release_date": "2016-04-22"
+        "title": "Bill & Ted Face the Music",
+        "year": 2020,
+        "id": 501979,
+        "poster": "https://image.tmdb.org/t/p/w200/4V2nTPfeB59TcqJcUfQ9ziTi7VN.jpg"
     },
     {
-      "title": "Mechanic: Resurrection",
-      "release_date": "2016-08-22"
+        "title": "Honest Thief",
+        "year": 2020,
+        "id": 553604,
+        "poster": "https://image.tmdb.org/t/p/w200/zeD4PabP6099gpE0STWJrJrCBCs.jpg"
     },
     {
-      "title": "The Accountant",
-      "release_date": "2016-10-10"
+        "title": "Needle in a Timestack",
+        "year": 2021,
+        "id": 452019,
+        "poster": "https://image.tmdb.org/t/p/w200/rjGYOszxlaUAe6EC5yZ4Q8l3aVL.jpg"
     },
     {
-      "title": "Fallen",
-      "release_date": "2016-08-25"
+        "title": "Judas and the Black Messiah",
+        "year": 2021,
+        "id": 583406,
+        "poster": "https://image.tmdb.org/t/p/w200/iIgr75GoqFxe1X5Wz9siOODGe9u.jpg"
     },
     {
-      "title": "Megan Leavey",
-      "release_date": "2017-06-05"
+        "title": "The Unbearable Weight of Massive Talent",
+        "year": 2022,
+        "id": 648579,
+        "poster": "https://image.tmdb.org/t/p/w200/aqhLeieyTpTUKPOfZ3jzo2La0Mq.jpg"
     },
     {
-      "title": "Dirty Dancing",
-      "release_date": "1987-05-12"
+        "title": "Blacklight",
+        "year": 2022,
+        "id": 823625,
+        "poster": "https://image.tmdb.org/t/p/w200/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg"
     },
     {
-      "title": "Black Mirror",
-      "release_date": "2017"
+        "title": "Shooting Stars",
+        "year": 2023,
+        "id": 970284,
+        "poster": "https://image.tmdb.org/t/p/w200/zLQHNW0XVT7IWjUahBlpVSba3sC.jpg"
     },
     {
-      "title": "Philip K. Dick's Electric Dreams",
-      "release_date": "2017"
+        "title": "Soul on Fire",
+        "year": 2025,
+        "id": 1196791,
+        "poster": "https://image.tmdb.org/t/p/w200/iUMmG3Q0JyAuSx9QpIiMFhI5zDo.jpg"
     },
     {
-      "title": "Let It Fall: Los Angeles 1982\u20131992",
-      "release_date": "2017-04-21"
-    },
-    {
-      "title": "Duck Duck Goose",
-      "release_date": "2018-03-09"
-    },
-    {
-      "title": "Marvel's Cloak & Dagger",
-      "release_date": "2018"
-    },
-    {
-      "title": "Bolden",
-      "release_date": "2019-05-03"
-    },
-    {
-      "title": "A Dog's Journey",
-      "release_date": "2019-05-17"
-    },
-    {
-      "title": "Togo",
-      "release_date": "2019-12-20"
-    },
-    {
-      "title": "Godfather of Harlem",
-      "release_date": "2019"
-    },
-    {
-      "title": "Bill & Ted Face the Music",
-      "release_date": "2020-08-28"
-    },
-    {
-      "title": "Honest Thief",
-      "release_date": "2020-10-16"
-    },
-    {
-      "title": "Little Fires Everywhere",
-      "release_date": "2020"
-    },
-    {
-      "title": "Amazing Stories",
-      "release_date": "2020"
-    },
-    {
-      "title": "Judas and the Black Messiah",
-      "release_date": "2021-02-01"
-    },
-    {
-      "title": "Needle in a Timestack",
-      "release_date": "2021-10-15"
-    },
-    {
-      "title": "The Nevers",
-      "release_date": "2021"
-    },
-    {
-      "title": "Sex/Life",
-      "release_date": "2021"
-    },
-    {
-      "title": "Blacklight",
-      "release_date": "2022-02-10"
-    },
-    {
-      "title": "The Unbearable Weight of Massive Talent",
-      "release_date": "2022-03-12"
-    },
-    {
-      "title": "The Cleaning Lady",
-      "release_date": "2022"
-    },
-    {
-      "title": "Shooting Stars",
-      "release_date": "2023-06-02"
-    },
-    {
-      "title": "Justified: City Primeval",
-      "release_date": "2023"
-    },
-    {
-      "title": "Soul on Fire",
-      "release_date": "2025-10-10"
+        "title": "Miracle: The Boys of '80",
+        "year": 2026,
+        "id": 1613335,
+        "poster": "https://image.tmdb.org/t/p/w200/zmMlJPZremA7iSqzg3SgZTXR28Z.jpg"
     }
-  ]
-}
+]

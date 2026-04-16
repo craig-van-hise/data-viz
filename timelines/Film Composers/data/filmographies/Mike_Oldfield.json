@@ -1,205 +1,26 @@
-{
-  "composer": "Mike Oldfield",
-  "filmography": [
+[
     {
-      "title": "Children of the Sun",
-      "release_date": "1968"
+        "title": "Charlotte",
+        "year": 1974,
+        "id": 295232,
+        "poster": "https://image.tmdb.org/t/p/w200/w5sJyxk4itPGfIAAYWokyJq8UVZ.jpg"
     },
     {
-      "title": "\"Two Ships\" / \"Colours of the World\"",
-      "release_date": "1969"
+        "title": "The Space Movie",
+        "year": 1980,
+        "id": 98355,
+        "poster": "https://image.tmdb.org/t/p/w200/6NIgiiU7hbC3I3yoPPMpJMEHqQs.jpg"
     },
     {
-      "title": "\"Child of Allah\" / \"Lady Go Lightly\"",
-      "release_date": "1969"
+        "title": "Milano '83",
+        "year": 1983,
+        "id": 285187,
+        "poster": "https://image.tmdb.org/t/p/w200/3TTCkN2GSYYJvlDuUH9kAlopbyM.jpg"
     },
     {
-      "title": "Shooting at the Moon",
-      "release_date": "1970"
-    },
-    {
-      "title": "\"If You've Got Money\" / \"Yep\"",
-      "release_date": "1970"
-    },
-    {
-      "title": "Edgar Broughton Band",
-      "release_date": "1971"
-    },
-    {
-      "title": "Ear of Beholder",
-      "release_date": "1971"
-    },
-    {
-      "title": "Whatevershebringswesing",
-      "release_date": "1971"
-    },
-    {
-      "title": "Nurses Song with Elephants",
-      "release_date": "1972"
-    },
-    {
-      "title": "Legend",
-      "release_date": "1973"
-    },
-    {
-      "title": "Rock Bottom",
-      "release_date": "1974"
-    },
-    {
-      "title": "The Confessions of Dr. Dream and Other Stories",
-      "release_date": "1974"
-    },
-    {
-      "title": "June 1, 1974",
-      "release_date": "1974"
-    },
-    {
-      "title": "Star's End",
-      "release_date": "1974"
-    },
-    {
-      "title": "Unrest",
-      "release_date": "1974"
-    },
-    {
-      "title": "Theatre Royal Drury Lane 8th September 1974",
-      "release_date": "1974"
-    },
-    {
-      "title": "The Rime of the Ancient Mariner",
-      "release_date": "1975"
-    },
-    {
-      "title": "Odd Ditties",
-      "release_date": "1976"
-    },
-    {
-      "title": "The Odyssey",
-      "release_date": "1976"
-    },
-    {
-      "title": "Bandages",
-      "release_date": "1976"
-    },
-    {
-      "title": "Instructions for Angels",
-      "release_date": "1977"
-    },
-    {
-      "title": "Mathematicians Air Display",
-      "release_date": "1977"
-    },
-    {
-      "title": "Song of the White Horse",
-      "release_date": "1977"
-    },
-    {
-      "title": "Fine Old Tom",
-      "release_date": "1977"
-    },
-    {
-      "title": "Water Bearer",
-      "release_date": "1978"
-    },
-    {
-      "title": "Faerie Symphony",
-      "release_date": "1979"
-    },
-    {
-      "title": "Downwind",
-      "release_date": "1979"
-    },
-    {
-      "title": "Strange Man, Changed Man",
-      "release_date": "1979"
-    },
-    {
-      "title": "\"Judy's Gone Down/Jung Lovers\"",
-      "release_date": "1979"
-    },
-    {
-      "title": "Live",
-      "release_date": "1980"
-    },
-    {
-      "title": "The Concertina Record",
-      "release_date": "1980"
-    },
-    {
-      "title": "Joy",
-      "release_date": "1980"
-    },
-    {
-      "title": "Star Clusters, Nebulae & Places in Devon/The Song of the White Horse",
-      "release_date": "1983"
-    },
-    {
-      "title": "Natasha",
-      "release_date": "1990"
-    },
-    {
-      "title": "K\u00e2ma-S\u00fbtra",
-      "release_date": "1990"
-    },
-    {
-      "title": "Still Life with Guitar",
-      "release_date": "1992"
-    },
-    {
-      "title": "BBC Radio 1: Live in Concert",
-      "release_date": "1992"
-    },
-    {
-      "title": "Pavarotti & Friends",
-      "release_date": "1992"
-    },
-    {
-      "title": "Variations on a Rhythm of Mike Oldfield",
-      "release_date": "1995"
-    },
-    {
-      "title": "Singing the Bruise",
-      "release_date": "1996"
-    },
-    {
-      "title": "Snow Blind",
-      "release_date": "2006-12-08"
-    },
-    {
-      "title": "The Garden of Love",
-      "release_date": "1998"
-    },
-    {
-      "title": "Official Bootleg One",
-      "release_date": "2000"
-    },
-    {
-      "title": "Do Ya Wanna Play, Carl",
-      "release_date": "2000"
-    },
-    {
-      "title": "From the Banks of the River Irwell",
-      "release_date": "2002"
-    },
-    {
-      "title": "Tag und Nacht",
-      "release_date": "2005"
-    },
-    {
-      "title": "Night of the Proms 2006",
-      "release_date": "2006"
-    },
-    {
-      "title": "Journey into Space",
-      "release_date": "2012"
-    },
-    {
-      "title": "Isles of Wonder: Music for the Opening Ceremony of the London 2012 Olympic Games",
-      "release_date": "2012"
-    },
-    {
-      "title": "Islanders",
-      "release_date": "2012"
+        "title": "The Killing Fields",
+        "year": 1984,
+        "id": 625,
+        "poster": "https://image.tmdb.org/t/p/w200/cX6Bv7natnZwQjsV9bLL8mmWjkS.jpg"
     }
-  ]
-}
+]

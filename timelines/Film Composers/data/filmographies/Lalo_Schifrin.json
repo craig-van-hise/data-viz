@@ -1,1065 +1,848 @@
-{
-  "composer": "Lalo Schifrin",
-  "filmography": [
+[
     {
-      "title": "Venga a bailar el rock",
-      "release_date": "1957"
+        "title": "The Boss",
+        "year": 1958,
+        "id": 264386,
+        "poster": "https://image.tmdb.org/t/p/w200/fQpmUmT3GdX3jeUefoTN9ZcNIRV.jpg"
     },
     {
-      "title": "The Boss",
-      "release_date": "1958"
+        "title": "Joy House",
+        "year": 1964,
+        "id": 38421,
+        "poster": "https://image.tmdb.org/t/p/w200/ejmE0meo3edkUEyOIzNaa3273dy.jpg"
     },
     {
-      "title": "Piano Espa\u00f1ol",
-      "release_date": "1959"
+        "title": "See How They Run",
+        "year": 1964,
+        "id": 261217,
+        "poster": "https://image.tmdb.org/t/p/w200/j1TZVSkbqS61T9lDF36odvg3M34.jpg"
     },
     {
-      "title": "A Musical Safari",
-      "release_date": "1961"
+        "title": "Rhino!",
+        "year": 1964,
+        "id": 207963,
+        "poster": "https://image.tmdb.org/t/p/w200/93S23ZnVyy0QbdEVLxGqn7yWCp1.jpg"
     },
     {
-      "title": "Piano, Strings and Bossa Nova",
-      "release_date": "1962"
+        "title": "The Cincinnati Kid",
+        "year": 1965,
+        "id": 886,
+        "poster": "https://image.tmdb.org/t/p/w200/s4Apy8FcF6a0lR1Qay1atpfwAv9.jpg"
     },
     {
-      "title": "Lalo = Brilliance",
-      "release_date": "1962"
+        "title": "Once a Thief",
+        "year": 1965,
+        "id": 36514,
+        "poster": "https://image.tmdb.org/t/p/w200/gQfNFsYfE5a7kB0jiQE4uhnhNYk.jpg"
     },
     {
-      "title": "Bossa Nova: New Brazilian Jazz",
-      "release_date": "1962"
+        "title": "Dark Intruder",
+        "year": 1965,
+        "id": 78411,
+        "poster": "https://image.tmdb.org/t/p/w200/eaGAkaYizziC4qOKKNp2G6PegrJ.jpg"
     },
     {
-      "title": "Samba Para Dos",
-      "release_date": "1963"
+        "title": "The Liquidator",
+        "year": 1965,
+        "id": 26199,
+        "poster": "https://image.tmdb.org/t/p/w200/imi3N0uyOsfRLmLMTgIidh9rHJO.jpg"
     },
     {
-      "title": "Between Broadway & Hollywood",
-      "release_date": "1963"
+        "title": "Way... Way Out",
+        "year": 1966,
+        "id": 102195,
+        "poster": "https://image.tmdb.org/t/p/w200/wcFXDl8AZ6q3Ctf5YalYQko517J.jpg"
     },
     {
-      "title": "Gone with the Wave (soundtrack) (Colpix)",
-      "release_date": "1964"
+        "title": "Blindfold",
+        "year": 1966,
+        "id": 169066,
+        "poster": "https://image.tmdb.org/t/p/w200/kGTcBoJx9cwcwEacRGMp1TkynIR.jpg"
     },
     {
-      "title": "Joy House",
-      "release_date": "1964-06-12"
+        "title": "I Deal in Danger",
+        "year": 1966,
+        "id": 121615,
+        "poster": "https://image.tmdb.org/t/p/w200/zzSTXt7SNFcK6FzKMmbHUmGrv7C.jpg"
     },
     {
-      "title": "Rhino!",
-      "release_date": "1964-05-20"
+        "title": "The Doomsday Flight",
+        "year": 1966,
+        "id": 83814,
+        "poster": "https://image.tmdb.org/t/p/w200/jdlYu75Q1rYbFR9dG7pu4Bp8ZUl.jpg"
     },
     {
-      "title": "See How They Run (TV movie)",
-      "release_date": "1964"
+        "title": "Murderers' Row",
+        "year": 1966,
+        "id": 36642,
+        "poster": "https://image.tmdb.org/t/p/w200/hzCbOzehs5B2hZ2bcb7YxCusEcM.jpg"
     },
     {
-      "title": "Explorations",
-      "release_date": "1964"
+        "title": "Cool Hand Luke",
+        "year": 1967,
+        "id": 903,
+        "poster": "https://image.tmdb.org/t/p/w200/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg"
     },
     {
-      "title": "New Fantasy",
-      "release_date": "1964"
+        "title": "The Venetian Affair",
+        "year": 1967,
+        "id": 79367,
+        "poster": "https://image.tmdb.org/t/p/w200/mFgaP7BoW2dWastwPN995wImzaO.jpg"
     },
     {
-      "title": "The Liquidator (soundtrack) (MGM)",
-      "release_date": "1965"
+        "title": "The Fox",
+        "year": 1967,
+        "id": 74896,
+        "poster": "https://image.tmdb.org/t/p/w200/jzme3QqBk2gbVBOwpffupF3y4Ip.jpg"
     },
     {
-      "title": "The Cincinnati Kid (soundtrack) (MGM)",
-      "release_date": "1965"
+        "title": "Who's Minding the Mint?",
+        "year": 1967,
+        "id": 43710,
+        "poster": "https://image.tmdb.org/t/p/w200/wg3BPrfZ5Kf4S08KkCi8IPhS03u.jpg"
     },
     {
-      "title": "Dark Intruder",
-      "release_date": "1965"
+        "title": "How I Spent My Summer Vacation",
+        "year": 1967,
+        "id": 276793,
+        "poster": "https://image.tmdb.org/t/p/w200/v4X053xkwMUi5D8tZDTYfdswMFM.jpg"
     },
     {
-      "title": "Once a Thief",
-      "release_date": "1965"
+        "title": "The President's Analyst",
+        "year": 1967,
+        "id": 24214,
+        "poster": "https://image.tmdb.org/t/p/w200/q0bU82JwVZUFYnK7YvAKRTvQybV.jpg"
     },
     {
-      "title": "The Liquidator",
-      "release_date": "1965"
+        "title": "Bullitt",
+        "year": 1968,
+        "id": 916,
+        "poster": "https://image.tmdb.org/t/p/w200/2ffzF1WmeXtH420fSUoCrecFvDA.jpg"
     },
     {
-      "title": "The Man from U.N.C.L.E.",
-      "release_date": "2015-08-02"
+        "title": "Hell in the Pacific",
+        "year": 1968,
+        "id": 31681,
+        "poster": "https://image.tmdb.org/t/p/w200/kEiJRrDP6m0o96v7n2UMtad4sAF.jpg"
     },
     {
-      "title": "The Big Valley",
-      "release_date": "1965"
+        "title": "Coogan's Bluff",
+        "year": 1968,
+        "id": 26170,
+        "poster": "https://image.tmdb.org/t/p/w200/A0dObkaXai6q46sIMSRI1MCcN7E.jpg"
     },
     {
-      "title": "Jazz Suite on the Mass Texts",
-      "release_date": "1965"
+        "title": "Sol Madrid",
+        "year": 1968,
+        "id": 139328,
+        "poster": "https://image.tmdb.org/t/p/w200/x4QBMc3rqzXBveLj1A0bWzeYmTh.jpg"
     },
     {
-      "title": "Once a Thief and Other Themes",
-      "release_date": "1965"
+        "title": "Where Angels Go, Trouble Follows",
+        "year": 1968,
+        "id": 71189,
+        "poster": "https://image.tmdb.org/t/p/w200/wnDSUbsbaV2umOX39E2b93yhu30.jpg"
     },
     {
-      "title": "Gone with the Wave",
-      "release_date": "1965"
+        "title": "The Brotherhood",
+        "year": 1968,
+        "id": 53654,
+        "poster": "https://image.tmdb.org/t/p/w200/3w6hBkhRS4G2uMui2S8gaji02JV.jpg"
     },
     {
-      "title": "The Cincinnati Kid",
-      "release_date": "1965-10-15"
+        "title": "The Rise and Fall of the Third Reich",
+        "year": 1968,
+        "id": 292697,
+        "poster": "https://image.tmdb.org/t/p/w200/9Yd2v0a9FPUfwAA9l0Z2cYYgYdA.jpg"
     },
     {
-      "title": "Murderer's Row",
-      "release_date": "1966-12-20"
+        "title": "The Young Lawyers",
+        "year": 1969,
+        "id": 254876,
+        "poster": "https://image.tmdb.org/t/p/w200/tAV4MEXkBS1QRSOAN3N0r3S1tfp.jpg"
     },
     {
-      "title": "Murderer's Row (soundtrack) (Colgems)",
-      "release_date": "1966"
+        "title": "Eye of the Cat",
+        "year": 1969,
+        "id": 121401,
+        "poster": "https://image.tmdb.org/t/p/w200/zoHaQFwqdZj5iusFoCE4w06D7MI.jpg"
     },
     {
-      "title": "Blindfold",
-      "release_date": "1966-05-25"
+        "title": "Che!",
+        "year": 1969,
+        "id": 61411,
+        "poster": "https://image.tmdb.org/t/p/w200/hNPbpo2ar8RFu4VX5ZpZ681WMnp.jpg"
     },
     {
-      "title": "I Deal in Danger",
-      "release_date": "1966"
+        "title": "Mission: Impossible vs. the Mob",
+        "year": 1969,
+        "id": 541618,
+        "poster": "https://image.tmdb.org/t/p/w200/fsjjQFfd4xMXBKYuwiojV5Ll9UD.jpg"
     },
     {
-      "title": "Murderers' Row",
-      "release_date": "1966-12-20"
+        "title": "Kelly's Heroes",
+        "year": 1970,
+        "id": 11589,
+        "poster": "https://image.tmdb.org/t/p/w200/hleMxFKSC42yT0TClS4G29HV11n.jpg"
     },
     {
-      "title": "The Doomsday Flight (TV movie)",
-      "release_date": "1966"
+        "title": "The Mask of Sheba",
+        "year": 1970,
+        "id": 1007781,
+        "poster": "https://image.tmdb.org/t/p/w200/4ZeaPuCxX4nShIRavoPrqdKsk0q.jpg"
     },
     {
-      "title": "The Making of a President: 1964 (TV documentary)",
-      "release_date": "1966"
+        "title": "I Love My Wife",
+        "year": 1970,
+        "id": 280132,
+        "poster": "https://image.tmdb.org/t/p/w200/7RUQkfexb5ewfxZINaQoD3zn6fy.jpg"
     },
     {
-      "title": "Way...Way Out",
-      "release_date": "1966-10-26"
+        "title": "Pussycat, Pussycat, I Love You",
+        "year": 1970,
+        "id": 140638,
+        "poster": "https://image.tmdb.org/t/p/w200/5NG3iF6mli8QMJYNsbzWxzW04t4.jpg"
     },
     {
-      "title": "Blue Light",
-      "release_date": "1966"
+        "title": "WUSA",
+        "year": 1970,
+        "id": 49411,
+        "poster": "https://image.tmdb.org/t/p/w200/3qR3xr9SqlJnSMUy1SjMFWGWzKj.jpg"
     },
     {
-      "title": "T.H.E. Cat",
-      "release_date": "1966"
+        "title": "Dirty Harry",
+        "year": 1971,
+        "id": 984,
+        "poster": "https://image.tmdb.org/t/p/w200/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg"
     },
     {
-      "title": "Mission: Impossible",
-      "release_date": "1996-05-22"
+        "title": "THX 1138",
+        "year": 1971,
+        "id": 636,
+        "poster": "https://image.tmdb.org/t/p/w200/pPyEXW7h2SJRjTsHZqrIlXxOgW9.jpg"
     },
     {
-      "title": "The Dissection and Reconstruction of Music from the Past as Performed by the Inmates of Lalo Schifrin's Demented Ensemble as a Tribute to the Memory of the Marquis De Sade",
-      "release_date": "1966"
+        "title": "The Beguiled",
+        "year": 1971,
+        "id": 31906,
+        "poster": "https://image.tmdb.org/t/p/w200/zfYYQxt0rjrgEVTbpBQ2oVWlVfV.jpg"
     },
     {
-      "title": "Cool Hand Luke (soundtrack) (Dot)",
-      "release_date": "1967"
+        "title": "Pretty Maids All in a Row",
+        "year": 1971,
+        "id": 69321,
+        "poster": "https://image.tmdb.org/t/p/w200/v9fOCFolNCB5RQ4grachHoYK7cb.jpg"
     },
     {
-      "title": "Sol Madrid (soundtrack) (MGM)",
-      "release_date": "1967"
+        "title": "The Christian Licorice Store",
+        "year": 1971,
+        "id": 86296,
+        "poster": "https://image.tmdb.org/t/p/w200/uxKupg4L0WUBPN9iQiP7Ko7f0nh.jpg"
     },
     {
-      "title": "Cool Hand Luke",
-      "release_date": "1967-11-01"
+        "title": "The Hellstrom Chronicle",
+        "year": 1971,
+        "id": 17875,
+        "poster": "https://image.tmdb.org/t/p/w200/edCWeH636wCgUc3UmntxzkcQVDu.jpg"
     },
     {
-      "title": "How I Spent My Summer Vacation (TV movie)",
-      "release_date": "1967"
+        "title": "Earth II",
+        "year": 1971,
+        "id": 140354,
+        "poster": "https://image.tmdb.org/t/p/w200/qvwZlb0WG3VJtJIkg7yQSygCJN7.jpg"
     },
     {
-      "title": "Sullivan's Empire (TV movie)",
-      "release_date": "1967"
+        "title": "Escape",
+        "year": 1971,
+        "id": 252854,
+        "poster": "https://image.tmdb.org/t/p/w200/yN007itJZHyj6cojusGvux5WPJS.jpg"
     },
     {
-      "title": "The Fox",
-      "release_date": "1967-12-13"
+        "title": "Mrs. Pollifax \u2014 Spy",
+        "year": 1971,
+        "id": 172475,
+        "poster": "https://image.tmdb.org/t/p/w200/2AbBnCxF6pyZex5XPcQEUWTBuAJ.jpg"
     },
     {
-      "title": "The President's Analyst",
-      "release_date": "1967-12-21"
+        "title": "Joe Kidd",
+        "year": 1972,
+        "id": 14881,
+        "poster": "https://image.tmdb.org/t/p/w200/gwVL6a6ZPijqM5hB4n2Ztg1akWY.jpg"
     },
     {
-      "title": "The Venetian Affair",
-      "release_date": "1967-01-18"
+        "title": "Prime Cut",
+        "year": 1972,
+        "id": 27292,
+        "poster": "https://image.tmdb.org/t/p/w200/rAesYoQKGIPBJoT7jmaKAUGD9Y8.jpg"
     },
     {
-      "title": "Who's Minding the Mint?",
-      "release_date": "1967-09-26"
+        "title": "Rage",
+        "year": 1972,
+        "id": 101307,
+        "poster": "https://image.tmdb.org/t/p/w200/jpw9TSzdsBBU6DGSh4sy5RtXEn.jpg"
     },
     {
-      "title": "Mannix",
-      "release_date": "1967"
+        "title": "Welcome Home, Johnny Bristol",
+        "year": 1972,
+        "id": 320922,
+        "poster": "https://image.tmdb.org/t/p/w200/vzbqkoohF8NBoBKYpV5sZP7hNvM.jpg"
     },
     {
-      "title": "Music from Mission: Impossible",
-      "release_date": "1967"
+        "title": "The Wrath of God",
+        "year": 1972,
+        "id": 68247,
+        "poster": "https://image.tmdb.org/t/p/w200/7v59ag4DhRzPL9jyVZI2RiHJPPc.jpg"
     },
     {
-      "title": "The Fox (soundtrack) (Warner Bros.)",
-      "release_date": "1968"
+        "title": "Magnum Force",
+        "year": 1973,
+        "id": 10648,
+        "poster": "https://image.tmdb.org/t/p/w200/1uX1uzn09seCftG3rTGLPyFXxV6.jpg"
     },
     {
-      "title": "Mannix (Paramount)",
-      "release_date": "1968"
+        "title": "Enter the Dragon",
+        "year": 1973,
+        "id": 9461,
+        "poster": "https://image.tmdb.org/t/p/w200/fyrh2ULEcmLpGTVLPQqFW45hqr5.jpg"
     },
     {
-      "title": "Bullitt (soundtrack) (Warner Bros.)",
-      "release_date": "1968"
+        "title": "Charley Varrick",
+        "year": 1973,
+        "id": 27331,
+        "poster": "https://image.tmdb.org/t/p/w200/qPG2VPNA72he1Kczm2yFmslPNZN.jpg"
     },
     {
-      "title": "The Rise And Fall Of The Third Reich (documentary soundtrack) (MGM)",
-      "release_date": "1968"
+        "title": "The Neptune Factor",
+        "year": 1973,
+        "id": 62754,
+        "poster": "https://image.tmdb.org/t/p/w200/t4wrizSnKxCgiJTrB7CGnM2eME4.jpg"
     },
     {
-      "title": "Coogan's Bluff  (soundtrack)  (Universal Pictures)",
-      "release_date": "1968"
+        "title": "Hit!",
+        "year": 1973,
+        "id": 103314,
+        "poster": "https://image.tmdb.org/t/p/w200/3J7reLsmnYxMrVuoFm5FA1nvB4o.jpg"
     },
     {
-      "title": "Braddock (TV movie)",
-      "release_date": "1968"
+        "title": "Harry in Your Pocket",
+        "year": 1973,
+        "id": 72460,
+        "poster": "https://image.tmdb.org/t/p/w200/xvElfDmIxXvjjgnhUW7582w7m0e.jpg"
     },
     {
-      "title": "Bullitt",
-      "release_date": "1968-10-17"
+        "title": "The Four Musketeers",
+        "year": 1974,
+        "id": 12310,
+        "poster": "https://image.tmdb.org/t/p/w200/dm0ArEYWrrfyOkMUbKOE8ZnCc92.jpg"
     },
     {
-      "title": "Coogan's Bluff",
-      "release_date": "1968-10-02"
+        "title": "Man on a Swing",
+        "year": 1974,
+        "id": 131437,
+        "poster": "https://image.tmdb.org/t/p/w200/1RQ4sMsIi7CgHXLAbWqvmlAgrMs.jpg"
     },
     {
-      "title": "Hell in the Pacific",
-      "release_date": "1968-12-18"
+        "title": "Golden Needles",
+        "year": 1974,
+        "id": 149464,
+        "poster": "https://image.tmdb.org/t/p/w200/iLx7VcX1L2jn8uCKBKWi4ZjOPFm.jpg"
     },
     {
-      "title": "Sol Madrid",
-      "release_date": "1968"
+        "title": "Guilty or Innocent: The Sam Sheppard Murder Case",
+        "year": 1975,
+        "id": 412527,
+        "poster": "https://image.tmdb.org/t/p/w200/wOaSPX9Up9rl3XorFgpDSXACOZ0.jpg"
     },
     {
-      "title": "The Brotherhood",
-      "release_date": "1968-12-25"
+        "title": "The Master Gunfighter",
+        "year": 1975,
+        "id": 95555,
+        "poster": "https://image.tmdb.org/t/p/w200/yz95fa7KEMjtSOyUnpJnidyUuIc.jpg"
     },
     {
-      "title": "The Rise and Fall of the Third Reich (TV documentary)",
-      "release_date": "1968"
+        "title": "Starsky & Hutch",
+        "year": 1975,
+        "id": 252962,
+        "poster": "https://image.tmdb.org/t/p/w200/9BT4jCtlFWbzg7kqkfAvcrbMj3d.jpg"
     },
     {
-      "title": "Where Angels Go, Trouble Follows",
-      "release_date": "1968"
+        "title": "The Eagle Has Landed",
+        "year": 1976,
+        "id": 11372,
+        "poster": "https://image.tmdb.org/t/p/w200/dxLuj7VIv0ZRdvaIB6eY5fApONF.jpg"
     },
     {
-      "title": "There's a Whole Lalo Schifrin Goin' On",
-      "release_date": "1968"
+        "title": "St. Ives",
+        "year": 1976,
+        "id": 37626,
+        "poster": "https://image.tmdb.org/t/p/w200/lIOyiNfJqrNB33fZeuN4X4PXBAN.jpg"
     },
     {
-      "title": "Che! (soundtrack) (Tetragrammaton)",
-      "release_date": "1969"
+        "title": "Voyage of the Damned",
+        "year": 1976,
+        "id": 75641,
+        "poster": "https://image.tmdb.org/t/p/w200/zXIAI4nLLHyFzLJz3fTmtd4yErF.jpg"
     },
     {
-      "title": "Che!",
-      "release_date": "1969-05-29"
+        "title": "Sky Riders",
+        "year": 1976,
+        "id": 42551,
+        "poster": "https://image.tmdb.org/t/p/w200/yEzWDNm8IkyJvCiaAQBxYhGzk9F.jpg"
     },
     {
-      "title": "Eye of the Cat",
-      "release_date": "1969-06-18"
+        "title": "Special Delivery",
+        "year": 1976,
+        "id": 122708,
+        "poster": "https://image.tmdb.org/t/p/w200/oD4RpgcFWOwTYWJIxsuapTUgPce.jpg"
     },
     {
-      "title": "The Reivers (Rejected score)",
-      "release_date": "1969"
+        "title": "Rollercoaster",
+        "year": 1977,
+        "id": 10670,
+        "poster": "https://image.tmdb.org/t/p/w200/dy23SSGZDp3dftzhDvHXOEM6OaN.jpg"
     },
     {
-      "title": "Mission Impossible Versus the Mob",
-      "release_date": "1969"
+        "title": "Day of the Animals",
+        "year": 1977,
+        "id": 64976,
+        "poster": "https://image.tmdb.org/t/p/w200/exMoNRUifMyFMUBnZrrghlojvHn.jpg"
     },
     {
-      "title": "Medical Center",
-      "release_date": "1969"
+        "title": "Telefon",
+        "year": 1977,
+        "id": 22090,
+        "poster": "https://image.tmdb.org/t/p/w200/dryfRzxf9lFuLI8UPJnjSoa3QxZ.jpg"
     },
     {
-      "title": "More Mission: Impossible",
-      "release_date": "1969"
+        "title": "Good Against Evil",
+        "year": 1977,
+        "id": 48618,
+        "poster": "https://image.tmdb.org/t/p/w200/gj9IavWP3TK7LiahvqR3QnQjWDp.jpg"
     },
     {
-      "title": "Mannix",
-      "release_date": "1969"
+        "title": "The Manitou",
+        "year": 1978,
+        "id": 40060,
+        "poster": "https://image.tmdb.org/t/p/w200/vxTgbgiDUiv66xk0R28hlUua1P6.jpg"
     },
     {
-      "title": "Bullitt",
-      "release_date": "1968-10-17"
+        "title": "The President's Mistress",
+        "year": 1978,
+        "id": 180714,
+        "poster": "https://image.tmdb.org/t/p/w200/yZ4mqYcooHuDrmHiYTJiVB4tK7N.jpg"
     },
     {
-      "title": "Kelly's Heroes (soundtrack) (MGM)",
-      "release_date": "1970"
+        "title": "The Nativity",
+        "year": 1978,
+        "id": 293380,
+        "poster": "https://image.tmdb.org/t/p/w200/ePvWSmtzuGNvViBgF0dt51JSjSW.jpg"
     },
     {
-      "title": "I Love My Wife",
-      "release_date": "1970-12-21"
+        "title": "Return from Witch Mountain",
+        "year": 1978,
+        "id": 14822,
+        "poster": "https://image.tmdb.org/t/p/w200/2bnmbL5YkqfR3OkQRzgoCf3vs4V.jpg"
     },
     {
-      "title": "Imago",
-      "release_date": "1970"
+        "title": "Nunzio",
+        "year": 1978,
+        "id": 121575,
+        "poster": "https://image.tmdb.org/t/p/w200/aAMpRYh1Pzcq7pAYLbnQlYO506L.jpg"
     },
     {
-      "title": "Kelly's Heroes",
-      "release_date": "1970-06-23"
+        "title": "The Cat from Outer Space",
+        "year": 1978,
+        "id": 19378,
+        "poster": "https://image.tmdb.org/t/p/w200/jspJBPlYGuMlwLbSSo0hdgfbnY0.jpg"
     },
     {
-      "title": "Pussycat, Pussycat, I Love You",
-      "release_date": "1970-03-25"
+        "title": "The Amityville Horror",
+        "year": 1979,
+        "id": 11449,
+        "poster": "https://image.tmdb.org/t/p/w200/7VMscq0659xKmcXzd86de1DGV4W.jpg"
     },
     {
-      "title": "The Aquarians (TV movie)",
-      "release_date": "1970"
+        "title": "Escape to Athena",
+        "year": 1979,
+        "id": 28981,
+        "poster": "https://image.tmdb.org/t/p/w200/c4SeQMQnc2eIpQgDTnLRNg0d6iR.jpg"
     },
     {
-      "title": "The Mask of Sheba (TV movie)",
-      "release_date": "1970"
+        "title": "The Concorde... Airport '79",
+        "year": 1979,
+        "id": 29723,
+        "poster": "https://image.tmdb.org/t/p/w200/fQ6NhOGYOHfgccDdRLh7N6vOgw8.jpg"
     },
     {
-      "title": "WUSA",
-      "release_date": "1970-08-19"
+        "title": "Institute for Revenge",
+        "year": 1979,
+        "id": 411692,
+        "poster": null
     },
     {
-      "title": "Dirty Harry (soundtrack)",
-      "release_date": "1971"
+        "title": "Love and Bullets",
+        "year": 1979,
+        "id": 38082,
+        "poster": "https://image.tmdb.org/t/p/w200/zdKxBSl1BEjHTRa8ERLXnZLr8oU.jpg"
     },
     {
-      "title": "Dirty Harry",
-      "release_date": "1971-12-23"
+        "title": "Boulevard Nights",
+        "year": 1979,
+        "id": 82744,
+        "poster": "https://image.tmdb.org/t/p/w200/5Hq4qe0GM3A0MHIEVIkazD1EMXZ.jpg"
     },
     {
-      "title": "Escape (TV movie)",
-      "release_date": "1971"
+        "title": "The Nude Bomb",
+        "year": 1980,
+        "id": 26200,
+        "poster": "https://image.tmdb.org/t/p/w200/1Cw5dYefeLfQ2NkMSEuRoWfsXt9.jpg"
     },
     {
-      "title": "Mrs. Pollifax-Spy",
-      "release_date": "1971-02-17"
+        "title": "When Time Ran Out...",
+        "year": 1980,
+        "id": 47942,
+        "poster": "https://image.tmdb.org/t/p/w200/p2aOR5JZYJbhweEnvgwXaZaGdKF.jpg"
     },
     {
-      "title": "Pretty Maids All in a Row",
-      "release_date": "1971-04-28"
+        "title": "Brubaker",
+        "year": 1980,
+        "id": 1623,
+        "poster": "https://image.tmdb.org/t/p/w200/4DhrSojl3J0Z4wZyM2CfNGnKQWl.jpg"
     },
     {
-      "title": "The Beguiled",
-      "release_date": "1971-05-28"
+        "title": "The Forgotten City of the Planet of the Apes",
+        "year": 1980,
+        "id": 452140,
+        "poster": "https://image.tmdb.org/t/p/w200/xSbMDb2Vx06zamaiw6iIAVRjcj6.jpg"
     },
     {
-      "title": "The Christian Licorice Store",
-      "release_date": "1971-11-24"
+        "title": "Serial",
+        "year": 1980,
+        "id": 41034,
+        "poster": "https://image.tmdb.org/t/p/w200/8JxAZlcYOyZtNiUTUtBzgzskFN9.jpg"
     },
     {
-      "title": "The Hellstrom Chronicle",
-      "release_date": "1971-06-28"
+        "title": "The Big Brawl",
+        "year": 1980,
+        "id": 19267,
+        "poster": "https://image.tmdb.org/t/p/w200/jFl2hmGWFX9mw0NvOOn08Zr8bn5.jpg"
     },
     {
-      "title": "THX 1138",
-      "release_date": "1971-03-11"
+        "title": "The Competition",
+        "year": 1980,
+        "id": 42158,
+        "poster": "https://image.tmdb.org/t/p/w200/14iMtdJY3HjwrmqPUZ55F4LzuCd.jpg"
     },
     {
-      "title": "Joe Kidd",
-      "release_date": "1972-07-19"
+        "title": "Caveman",
+        "year": 1981,
+        "id": 18905,
+        "poster": "https://image.tmdb.org/t/p/w200/cfZfl3wxO8QxHKJsiWUHZg1D62B.jpg"
     },
     {
-      "title": "Prime Cut",
-      "release_date": "1972-06-28"
+        "title": "The Skin",
+        "year": 1981,
+        "id": 63186,
+        "poster": "https://image.tmdb.org/t/p/w200/76BT7xQFchy6FO3jAKj3IMKu66T.jpg"
     },
     {
-      "title": "Rage",
-      "release_date": "1972-11-22"
+        "title": "Buddy Buddy",
+        "year": 1981,
+        "id": 36133,
+        "poster": "https://image.tmdb.org/t/p/w200/7oZcpghGYhLgw60JbJU3btDCHMg.jpg"
     },
     {
-      "title": "The Wrath of God",
-      "release_date": "1972-07-14"
+        "title": "Loophole",
+        "year": 1981,
+        "id": 141824,
+        "poster": "https://image.tmdb.org/t/p/w200/pqOPDPz0WfvvUDsocHEGSdg8NWh.jpg"
     },
     {
-      "title": "Welcome Home, Johnny Bristol (TV movie)",
-      "release_date": "1972"
+        "title": "Chicago Story",
+        "year": 1981,
+        "id": 564780,
+        "poster": "https://image.tmdb.org/t/p/w200/yrrZ0SyTddB9LCwBzCwaKdyp4P7.jpg"
     },
     {
-      "title": "Enter the Dragon (soundtrack) (Warner Bros.)",
-      "release_date": "1973"
+        "title": "The Seduction",
+        "year": 1982,
+        "id": 30038,
+        "poster": "https://image.tmdb.org/t/p/w200/7AOxZI5dzXlcsRVfRdbpPS02xJ6.jpg"
     },
     {
-      "title": "Magnum Force: The Original Score by Lalo Schifrin (Aleph)",
-      "release_date": "1973"
+        "title": "Class of 1984",
+        "year": 1982,
+        "id": 11564,
+        "poster": "https://image.tmdb.org/t/p/w200/68WubzbCTay70jkV0qNyn1KWfkq.jpg"
     },
     {
-      "title": "Charley Varrick",
-      "release_date": "1973-10-19"
+        "title": "Victims",
+        "year": 1982,
+        "id": 262837,
+        "poster": "https://image.tmdb.org/t/p/w200/kioOQEXd9CljaP7HNC4hAWZqty8.jpg"
     },
     {
-      "title": "Egan (TV movie)",
-      "release_date": "1973"
+        "title": "Amityville II: The Possession",
+        "year": 1982,
+        "id": 16235,
+        "poster": "https://image.tmdb.org/t/p/w200/xx9K2m2Arr5EZUQtmggKtEK1f2a.jpg"
     },
     {
-      "title": "Enter the Dragon",
-      "release_date": "1973-07-26"
+        "title": "Falcon's Gold",
+        "year": 1982,
+        "id": 368408,
+        "poster": "https://image.tmdb.org/t/p/w200/tcNkW5RuJ8HReLAEfEADvNnLDsV.jpg"
     },
     {
-      "title": "Harry in Your Pocket",
-      "release_date": "1973"
+        "title": "A Stranger Is Watching",
+        "year": 1982,
+        "id": 21158,
+        "poster": "https://image.tmdb.org/t/p/w200/oR5pmMjly2pR0XfpTDzKKTX8knz.jpg"
     },
     {
-      "title": "Hit!",
-      "release_date": "1973-09-18"
+        "title": "Fast-Walking",
+        "year": 1982,
+        "id": 45962,
+        "poster": "https://image.tmdb.org/t/p/w200/7wFLKdfLW5qFrCDLIGMwSdhebhH.jpg"
     },
     {
-      "title": "Hunter (TV movie)",
-      "release_date": "1973"
+        "title": "Sudden Impact",
+        "year": 1983,
+        "id": 10650,
+        "poster": "https://image.tmdb.org/t/p/w200/fSADY0EEM7ntpK5IwumcGS4UNNE.jpg"
     },
     {
-      "title": "Magnum Force",
-      "release_date": "1973-12-25"
+        "title": "The Osterman Weekend",
+        "year": 1983,
+        "id": 12239,
+        "poster": "https://image.tmdb.org/t/p/w200/9ctWib5LJnTl9oqVNzbD2FNZu80.jpg"
     },
     {
-      "title": "The Neptune Factor",
-      "release_date": "1973-08-03"
+        "title": "The Sting II",
+        "year": 1983,
+        "id": 36912,
+        "poster": "https://image.tmdb.org/t/p/w200/oWySCxbLK4vB7BY5CzonJZuLYa7.jpg"
     },
     {
-      "title": "The Four Musketeers (Original Motion Picture Score) (Label X)",
-      "release_date": "1974"
+        "title": "Rita Hayworth: The Love Goddess",
+        "year": 1983,
+        "id": 354742,
+        "poster": "https://image.tmdb.org/t/p/w200/eZ1RwCfvJtdpV1b8saPSz1voxna.jpg"
     },
     {
-      "title": "Golden Needles",
-      "release_date": "1974-07-17"
+        "title": "Starflight: The Plane That Couldn't Land",
+        "year": 1983,
+        "id": 15494,
+        "poster": "https://image.tmdb.org/t/p/w200/24wBAt0OAbFukArnE8SLKp0JYP3.jpg"
     },
     {
-      "title": "Man on a Swing",
-      "release_date": "1974-02-27"
+        "title": "Doctor Detroit",
+        "year": 1983,
+        "id": 23096,
+        "poster": "https://image.tmdb.org/t/p/w200/aluYVLiLMn5cRPBJV6YyXkItwyZ.jpg"
     },
     {
-      "title": "Night Games (TV movie)",
-      "release_date": "1974"
+        "title": "Tank",
+        "year": 1984,
+        "id": 21871,
+        "poster": "https://image.tmdb.org/t/p/w200/3FIacxCzFP3eLndNVvhRlFjNVc6.jpg"
     },
     {
-      "title": "The Four Musketeers",
-      "release_date": "1974-10-31"
+        "title": "Terror at London Bridge",
+        "year": 1985,
+        "id": 135940,
+        "poster": "https://image.tmdb.org/t/p/w200/z6QOlTvRnroys6DiKj1HHSUgicy.jpg"
     },
     {
-      "title": "Up from the Ape (documentary)",
-      "release_date": "1974"
+        "title": "Private Sessions",
+        "year": 1985,
+        "id": 679937,
+        "poster": "https://image.tmdb.org/t/p/w200/2Zjgbh7ZJAqzjxW0XgfW3rJlHYe.jpg"
     },
     {
-      "title": "Petrocelli",
-      "release_date": "1974"
+        "title": "The Mean Season",
+        "year": 1985,
+        "id": 31652,
+        "poster": "https://image.tmdb.org/t/p/w200/dCPzsNt2Hznkr54J6wfGzpnE1Z4.jpg"
     },
     {
-      "title": "Planet of the Apes",
-      "release_date": "1974"
+        "title": "The New Kids",
+        "year": 1985,
+        "id": 72508,
+        "poster": "https://image.tmdb.org/t/p/w200/rFmDfsFgEtqhc49e95QK1rvg2l7.jpg"
     },
     {
-      "title": "Delancey Street: The Crisis Within (TV movie)",
-      "release_date": "1975"
+        "title": "Bad Medicine",
+        "year": 1985,
+        "id": 78235,
+        "poster": "https://image.tmdb.org/t/p/w200/bnXZRn9MINkA8iDOxaSGmgcVLk7.jpg"
     },
     {
-      "title": "Foster and Laurie (TV movie)",
-      "release_date": "1975"
+        "title": "Beverly Hills Madam",
+        "year": 1986,
+        "id": 134476,
+        "poster": "https://image.tmdb.org/t/p/w200/8y2qQ9bpZsTGxng4HLly45IaiTz.jpg"
     },
     {
-      "title": "Guilty or Innocent: The Sam Sheppard Murder Case (TV movie)",
-      "release_date": "1975"
+        "title": "Black Moon Rising",
+        "year": 1986,
+        "id": 36349,
+        "poster": "https://image.tmdb.org/t/p/w200/2KNhZ3D0YkBDaO82aqWN6WxVvJS.jpg"
     },
     {
-      "title": "The Master Gunfighter",
-      "release_date": "1975"
+        "title": "Triplecross",
+        "year": 1986,
+        "id": 281670,
+        "poster": "https://image.tmdb.org/t/p/w200/zKgwC7Jcc9ZjhAGoacuRn9hJYSt.jpg"
     },
     {
-      "title": "Starsky and Hutch",
-      "release_date": "2004-03-05"
+        "title": "Kung Fu: The Movie",
+        "year": 1986,
+        "id": 48290,
+        "poster": "https://image.tmdb.org/t/p/w200/xMriycO3joP1NFjbNwHmWyFH6pS.jpg"
     },
     {
-      "title": "Sky Riders: Music by Lalo Schifrin  (Aleph)",
-      "release_date": "1976"
+        "title": "The Ladies Club",
+        "year": 1986,
+        "id": 159031,
+        "poster": "https://image.tmdb.org/t/p/w200/fXPmpO7OCpQknNRRMNXeav1EJk7.jpg"
     },
     {
-      "title": "Brenda Starr (TV movie)",
-      "release_date": "1976"
+        "title": "The Fourth Protocol",
+        "year": 1987,
+        "id": 4918,
+        "poster": "https://image.tmdb.org/t/p/w200/qh4JMlyWKttjTUvARdEfqpuvqP0.jpg"
     },
     {
-      "title": "Sky Riders",
-      "release_date": "1976-03-26"
+        "title": "Sparky's Magic Piano",
+        "year": 1987,
+        "id": 370624,
+        "poster": "https://image.tmdb.org/t/p/w200/z1nLpkWsdTQBGAzXAHEDhb97H5u.jpg"
     },
     {
-      "title": "Special Delivery",
-      "release_date": "1976"
+        "title": "The Dead Pool",
+        "year": 1988,
+        "id": 10651,
+        "poster": "https://image.tmdb.org/t/p/w200/krxLLDnFuDtjagN7KrCjuH6QrcW.jpg"
     },
     {
-      "title": "St. Ives",
-      "release_date": "1976-07-23"
+        "title": "Berlin Blues",
+        "year": 1988,
+        "id": 182543,
+        "poster": "https://image.tmdb.org/t/p/w200/omqU24YPHnhc9vZuGPNiJUVJuk7.jpg"
     },
     {
-      "title": "The Eagle Has Landed",
-      "release_date": "1976-12-25"
+        "title": "Shakedown on the Sunset Strip",
+        "year": 1988,
+        "id": 357269,
+        "poster": null
     },
     {
-      "title": "Voyage of the Damned",
-      "release_date": "1976"
+        "title": "The Neon Empire",
+        "year": 1989,
+        "id": 224269,
+        "poster": "https://image.tmdb.org/t/p/w200/jP8mxIWg47IfPxIx4kDjugHPD6l.jpg"
     },
     {
-      "title": "Most Wanted",
-      "release_date": "1976"
+        "title": "Return from the River Kwai",
+        "year": 1989,
+        "id": 59487,
+        "poster": "https://image.tmdb.org/t/p/w200/xUj8c4yEQrWkj17bwoZARqgc9KM.jpg"
     },
     {
-      "title": "Black Widow",
-      "release_date": "1976"
+        "title": "F/X2",
+        "year": 1991,
+        "id": 16820,
+        "poster": "https://image.tmdb.org/t/p/w200/dxfR8JnfabPi7YUg4PFsuAa7geW.jpg"
     },
     {
-      "title": "Voyage of the Damned (soundtrack) (Entr'Acte)",
-      "release_date": "1977"
+        "title": "The Beverly Hillbillies",
+        "year": 1993,
+        "id": 11041,
+        "poster": "https://image.tmdb.org/t/p/w200/refYLEQvzkY63i2IHronCPQODex.jpg"
     },
     {
-      "title": "Rollercoaster (soundtrack) (MCA)",
-      "release_date": "1977"
+        "title": "Manhattan Merengue",
+        "year": 1995,
+        "id": 291337,
+        "poster": "https://image.tmdb.org/t/p/w200/f2qtNgES1BgAMlTIct4zjAQh0BN.jpg"
     },
     {
-      "title": "The Eagle Has Landed (Original Score)  (Aleph)",
-      "release_date": "1977"
+        "title": "Scorpion Spring",
+        "year": 1996,
+        "id": 257315,
+        "poster": "https://image.tmdb.org/t/p/w200/36RZ2Uf0YIHpse8LTZO1PBisKQb.jpg"
     },
     {
-      "title": "Day of the Animals",
-      "release_date": "1977-05-13"
+        "title": "Money Talks",
+        "year": 1997,
+        "id": 9416,
+        "poster": "https://image.tmdb.org/t/p/w200/bN57Rl003E9pYred5kw9Rp8h9Np.jpg"
     },
     {
-      "title": "Good Against Evil (TV movie)",
-      "release_date": "1977"
+        "title": "Rush Hour",
+        "year": 1998,
+        "id": 2109,
+        "poster": "https://image.tmdb.org/t/p/w200/3WsLE6FtxEPRa6U9sbY1ckrn39s.jpg"
     },
     {
-      "title": "Rollercoaster",
-      "release_date": "1977-06-10"
+        "title": "Tango",
+        "year": 1998,
+        "id": 65749,
+        "poster": "https://image.tmdb.org/t/p/w200/87Ze0JLbWYuYbWc1qf6aGxHipnI.jpg"
     },
     {
-      "title": "Telefon",
-      "release_date": "1977-12-16"
+        "title": "Something to Believe In",
+        "year": 1998,
+        "id": 517297,
+        "poster": "https://image.tmdb.org/t/p/w200/mI00eGILrJ84TSPrTQLYEabZ2jt.jpg"
     },
     {
-      "title": "Towering Toccata",
-      "release_date": "1977"
+        "title": "Longshot",
+        "year": 2001,
+        "id": 65257,
+        "poster": "https://image.tmdb.org/t/p/w200/1ALbt1dieWZTF5as9FmULxuNrTl.jpg"
     },
     {
-      "title": "Nunzio",
-      "release_date": "1978-05-10"
+        "title": "Rush Hour 2",
+        "year": 2001,
+        "id": 5175,
+        "poster": "https://image.tmdb.org/t/p/w200/aBQf2vMiCINeVC9v6BGVYKXurTh.jpg"
     },
     {
-      "title": "Return from Witch Mountain",
-      "release_date": "1978-03-10"
+        "title": "Bringing Down the House",
+        "year": 2003,
+        "id": 10678,
+        "poster": "https://image.tmdb.org/t/p/w200/jic0ULHTcqQQaCSIEw6SAhHhIPA.jpg"
     },
     {
-      "title": "The Cat from Outer Space",
-      "release_date": "1978-06-30"
+        "title": "After the Sunset",
+        "year": 2004,
+        "id": 10589,
+        "poster": "https://image.tmdb.org/t/p/w200/1mo3OdxeR6pLgAVt4a3cyvUUQri.jpg"
     },
     {
-      "title": "The Manitou",
-      "release_date": "1978-04-28"
+        "title": "The Bridge of San Luis Rey",
+        "year": 2004,
+        "id": 45881,
+        "poster": "https://image.tmdb.org/t/p/w200/jp26f92Z28eFVmwZ90Q09bnrBEB.jpg"
     },
     {
-      "title": "The Nativity (TV movie)",
-      "release_date": "1978"
+        "title": "Abominable",
+        "year": 2006,
+        "id": 10011,
+        "poster": "https://image.tmdb.org/t/p/w200/hVz9kkRU0RmkjHrb1JQBLlQCncS.jpg"
     },
     {
-      "title": "The President's Mistress (TV movie)",
-      "release_date": "1978"
+        "title": "Rush Hour 3",
+        "year": 2007,
+        "id": 5174,
+        "poster": "https://image.tmdb.org/t/p/w200/mp9CzKxLa2i7yblMXUrzVfGqsCo.jpg"
     },
     {
-      "title": "Gypsies",
-      "release_date": "1978"
-    },
-    {
-      "title": "Boulevard Nights (Original Motion Picture Score) (Varese Sarabande)",
-      "release_date": "1979"
-    },
-    {
-      "title": "Escape to Athena (Original Motion Picture Score) (Varese Sarabande)",
-      "release_date": "1979"
-    },
-    {
-      "title": "The Amityville Horror (soundtrack) (American International Pictures, Inc.)",
-      "release_date": "1979"
-    },
-    {
-      "title": "Boulevard Nights",
-      "release_date": "1979-03-23"
-    },
-    {
-      "title": "Escape to Athena",
-      "release_date": "1979-03-09"
-    },
-    {
-      "title": "Institute for Revenge (TV movie)",
-      "release_date": "1979"
-    },
-    {
-      "title": "Love and Bullets",
-      "release_date": "1979-08-27"
-    },
-    {
-      "title": "The Amityville Horror",
-      "release_date": "1979-07-24"
-    },
-    {
-      "title": "The Concorde ... Airport '79",
-      "release_date": "1979-08-17"
-    },
-    {
-      "title": "No One Home",
-      "release_date": "1979"
-    },
-    {
-      "title": "Serial (Original Motion Picture Soundtrack) (Quartet Records)",
-      "release_date": "1980"
-    },
-    {
-      "title": "The Big Brawl (Soundtrack) (Victor)",
-      "release_date": "1980"
-    },
-    {
-      "title": "Brubaker",
-      "release_date": "1980-06-20"
-    },
-    {
-      "title": "Serial",
-      "release_date": "1980-03-28"
-    },
-    {
-      "title": "The Big Brawl",
-      "release_date": "1980-09-10"
-    },
-    {
-      "title": "The Competition",
-      "release_date": "1980-12-03"
-    },
-    {
-      "title": "The Nude Bomb",
-      "release_date": "1980-05-09"
-    },
-    {
-      "title": "When Time Ran Out",
-      "release_date": "1980-03-28"
-    },
-    {
-      "title": "Buddy Buddy",
-      "release_date": "1981-12-11"
-    },
-    {
-      "title": "Caveman",
-      "release_date": "1981-04-17"
-    },
-    {
-      "title": "La pelle",
-      "release_date": "1981-08-27"
-    },
-    {
-      "title": "Loophole",
-      "release_date": "1981-03-13"
-    },
-    {
-      "title": "The Fridays of Eternity",
-      "release_date": "1981"
-    },
-    {
-      "title": "A Stranger Is Watching",
-      "release_date": "1982-01-22"
-    },
-    {
-      "title": "Amityville II: The Possession",
-      "release_date": "1982-09-24"
-    },
-    {
-      "title": "Class of 1984",
-      "release_date": "1982-08-20"
-    },
-    {
-      "title": "Falcon's Gold (TV movie)",
-      "release_date": "1982"
-    },
-    {
-      "title": "1982: Jinxed!",
-      "release_date": "1982"
-    },
-    {
-      "title": "Fast-Walking",
-      "release_date": "1982"
-    },
-    {
-      "title": "The Seduction",
-      "release_date": "1982-01-16"
-    },
-    {
-      "title": "Victims (TV movie)",
-      "release_date": "1982"
-    },
-    {
-      "title": "Wait Until Dark (TV movie)",
-      "release_date": "1982"
-    },
-    {
-      "title": "Chicago Story",
-      "release_date": "1982"
-    },
-    {
-      "title": "Ins and Outs",
-      "release_date": "1982"
-    },
-    {
-      "title": "Sudden Impact (Soundtrack) (Aleph)",
-      "release_date": "1983"
-    },
-    {
-      "title": "The Osterman Weekend  (Soundtrack) (Varese Sarabande)",
-      "release_date": "1983"
-    },
-    {
-      "title": "Doctor Detroit",
-      "release_date": "1983"
-    },
-    {
-      "title": "Princess Daisy (TV movie)",
-      "release_date": "1983"
-    },
-    {
-      "title": "Rita Hayworth: The Love Goddess (TV movie)",
-      "release_date": "1983"
-    },
-    {
-      "title": "Starflight: The Plane That Couldn't Land (TV movie)",
-      "release_date": "1983"
-    },
-    {
-      "title": "Sudden Impact",
-      "release_date": "1983-12-09"
-    },
-    {
-      "title": "The Osterman Weekend",
-      "release_date": "1983-11-04"
-    },
-    {
-      "title": "The Sting II",
-      "release_date": "1983-02-18"
-    },
-    {
-      "title": "Tank",
-      "release_date": "1984-03-16"
-    },
-    {
-      "title": "Glitter",
-      "release_date": "2001-09-21"
-    },
-    {
-      "title": "Bad Medicine",
-      "release_date": "1985-11-22"
-    },
-    {
-      "title": "Bridge Across Time (TV movie)",
-      "release_date": "1985"
-    },
-    {
-      "title": "Hollywood Wives (TV movie)",
-      "release_date": "1985"
-    },
-    {
-      "title": "Command 5 (TV movie)",
-      "release_date": "1985"
-    },
-    {
-      "title": "Private Sessions (TV movie)",
-      "release_date": "1985"
-    },
-    {
-      "title": "The Mean Season",
-      "release_date": "1985"
-    },
-    {
-      "title": "The New Kids",
-      "release_date": "1985-01-18"
-    },
-    {
-      "title": "A.D. (TV movie)",
-      "release_date": "1985"
-    },
-    {
-      "title": "Beverly Hills Madam (TV movie)",
-      "release_date": "1986"
-    },
-    {
-      "title": "Black Moon Rising",
-      "release_date": "1986-01-10"
-    },
-    {
-      "title": "Kung Fu: The Movie (TV movie)",
-      "release_date": "1986"
-    },
-    {
-      "title": "The Ladies Club",
-      "release_date": "1986"
-    },
-    {
-      "title": "Triplecross (TV movie)",
-      "release_date": "1986"
-    },
-    {
-      "title": "The Fourth Protocol  (Soundtrack) (BSX)",
-      "release_date": "1987"
-    },
-    {
-      "title": "Out on a Limb (TV movie)",
-      "release_date": "1987"
-    },
-    {
-      "title": "The Fourth Protocol",
-      "release_date": "1987-03-20"
-    },
-    {
-      "title": "Sparky's Magic Piano",
-      "release_date": "1987"
-    },
-    {
-      "title": "The Dead Pool  (Soundtrack) (Aleph)",
-      "release_date": "1988"
-    },
-    {
-      "title": "Berl\u00edn Blues",
-      "release_date": "1988"
-    },
-    {
-      "title": "Shakedown on the Sunset Strip (TV movie)",
-      "release_date": "1988"
-    },
-    {
-      "title": "The Dead Pool",
-      "release_date": "1988-07-13"
-    },
-    {
-      "title": "Mission: Impossible (revival)",
-      "release_date": "1988"
-    },
-    {
-      "title": "Cantos Aztecas",
-      "release_date": "1988"
-    },
-    {
-      "title": "Original Sin (TV movie)",
-      "release_date": "1989"
-    },
-    {
-      "title": "Return from the River Kwai",
-      "release_date": "1989-04-07"
-    },
-    {
-      "title": "The Neon Empire (TV movie)",
-      "release_date": "1989"
-    },
-    {
-      "title": "The Liquidator (Soundtrack) (MCA)",
-      "release_date": "1990"
-    },
-    {
-      "title": "Face to Face (TV movie)",
-      "release_date": "1990"
-    },
-    {
-      "title": "F/X2 (Soundtrack) (Quartet Records)",
-      "release_date": "1991"
-    },
-    {
-      "title": "F/X2",
-      "release_date": "1991-05-10"
-    },
-    {
-      "title": "1993 Jazz Meets the Symphony with the London Philharmonic Orchestra (Atlantic) \u2013 rec.",
-      "release_date": "1992"
-    },
-    {
-      "title": "1994 More Jazz Meets the Symphony with the London Philharmonic (Atlantic) \u2013 rec.",
-      "release_date": "1993"
-    },
-    {
-      "title": "The Beverly Hillbillies",
-      "release_date": "1993-10-15"
-    },
-    {
-      "title": "Jazz Meets the Symphony",
-      "release_date": "1993"
-    },
-    {
-      "title": "More Jazz Meets the Symphony",
-      "release_date": "1994"
-    },
-    {
-      "title": "Two Billion Hearts (main theme music)",
-      "release_date": "1995"
-    },
-    {
-      "title": "Manhattan Merengue!",
-      "release_date": "1995"
-    },
-    {
-      "title": "Firebird: Jazz Meets the Symphony No. 3",
-      "release_date": "1995"
-    },
-    {
-      "title": "Lili'uokalani Symphony",
-      "release_date": "1995"
-    },
-    {
-      "title": "Scorpion Spring",
-      "release_date": "1995-10-20"
-    },
-    {
-      "title": "Money Talks  (Soundtrack) (New Line Cinema)",
-      "release_date": "1997"
-    },
-    {
-      "title": "Money Talks",
-      "release_date": "1997-08-22"
-    },
-    {
-      "title": "Tango  (Soundtrack) (Deutsche Grammophon)",
-      "release_date": "1998"
-    },
-    {
-      "title": "Rush Hour",
-      "release_date": "1998-09-18"
-    },
-    {
-      "title": "Something to Believe In",
-      "release_date": "1998-05-08"
-    },
-    {
-      "title": "Tango",
-      "release_date": "1998-08-06"
-    },
-    {
-      "title": "Gillespiana In Cologne",
-      "release_date": "1998"
-    },
-    {
-      "title": "Metamorphosis: Jazz Meets the Symphony",
-      "release_date": "1998"
-    },
-    {
-      "title": "The Fox (Soundtrack) (Aleph)",
-      "release_date": "1999"
-    },
-    {
-      "title": "Rush Hour 2 (Soundtrack) (Varese Sarabande)",
-      "release_date": "2001"
-    },
-    {
-      "title": "Culture Clash: West Meets East (video documentary short)",
-      "release_date": "2001"
-    },
-    {
-      "title": "Jackie Chan's Hong Kong Tour (video documentary short)",
-      "release_date": "2001"
-    },
-    {
-      "title": "Longshot",
-      "release_date": "2001-10-25"
-    },
-    {
-      "title": "Rush Hour 2",
-      "release_date": "2001-08-03"
-    },
-    {
-      "title": "Intersections: Jazz Meets the Symphony",
-      "release_date": "2001"
-    },
-    {
-      "title": "Tom the Cat (short)",
-      "release_date": "2002"
-    },
-    {
-      "title": "The Hellstrom Chronicle (The Original Score by Lalo Schifrin) (Aleph Limited Edition)",
-      "release_date": "2003"
-    },
-    {
-      "title": "Bringing Down the House",
-      "release_date": "2003-03-07"
-    },
-    {
-      "title": "After the Sunset",
-      "release_date": "2004-11-12"
-    },
-    {
-      "title": "Biyik (short)",
-      "release_date": "2004"
-    },
-    {
-      "title": "The Bridge of San Luis Rey",
-      "release_date": "2004-12-22"
-    },
-    {
-      "title": "Tom Clancy's Splinter Cell: Pandora Tomorrow (main theme only)",
-      "release_date": "2004"
-    },
-    {
-      "title": "Les F\u00e9lins (Original Score) (Aleph)",
-      "release_date": "2005"
-    },
-    {
-      "title": "Caveman (Soundtrack) (Aleph)",
-      "release_date": "2005"
-    },
-    {
-      "title": "Kaleidoscope: Jazz Meets the Symphony",
-      "release_date": "2005"
-    },
-    {
-      "title": "Abominable (Soundtrack) (Aleph)",
-      "release_date": "2006"
-    },
-    {
-      "title": "David Shifrin, Shifrin Plays Schifrin",
-      "release_date": "2006"
-    },
-    {
-      "title": "Abominable",
-      "release_date": "2006-04-10"
-    },
-    {
-      "title": "Rush Hour 3 (Soundtrack) (Varese Sarabande)",
-      "release_date": "2007"
-    },
-    {
-      "title": "Rush Hour 3",
-      "release_date": "2007-07-30"
-    },
-    {
-      "title": "Ultrasordine (short)",
-      "release_date": "2007"
-    },
-    {
-      "title": "Autour de 'Rush Hour 3' en 80 mots (video documentary)",
-      "release_date": "2008"
-    },
-    {
-      "title": "Mission Impossible (short)",
-      "release_date": "2009"
-    },
-    {
-      "title": "No Rest for the Wicked: A Basil & Moebius Adventure (short)",
-      "release_date": "2011"
-    },
-    {
-      "title": "Love Story",
-      "release_date": "2011"
-    },
-    {
-      "title": "Invocation: Jazz Meets the Symphony No. 7",
-      "release_date": "2011"
-    },
-    {
-      "title": "Sweetwater",
-      "release_date": "2013-01-24"
-    },
-    {
-      "title": "Man on a Swing (Original Motion Picture Soundtrack) (Quartet Records)",
-      "release_date": "2015"
-    },
-    {
-      "title": "Tales of Halloween (main title composer)",
-      "release_date": "2015"
+        "title": "Piano Cin\u00e9ma",
+        "year": 2022,
+        "id": 1185299,
+        "poster": "https://image.tmdb.org/t/p/w200/aW0QN4ELhmWGnWtkLlyLIMrd1vR.jpg"
     }
-  ]
-}
+]

@@ -1,241 +1,194 @@
-{
-  "composer": "Elliot Goldenthal",
-  "filmography": [
+[
     {
-      "title": "Three Pieces for Piano",
-      "release_date": "1974"
+        "title": "Cocaine Cowboys",
+        "year": 1979,
+        "id": 170696,
+        "poster": "https://image.tmdb.org/t/p/w200/2b6I3c4MYJnIhwDDhPn3rIBCgYq.jpg"
     },
     {
-      "title": "Requiem Mass",
-      "release_date": "1977"
+        "title": "Drugstore Cowboy",
+        "year": 1989,
+        "id": 476,
+        "poster": "https://image.tmdb.org/t/p/w200/1URuvqnZcwL4wy8hIIwQ9p9AxVq.jpg"
     },
     {
-      "title": "Cocaine Cowboys",
-      "release_date": "1979-10-05"
+        "title": "Pet Sematary",
+        "year": 1989,
+        "id": 8913,
+        "poster": "https://image.tmdb.org/t/p/w200/a1gIACZb04bL8EvLqMpofW2Eqeo.jpg"
     },
     {
-      "title": "Sonata for Double Bass and Piano",
-      "release_date": "1979"
+        "title": "Criminal Justice",
+        "year": 1990,
+        "id": 259808,
+        "poster": "https://image.tmdb.org/t/p/w200/9qvYJZc4JA6VEUtT5PNJUq7dPQK.jpg"
     },
     {
-      "title": "Los Heraldos Negros \u2013 a song cycle for singer and percussion",
-      "release_date": "1979"
+        "title": "Grand Isle",
+        "year": 1991,
+        "id": 170399,
+        "poster": "https://image.tmdb.org/t/p/w200/f2Vb68QuJCGUhAj3MR51wIdlXn6.jpg"
     },
     {
-      "title": "Brass Quintet No. 1",
-      "release_date": "1979"
+        "title": "Alien\u00b3",
+        "year": 1992,
+        "id": 8077,
+        "poster": "https://image.tmdb.org/t/p/w200/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg"
     },
     {
-      "title": "Jabberwocky for Woodwind Quartet",
-      "release_date": "1979"
+        "title": "Fool's Fire",
+        "year": 1992,
+        "id": 33589,
+        "poster": "https://image.tmdb.org/t/p/w200/mQQd7W1wz0mBQZy4buoebWqp2pO.jpg"
     },
     {
-      "title": "Blank Generation",
-      "release_date": "1980"
+        "title": "Demolition Man",
+        "year": 1993,
+        "id": 9739,
+        "poster": "https://image.tmdb.org/t/p/w200/dq6AmlVFo92PRuoLCcIyFdoRuxf.jpg"
     },
     {
-      "title": "Brass Quintet No. 2",
-      "release_date": "1980"
+        "title": "Interview with the Vampire",
+        "year": 1994,
+        "id": 628,
+        "poster": "https://image.tmdb.org/t/p/w200/2162lAT2MP36MyJd2sttmj5du5T.jpg"
     },
     {
-      "title": "The King Stag",
-      "release_date": "1984"
+        "title": "Cobb",
+        "year": 1994,
+        "id": 29973,
+        "poster": "https://image.tmdb.org/t/p/w200/clOqh9is8vWZvX6AUjF4HtLdQMj.jpg"
     },
     {
-      "title": "Liberty's Taken",
-      "release_date": "1985"
+        "title": "Roswell",
+        "year": 1994,
+        "id": 43275,
+        "poster": "https://image.tmdb.org/t/p/w200/kU1WrVsRYG8d6qyMhEsRk5dvT5z.jpg"
     },
     {
-      "title": "The Transposed Heads",
-      "release_date": "1986"
+        "title": "Golden Gate",
+        "year": 1994,
+        "id": 63097,
+        "poster": "https://image.tmdb.org/t/p/w200/cAVd9XcGEAUaby42pPKX7g4h22M.jpg"
     },
     {
-      "title": "Pastime Variations \u2013 A Memorial for Ebbets Field",
-      "release_date": "1988"
+        "title": "Batman Forever",
+        "year": 1995,
+        "id": 414,
+        "poster": "https://image.tmdb.org/t/p/w200/i0fJS8M5UKoETjjJ0zwUiKaR8tr.jpg"
     },
     {
-      "title": "The Serpent Woman",
-      "release_date": "1988"
+        "title": "Heat",
+        "year": 1995,
+        "id": 949,
+        "poster": "https://image.tmdb.org/t/p/w200/e09dLw1Ljtccd2P4NsuUvVtS5du.jpg"
     },
     {
-      "title": "Juan Dari\u00e9n: A Carnival Mass",
-      "release_date": "1988"
+        "title": "Voices",
+        "year": 1995,
+        "id": 323293,
+        "poster": "https://image.tmdb.org/t/p/w200/ncBWhzkA48TAYgd7pk4vldoDoHl.jpg"
     },
     {
-      "title": "Drugstore Cowboy",
-      "release_date": "1989-09-11"
+        "title": "Michael Collins",
+        "year": 1996,
+        "id": 1770,
+        "poster": "https://image.tmdb.org/t/p/w200/brIBbU6t9glEGAKRTJ4PMj9OiDC.jpg"
     },
     {
-      "title": "Pet Sematary",
-      "release_date": "1989-04-21"
+        "title": "A Time to Kill",
+        "year": 1996,
+        "id": 1645,
+        "poster": "https://image.tmdb.org/t/p/w200/w8UCke112E9jrhjKcwG32kyhTx5.jpg"
     },
     {
-      "title": "Shadow Play Scherzo for Orchestra",
-      "release_date": "1990"
+        "title": "Batman & Robin",
+        "year": 1997,
+        "id": 415,
+        "poster": "https://image.tmdb.org/t/p/w200/i7hEUpDuMN2LOrCEifFyGSHZQSY.jpg"
     },
     {
-      "title": "Alien 3",
-      "release_date": "1992-05-22"
+        "title": "Sphere",
+        "year": 1998,
+        "id": 10153,
+        "poster": "https://image.tmdb.org/t/p/w200/reR7C7EYe3DiHm5OYpA0ACUMDld.jpg"
     },
     {
-      "title": "Demolition Man",
-      "release_date": "1993-10-08"
+        "title": "The Butcher Boy",
+        "year": 1998,
+        "id": 22797,
+        "poster": "https://image.tmdb.org/t/p/w200/9KrClE5Ax6wzCAwgaGRhQI2Eolk.jpg"
     },
     {
-      "title": "Golden Gate",
-      "release_date": "1994"
+        "title": "Titus",
+        "year": 1999,
+        "id": 12524,
+        "poster": "https://image.tmdb.org/t/p/w200/82mCeQoeT2C7h7vR6Ot9MQotE1R.jpg"
     },
     {
-      "title": "Interview with the Vampire",
-      "release_date": "1994-11-11"
+        "title": "In Dreams",
+        "year": 1999,
+        "id": 28902,
+        "poster": "https://image.tmdb.org/t/p/w200/q3Q00fCgeZGjAYaiwbfTMuIrUb0.jpg"
     },
     {
-      "title": "Cobb",
-      "release_date": "1994-12-02"
+        "title": "Final Fantasy: The Spirits Within",
+        "year": 2001,
+        "id": 2114,
+        "poster": "https://image.tmdb.org/t/p/w200/47b1EwFqqSWxYna7NtUM7iML4oT.jpg"
     },
     {
-      "title": "Batman Forever",
-      "release_date": "1995-06-09"
+        "title": "Frida",
+        "year": 2002,
+        "id": 1360,
+        "poster": "https://image.tmdb.org/t/p/w200/a4hgR6aKoohB6MHni171jbi9BkU.jpg"
     },
     {
-      "title": "Voices From a Locked Room",
-      "release_date": "1995"
+        "title": "The Good Thief",
+        "year": 2003,
+        "id": 6016,
+        "poster": "https://image.tmdb.org/t/p/w200/TMlSiPuj9LymfwPiKFiRRnhkRq.jpg"
     },
     {
-      "title": "Heat",
-      "release_date": "1995-12-15"
+        "title": "S.W.A.T.",
+        "year": 2003,
+        "id": 9257,
+        "poster": "https://image.tmdb.org/t/p/w200/bon63yPVIgUFLP2653Dg9GCOJLJ.jpg"
     },
     {
-      "title": "Michael Collins",
-      "release_date": "1996-08-28"
+        "title": "Wreckage and Rage: Making 'Alien\u00b3'",
+        "year": 2003,
+        "id": 70849,
+        "poster": "https://image.tmdb.org/t/p/w200/st2oN24aB66omHdJnyCiiuwXsWl.jpg"
     },
     {
-      "title": "A Time to Kill",
-      "release_date": "1996-07-24"
+        "title": "Across the Universe",
+        "year": 2007,
+        "id": 4688,
+        "poster": "https://image.tmdb.org/t/p/w200/447c8Te3DXC46rQvDEixKGO4dS6.jpg"
     },
     {
-      "title": "The West",
-      "release_date": "1996"
+        "title": "Public Enemies",
+        "year": 2009,
+        "id": 11322,
+        "poster": "https://image.tmdb.org/t/p/w200/3KgtekisQBrHRsm2cD5UOB6Ce3k.jpg"
     },
     {
-      "title": "The Butcher Boy",
-      "release_date": "1997-07-13"
+        "title": "The Tempest",
+        "year": 2010,
+        "id": 44638,
+        "poster": "https://image.tmdb.org/t/p/w200/9xnDtCsEoaooYYwmqrB2PBFVPag.jpg"
     },
     {
-      "title": "Batman & Robin",
-      "release_date": "1997-06-12"
+        "title": "Our Souls at Night",
+        "year": 2017,
+        "id": 433252,
+        "poster": "https://image.tmdb.org/t/p/w200/e5qqikqIXqBzug3G6RCE8LFydKd.jpg"
     },
     {
-      "title": "Othello",
-      "release_date": "1997"
-    },
-    {
-      "title": "Sphere",
-      "release_date": "1998-02-13"
-    },
-    {
-      "title": "In Dreams",
-      "release_date": "1999-01-15"
-    },
-    {
-      "title": "Titus",
-      "release_date": "1999-12-24"
-    },
-    {
-      "title": "The Green Bird",
-      "release_date": "1980-02-24"
-    },
-    {
-      "title": "Por un beso",
-      "release_date": "2000"
-    },
-    {
-      "title": "Frida",
-      "release_date": "2002-08-29"
-    },
-    {
-      "title": "The Good Thief",
-      "release_date": "2002-09-06"
-    },
-    {
-      "title": "S.W.A.T.",
-      "release_date": "2003-08-08"
-    },
-    {
-      "title": "Great Performances: Dance in America",
-      "release_date": "2003"
-    },
-    {
-      "title": "Grendel",
-      "release_date": "2006"
-    },
-    {
-      "title": "Across the Universe",
-      "release_date": "2007-09-14"
-    },
-    {
-      "title": "Public Enemies",
-      "release_date": "2009-06-19"
-    },
-    {
-      "title": "The Tempest",
-      "release_date": "2010-09-11"
-    },
-    {
-      "title": "String Quartet No. 1 \"The Stone Cutters\"",
-      "release_date": "2013"
-    },
-    {
-      "title": "Adagietto Doloroso for orchestra",
-      "release_date": "2013"
-    },
-    {
-      "title": "A Midsummer Night's Dream",
-      "release_date": "2013"
-    },
-    {
-      "title": "Symphony in G\u266f Minor",
-      "release_date": "2014"
-    },
-    {
-      "title": "Grand Gothic Suite",
-      "release_date": "2014"
-    },
-    {
-      "title": "Lyric Suite: The Floods of Avon for String Orchestra and Piano",
-      "release_date": "2015"
-    },
-    {
-      "title": "Grounded",
-      "release_date": "2006-12-08"
-    },
-    {
-      "title": "Our Souls at Night",
-      "release_date": "2017-09-01"
-    },
-    {
-      "title": "Waltz & Agitato \"Pravda\" for Orchestra",
-      "release_date": "2017"
-    },
-    {
-      "title": "For Trumpet & Strings  (First Movement of \"Trumpet Concerto\")",
-      "release_date": "2017"
-    },
-    {
-      "title": "M. Butterfly",
-      "release_date": "1993-10-01"
-    },
-    {
-      "title": "Trumpet Concerto",
-      "release_date": "2018"
-    },
-    {
-      "title": "The Glorias",
-      "release_date": "2020-01-26"
-    },
-    {
-      "title": "SYMPHONY NO.3 for Soprano and Orchestra\nPoems by Barbara Sadowska",
-      "release_date": "2021"
+        "title": "The Glorias",
+        "year": 2020,
+        "id": 519056,
+        "poster": "https://image.tmdb.org/t/p/w200/bItFQ4QahfILGj9mA5uyJvAimeD.jpg"
     }
-  ]
-}
+]

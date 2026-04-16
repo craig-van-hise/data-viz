@@ -1,721 +1,290 @@
-{
-  "composer": "Malcolm Arnold",
-  "filmography": [
+[
     {
-      "title": "Haile Selassie - March for Piano",
-      "release_date": "1936"
+        "title": "Queen o\u2019 the Border",
+        "year": 1948,
+        "id": 1113034,
+        "poster": "https://image.tmdb.org/t/p/w200/zgFb9OMycoFrkVKha1io4E2kIgy.jpg"
     },
     {
-      "title": "Allegro in E minor for Piano",
-      "release_date": "1937"
+        "title": "The Forbidden Street",
+        "year": 1949,
+        "id": 146818,
+        "poster": "https://image.tmdb.org/t/p/w200/sePhRzyohhaI3Um2c20SfeYnlx5.jpg"
     },
     {
-      "title": "Serenade in G for Piano",
-      "release_date": "1937"
+        "title": "Dollars and Sense",
+        "year": 1949,
+        "id": 1255308,
+        "poster": null
     },
     {
-      "title": "Theme and Variations for Piano",
-      "release_date": "1937"
+        "title": "Your Witness",
+        "year": 1950,
+        "id": 83482,
+        "poster": "https://image.tmdb.org/t/p/w200/nnlFsISnA7LVs5hZKE7FDyikINd.jpg"
     },
     {
-      "title": "Three Piano Pieces",
-      "release_date": "1937"
+        "title": "No Highway in the Sky",
+        "year": 1951,
+        "id": 43882,
+        "poster": "https://image.tmdb.org/t/p/w200/9zmMPkuz7cZJkg6zk0hQlsv6Cy0.jpg"
     },
     {
-      "title": "Day Dreams",
-      "release_date": "1938"
+        "title": "Stolen Face",
+        "year": 1952,
+        "id": 38964,
+        "poster": "https://image.tmdb.org/t/p/w200/bKZQUswbsLJPD7zfWLBfg6bqSa6.jpg"
     },
     {
-      "title": "Phantasy for String Quartet: Vita Abundans",
-      "release_date": "1941"
+        "title": "It Started in Paradise",
+        "year": 1952,
+        "id": 248652,
+        "poster": "https://image.tmdb.org/t/p/w200/94SRRXjp30iQ8GFVTpd1dzc6elO.jpg"
     },
     {
-      "title": "Two Piano Pieces",
-      "release_date": "1941"
+        "title": "The Ringer",
+        "year": 1952,
+        "id": 19839,
+        "poster": "https://image.tmdb.org/t/p/w200/bbVNswFPEjtJV1qcKxexxyMjFzN.jpg"
     },
     {
-      "title": "Trio for Flute, Viola and Bassoon Op. 6",
-      "release_date": "1942"
+        "title": "Home at Seven",
+        "year": 1952,
+        "id": 259183,
+        "poster": "https://image.tmdb.org/t/p/w200/u1wTXmIktK0v04EHdtJ6BYlNeaL.jpg"
     },
     {
-      "title": "Sonata for Piano",
-      "release_date": "1942"
+        "title": "The Holly and the Ivy",
+        "year": 1952,
+        "id": 79817,
+        "poster": "https://image.tmdb.org/t/p/w200/ivKbMaB1KLZf4gaogkxRs7EHmMQ.jpg"
     },
     {
-      "title": "Comedy Overture: Beckus the Dandipratt, Op. 5",
-      "release_date": "1943"
+        "title": "The Sound Barrier",
+        "year": 1952,
+        "id": 51619,
+        "poster": "https://image.tmdb.org/t/p/w200/cExgxdISr0gEvVr74mmpEL4yLh4.jpg"
     },
     {
-      "title": "Larch Trees, Op. 3",
-      "release_date": "1943"
+        "title": "Curtain Up",
+        "year": 1952,
+        "id": 298616,
+        "poster": "https://image.tmdb.org/t/p/w200/ouaRBjU1pgGyeLRsazZHJcxAltn.jpg"
     },
     {
-      "title": "Three Shanties for Woodwind Quintet, Op. 4",
-      "release_date": "1943"
+        "title": "Four Sided Triangle",
+        "year": 1953,
+        "id": 100656,
+        "poster": "https://image.tmdb.org/t/p/w200/4u0xp0rekIy0Fcd0alGnJ3KCJvB.jpg"
     },
     {
-      "title": "Three Piano Pieces",
-      "release_date": "1943"
+        "title": "The Captain's Paradise",
+        "year": 1953,
+        "id": 43354,
+        "poster": "https://image.tmdb.org/t/p/w200/A0mqZ0iS5QhjFNE99BgATuAJWl9.jpg"
     },
     {
-      "title": "Quintet for Flute, Violin, Viola, Horn and Bassoon, Op. 7",
-      "release_date": "1944"
+        "title": "The Belles of St Trinian's",
+        "year": 1954,
+        "id": 11402,
+        "poster": "https://image.tmdb.org/t/p/w200/fKqPAMTJA7df8bHiPPbpV7RzEl8.jpg"
     },
     {
-      "title": "Variations on a Ukrainian Folk Song, Op. 9",
-      "release_date": "1944"
+        "title": "The Sleeping Tiger",
+        "year": 1954,
+        "id": 74753,
+        "poster": "https://image.tmdb.org/t/p/w200/6NXrKPB7iP4Fa3nZwhbj8U9hWga.jpg"
     },
     {
-      "title": "Divertimento No. 1, Op. 1",
-      "release_date": "1945"
+        "title": "Hobson's Choice",
+        "year": 1954,
+        "id": 16410,
+        "poster": "https://image.tmdb.org/t/p/w200/kbP7EgoiOw2bIypai50JWRsqP7p.jpg"
     },
     {
-      "title": "Horn Concerto No. 1, Op. 11",
-      "release_date": "1945"
+        "title": "Beautiful Stranger",
+        "year": 1954,
+        "id": 87936,
+        "poster": "https://image.tmdb.org/t/p/w200/3w9holTLfhiCqmPBDNo2vBrebxT.jpg"
     },
     {
-      "title": "Prelude",
-      "release_date": "1945"
+        "title": "The Sea Shall Not Have Them",
+        "year": 1954,
+        "id": 65799,
+        "poster": "https://image.tmdb.org/t/p/w200/bn2OmRN99wGsJ4TijcdNKHN1UgY.jpg"
     },
     {
-      "title": "Duo for Flute and Viola, Op. 10",
-      "release_date": "1946"
+        "title": "I Am a Camera",
+        "year": 1955,
+        "id": 83119,
+        "poster": "https://image.tmdb.org/t/p/w200/r0giZnOk75uOC1oyokpkZyJ1W29.jpg"
     },
     {
-      "title": "Violin Sonata No. 1, Op. 15",
-      "release_date": "1947"
+        "title": "The Constant Husband",
+        "year": 1955,
+        "id": 59397,
+        "poster": "https://image.tmdb.org/t/p/w200/aiZ55QzzLY1Xj1qHyDHdYG3f9nk.jpg"
     },
     {
-      "title": "Viola Sonata, Op. 17",
-      "release_date": "1947"
+        "title": "The Deep Blue Sea",
+        "year": 1955,
+        "id": 193321,
+        "poster": "https://image.tmdb.org/t/p/w200/98TFnJ8GZlbBnbCZ6v8IIcdCPsP.jpg"
     },
     {
-      "title": "Children's Suite, Op. 16",
-      "release_date": "1947"
+        "title": "A Prize of Gold",
+        "year": 1955,
+        "id": 148083,
+        "poster": "https://image.tmdb.org/t/p/w200/3nay6I5GXkeE0afhHWTpfRjkenu.jpg"
     },
     {
-      "title": "Two Bagatelles, Op. 18",
-      "release_date": "1947"
+        "title": "Trapeze",
+        "year": 1956,
+        "id": 40494,
+        "poster": "https://image.tmdb.org/t/p/w200/3EZKz21OMvvyYg3UqZ3BBzHjWiq.jpg"
     },
     {
-      "title": "The Smoke (Overture), Op. 21",
-      "release_date": "1948"
+        "title": "Wicked as They Come",
+        "year": 1956,
+        "id": 37462,
+        "poster": "https://image.tmdb.org/t/p/w200/4T7LfDPrvnCpwU5UYdDhRMB4v3Q.jpg"
     },
     {
-      "title": "Clarinet Concerto No. 1, Op. 20",
-      "release_date": "1948"
+        "title": "1984",
+        "year": 1956,
+        "id": 1984,
+        "poster": "https://image.tmdb.org/t/p/w200/2EOfGaRluwJe6OlR21JtbLhWDvt.jpg"
     },
     {
-      "title": "Flute Sonatina, Op. 19",
-      "release_date": "1948"
+        "title": "A Hill in Korea",
+        "year": 1956,
+        "id": 107076,
+        "poster": "https://image.tmdb.org/t/p/w200/7CZeGXGyz4TMwFISduFMSAcRbQR.jpg"
     },
     {
-      "title": "String Quartet No. 1, Op. 23",
-      "release_date": "1949"
+        "title": "Port Afrique",
+        "year": 1956,
+        "id": 284464,
+        "poster": "https://image.tmdb.org/t/p/w200/1eqMd22gntIfiYgrlgxNI4VvJ6a.jpg"
     },
     {
-      "title": "Symphony No. 1",
-      "release_date": "1949"
+        "title": "The Bridge on the River Kwai",
+        "year": 1957,
+        "id": 826,
+        "poster": "https://image.tmdb.org/t/p/w200/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg"
     },
     {
-      "title": "English Dances, Set 1, Op. 27",
-      "release_date": "1950"
+        "title": "Blue Murder at St Trinian's",
+        "year": 1957,
+        "id": 16904,
+        "poster": "https://image.tmdb.org/t/p/w200/eeINGxCFRck14wYmYLFF4pc6vsB.jpg"
     },
     {
-      "title": "Serenade for Small Orchestra, Op. 26",
-      "release_date": "1950"
+        "title": "Island in the Sun",
+        "year": 1957,
+        "id": 37373,
+        "poster": "https://image.tmdb.org/t/p/w200/edwem9j28FpivnydLlDCchc5WCy.jpg"
     },
     {
-      "title": "Laudate Dominum (Psalm 150) for choir and organ, Op. 25",
-      "release_date": "1950"
+        "title": "The Key",
+        "year": 1958,
+        "id": 102081,
+        "poster": "https://image.tmdb.org/t/p/w200/30lPhoDVPyZNQ3cjjTlsYuO4x0Z.jpg"
     },
     {
-      "title": "English Dances, Set 2, Op. 33",
-      "release_date": "1951"
+        "title": "The Inn of the Sixth Happiness",
+        "year": 1958,
+        "id": 37451,
+        "poster": "https://image.tmdb.org/t/p/w200/qSkuoH1e3pUO2sbwESHqq2CNPel.jpg"
     },
     {
-      "title": "A Sussex Overture, Op. 31",
-      "release_date": "1951"
+        "title": "Dunkirk",
+        "year": 1958,
+        "id": 17720,
+        "poster": "https://image.tmdb.org/t/p/w200/357BscJA1gDEOzRuTeHnHmVBi7u.jpg"
     },
     {
-      "title": "Symphonic Study Machines Op. 30",
-      "release_date": "1951"
+        "title": "Suddenly, Last Summer",
+        "year": 1959,
+        "id": 14698,
+        "poster": "https://image.tmdb.org/t/p/w200/igma0zn9J5srRvOMDRnxyUDQXJL.jpg"
     },
     {
-      "title": "Concerto for Piano Duet and Strings, Op. 32",
-      "release_date": "1951"
+        "title": "The Angry Silence",
+        "year": 1960,
+        "id": 83995,
+        "poster": "https://image.tmdb.org/t/p/w200/hXQtp9KOgqisXO73WkjiRJnh9mE.jpg"
     },
     {
-      "title": "Oboe Sonatina, Op. 28",
-      "release_date": "1951"
+        "title": "Tunes of Glory",
+        "year": 1960,
+        "id": 43048,
+        "poster": "https://image.tmdb.org/t/p/w200/1Yf5ZggEMxybXGBRVdqzdHLpZ9h.jpg"
     },
     {
-      "title": "Clarinet Sonatina, Op. 29",
-      "release_date": "1951"
+        "title": "The Pure Hell of St Trinian's",
+        "year": 1960,
+        "id": 21077,
+        "poster": "https://image.tmdb.org/t/p/w200/39k98SM5HZIObHqf2F4cnk5ft2i.jpg"
     },
     {
-      "title": "Oboe Concerto, Op. 39",
-      "release_date": "1952"
+        "title": "Whistle Down the Wind",
+        "year": 1961,
+        "id": 34282,
+        "poster": "https://image.tmdb.org/t/p/w200/2Q8wpOJCmhE9B03HoifIcvrPzXz.jpg"
     },
     {
-      "title": "Two Ceremonial Psalms, Op. 35",
-      "release_date": "1952"
+        "title": "On the Fiddle",
+        "year": 1961,
+        "id": 190520,
+        "poster": "https://image.tmdb.org/t/p/w200/nC3vg46ijMSXCTq1BMbhSW5jJnU.jpg"
     },
     {
-      "title": "Divertimento for Flute, Oboe and Clarinet, Op. 37",
-      "release_date": "1952"
+        "title": "The Inspector",
+        "year": 1962,
+        "id": 183247,
+        "poster": "https://image.tmdb.org/t/p/w200/41sxpuxo4U4baj5TK5ap8NliBMp.jpg"
     },
     {
-      "title": "Eight Children's Piano Pieces, Op. 36",
-      "release_date": "1952"
+        "title": "Nine Hours to Rama",
+        "year": 1963,
+        "id": 1849,
+        "poster": "https://image.tmdb.org/t/p/w200/nD2JeJOwl4Vod6Jze1YgA4luhqR.jpg"
     },
     {
-      "title": "The Buccaneer",
-      "release_date": "1952"
+        "title": "The Chalk Garden",
+        "year": 1964,
+        "id": 66022,
+        "poster": "https://image.tmdb.org/t/p/w200/IXGqj9MoPFbaoBcUkUZf97XHlx.jpg"
     },
     {
-      "title": "The Sound Barrier",
-      "release_date": "1952-07-22"
+        "title": "The Thin Red Line",
+        "year": 1964,
+        "id": 188608,
+        "poster": "https://image.tmdb.org/t/p/w200/lXsV3ameod1x2LxOtreXqWqB2w3.jpg"
     },
     {
-      "title": "Stolen Face",
-      "release_date": "1952-06-23"
+        "title": "The Heroes of Telemark",
+        "year": 1965,
+        "id": 16850,
+        "poster": "https://image.tmdb.org/t/p/w200/rKGD7tR8mj02IyQbacmBxE5RIae.jpg"
     },
     {
-      "title": "The Holly and the Ivy",
-      "release_date": "1952-12-22"
+        "title": "The Great St Trinian's Train Robbery",
+        "year": 1966,
+        "id": 14387,
+        "poster": "https://image.tmdb.org/t/p/w200/gtqktwlZVseDW3XkuGQEYGSKTcj.jpg"
     },
     {
-      "title": "Wings of Danger",
-      "release_date": "1952-04-01"
+        "title": "The Reckoning",
+        "year": 1970,
+        "id": 153641,
+        "poster": "https://image.tmdb.org/t/p/w200/q8CKiZbJEoRakx5C5YeBg9FBgkl.jpg"
     },
     {
-      "title": "It Started in Paradise",
-      "release_date": "1952-10-28"
-    },
-    {
-      "title": "Recorder Sonatina, Op. 41",
-      "release_date": "1953"
-    },
-    {
-      "title": "Violin Sonata No. 2, Op. 43",
-      "release_date": "1953"
-    },
-    {
-      "title": "Hobson's Choice",
-      "release_date": "1953"
-    },
-    {
-      "title": "Homage to the Queen",
-      "release_date": "1953"
-    },
-    {
-      "title": "The Captain's Paradise",
-      "release_date": "1953-06-09"
-    },
-    {
-      "title": "Albert R.N.",
-      "release_date": "1953-11-23"
-    },
-    {
-      "title": "Symphony No. 2",
-      "release_date": "1953"
-    },
-    {
-      "title": "Sinfonietta No. 1, Op. 48",
-      "release_date": "1954"
-    },
-    {
-      "title": "Flute Concerto No. 1, Op. 45",
-      "release_date": "1954"
-    },
-    {
-      "title": "Organ Concerto, Op. 47",
-      "release_date": "1954"
-    },
-    {
-      "title": "Harmonica Concerto, Op. 46",
-      "release_date": "1954"
-    },
-    {
-      "title": "Hobson's Choice",
-      "release_date": "1954-04-19"
-    },
-    {
-      "title": "You Know What Sailors Are",
-      "release_date": "1954-02-09"
-    },
-    {
-      "title": "The Sleeping Tiger",
-      "release_date": "1954"
-    },
-    {
-      "title": "Twist of Fate (1954 film) (U.S. 'Beautiful Stranger ')",
-      "release_date": "1954"
-    },
-    {
-      "title": "The Belles of St Trinian's",
-      "release_date": "1954"
-    },
-    {
-      "title": "The Sea Shall Not Have Them",
-      "release_date": "1954-11-30"
-    },
-    {
-      "title": "Tam o' Shanter Overture, Op. 51",
-      "release_date": "1955"
-    },
-    {
-      "title": "Little Suite No. 1, Op. 53",
-      "release_date": "1955"
-    },
-    {
-      "title": "Serenade for Guitar and Strings, Op. 50",
-      "release_date": "1955"
-    },
-    {
-      "title": "John Clare Cantata, Op. 52",
-      "release_date": "1955"
-    },
-    {
-      "title": "The Night My Number Came Up",
-      "release_date": "1955"
-    },
-    {
-      "title": "A Grand, Grand Festival Overture for three vacuum cleaners, a floor polisher, four rifles and orchestra, Op. 57",
-      "release_date": "1956"
-    },
-    {
-      "title": "Sarabande and Polka from Ballet 'Solitaire'",
-      "release_date": "1956"
-    },
-    {
-      "title": "Horn Concerto No. 2, Op. 58",
-      "release_date": "1956"
-    },
-    {
-      "title": "Song of Praise \"John Clare\", Op. 55",
-      "release_date": "1956"
-    },
-    {
-      "title": "Piano Trio, Op. 54",
-      "release_date": "1956"
-    },
-    {
-      "title": "Sarabande and Polka from Solitaire",
-      "release_date": "1956"
-    },
-    {
-      "title": "1984",
-      "release_date": "1956-03-06"
-    },
-    {
-      "title": "Trapeze",
-      "release_date": "1956-05-30"
-    },
-    {
-      "title": "Toy Symphony, Op. 62",
-      "release_date": "1957"
-    },
-    {
-      "title": "Four Scottish Dances, Op. 59",
-      "release_date": "1957"
-    },
-    {
-      "title": "Commonwealth Christmas Overture, Op. 64",
-      "release_date": "1957"
-    },
-    {
-      "title": "Little Suite No. 5, Op. 93a",
-      "release_date": "1957"
-    },
-    {
-      "title": "Oboe Quartet, Op. 61",
-      "release_date": "1957"
-    },
-    {
-      "title": "Duke of Cambridge (march, composed for the centenary of the Royal Military School of Music), Op. 60",
-      "release_date": "1957"
-    },
-    {
-      "title": "The Bridge on the River Kwai",
-      "release_date": "1957-10-02"
-    },
-    {
-      "title": "Symphony No. 3",
-      "release_date": "1957"
-    },
-    {
-      "title": "Sinfonietta No. 2, Op. 65",
-      "release_date": "1958"
-    },
-    {
-      "title": "The Roots of Heaven",
-      "release_date": "1958"
-    },
-    {
-      "title": "Dunkirk",
-      "release_date": "1958-03-20"
-    },
-    {
-      "title": "The Inn of the Sixth Happiness",
-      "release_date": "1958-11-23"
-    },
-    {
-      "title": "The Key",
-      "release_date": "1958-07-01"
-    },
-    {
-      "title": "Sweeney Todd Concert Suite, Op. 68a",
-      "release_date": "1959"
-    },
-    {
-      "title": "The Song of Simeon, Op. 69",
-      "release_date": "1959"
-    },
-    {
-      "title": "Guitar Concerto, Op. 67",
-      "release_date": "1959"
-    },
-    {
-      "title": "Five Blake Songs, for contralto and strings, Op. 66",
-      "release_date": "1959"
-    },
-    {
-      "title": "Carnival of Animals, Op. 72",
-      "release_date": "1960"
-    },
-    {
-      "title": "Parasol",
-      "release_date": "2015-09-23"
-    },
-    {
-      "title": "Tunes of Glory",
-      "release_date": "1960-09-04"
-    },
-    {
-      "title": "Symphony No. 4",
-      "release_date": "1960"
-    },
-    {
-      "title": "Divertimento No. 2, Op. 24 (1950), revised as Op. 75",
-      "release_date": "1961"
-    },
-    {
-      "title": "Little Suite No. 2, Op. 78",
-      "release_date": "1961"
-    },
-    {
-      "title": "Grand Concerto Gastronomique, Op. 76",
-      "release_date": "1961"
-    },
-    {
-      "title": "Quintet For Brass, Op. 73",
-      "release_date": "1961"
-    },
-    {
-      "title": "Whistle Down The Wind",
-      "release_date": "1961"
-    },
-    {
-      "title": "No Love for Johnnie",
-      "release_date": "1961-02-09"
-    },
-    {
-      "title": "Symphony No. 5",
-      "release_date": "1961"
-    },
-    {
-      "title": "Concerto for Two Violins and String Orchestra, Op. 77",
-      "release_date": "1962"
-    },
-    {
-      "title": "The Inspector",
-      "release_date": "1962"
-    },
-    {
-      "title": "The Lion",
-      "release_date": "1962-07-26"
-    },
-    {
-      "title": "Little Suite No. 4, Op. 80a",
-      "release_date": "1963"
-    },
-    {
-      "title": "Little Suite No 1 for Brass Band, (Prelude, Siciliano and Rondo) Op. 80",
-      "release_date": "1963"
-    },
-    {
-      "title": "Nine Hours to Rama",
-      "release_date": "1963-04-03"
-    },
-    {
-      "title": "Tamahine",
-      "release_date": "1963-07-18"
-    },
-    {
-      "title": "Sunshine Overture, Op. 83",
-      "release_date": "1964"
-    },
-    {
-      "title": "Sinfonietta No. 3, Op. 81",
-      "release_date": "1964"
-    },
-    {
-      "title": "Water Music, Op. 82",
-      "release_date": "1964"
-    },
-    {
-      "title": "Duo for Two Cellos, Op. 85",
-      "release_date": "1964"
-    },
-    {
-      "title": "The Chalk Garden",
-      "release_date": "1964"
-    },
-    {
-      "title": "Five pieces for Violin and Piano, Op. 84",
-      "release_date": "1965"
-    },
-    {
-      "title": "The Heroes of Telemark",
-      "release_date": "1965-11-23"
-    },
-    {
-      "title": "Four Cornish Dances, Op. 91",
-      "release_date": "1966"
-    },
-    {
-      "title": "Severn Bridge Variations",
-      "release_date": "1966"
-    },
-    {
-      "title": "Fantasy for Bassoon Op. 86",
-      "release_date": "1966"
-    },
-    {
-      "title": "Fantasy for Clarinet Op. 87",
-      "release_date": "1966"
-    },
-    {
-      "title": "Fantasy for Horn, Op. 88",
-      "release_date": "1966"
-    },
-    {
-      "title": "Fantasy for Flute Op. 89",
-      "release_date": "1966"
-    },
-    {
-      "title": "Fantasy for Oboe Op. 90",
-      "release_date": "1966"
-    },
-    {
-      "title": "Sky West and Crooked",
-      "release_date": "1966"
-    },
-    {
-      "title": "Padstow Lifeboat March, Op. 94",
-      "release_date": "1967"
-    },
-    {
-      "title": "Little Suite No 2 for Brass Band, Op. 93",
-      "release_date": "1967"
-    },
-    {
-      "title": "Symphony No. 6",
-      "release_date": "1967"
-    },
-    {
-      "title": "Africa Texas Style",
-      "release_date": "1967"
-    },
-    {
-      "title": "Peterloo Overture, Op. 97",
-      "release_date": "1968"
-    },
-    {
-      "title": "Anniversary Overture, Op. 99",
-      "release_date": "1968"
-    },
-    {
-      "title": "Concerto for Piano 3 Hands and Orchestra, Op. 104",
-      "release_date": "1969"
-    },
-    {
-      "title": "Fantasy for Trumpet, Op. 100",
-      "release_date": "1969"
-    },
-    {
-      "title": "Fantasy for Trombone, Op. 101",
-      "release_date": "1969"
-    },
-    {
-      "title": "Fantasy for Tuba, Op. 102",
-      "release_date": "1969"
-    },
-    {
-      "title": "The Reckoning",
-      "release_date": "1970-01-08"
-    },
-    {
-      "title": "David Copperfield",
-      "release_date": "1970-01-02"
-    },
-    {
-      "title": "Concerto for 28 players, Op. 105,",
-      "release_date": "1970"
-    },
-    {
-      "title": "Fanfare For Louis",
-      "release_date": "1970"
-    },
-    {
-      "title": "Viola Concerto, Op. 108",
-      "release_date": "1971"
-    },
-    {
-      "title": "Fantasy for Guitar, Op. 107",
-      "release_date": "1971"
-    },
-    {
-      "title": "The Fairfield Overture, Op. 110",
-      "release_date": "1972"
-    },
-    {
-      "title": "Flute Concerto No. 2, Op. 111",
-      "release_date": "1972"
-    },
-    {
-      "title": "Song of Freedom for choir and brass band, Op. 109",
-      "release_date": "1972"
-    },
-    {
-      "title": "A Flourish For Orchestra, Op. 112",
-      "release_date": "1973"
-    },
-    {
-      "title": "Symphony No. 7",
-      "release_date": "1973"
-    },
-    {
-      "title": "Clarinet Concerto No. 2, Op. 115",
-      "release_date": "1974"
-    },
-    {
-      "title": "Fantasy for Brass Band, Op. 114",
-      "release_date": "1974"
-    },
-    {
-      "title": "Fantasy on a Theme of John Field for Piano and Orchestra, Op. 116",
-      "release_date": "1975"
-    },
-    {
-      "title": "String Quartet No. 2, Op. 118",
-      "release_date": "1975"
-    },
-    {
-      "title": "Fantasy for Harp, Op. 117",
-      "release_date": "1975"
-    },
-    {
-      "title": "Philharmonic Concerto, Op. 120",
-      "release_date": "1976"
-    },
-    {
-      "title": "The Return of Odysseus, Op. 119",
-      "release_date": "1976"
-    },
-    {
-      "title": "Variations For Orchestra On A Theme Of Ruth Gipps, Op. 122",
-      "release_date": "1977"
-    },
-    {
-      "title": "Flute Sonata, Op. 121",
-      "release_date": "1977"
-    },
-    {
-      "title": "Symphony for Brass Instruments, Op. 123",
-      "release_date": "1978"
-    },
-    {
-      "title": "Symphony No. 8",
-      "release_date": "1978"
-    },
-    {
-      "title": "Trumpet Concerto, Op. 125",
-      "release_date": "1982"
-    },
-    {
-      "title": "Four Irish Dances, Op. 126",
-      "release_date": "1986"
-    },
-    {
-      "title": "Three Fantasies for Piano, Op. 129",
-      "release_date": "1986"
-    },
-    {
-      "title": "Symphony No. 9",
-      "release_date": "1986"
-    },
-    {
-      "title": "Salute to Thomas Merritt, Op. 98",
-      "release_date": "1987"
-    },
-    {
-      "title": "Brass Quintet No. 2, Op. 132",
-      "release_date": "1987"
-    },
-    {
-      "title": "Fantasy for Recorder, Op. 127",
-      "release_date": "1987"
-    },
-    {
-      "title": "Fantasy for Cello, Op. 130",
-      "release_date": "1987"
-    },
-    {
-      "title": "Little Suite No 3 for Brass Band, Op. 131",
-      "release_date": "1987"
-    },
-    {
-      "title": "Four Welsh Dances, Op. 138",
-      "release_date": "1988"
-    },
-    {
-      "title": "Robert Kett Overture, Op. 141",
-      "release_date": "1988"
-    },
-    {
-      "title": "Cello Concerto Shakespearean, Op. 136",
-      "release_date": "1988"
-    },
-    {
-      "title": "Recorder Concerto, Op. 133",
-      "release_date": "1988"
-    },
-    {
-      "title": "Divertimento for Two Clarinets, Op. 135",
-      "release_date": "1988"
-    },
-    {
-      "title": "Little Suite No. 3, Op. 142",
-      "release_date": "1990"
-    },
-    {
-      "title": "Theme and Variations: Fantasy for Recorder and String Orchestra, Op. 140",
-      "release_date": "1990"
-    },
-    {
-      "title": "The Inn of the Sixth Happiness (Suite)",
-      "release_date": "1992"
-    },
-    {
-      "title": "Use dmy dates from April",
-      "release_date": "2022"
-    },
-    {
-      "title": "Articles needing additional references from July",
-      "release_date": "2023"
+        "title": "The Making of 'The Bridge on the River Kwai'",
+        "year": 2000,
+        "id": 142478,
+        "poster": "https://image.tmdb.org/t/p/w200/1yyyvRd4ZxFCHOqqJ2B4yUrA0gx.jpg"
     }
-  ]
-}
+]

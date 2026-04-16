@@ -1,425 +1,494 @@
-{
-  "composer": "Graeme Revell",
-  "filmography": [
+[
     {
-      "title": "Bangkok Hilton",
-      "release_date": "1988"
+        "title": "Dead Calm",
+        "year": 1989,
+        "id": 10493,
+        "poster": "https://image.tmdb.org/t/p/w200/hXpav86ZX5N1YIfVfVtzuZLNrjW.jpg"
     },
     {
-      "title": "Dead Calm",
-      "release_date": "1989-04-07"
+        "title": "Child's Play 2",
+        "year": 1990,
+        "id": 11186,
+        "poster": "https://image.tmdb.org/t/p/w200/2tPQbPQeHEYAGoXFSW61IWNmoce.jpg"
     },
     {
-      "title": "Spontaneous Combustion",
-      "release_date": "1990-02-23"
+        "title": "Psycho IV: The Beginning",
+        "year": 1990,
+        "id": 40377,
+        "poster": "https://image.tmdb.org/t/p/w200/vxWTkQRAvTvA6rbBhsdC4pdnHuq.jpg"
     },
     {
-      "title": "Child's Play 2",
-      "release_date": "1990-11-09"
+        "title": "Until the End of the World",
+        "year": 1991,
+        "id": 10341,
+        "poster": "https://image.tmdb.org/t/p/w200/sDpYWgYkBlrVnpySXQNsxVvDAAG.jpg"
     },
     {
-      "title": "Till There Was You",
-      "release_date": "1990"
+        "title": "The People Under the Stairs",
+        "year": 1991,
+        "id": 13122,
+        "poster": "https://image.tmdb.org/t/p/w200/8OWDBVmGdM7HwaDtbDsdn6Rlzqj.jpg"
     },
     {
-      "title": "Psycho IV: The Beginning",
-      "release_date": "1990"
+        "title": "Till There Was You",
+        "year": 1991,
+        "id": 271176,
+        "poster": "https://image.tmdb.org/t/p/w200/iM5b21YNIxaDJg0gxQDKOaxNzyd.jpg"
     },
     {
-      "title": "Deadly",
-      "release_date": "1991"
+        "title": "The Hand That Rocks the Cradle",
+        "year": 1992,
+        "id": 11087,
+        "poster": "https://image.tmdb.org/t/p/w200/1fBnyO3SbNBplck45js6O4pQaLw.jpg"
     },
     {
-      "title": "The People Under the Stairs",
-      "release_date": "1991-11-01"
+        "title": "Love Crimes",
+        "year": 1992,
+        "id": 39479,
+        "poster": "https://image.tmdb.org/t/p/w200/l2zE5VYf3SlC66GTpR80bwcWDn4.jpg"
     },
     {
-      "title": "Until the End of the World",
-      "release_date": "1991-09-12"
+        "title": "Faraway, So Close!",
+        "year": 1993,
+        "id": 10434,
+        "poster": "https://image.tmdb.org/t/p/w200/5VaPw0NgM4DloukmQTggzgvD4rb.jpg"
     },
     {
-      "title": "The Hand That Rocks the Cradle",
-      "release_date": "1992-01-10"
+        "title": "Body of Evidence",
+        "year": 1993,
+        "id": 2149,
+        "poster": "https://image.tmdb.org/t/p/w200/rGDfwZHRMpY5R0ZkmaiHHvpYQKB.jpg"
     },
     {
-      "title": "Love Crimes",
-      "release_date": "1992-01-24"
+        "title": "Boxing Helena",
+        "year": 1993,
+        "id": 18215,
+        "poster": "https://image.tmdb.org/t/p/w200/vgs0h94IllpZRheIjBTonjR7Zf2.jpg"
     },
     {
-      "title": "Traces of Red",
-      "release_date": "1992"
+        "title": "The Crush",
+        "year": 1993,
+        "id": 33408,
+        "poster": "https://image.tmdb.org/t/p/w200/4B0eHFjUYYZlkE1fthC29KVC4CS.jpg"
     },
     {
-      "title": "Body of Evidence",
-      "release_date": "1992"
+        "title": "Hard Target",
+        "year": 1993,
+        "id": 2019,
+        "poster": "https://image.tmdb.org/t/p/w200/mXCM7pmUFUGp7QzSmare3RITe6n.jpg"
     },
     {
-      "title": "Boxing Helena",
-      "release_date": "1993-09-03"
+        "title": "Ghost in the Machine",
+        "year": 1993,
+        "id": 41651,
+        "poster": "https://image.tmdb.org/t/p/w200/lyUZFIQj4CekCtGeR3smYNUJWtk.jpg"
     },
     {
-      "title": "Hear No Evil",
-      "release_date": "1993-03-26"
+        "title": "Hear No Evil",
+        "year": 1993,
+        "id": 71140,
+        "poster": "https://image.tmdb.org/t/p/w200/y3cWYMacQAcDeF2x3NZLKm2Xq2t.jpg"
     },
     {
-      "title": "The Crush",
-      "release_date": "1993-04-02"
+        "title": "No Escape",
+        "year": 1994,
+        "id": 10447,
+        "poster": "https://image.tmdb.org/t/p/w200/jRwMdEb5bxwVARU2VmOADTflLfZ.jpg"
     },
     {
-      "title": "Faraway, So Close!",
-      "release_date": "1993-05-18"
+        "title": "The Crow",
+        "year": 1994,
+        "id": 9495,
+        "poster": "https://image.tmdb.org/t/p/w200/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg"
     },
     {
-      "title": "Hard Target",
-      "release_date": "1993-08-20"
+        "title": "Street Fighter",
+        "year": 1994,
+        "id": 11667,
+        "poster": "https://image.tmdb.org/t/p/w200/6yh95dD2Y6uWAlPfWCZZygBM1ec.jpg"
     },
     {
-      "title": "Ghost in the Machine",
-      "release_date": "1993-12-29"
+        "title": "Strange Days",
+        "year": 1995,
+        "id": 281,
+        "poster": "https://image.tmdb.org/t/p/w200/rY5BrDRcYAKE0BYmmT66YG6Uy5Q.jpg"
     },
     {
-      "title": "No Escape",
-      "release_date": "1994-04-29"
+        "title": "The Basketball Diaries",
+        "year": 1995,
+        "id": 10474,
+        "poster": "https://image.tmdb.org/t/p/w200/AhvO1GGDPIgN0hOqZEgaFCbswMK.jpg"
     },
     {
-      "title": "The Crow",
-      "release_date": "1994-05-13"
+        "title": "S.F.W.",
+        "year": 1995,
+        "id": 29444,
+        "poster": "https://image.tmdb.org/t/p/w200/3bq91jWCReRrqlPn81alSoxeXoP.jpg"
     },
     {
-      "title": "S.F.W.",
-      "release_date": "1994-09-15"
+        "title": "The Tie That Binds",
+        "year": 1995,
+        "id": 79593,
+        "poster": "https://image.tmdb.org/t/p/w200/xwrY46PITbSoCiKm9gTnDWP47Kh.jpg"
     },
     {
-      "title": "Street Fighter",
-      "release_date": "1994-12-23"
+        "title": "Mighty Morphin Power Rangers: The Movie",
+        "year": 1995,
+        "id": 9070,
+        "poster": "https://image.tmdb.org/t/p/w200/pcLbHqs80dchv0byHivhdwHKEup.jpg"
     },
     {
-      "title": "Tank Girl",
-      "release_date": "1995-03-31"
+        "title": "Tank Girl",
+        "year": 1995,
+        "id": 9067,
+        "poster": "https://image.tmdb.org/t/p/w200/dpX63vJd6k5fMTudLaEOw9ffX8h.jpg"
     },
     {
-      "title": "The Basketball Diaries",
-      "release_date": "1995-01-27"
+        "title": "From Dusk Till Dawn",
+        "year": 1996,
+        "id": 755,
+        "poster": "https://image.tmdb.org/t/p/w200/sV3kIAmvJ9tPz4Lq5fuf9LLMxte.jpg"
     },
     {
-      "title": "Mighty Morphin Power Rangers: The Movie",
-      "release_date": "1995-06-30"
+        "title": "The Crow: City of Angels",
+        "year": 1996,
+        "id": 10546,
+        "poster": "https://image.tmdb.org/t/p/w200/ppOoLiO2JY0BJQdixs08xrQuAA6.jpg"
     },
     {
-      "title": "Killer: A Journal of Murder",
-      "release_date": "1996-09-06"
+        "title": "Fled",
+        "year": 1996,
+        "id": 18550,
+        "poster": "https://image.tmdb.org/t/p/w200/5oGdTgWXCOKerrfdBxJrOlFyifL.jpg"
     },
     {
-      "title": "The Tie That Binds",
-      "release_date": "1995"
+        "title": "The Craft",
+        "year": 1996,
+        "id": 9100,
+        "poster": "https://image.tmdb.org/t/p/w200/8bW2RdRkloYtEPhbQZN4wcdmJP4.jpg"
     },
     {
-      "title": "Strange Days",
-      "release_date": "1995-10-07"
+        "title": "Race the Sun",
+        "year": 1996,
+        "id": 55731,
+        "poster": "https://image.tmdb.org/t/p/w200/jQA7TXgmEi35Zab6fHQ8VZ7Zhfn.jpg"
     },
     {
-      "title": "Down Came a Blackbird",
-      "release_date": "1995"
+        "title": "The Saint",
+        "year": 1997,
+        "id": 10003,
+        "poster": "https://image.tmdb.org/t/p/w200/k43wPAVeepqzGwP52dKcknQjquj.jpg"
     },
     {
-      "title": "From Dusk till Dawn",
-      "release_date": "1996-01-17"
+        "title": "Spawn",
+        "year": 1997,
+        "id": 10336,
+        "poster": "https://image.tmdb.org/t/p/w200/3svvunKXkhRvEKByGDua1Qu0otq.jpg"
     },
     {
-      "title": "Race the Sun",
-      "release_date": "1996"
+        "title": "Suicide Kings",
+        "year": 1997,
+        "id": 10668,
+        "poster": "https://image.tmdb.org/t/p/w200/rQ2Sidqubi7XiHDScFe1faIz3Uv.jpg"
     },
     {
-      "title": "The Craft",
-      "release_date": "1996-05-03"
+        "title": "Chinese Box",
+        "year": 1997,
+        "id": 30265,
+        "poster": "https://image.tmdb.org/t/p/w200/uhBgCcj0rnqUevY4pRtIEbixhPf.jpg"
     },
     {
-      "title": "Fled",
-      "release_date": "1996-07-19"
+        "title": "Phoenix",
+        "year": 1998,
+        "id": 28047,
+        "poster": "https://image.tmdb.org/t/p/w200/tkppRmx4iBvAeKlopfNTO8hnKxK.jpg"
     },
     {
-      "title": "The Crow: City of Angels",
-      "release_date": "1996-08-30"
+        "title": "The Siege",
+        "year": 1998,
+        "id": 9882,
+        "poster": "https://image.tmdb.org/t/p/w200/gbeeWu8rYaIYMyq9ayN1AepjNxP.jpg"
     },
     {
-      "title": "The Saint",
-      "release_date": "1997-04-04"
+        "title": "Dennis the Menace Strikes Again!",
+        "year": 1998,
+        "id": 45242,
+        "poster": "https://image.tmdb.org/t/p/w200/c6fxRpHNdSA3yv8prMo1sNzOcgF.jpg"
     },
     {
-      "title": "Spawn",
-      "release_date": "1997-08-01"
+        "title": "Bride of Chucky",
+        "year": 1998,
+        "id": 11932,
+        "poster": "https://image.tmdb.org/t/p/w200/yaIPNOcC7ZRuwH3maNwP9qzIo5G.jpg"
     },
     {
-      "title": "Chinese Box",
-      "release_date": "1997-09-04"
+        "title": "Strike!",
+        "year": 1998,
+        "id": 19381,
+        "poster": "https://image.tmdb.org/t/p/w200/cCr8mLqIVkbjBNs1uaZPvkXYnWA.jpg"
     },
     {
-      "title": "Suicide Kings",
-      "release_date": "1997-09-06"
+        "title": "The Big Hit",
+        "year": 1998,
+        "id": 9448,
+        "poster": "https://image.tmdb.org/t/p/w200/7b1JP2WE0UrVAy34U7X4UngWtBi.jpg"
     },
     {
-      "title": "The Big Hit",
-      "release_date": "1998-04-24"
+        "title": "The Negotiator",
+        "year": 1998,
+        "id": 9631,
+        "poster": "https://image.tmdb.org/t/p/w200/dUMHEymATOGbs2K3E4dmNSVBgFQ.jpg"
     },
     {
-      "title": "Phoenix",
-      "release_date": "1998-09-04"
+        "title": "Bats",
+        "year": 1999,
+        "id": 10496,
+        "poster": "https://image.tmdb.org/t/p/w200/pZRcf2BwcxWg594X6XT2jkR2qdb.jpg"
     },
     {
-      "title": "All I Wanna Do",
-      "release_date": "1998-08-21"
+        "title": "Idle Hands",
+        "year": 1999,
+        "id": 6552,
+        "poster": "https://image.tmdb.org/t/p/w200/mCO4gU1lkViGXTkoRBEYrvjDIJu.jpg"
     },
     {
-      "title": "The Negotiator",
-      "release_date": "1998-07-29"
+        "title": "Three to Tango",
+        "year": 1999,
+        "id": 10563,
+        "poster": "https://image.tmdb.org/t/p/w200/z2EhRgWvzNa2NgoX0uModV6mEb2.jpg"
     },
     {
-      "title": "Lulu on the Bridge",
-      "release_date": "1998-08-14"
+        "title": "Titan A.E.",
+        "year": 2000,
+        "id": 7450,
+        "poster": "https://image.tmdb.org/t/p/w200/el2iHk3LTJWfEnwrvcRkvWY501G.jpg"
     },
     {
-      "title": "Bride of Chucky",
-      "release_date": "1998-10-16"
+        "title": "Red Planet",
+        "year": 2000,
+        "id": 8870,
+        "poster": "https://image.tmdb.org/t/p/w200/6svTVlVEJDoOOEz1G09HLeb7vtF.jpg"
     },
     {
-      "title": "The Siege",
-      "release_date": "1998-11-06"
+        "title": "Buddy Boy",
+        "year": 2000,
+        "id": 109479,
+        "poster": "https://image.tmdb.org/t/p/w200/3hLdv9aGXDTs95c0st9wBmaKpZR.jpg"
     },
     {
-      "title": "Dennis the Menace Strikes Again",
-      "release_date": "1998-07-14"
+        "title": "Gossip",
+        "year": 2000,
+        "id": 18041,
+        "poster": "https://image.tmdb.org/t/p/w200/1fyQiQyBFlqjeqgT6sAEh5vo4Fe.jpg"
     },
     {
-      "title": "Idle Hands",
-      "release_date": "1999-04-30"
+        "title": "Pitch Black",
+        "year": 2000,
+        "id": 2787,
+        "poster": "https://image.tmdb.org/t/p/w200/3AnlxZ5CZnhKKzjgFyY6EHxmOyl.jpg"
     },
     {
-      "title": "Buddy Boy",
-      "release_date": "1999-09-05"
+        "title": "Human Nature",
+        "year": 2001,
+        "id": 441,
+        "poster": "https://image.tmdb.org/t/p/w200/eyEgsPIwsr9bUV9n9INH46L5KuM.jpg"
     },
     {
-      "title": "Three to Tango",
-      "release_date": "1999-10-22"
+        "title": "Blow",
+        "year": 2001,
+        "id": 4133,
+        "poster": "https://image.tmdb.org/t/p/w200/yYZFVfk8aeMP4GxBSU9MTvqs9mJ.jpg"
     },
     {
-      "title": "Bats",
-      "release_date": "1999-10-22"
+        "title": "Lara Croft: Tomb Raider",
+        "year": 2001,
+        "id": 1995,
+        "poster": "https://image.tmdb.org/t/p/w200/ye5h6fhfz8TkKV4QeuTucvFzxB9.jpg"
     },
     {
-      "title": "The 13th Warrior",
-      "release_date": "1999-08-27"
+        "title": "Attraction",
+        "year": 2001,
+        "id": 65869,
+        "poster": "https://image.tmdb.org/t/p/w200/sTexeAs91LXC3qp8SbI73pYsqVr.jpg"
     },
     {
-      "title": "Pitch Black",
-      "release_date": "2000-02-18"
+        "title": "Below",
+        "year": 2002,
+        "id": 12590,
+        "poster": "https://image.tmdb.org/t/p/w200/4tsaLD98DcXh4ltOn9wEWhsUkSc.jpg"
     },
     {
-      "title": "Gossip",
-      "release_date": "2000"
+        "title": "Collateral Damage",
+        "year": 2002,
+        "id": 9884,
+        "poster": "https://image.tmdb.org/t/p/w200/rALb2pU8QQGIlYdHezB2F5kwecI.jpg"
     },
     {
-      "title": "Titan A.E.",
-      "release_date": "2000-06-16"
+        "title": "High Crimes",
+        "year": 2002,
+        "id": 11560,
+        "poster": "https://image.tmdb.org/t/p/w200/9sj9rUr7Vu5IfOQHnYKnJuVEw0B.jpg"
     },
     {
-      "title": "Calle 54",
-      "release_date": "2000-09-08"
+        "title": "Out of Time",
+        "year": 2003,
+        "id": 2116,
+        "poster": "https://image.tmdb.org/t/p/w200/zMExJ6RdJQmRMydvozhEBlOLX1m.jpg"
     },
     {
-      "title": "Attraction",
-      "release_date": "2000"
+        "title": "Freddy vs. Jason",
+        "year": 2003,
+        "id": 6466,
+        "poster": "https://image.tmdb.org/t/p/w200/f9ZASRUfl8Jlco7rgRx3ujPR0P7.jpg"
     },
     {
-      "title": "Red Planet",
-      "release_date": "2000-11-06"
+        "title": "Daredevil",
+        "year": 2003,
+        "id": 9480,
+        "poster": "https://image.tmdb.org/t/p/w200/oCDBwSkntYamuw8VJIxMRCtDBmi.jpg"
     },
     {
-      "title": "Frank Herbert's Dune",
-      "release_date": "2000"
+        "title": "Walking Tall",
+        "year": 2004,
+        "id": 11358,
+        "poster": "https://image.tmdb.org/t/p/w200/2sdmKtRz2SlGSLxxZDePKm5zxus.jpg"
     },
     {
-      "title": "Double Take",
-      "release_date": "2001"
+        "title": "Open Water",
+        "year": 2004,
+        "id": 83,
+        "poster": "https://image.tmdb.org/t/p/w200/7Gy5N0Yp7ocaKBR860v9KDbpYHj.jpg"
     },
     {
-      "title": "Blow",
-      "release_date": "2001"
+        "title": "The Chronicles of Riddick",
+        "year": 2004,
+        "id": 2789,
+        "poster": "https://image.tmdb.org/t/p/w200/bVO1r90diKfFLzvZ5D3qK6Z558O.jpg"
     },
     {
-      "title": "Human Nature",
-      "release_date": "2001-05-18"
+        "title": "Sin City",
+        "year": 2005,
+        "id": 187,
+        "poster": "https://image.tmdb.org/t/p/w200/i66G50wATMmPrvpP95f0XP6ZdVS.jpg"
     },
     {
-      "title": "Lara Croft: Tomb Raider",
-      "release_date": "2001-06-15"
+        "title": "The Fog",
+        "year": 2005,
+        "id": 791,
+        "poster": "https://image.tmdb.org/t/p/w200/v9vt49PUDJGkrMVjhb3yiYo7H4Y.jpg"
     },
     {
-      "title": "Anne Frank: The Whole Story",
-      "release_date": "2001"
+        "title": "\u00c6on Flux",
+        "year": 2005,
+        "id": 8202,
+        "poster": "https://image.tmdb.org/t/p/w200/5958Nt4QX6aRSUdQnvNw8wqjTJQ.jpg"
     },
     {
-      "title": "Collateral Damage",
-      "release_date": "2002-02-04"
+        "title": "Harsh Times",
+        "year": 2005,
+        "id": 7873,
+        "poster": "https://image.tmdb.org/t/p/w200/raBWBnGz2X6FQ3iUwPwYQE4FrkY.jpg"
     },
     {
-      "title": "High Crimes",
-      "release_date": "2002-04-05"
+        "title": "Goal!",
+        "year": 2005,
+        "id": 9763,
+        "poster": "https://image.tmdb.org/t/p/w200/9YZhJGoIbJtrjDYbENGhR6f6SZE.jpg"
     },
     {
-      "title": "Below",
-      "release_date": "2002-10-11"
+        "title": "Assault on Precinct 13",
+        "year": 2005,
+        "id": 8978,
+        "poster": "https://image.tmdb.org/t/p/w200/oBpsRvMN1ONl8oFHuWt1rasDYFJ.jpg"
     },
     {
-      "title": "CSI: Miami",
-      "release_date": "2002"
+        "title": "The Adventures of Sharkboy and Lavagirl",
+        "year": 2005,
+        "id": 14199,
+        "poster": "https://image.tmdb.org/t/p/w200/xpFbHSkRgOxOoutKqXob9T8iBPA.jpg"
     },
     {
-      "title": "Daredevil",
-      "release_date": "2003-02-14"
+        "title": "Man of the Year",
+        "year": 2006,
+        "id": 9895,
+        "poster": "https://image.tmdb.org/t/p/w200/s1etp9ZqcRqZVfonrdFJbQ6mgk9.jpg"
     },
     {
-      "title": "Freddy vs. Jason",
-      "release_date": "2003-08-15"
+        "title": "Bordertown",
+        "year": 2007,
+        "id": 4351,
+        "poster": "https://image.tmdb.org/t/p/w200/c0AR36VzvB5ileCoMfSlV9bFsVn.jpg"
     },
     {
-      "title": "Out of Time",
-      "release_date": "2003-10-03"
+        "title": "Grindhouse",
+        "year": 2007,
+        "id": 285923,
+        "poster": "https://image.tmdb.org/t/p/w200/tvMBwJlmQTIQf5EBjHzzyE9tjcN.jpg"
     },
     {
-      "title": "Open Water",
-      "release_date": "2003-10-26"
+        "title": "Awake",
+        "year": 2007,
+        "id": 13483,
+        "poster": "https://image.tmdb.org/t/p/w200/jIPIxaBcppLLkygko7tV5yuTIs1.jpg"
     },
     {
-      "title": "Walking Tall",
-      "release_date": "2004-04-02"
+        "title": "Marigold",
+        "year": 2007,
+        "id": 25827,
+        "poster": "https://image.tmdb.org/t/p/w200/GwaIlVG1eG8yRkySKX7Si4V6xo.jpg"
     },
     {
-      "title": "The Chronicles of Riddick",
-      "release_date": "2004-06-11"
+        "title": "Street Kings",
+        "year": 2008,
+        "id": 1266,
+        "poster": "https://image.tmdb.org/t/p/w200/iTO7sBfVTr7LUqiFtGeFW7g2Ncf.jpg"
     },
     {
-      "title": "Assault on Precinct 13",
-      "release_date": "2005-01-19"
+        "title": "The Ruins",
+        "year": 2008,
+        "id": 11152,
+        "poster": "https://image.tmdb.org/t/p/w200/6HpicbiT7xmlMjQXOSCeNoLZGpf.jpg"
     },
     {
-      "title": "Sin City",
-      "release_date": "2005-03-28"
+        "title": "Pineapple Express",
+        "year": 2008,
+        "id": 10189,
+        "poster": "https://image.tmdb.org/t/p/w200/6E50WjeOYjDZg9HXgPjYdGtY2jG.jpg"
     },
     {
-      "title": "The Adventures of Sharkboy and Lavagirl in 3-D",
-      "release_date": "2005-06-04"
+        "title": "Days of Wrath",
+        "year": 2008,
+        "id": 125999,
+        "poster": "https://image.tmdb.org/t/p/w200/uG5f4O6ehAfrE5dnQgnfMWB9zYE.jpg"
     },
     {
-      "title": "Goal!",
-      "release_date": "2005-10-01"
+        "title": "Unthinkable",
+        "year": 2010,
+        "id": 38199,
+        "poster": "https://image.tmdb.org/t/p/w200/6yQqguytl10FhImngDHV90Aqewa.jpg"
     },
     {
-      "title": "Harsh Times",
-      "release_date": "2005-09-11"
+        "title": "The Experiment",
+        "year": 2010,
+        "id": 43549,
+        "poster": "https://image.tmdb.org/t/p/w200/zy6hJYii2PJfMRoUBlULhfuLsgL.jpg"
     },
     {
-      "title": "The Fog",
-      "release_date": "1980-02-01"
+        "title": "Shark Night 3D",
+        "year": 2011,
+        "id": 65055,
+        "poster": "https://image.tmdb.org/t/p/w200/cjfRqUXtNc2iJHfP60HTq9nFs0.jpg"
     },
     {
-      "title": "\u00c6on Flux",
-      "release_date": "2005-12-02"
+        "title": "Last Will. & Testament",
+        "year": 2012,
+        "id": 140834,
+        "poster": "https://image.tmdb.org/t/p/w200/biHq7qaVzVNqVI6juHrOjfkgeHn.jpg"
     },
     {
-      "title": "Call of Duty 2",
-      "release_date": "2005"
-    },
-    {
-      "title": "Call of Duty 2: Big Red One",
-      "release_date": "2005"
-    },
-    {
-      "title": "Bordertown",
-      "release_date": "2007-02-15"
-    },
-    {
-      "title": "Man of the Year",
-      "release_date": "2006-10-13"
-    },
-    {
-      "title": "Marigold",
-      "release_date": "2007"
-    },
-    {
-      "title": "Planet Terror",
-      "release_date": "2007-04-06"
-    },
-    {
-      "title": "The Condemned",
-      "release_date": "2007-04-27"
-    },
-    {
-      "title": "Darfur Now",
-      "release_date": "2007-11-02"
-    },
-    {
-      "title": "Awake",
-      "release_date": "2007-11-30"
-    },
-    {
-      "title": "The Ruins",
-      "release_date": "2008-04-04"
-    },
-    {
-      "title": "Street Kings",
-      "release_date": "2008-04-03"
-    },
-    {
-      "title": "Pineapple Express",
-      "release_date": "2008-08-08"
-    },
-    {
-      "title": "Days of Wrath",
-      "release_date": "2008-09-17"
-    },
-    {
-      "title": "Eleventh Hour",
-      "release_date": "2008"
-    },
-    {
-      "title": "The Forgotten",
-      "release_date": "2009"
-    },
-    {
-      "title": "Dark Blue",
-      "release_date": "2002-12-21"
-    },
-    {
-      "title": "Unthinkable",
-      "release_date": "2010-06-14"
-    },
-    {
-      "title": "The Experiment",
-      "release_date": "2010-07-15"
-    },
-    {
-      "title": "Kites: The Remix",
-      "release_date": "2010-05-21"
-    },
-    {
-      "title": "Kites",
-      "release_date": "2010-05-21"
-    },
-    {
-      "title": "Shark Night",
-      "release_date": "2011-09-02"
-    },
-    {
-      "title": "The River",
-      "release_date": "2012"
-    },
-    {
-      "title": "Riddick",
-      "release_date": "2013-09-06"
-    },
-    {
-      "title": "Gotham",
-      "release_date": "2014"
+        "title": "Riddick",
+        "year": 2013,
+        "id": 87421,
+        "poster": "https://image.tmdb.org/t/p/w200/pUul9pGWOKT7X0smkTvsIEIQxcP.jpg"
     }
-  ]
-}
+]

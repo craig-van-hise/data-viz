@@ -1,449 +1,506 @@
-{
-  "composer": "Harry Gregson-Williams",
-  "filmography": [
+[
     {
-      "title": "Revenge",
-      "release_date": "1990-02-16"
+        "title": "White Angel",
+        "year": 1994,
+        "id": 87713,
+        "poster": "https://image.tmdb.org/t/p/w200/6rnsRUNswoP4pXWUI1RXqirgW9V.jpg"
     },
     {
-      "title": "Cold Heaven",
-      "release_date": "1992-01-10"
+        "title": "Three Miles Up",
+        "year": 1995,
+        "id": 1442878,
+        "poster": "https://image.tmdb.org/t/p/w200/g2V5BfthifaaBkwGjJz7PddTb1r.jpg"
     },
     {
-      "title": "G.B.H.",
-      "release_date": "1991"
+        "title": "Witness Against Hitler",
+        "year": 1996,
+        "id": 653018,
+        "poster": "https://image.tmdb.org/t/p/w200/ukutwLq50u1i3eghprDsGAfQGiO.jpg"
     },
     {
-      "title": "Champion Children",
-      "release_date": "1992"
+        "title": "The Whole Wide World",
+        "year": 1996,
+        "id": 18451,
+        "poster": "https://image.tmdb.org/t/p/w200/ajMk4ueXcOCbxwJjJecltiGhYrn.jpg"
     },
     {
-      "title": "White Angel",
-      "release_date": "1993-11-15"
+        "title": "Smilla's Sense of Snow",
+        "year": 1997,
+        "id": 9311,
+        "poster": "https://image.tmdb.org/t/p/w200/2BwL0fKCaNRXfqMsu2uvFFS7dZX.jpg"
     },
     {
-      "title": "The Whole Wide World",
-      "release_date": "1996-12-23"
+        "title": "The Borrowers",
+        "year": 1997,
+        "id": 9449,
+        "poster": "https://image.tmdb.org/t/p/w200/kgaocWyuxihDe5aNqok6fORIHnY.jpg"
     },
     {
-      "title": "The Rock",
-      "release_date": "1996-06-07"
+        "title": "Deceiver",
+        "year": 1997,
+        "id": 14583,
+        "poster": "https://image.tmdb.org/t/p/w200/1bxBZV0KsUolu7MddTXZ0Prac3Q.jpg"
     },
     {
-      "title": "Smilla's Sense of Snow",
-      "release_date": "1997-02-13"
+        "title": "The Replacement Killers",
+        "year": 1998,
+        "id": 11702,
+        "poster": "https://image.tmdb.org/t/p/w200/5JAVd0lYhkB2dsDtt84Qt6grNIn.jpg"
     },
     {
-      "title": "Deceiver",
-      "release_date": "1997-08-31"
+        "title": "Antz",
+        "year": 1998,
+        "id": 8916,
+        "poster": "https://image.tmdb.org/t/p/w200/lWPjxbUMpAHFkJpZHHNWhQaRsax.jpg"
     },
     {
-      "title": "The Borrowers",
-      "release_date": "1997"
+        "title": "Enemy of the State",
+        "year": 1998,
+        "id": 9798,
+        "poster": "https://image.tmdb.org/t/p/w200/x9pXrMKLsBGGOFyyZ0Gwt9YpVub.jpg"
     },
     {
-      "title": "The Replacement Killers",
-      "release_date": "1998-02-06"
+        "title": "Swing Vote",
+        "year": 1999,
+        "id": 288069,
+        "poster": "https://image.tmdb.org/t/p/w200/azgcPstqDrZNk8X5uKJiKvaAsFn.jpg"
     },
     {
-      "title": "Antz",
-      "release_date": "1998-09-19"
+        "title": "Full Body Massage",
+        "year": 1999,
+        "id": 35044,
+        "poster": "https://image.tmdb.org/t/p/w200/dyWG6GC2aktRXma00sdg7fmw18r.jpg"
     },
     {
-      "title": "The Prince of Egypt",
-      "release_date": "1998-12-16"
+        "title": "The Match",
+        "year": 1999,
+        "id": 41160,
+        "poster": "https://image.tmdb.org/t/p/w200/h7sS80bAgJrPm31eKHNV5JqzdEL.jpg"
     },
     {
-      "title": "Enemy of the State",
-      "release_date": "1998-11-20"
+        "title": "Light It Up",
+        "year": 1999,
+        "id": 19052,
+        "poster": "https://image.tmdb.org/t/p/w200/sHbII8OHz2uoyOpPAVYe0LIJcdN.jpg"
     },
     {
-      "title": "Armageddon",
-      "release_date": "1998-06-29"
+        "title": "Chicken Run",
+        "year": 2000,
+        "id": 7443,
+        "poster": "https://image.tmdb.org/t/p/w200/8XgmIsbpVamdhwcNVsYzohFZTtT.jpg"
     },
     {
-      "title": "The Match",
-      "release_date": "1999-08-13"
+        "title": "Whatever Happened to Harold Smith?",
+        "year": 2000,
+        "id": 49922,
+        "poster": "https://image.tmdb.org/t/p/w200/iXYzdpQEdPnj1rzucvZyUOqFwzL.jpg"
     },
     {
-      "title": "Light It Up",
-      "release_date": "1999-11-10"
+        "title": "The Tigger Movie",
+        "year": 2000,
+        "id": 15655,
+        "poster": "https://image.tmdb.org/t/p/w200/9OdZKUdGfaBAUwRLbtWpFWKbILO.jpg"
     },
     {
-      "title": "Whatever Happened to Harold Smith?",
-      "release_date": "1999-11-13"
+        "title": "King of the Jungle",
+        "year": 2000,
+        "id": 140511,
+        "poster": "https://image.tmdb.org/t/p/w200/tbQOMKgS1HqEjOLDHuHanzBx4G9.jpg"
     },
     {
-      "title": "The Hunger",
-      "release_date": "1999"
+        "title": "Spy Game",
+        "year": 2001,
+        "id": 1535,
+        "poster": "https://image.tmdb.org/t/p/w200/6y8M1rxjKofQCRKKe6xeV91K2Fc.jpg"
     },
     {
-      "title": "The Tigger Movie",
-      "release_date": "2000-02-11"
+        "title": "Shrek",
+        "year": 2001,
+        "id": 808,
+        "poster": "https://image.tmdb.org/t/p/w200/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg"
     },
     {
-      "title": "The Magic of Marciano",
-      "release_date": "2000"
+        "title": "Powder Keg",
+        "year": 2001,
+        "id": 38187,
+        "poster": "https://image.tmdb.org/t/p/w200/q9FgdaWOsHYEwck8nDqqna0kEbf.jpg"
     },
     {
-      "title": "Chicken Run",
-      "release_date": "2000-06-23"
+        "title": "Beat the Devil",
+        "year": 2002,
+        "id": 51939,
+        "poster": "https://image.tmdb.org/t/p/w200/QkWtQ5Vle4w8MzgpsLtwDpw28q.jpg"
     },
     {
-      "title": "King of the Jungle",
-      "release_date": "2000-10-12"
+        "title": "The Rundown",
+        "year": 2003,
+        "id": 10159,
+        "poster": "https://image.tmdb.org/t/p/w200/dJX06UwlLIwbLLt9UQ6DlkHF4jz.jpg"
     },
     {
-      "title": "Spy Kids",
-      "release_date": "2001-03-18"
+        "title": "Veronica Guerin",
+        "year": 2003,
+        "id": 10629,
+        "poster": "https://image.tmdb.org/t/p/w200/1aJYz1YjcZggKsTJhCcYJ3adtcm.jpg"
     },
     {
-      "title": "Shrek",
-      "release_date": "2001-04-22"
+        "title": "Sinbad: Legend of the Seven Seas",
+        "year": 2003,
+        "id": 14411,
+        "poster": "https://image.tmdb.org/t/p/w200/yiW2L1fDiBT7AeWXrykhTNtPrr8.jpg"
     },
     {
-      "title": "The Hire",
-      "release_date": "2001"
+        "title": "Phone Booth",
+        "year": 2003,
+        "id": 1817,
+        "poster": "https://image.tmdb.org/t/p/w200/r6lIwPKVDa6Q76qH2TbIBqPhXL3.jpg"
     },
     {
-      "title": "Spy Game",
-      "release_date": "2001-11-21"
+        "title": "The Ghost of Lord Farquaad",
+        "year": 2003,
+        "id": 25523,
+        "poster": "https://image.tmdb.org/t/p/w200/6yyGjJ0Og9LrM9XQ35quIhZpZiQ.jpg"
     },
     {
-      "title": "Metal Gear Solid 2: Sons of Liberty",
-      "release_date": "2001"
+        "title": "Passionada",
+        "year": 2003,
+        "id": 54390,
+        "poster": "https://image.tmdb.org/t/p/w200/9cK4hlEu7Tw3Xm4Pf97bkrWnNwH.jpg"
     },
     {
-      "title": "Shrek 4-D",
-      "release_date": "2001"
+        "title": "Shrek 2",
+        "year": 2004,
+        "id": 809,
+        "poster": "https://image.tmdb.org/t/p/w200/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg"
     },
     {
-      "title": "Passionada",
-      "release_date": "2002-06-16"
+        "title": "Bridget Jones: The Edge of Reason",
+        "year": 2004,
+        "id": 9801,
+        "poster": "https://image.tmdb.org/t/p/w200/zDthRXkGnwFIWI0zWcJyS7h6lUl.jpg"
     },
     {
-      "title": "Phone Booth",
-      "release_date": "2002-09-10"
+        "title": "Man on Fire",
+        "year": 2004,
+        "id": 9509,
+        "poster": "https://image.tmdb.org/t/p/w200/grCGLCcTHv9TChibzOwzUpykcjB.jpg"
     },
     {
-      "title": "The Hire",
-      "release_date": "2002"
+        "title": "Team America: World Police",
+        "year": 2004,
+        "id": 3989,
+        "poster": "https://image.tmdb.org/t/p/w200/m1Q2VFe1DVVbjfu1LDZe7tlp9yb.jpg"
     },
     {
-      "title": "AFP: American Fighter Pilot",
-      "release_date": "2002"
+        "title": "Return to Sender",
+        "year": 2004,
+        "id": 25460,
+        "poster": "https://image.tmdb.org/t/p/w200/2OZj98sFBQYYS48uIAWTP5siCkT.jpg"
     },
     {
-      "title": "Sinbad: Legend of the Seven Seas",
-      "release_date": "2003-07-02"
+        "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "year": 2005,
+        "id": 411,
+        "poster": "https://image.tmdb.org/t/p/w200/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg"
     },
     {
-      "title": "Veronica Guerin",
-      "release_date": "2003-07-08"
+        "title": "Kingdom of Heaven",
+        "year": 2005,
+        "id": 1495,
+        "poster": "https://image.tmdb.org/t/p/w200/rNaBe4TwbMef71sgscqabpGKsxh.jpg"
     },
     {
-      "title": "The Rundown",
-      "release_date": "2003-09-26"
+        "title": "Domino",
+        "year": 2005,
+        "id": 9923,
+        "poster": "https://image.tmdb.org/t/p/w200/pZdIfYkM5kV5BaUDYzwzgmpUxno.jpg"
     },
     {
-      "title": "Man on Fire",
-      "release_date": "2004-04-18"
+        "title": "Metal Gear Solid 3: Existence",
+        "year": 2005,
+        "id": 1020356,
+        "poster": "https://image.tmdb.org/t/p/w200/xYF5qczhQKzNKY4ruWcrNqA7fbr.jpg"
     },
     {
-      "title": "Shrek 2",
-      "release_date": "2004-05-15"
+        "title": "Flushed Away",
+        "year": 2006,
+        "id": 11619,
+        "poster": "https://image.tmdb.org/t/p/w200/kgoZI4xh38RrEYEPVib6a12UPLn.jpg"
     },
     {
-      "title": "Return to Sender",
-      "release_date": "2004"
+        "title": "D\u00e9j\u00e0 Vu",
+        "year": 2006,
+        "id": 7551,
+        "poster": "https://image.tmdb.org/t/p/w200/eTX6hklzFOiEVqVukNCEedZKhix.jpg"
     },
     {
-      "title": "Team America: World Police",
-      "release_date": "2004-10-11"
+        "title": "Shrek the Third",
+        "year": 2007,
+        "id": 810,
+        "poster": "https://image.tmdb.org/t/p/w200/n4SexGGQzI26E269tfpa80MZaGV.jpg"
     },
     {
-      "title": "Bridget Jones: The Edge of Reason",
-      "release_date": "2004-10-28"
+        "title": "The Number 23",
+        "year": 2007,
+        "id": 3594,
+        "poster": "https://image.tmdb.org/t/p/w200/iPJwdvgX3I5dEw9QhDOG3hxUvMp.jpg"
     },
     {
-      "title": "Father of the Pride",
-      "release_date": "2004"
+        "title": "Gone Baby Gone",
+        "year": 2007,
+        "id": 4771,
+        "poster": "https://image.tmdb.org/t/p/w200/rm3Dl8DWYGO3UQ3w2kju62L9rkn.jpg"
     },
     {
-      "title": "Metal Gear Solid 3: Snake Eater",
-      "release_date": "2004"
+        "title": "Shrek the Halls",
+        "year": 2007,
+        "id": 13394,
+        "poster": "https://image.tmdb.org/t/p/w200/zeqUbXA0JPSlyAHdRTgxoYgK24n.jpg"
     },
     {
-      "title": "Kingdom of Heaven",
-      "release_date": "2005-05-02"
+        "title": "Seraphim Falls",
+        "year": 2007,
+        "id": 13249,
+        "poster": "https://image.tmdb.org/t/p/w200/3WCcrCYq9mCyFGLpgx2IwhpURTe.jpg"
     },
     {
-      "title": "Domino",
-      "release_date": "2005-09-25"
+        "title": "The Chronicles of Narnia: Prince Caspian",
+        "year": 2008,
+        "id": 2454,
+        "poster": "https://image.tmdb.org/t/p/w200/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg"
     },
     {
-      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-      "release_date": "2005-12-07"
+        "title": "The Taking of Pelham 1 2 3",
+        "year": 2009,
+        "id": 18487,
+        "poster": "https://image.tmdb.org/t/p/w200/rEnyQiBu6goqJfvQXpUZQjpoHVp.jpg"
     },
     {
-      "title": "Seraphim Falls",
-      "release_date": "2006-09-13"
+        "title": "X-Men Origins: Wolverine",
+        "year": 2009,
+        "id": 2080,
+        "poster": "https://image.tmdb.org/t/p/w200/yj8LbTju1p7CUJg7US2unSBk33s.jpg"
     },
     {
-      "title": "Flushed Away",
-      "release_date": "2006-10-22"
+        "title": "The Town",
+        "year": 2010,
+        "id": 23168,
+        "poster": "https://image.tmdb.org/t/p/w200/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg"
     },
     {
-      "title": "D\u00e9j\u00e0 Vu",
-      "release_date": "2006-11-22"
+        "title": "Prince of Persia: The Sands of Time",
+        "year": 2010,
+        "id": 9543,
+        "poster": "https://image.tmdb.org/t/p/w200/siNGMLdOUNYLEGtlsnmQcpO2XZX.jpg"
     },
     {
-      "title": "The Number 23",
-      "release_date": "2007-02-23"
+        "title": "Jolene",
+        "year": 2010,
+        "id": 43727,
+        "poster": "https://image.tmdb.org/t/p/w200/5udqbFUVTzevHpDkel4CElpNEBR.jpg"
     },
     {
-      "title": "Shrek the Third",
-      "release_date": "2007-05-06"
+        "title": "Unstoppable",
+        "year": 2010,
+        "id": 44048,
+        "poster": "https://image.tmdb.org/t/p/w200/zKvHwL0GqLOear8rTnUPSTRYY0r.jpg"
     },
     {
-      "title": "Gone Baby Gone",
-      "release_date": "2007-10-19"
+        "title": "Twelve",
+        "year": 2010,
+        "id": 40720,
+        "poster": "https://image.tmdb.org/t/p/w200/cGcoACE6AQQWekvHMr4TVd5KOpH.jpg"
     },
     {
-      "title": "Slipstream",
-      "release_date": "2007-10-26"
+        "title": "Shrek Forever After",
+        "year": 2010,
+        "id": 10192,
+        "poster": "https://image.tmdb.org/t/p/w200/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg"
     },
     {
-      "title": "The Riches",
-      "release_date": "2007"
+        "title": "Cowboys & Aliens",
+        "year": 2011,
+        "id": 49849,
+        "poster": "https://image.tmdb.org/t/p/w200/9uZsGCP4rvOHVGCpMpYq5gNCuNI.jpg"
     },
     {
-      "title": "Call of Duty 4: Modern Warfare",
-      "release_date": "2007"
+        "title": "Life in a Day",
+        "year": 2011,
+        "id": 66150,
+        "poster": "https://image.tmdb.org/t/p/w200/g4Kze731McN2WkcN0OLwi1CMa8u.jpg"
     },
     {
-      "title": "Em",
-      "release_date": "2008"
+        "title": "Arthur Christmas",
+        "year": 2011,
+        "id": 51052,
+        "poster": "https://image.tmdb.org/t/p/w200/yF7SNheAGWavNnjbAronedwjC1N.jpg"
     },
     {
-      "title": "The Forbidden Kingdom",
-      "release_date": "2008-04-18"
+        "title": "Total Recall",
+        "year": 2012,
+        "id": 64635,
+        "poster": "https://image.tmdb.org/t/p/w200/hVUxVVzZ0WvvPIpKwsMPMDOQyqi.jpg"
     },
     {
-      "title": "The Chronicles of Narnia: Prince Caspian",
-      "release_date": "2008-05-07"
+        "title": "Mr. Pip",
+        "year": 2012,
+        "id": 121830,
+        "poster": "https://image.tmdb.org/t/p/w200/mwv9JZNeR6HEeThhsjXF4G2owWq.jpg"
     },
     {
-      "title": "Jolene",
-      "release_date": "2008-06-13"
+        "title": "The Equalizer",
+        "year": 2014,
+        "id": 156022,
+        "poster": "https://image.tmdb.org/t/p/w200/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg"
     },
     {
-      "title": "Metal Gear Solid 4: Guns of the Patriots",
-      "release_date": "2008"
+        "title": "Blackhat",
+        "year": 2015,
+        "id": 201088,
+        "poster": "https://image.tmdb.org/t/p/w200/7zu6HPnKPjNA7NuR4DGRdaH0PdX.jpg"
     },
     {
-      "title": "X-Men Origins: Wolverine",
-      "release_date": "2009-04-08"
+        "title": "The Martian",
+        "year": 2015,
+        "id": 286217,
+        "poster": "https://image.tmdb.org/t/p/w200/fASz8A0yFE3QB6LgGoOfwvFSseV.jpg"
     },
     {
-      "title": "The Taking of Pelham 123",
-      "release_date": "2009-06-12"
+        "title": "Miss You Already",
+        "year": 2015,
+        "id": 290762,
+        "poster": "https://image.tmdb.org/t/p/w200/cvA686C7O8MwXhFIaql4ui6eR0p.jpg"
     },
     {
-      "title": "Twelve",
-      "release_date": "2010-01-29"
+        "title": "Monkey Kingdom",
+        "year": 2015,
+        "id": 295592,
+        "poster": "https://image.tmdb.org/t/p/w200/ngf4XquNwVTm4OFuYcnQAkVyT1H.jpg"
     },
     {
-      "title": "Shrek Forever After",
-      "release_date": "2010-04-21"
+        "title": "Confirmation",
+        "year": 2016,
+        "id": 348390,
+        "poster": "https://image.tmdb.org/t/p/w200/9lxg4KidKhRAMupBYvgdHxAnxKE.jpg"
     },
     {
-      "title": "Prince of Persia: The Sands of Time",
-      "release_date": "2010-05-09"
+        "title": "Live by Night",
+        "year": 2016,
+        "id": 259695,
+        "poster": "https://image.tmdb.org/t/p/w200/bkd46T4RplawnDjpHoI8mhzTLks.jpg"
     },
     {
-      "title": "The Town",
-      "release_date": "2010-09-08"
+        "title": "The Zookeeper's Wife",
+        "year": 2017,
+        "id": 289222,
+        "poster": "https://image.tmdb.org/t/p/w200/50KGpMiIvSkF4WHOgp0gM6r6sMU.jpg"
     },
     {
-      "title": "Unstoppable",
-      "release_date": "2010-10-26"
+        "title": "Breath",
+        "year": 2017,
+        "id": 341287,
+        "poster": "https://image.tmdb.org/t/p/w200/1YaHbvNyo8LB37S2P3Z5lvAV8X2.jpg"
     },
     {
-      "title": "Life in a Day",
-      "release_date": "2011-01-21"
+        "title": "The Equalizer 2",
+        "year": 2018,
+        "id": 345887,
+        "poster": "https://image.tmdb.org/t/p/w200/cQvc9N6JiMVKqol3wcYrGshsIdZ.jpg"
     },
     {
-      "title": "Cowboys & Aliens",
-      "release_date": "2011-07-23"
+        "title": "The Meg",
+        "year": 2018,
+        "id": 345940,
+        "poster": "https://image.tmdb.org/t/p/w200/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg"
     },
     {
-      "title": "Arthur Christmas",
-      "release_date": "2011-11-11"
+        "title": "Early Man",
+        "year": 2018,
+        "id": 387592,
+        "poster": "https://image.tmdb.org/t/p/w200/5iW2rntwLZoGlFCYYy8TjHyblbw.jpg"
     },
     {
-      "title": "Prometheus",
-      "release_date": "2012-05-31"
+        "title": "Penguins",
+        "year": 2019,
+        "id": 508802,
+        "poster": "https://image.tmdb.org/t/p/w200/eMSuKJ2e5VgYFr4SwOTLnnl5L15.jpg"
     },
     {
-      "title": "I Am Bad",
-      "release_date": "2012"
+        "title": "Mulan",
+        "year": 2020,
+        "id": 337401,
+        "poster": "https://image.tmdb.org/t/p/w200/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg"
     },
     {
-      "title": "Total Recall",
-      "release_date": "2012-08-03"
+        "title": "The Last Duel",
+        "year": 2021,
+        "id": 617653,
+        "poster": "https://image.tmdb.org/t/p/w200/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg"
     },
     {
-      "title": "The East",
-      "release_date": "2013-01-20"
+        "title": "House of Gucci",
+        "year": 2021,
+        "id": 644495,
+        "poster": "https://image.tmdb.org/t/p/w200/oJCQjD2byiVF1EG408F9dBn9ndU.jpg"
     },
     {
-      "title": "Mr. Pip",
-      "release_date": "2012-09-09"
+        "title": "Infinite",
+        "year": 2021,
+        "id": 581726,
+        "poster": "https://image.tmdb.org/t/p/w200/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg"
     },
     {
-      "title": "Hate from a Distance",
-      "release_date": "2014"
+        "title": "The Ambush",
+        "year": 2021,
+        "id": 884452,
+        "poster": "https://image.tmdb.org/t/p/w200/dEZJgTWjq5ex8lEvI6XcYMxnTSn.jpg"
     },
     {
-      "title": "The Equalizer",
-      "release_date": "2014-09-07"
+        "title": "Return to Space",
+        "year": 2022,
+        "id": 950445,
+        "poster": "https://image.tmdb.org/t/p/w200/yUN0g7gJwr2JhqNZBYJS2obkxU2.jpg"
     },
     {
-      "title": "Metal Gear Solid V: Ground Zeroes",
-      "release_date": "2014"
+        "title": "Retribution",
+        "year": 2023,
+        "id": 762430,
+        "poster": "https://image.tmdb.org/t/p/w200/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg"
     },
     {
-      "title": "Call of Duty: Advanced Warfare",
-      "release_date": "2014"
+        "title": "Meg 2: The Trench",
+        "year": 2023,
+        "id": 615656,
+        "poster": "https://image.tmdb.org/t/p/w200/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg"
     },
     {
-      "title": "Blackhat",
-      "release_date": "2015-01-08"
+        "title": "Chicken Run: Dawn of the Nugget",
+        "year": 2023,
+        "id": 520758,
+        "poster": "https://image.tmdb.org/t/p/w200/exNtEY8QUuQh9e23wSQjkPxKIU3.jpg"
     },
     {
-      "title": "Monkey Kingdom",
-      "release_date": "2015-04-17"
+        "title": "Gladiator II",
+        "year": 2024,
+        "id": 558449,
+        "poster": "https://image.tmdb.org/t/p/w200/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg"
     },
     {
-      "title": "The Martian",
-      "release_date": "2015-09-11"
+        "title": "Normal",
+        "year": 2026,
+        "id": 1242332,
+        "poster": "https://image.tmdb.org/t/p/w200/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg"
     },
     {
-      "title": "Miss You Already",
-      "release_date": "2015-09-12"
+        "title": "The Dog Stars",
+        "year": 2026,
+        "id": 1384216,
+        "poster": null
     },
     {
-      "title": "Metal Gear Solid V: The Phantom Pain",
-      "release_date": "2015"
-    },
-    {
-      "title": "Live by Night",
-      "release_date": "2016-12-13"
-    },
-    {
-      "title": "The Zookeeper's Wife",
-      "release_date": "2017-03-08"
-    },
-    {
-      "title": "Breath",
-      "release_date": "2017-09-10"
-    },
-    {
-      "title": "Alien: Covenant",
-      "release_date": "2017-05-04"
-    },
-    {
-      "title": "Philip K. Dick's Electric Dreams",
-      "release_date": "2017"
-    },
-    {
-      "title": "Early Man",
-      "release_date": "2018"
-    },
-    {
-      "title": "The Equalizer 2",
-      "release_date": "2018-07-20"
-    },
-    {
-      "title": "The Meg",
-      "release_date": "2018-08-10"
-    },
-    {
-      "title": "Penguins",
-      "release_date": "2019-04-17"
-    },
-    {
-      "title": "Whiskey Cavalier",
-      "release_date": "2019"
-    },
-    {
-      "title": "Catch-22",
-      "release_date": "1970-06-24"
-    },
-    {
-      "title": "Mulan",
-      "release_date": "2020-03-09"
-    },
-    {
-      "title": "Manhunt",
-      "release_date": "2020"
-    },
-    {
-      "title": "Amazing Stories",
-      "release_date": "2020"
-    },
-    {
-      "title": "Infinite",
-      "release_date": "2021-06-10"
-    },
-    {
-      "title": "The Last Duel",
-      "release_date": "2021-09-10"
-    },
-    {
-      "title": "House of Gucci",
-      "release_date": "2021-11-09"
-    },
-    {
-      "title": "Al Kameen",
-      "release_date": "2021-11-25"
-    },
-    {
-      "title": "Return to Space",
-      "release_date": "2022-04-07"
-    },
-    {
-      "title": "Polar Bear",
-      "release_date": "2022-04-22"
-    },
-    {
-      "title": "The Gilded Age",
-      "release_date": "2022"
-    },
-    {
-      "title": "Meg 2: The Trench",
-      "release_date": "2023-06-09"
-    },
-    {
-      "title": "Retribution",
-      "release_date": "2023-08-23"
-    },
-    {
-      "title": "Chicken Run: Dawn of the Nugget",
-      "release_date": "2023-10-14"
-    },
-    {
-      "title": "Gladiator II",
-      "release_date": "2024-10-30"
-    },
-    {
-      "title": "Normal",
-      "release_date": "2025-09-07"
-    },
-    {
-      "title": "Underdogs",
-      "release_date": "2025"
+        "title": "The Call",
+        "year": 9999,
+        "id": 487598,
+        "poster": null
     }
-  ]
-}
+]

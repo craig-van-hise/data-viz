@@ -1,105 +1,818 @@
-{
-  "composer": "Franz Waxman",
-  "filmography": [
+[
     {
-      "title": "King Kong",
-      "release_date": "1933-03-02"
+        "title": "Burglars",
+        "year": 1930,
+        "id": 166550,
+        "poster": "https://image.tmdb.org/t/p/w200/2aNZSYplzdXXjN8RvvWe0d7hG9H.jpg"
     },
     {
-      "title": "The Adventures of Robin Hood",
-      "release_date": "1938-05-14"
+        "title": "The Only Girl",
+        "year": 1933,
+        "id": 237660,
+        "poster": "https://image.tmdb.org/t/p/w200/n1xD6zf1O2r1XAGvTGb0EcHdXal.jpg"
     },
     {
-      "title": "Gone with the Wind",
-      "release_date": "1939-12-15"
+        "title": "Liliom",
+        "year": 1934,
+        "id": 63702,
+        "poster": "https://image.tmdb.org/t/p/w200/3vobL7LPk198YHXjkBnO6GeM7cj.jpg"
     },
     {
-      "title": "Laura",
-      "release_date": "1944-10-11"
+        "title": "Bad Seed",
+        "year": 1934,
+        "id": 82185,
+        "poster": "https://image.tmdb.org/t/p/w200/7BLrXi3vB9sE0ZbShcVsjUMd7X.jpg"
     },
     {
-      "title": "Sunset Boulevard",
-      "release_date": "1950-08-10"
+        "title": "Bride of Frankenstein",
+        "year": 1935,
+        "id": 229,
+        "poster": "https://image.tmdb.org/t/p/w200/5241zUwe7rC17MNc2QpCBKKdp1N.jpg"
     },
     {
-      "title": "A Streetcar Named Desire",
-      "release_date": "1951-09-19"
+        "title": "Remember Last Night?",
+        "year": 1935,
+        "id": 84129,
+        "poster": "https://image.tmdb.org/t/p/w200/2hcdhWDm5EkL1yw7WpfGYINicWq.jpg"
     },
     {
-      "title": "High Noon",
-      "release_date": "1952-07-24"
+        "title": "East of Java",
+        "year": 1935,
+        "id": 610591,
+        "poster": "https://image.tmdb.org/t/p/w200/nQ07kaBUMkEbvKvrWbw226x9xev.jpg"
     },
     {
-      "title": "On the Waterfront",
-      "release_date": "1954-07-28"
+        "title": "3 Kids and a Queen",
+        "year": 1935,
+        "id": 623432,
+        "poster": "https://image.tmdb.org/t/p/w200/kmeDtqCLVsukO7yIj9R2CbP4neS.jpg"
     },
     {
-      "title": "Vertigo",
-      "release_date": "1958-05-09"
+        "title": "Diamond Jim",
+        "year": 1935,
+        "id": 132631,
+        "poster": "https://image.tmdb.org/t/p/w200/bhbGz1sDVUEUh3ZjDsqvgR0m788.jpg"
     },
     {
-      "title": "Ben-Hur",
-      "release_date": "1959-11-18"
+        "title": "The Devil-Doll",
+        "year": 1936,
+        "id": 29320,
+        "poster": "https://image.tmdb.org/t/p/w200/m5Wyaw9fx53gVUifKdgPiXKfceD.jpg"
     },
     {
-      "title": "Psycho",
-      "release_date": "1960-06-16"
+        "title": "Fury",
+        "year": 1936,
+        "id": 14615,
+        "poster": "https://image.tmdb.org/t/p/w200/u1kjLTUqmqjDMlRxcwCqWagjf6r.jpg"
     },
     {
-      "title": "The Magnificent Seven",
-      "release_date": "1960-10-12"
+        "title": "Sutter's Gold",
+        "year": 1936,
+        "id": 262249,
+        "poster": "https://image.tmdb.org/t/p/w200/8EKQrF5ezaX8ap5m8w2g0rACpfP.jpg"
     },
     {
-      "title": "Lawrence of Arabia",
-      "release_date": "1962-12-10"
+        "title": "Love on the Run",
+        "year": 1936,
+        "id": 61541,
+        "poster": "https://image.tmdb.org/t/p/w200/xvWUy94AMSS1QWd1Msu1W4YpHZb.jpg"
     },
     {
-      "title": "To Kill a Mockingbird",
-      "release_date": "1962-12-25"
+        "title": "His Brother's Wife",
+        "year": 1936,
+        "id": 152988,
+        "poster": "https://image.tmdb.org/t/p/w200/xvbQe0am1mCvHFRGK0CbxWmJrpu.jpg"
     },
     {
-      "title": "How the West Was Won",
-      "release_date": "1962-11-01"
+        "title": "Postal Inspector",
+        "year": 1936,
+        "id": 139427,
+        "poster": "https://image.tmdb.org/t/p/w200/tTbdyQHlDPkVTcj4xrOoEOybJuq.jpg"
     },
     {
-      "title": "The Pink Panther",
-      "release_date": "1963-12-18"
+        "title": "Love Before Breakfast",
+        "year": 1936,
+        "id": 114888,
+        "poster": "https://image.tmdb.org/t/p/w200/xcghIJtNdRFd1ZEtXQke4oQcKJr.jpg"
     },
     {
-      "title": "Planet of the Apes",
-      "release_date": "1968-02-08"
+        "title": "Absolute Quiet",
+        "year": 1936,
+        "id": 205280,
+        "poster": "https://image.tmdb.org/t/p/w200/oTDXpkUpg3pFLUiGlVxYtGuNdsB.jpg"
     },
     {
-      "title": "The Godfather",
-      "release_date": "1972-03-14"
+        "title": "Trouble for Two",
+        "year": 1936,
+        "id": 188249,
+        "poster": "https://image.tmdb.org/t/p/w200/jRil7KfZZbWsW5iXZ6btI92WoWW.jpg"
     },
     {
-      "title": "Chinatown",
-      "release_date": "1974-06-20"
+        "title": "The Invisible Ray",
+        "year": 1936,
+        "id": 27918,
+        "poster": "https://image.tmdb.org/t/p/w200/fAMfoQQkJrWtusXR0mDcTSAmhcG.jpg"
     },
     {
-      "title": "Jaws",
-      "release_date": "1975-06-20"
+        "title": "Personal Property",
+        "year": 1937,
+        "id": 43863,
+        "poster": "https://image.tmdb.org/t/p/w200/rX67jjCVHbvWcUfRrUtiWPK9UcN.jpg"
     },
     {
-      "title": "Star Wars",
-      "release_date": "1977-05-25"
+        "title": "Captains Courageous",
+        "year": 1937,
+        "id": 16515,
+        "poster": "https://image.tmdb.org/t/p/w200/qhJNHLwIcMqDKBwsr9uMDOumO33.jpg"
     },
     {
-      "title": "On Golden Pond",
-      "release_date": "1981-12-04"
+        "title": "The Bride Wore Red",
+        "year": 1937,
+        "id": 112885,
+        "poster": "https://image.tmdb.org/t/p/w200/7md7mwMMXEFZal5P2kysi4PkEAS.jpg"
     },
     {
-      "title": "E.T. the Extra-Terrestrial",
-      "release_date": "1982-05-26"
+        "title": "The Emperor's Candlesticks",
+        "year": 1937,
+        "id": 53853,
+        "poster": "https://image.tmdb.org/t/p/w200/geUo8IaO67Gw2lq5DI5RjLcj49b.jpg"
     },
     {
-      "title": "Out of Africa",
-      "release_date": "1985-12-18"
+        "title": "A Day at the Races",
+        "year": 1937,
+        "id": 11939,
+        "poster": "https://image.tmdb.org/t/p/w200/2TYWSyAMbaFN3p3ewwmzweDUSLC.jpg"
     },
     {
-      "title": "The Mission",
-      "release_date": "1986-05-16"
+        "title": "The Young in Heart",
+        "year": 1938,
+        "id": 38023,
+        "poster": "https://image.tmdb.org/t/p/w200/ecimQFwdSBQTNwdznb1d2EMuYLh.jpg"
+    },
+    {
+        "title": "Too Hot to Handle",
+        "year": 1938,
+        "id": 33028,
+        "poster": "https://image.tmdb.org/t/p/w200/bdfmUhmuWT0QJllnIJcoJ0aCVuB.jpg"
+    },
+    {
+        "title": "Ars\u00e8ne Lupin Returns",
+        "year": 1938,
+        "id": 127812,
+        "poster": "https://image.tmdb.org/t/p/w200/3yHqgzR5uUQ7IUf1pGzsufn47g6.jpg"
+    },
+    {
+        "title": "Man-Proof",
+        "year": 1938,
+        "id": 213443,
+        "poster": "https://image.tmdb.org/t/p/w200/9p27ouTgWfrhyiKWmw7O6dbcHaC.jpg"
+    },
+    {
+        "title": "Test Pilot",
+        "year": 1938,
+        "id": 43155,
+        "poster": "https://image.tmdb.org/t/p/w200/vdZ5rv7Cg6HTM6UaMvjezKO0juk.jpg"
+    },
+    {
+        "title": "Port of Seven Seas",
+        "year": 1938,
+        "id": 139780,
+        "poster": "https://image.tmdb.org/t/p/w200/zbkMsKgqXhIqBZtTvJe9rp0ZZDJ.jpg"
+    },
+    {
+        "title": "The Shining Hour",
+        "year": 1938,
+        "id": 111463,
+        "poster": "https://image.tmdb.org/t/p/w200/icPlJYyRg3zhvONL1wwbqbbXXpH.jpg"
+    },
+    {
+        "title": "Three Comrades",
+        "year": 1938,
+        "id": 109970,
+        "poster": "https://image.tmdb.org/t/p/w200/dTLmTBNa2UesT8Sa3cYEE6P8qJd.jpg"
+    },
+    {
+        "title": "Dramatic School",
+        "year": 1938,
+        "id": 176538,
+        "poster": "https://image.tmdb.org/t/p/w200/zsccjGi6B2Z0q6ZTzg0f7fCXrfv.jpg"
+    },
+    {
+        "title": "At the Circus",
+        "year": 1939,
+        "id": 22553,
+        "poster": "https://image.tmdb.org/t/p/w200/dJsDjHYfOemGvVtHTdivU0Tl0YK.jpg"
+    },
+    {
+        "title": "The Adventures of Huckleberry Finn",
+        "year": 1939,
+        "id": 59403,
+        "poster": "https://image.tmdb.org/t/p/w200/f90tAQ5wWy0oL6FwFYCFCjFCXiE.jpg"
+    },
+    {
+        "title": "The Ice Follies of 1939",
+        "year": 1939,
+        "id": 178337,
+        "poster": "https://image.tmdb.org/t/p/w200/lI9Utvd7Kh34KJsQE0gm1KqBe1c.jpg"
+    },
+    {
+        "title": "On Borrowed Time",
+        "year": 1939,
+        "id": 40730,
+        "poster": "https://image.tmdb.org/t/p/w200/oXMezIc8wpnaT8KdPpcx4cv4yfd.jpg"
+    },
+    {
+        "title": "Rebecca",
+        "year": 1940,
+        "id": 223,
+        "poster": "https://image.tmdb.org/t/p/w200/1qz3qUOHnVy7dL7M7G8jSErxE4b.jpg"
+    },
+    {
+        "title": "The Philadelphia Story",
+        "year": 1940,
+        "id": 981,
+        "poster": "https://image.tmdb.org/t/p/w200/dKUubjvxO78XDts6VP1Ggcp4R9O.jpg"
+    },
+    {
+        "title": "Boom Town",
+        "year": 1940,
+        "id": 55604,
+        "poster": "https://image.tmdb.org/t/p/w200/upPOcyAhnL0tDPL8MsTRrOJquiJ.jpg"
+    },
+    {
+        "title": "Sporting Blood",
+        "year": 1940,
+        "id": 341150,
+        "poster": "https://image.tmdb.org/t/p/w200/ntOR5Dy5WOk7NHOFqlHIigSPl45.jpg"
+    },
+    {
+        "title": "Escape",
+        "year": 1940,
+        "id": 109008,
+        "poster": "https://image.tmdb.org/t/p/w200/hQWrCUM3JnTrDT4Iz9l173JjAHh.jpg"
+    },
+    {
+        "title": "Florian",
+        "year": 1940,
+        "id": 226482,
+        "poster": "https://image.tmdb.org/t/p/w200/ixoDxCqvgZAX4nSWeoUZ5YPTlkH.jpg"
+    },
+    {
+        "title": "Strange Cargo",
+        "year": 1940,
+        "id": 50271,
+        "poster": "https://image.tmdb.org/t/p/w200/gquGUJwVw2emUu8I4RprKcRpWTO.jpg"
+    },
+    {
+        "title": "Suspicion",
+        "year": 1941,
+        "id": 11462,
+        "poster": "https://image.tmdb.org/t/p/w200/clWNlzlbyaEoIK63lcFjqBmXoQz.jpg"
+    },
+    {
+        "title": "The Feminine Touch",
+        "year": 1941,
+        "id": 95137,
+        "poster": "https://image.tmdb.org/t/p/w200/unvJPKwsB9pwNWcfh8m5QQO6wE0.jpg"
+    },
+    {
+        "title": "Unfinished Business",
+        "year": 1941,
+        "id": 86143,
+        "poster": "https://image.tmdb.org/t/p/w200/hTX5V3uaYNYhIcUDKc5MD1oJCdU.jpg"
+    },
+    {
+        "title": "Dr. Jekyll and Mr. Hyde",
+        "year": 1941,
+        "id": 3022,
+        "poster": "https://image.tmdb.org/t/p/w200/2GDdW84XSX3BYMJ9tmnFkZOGJyB.jpg"
+    },
+    {
+        "title": "Design for Scandal",
+        "year": 1941,
+        "id": 96172,
+        "poster": "https://image.tmdb.org/t/p/w200/stcmVkUL28Ja43iMVG9PyrPTbCO.jpg"
+    },
+    {
+        "title": "Honky Tonk",
+        "year": 1941,
+        "id": 95131,
+        "poster": "https://image.tmdb.org/t/p/w200/tspJB5bT5pTKfn2HbRHjPxH2A8t.jpg"
+    },
+    {
+        "title": "Woman of the Year",
+        "year": 1942,
+        "id": 20640,
+        "poster": "https://image.tmdb.org/t/p/w200/A0Cf2GElBW2UfnQAFUqcqGYV7cY.jpg"
+    },
+    {
+        "title": "Tortilla Flat",
+        "year": 1942,
+        "id": 79372,
+        "poster": "https://image.tmdb.org/t/p/w200/fZkx79hMCQ3Q4tlXYPWnDZODW8P.jpg"
+    },
+    {
+        "title": "Her Cardboard Lover",
+        "year": 1942,
+        "id": 97991,
+        "poster": "https://image.tmdb.org/t/p/w200/5WKXmI2tBze3qoG4rD4cCVOvaDV.jpg"
+    },
+    {
+        "title": "Seven Sweethearts",
+        "year": 1942,
+        "id": 99381,
+        "poster": "https://image.tmdb.org/t/p/w200/caGOIlW2ZEi7LPmQqkWk9zqdJad.jpg"
+    },
+    {
+        "title": "Reunion in France",
+        "year": 1942,
+        "id": 28286,
+        "poster": "https://image.tmdb.org/t/p/w200/25ARg4KpTxk0mTQSAx0WWgmEOqS.jpg"
+    },
+    {
+        "title": "Journey for Margaret",
+        "year": 1942,
+        "id": 43526,
+        "poster": "https://image.tmdb.org/t/p/w200/qyxboyhOo8d8LBgCDH3FEAv2QWF.jpg"
+    },
+    {
+        "title": "Air Force",
+        "year": 1943,
+        "id": 15807,
+        "poster": "https://image.tmdb.org/t/p/w200/mqH4V49GvANYsu1q4SW4CFUTFZe.jpg"
+    },
+    {
+        "title": "Edge of Darkness",
+        "year": 1943,
+        "id": 55238,
+        "poster": "https://image.tmdb.org/t/p/w200/vlZDRNrKljJmmTveUToMrI2zAi6.jpg"
+    },
+    {
+        "title": "Old Acquaintance",
+        "year": 1943,
+        "id": 55086,
+        "poster": "https://image.tmdb.org/t/p/w200/i6WIEpY81sXFtCQ5lp88i5XlAdn.jpg"
+    },
+    {
+        "title": "Destination Tokyo",
+        "year": 1943,
+        "id": 22871,
+        "poster": "https://image.tmdb.org/t/p/w200/irQLva38syoOiAFCJOrFwykq4f4.jpg"
+    },
+    {
+        "title": "Mr. Skeffington",
+        "year": 1944,
+        "id": 43307,
+        "poster": "https://image.tmdb.org/t/p/w200/7qqEkoPqC9ImQzPoVdVhI6NFGti.jpg"
+    },
+    {
+        "title": "In Our Time",
+        "year": 1944,
+        "id": 101266,
+        "poster": "https://image.tmdb.org/t/p/w200/5wae06KRspRGVvmC1TgpsxlsAi.jpg"
+    },
+    {
+        "title": "The Horn Blows at Midnight",
+        "year": 1945,
+        "id": 64925,
+        "poster": "https://image.tmdb.org/t/p/w200/5fT50i4TAcxgUMHkbdrqzG1GxB1.jpg"
+    },
+    {
+        "title": "Confidential Agent",
+        "year": 1945,
+        "id": 160660,
+        "poster": "https://image.tmdb.org/t/p/w200/kcswwGt162T9BAXN1uc22xA4AFM.jpg"
+    },
+    {
+        "title": "To Have and Have Not",
+        "year": 1945,
+        "id": 22584,
+        "poster": "https://image.tmdb.org/t/p/w200/m9RYIio23yClaO3fy5tcpYac1Gf.jpg"
+    },
+    {
+        "title": "Pride of the Marines",
+        "year": 1945,
+        "id": 52337,
+        "poster": "https://image.tmdb.org/t/p/w200/jpDRMCsw1TsLVrrZgkecneIbHeD.jpg"
+    },
+    {
+        "title": "Objective, Burma!",
+        "year": 1945,
+        "id": 43490,
+        "poster": "https://image.tmdb.org/t/p/w200/3hq4VhEMseKMZuNUaSExDyqGhja.jpg"
+    },
+    {
+        "title": "Her Kind of Man",
+        "year": 1946,
+        "id": 65698,
+        "poster": "https://image.tmdb.org/t/p/w200/u63Nq3Vf3YAVEEvK9GwIcRALyTN.jpg"
+    },
+    {
+        "title": "The Paradine Case",
+        "year": 1947,
+        "id": 31667,
+        "poster": "https://image.tmdb.org/t/p/w200/faUkygLOpVA8roEYNYyQTX3llnJ.jpg"
+    },
+    {
+        "title": "The Two Mrs. Carrolls",
+        "year": 1947,
+        "id": 27448,
+        "poster": "https://image.tmdb.org/t/p/w200/r4Xky20Yi1S5tsQD7tqP714XH7T.jpg"
+    },
+    {
+        "title": "Humoresque",
+        "year": 1947,
+        "id": 26701,
+        "poster": "https://image.tmdb.org/t/p/w200/tJCIfxap0C7maxpjKtzNrj29dHW.jpg"
+    },
+    {
+        "title": "The Unsuspected",
+        "year": 1947,
+        "id": 29117,
+        "poster": "https://image.tmdb.org/t/p/w200/cUhDjZUHtWuB1tAnpHbIXeQMsGb.jpg"
+    },
+    {
+        "title": "Cry Wolf",
+        "year": 1947,
+        "id": 62720,
+        "poster": "https://image.tmdb.org/t/p/w200/ynwtpCC3bTw6crktOSLggWd9eIW.jpg"
+    },
+    {
+        "title": "Dark Passage",
+        "year": 1947,
+        "id": 16227,
+        "poster": "https://image.tmdb.org/t/p/w200/dvwmiD6qQ05gojrFQRaFbdhbNDF.jpg"
+    },
+    {
+        "title": "Nora Prentiss",
+        "year": 1947,
+        "id": 26592,
+        "poster": "https://image.tmdb.org/t/p/w200/ivIS8hNCg5B9SNAjHh0CDx7JHUt.jpg"
+    },
+    {
+        "title": "Possessed",
+        "year": 1947,
+        "id": 20849,
+        "poster": "https://image.tmdb.org/t/p/w200/RfQXnFgzSpMzqLWYS3HN7qXrYQ.jpg"
+    },
+    {
+        "title": "Whiplash",
+        "year": 1948,
+        "id": 84365,
+        "poster": "https://image.tmdb.org/t/p/w200/rd5KIZKR9OuxPKvBae4Ja92VZ1f.jpg"
+    },
+    {
+        "title": "No Minor Vices",
+        "year": 1948,
+        "id": 257688,
+        "poster": "https://image.tmdb.org/t/p/w200/37dznjSztI4IEUesB8MLvc5mA4c.jpg"
+    },
+    {
+        "title": "Sorry, Wrong Number",
+        "year": 1948,
+        "id": 21635,
+        "poster": "https://image.tmdb.org/t/p/w200/A39p8fEvucMFQXFmjp5Z8WepdsQ.jpg"
+    },
+    {
+        "title": "Alias Nick Beal",
+        "year": 1949,
+        "id": 32887,
+        "poster": "https://image.tmdb.org/t/p/w200/8wy0peTDb2Zrdecely80hOyAPv8.jpg"
+    },
+    {
+        "title": "Rope of Sand",
+        "year": 1949,
+        "id": 15481,
+        "poster": "https://image.tmdb.org/t/p/w200/jRhr83DBbOG6kPROTbpbwR4nRy0.jpg"
+    },
+    {
+        "title": "Task Force",
+        "year": 1949,
+        "id": 61262,
+        "poster": "https://image.tmdb.org/t/p/w200/av1YqGB6yXTumCq2K3DpbCkP1C1.jpg"
+    },
+    {
+        "title": "Night Unto Night",
+        "year": 1949,
+        "id": 155208,
+        "poster": "https://image.tmdb.org/t/p/w200/fBMFaTlSxa5ttsQPfGPrJpdLFc1.jpg"
+    },
+    {
+        "title": "Johnny Holiday",
+        "year": 1949,
+        "id": 165763,
+        "poster": "https://image.tmdb.org/t/p/w200/oX1170uJ7z6IfLfB5Y0zywi8yhf.jpg"
+    },
+    {
+        "title": "Sunset Boulevard",
+        "year": 1950,
+        "id": 599,
+        "poster": "https://image.tmdb.org/t/p/w200/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg"
+    },
+    {
+        "title": "The Furies",
+        "year": 1950,
+        "id": 28304,
+        "poster": "https://image.tmdb.org/t/p/w200/kVlgoW4LWj8Uxr5fXuFi6qhpzP0.jpg"
+    },
+    {
+        "title": "Dark City",
+        "year": 1950,
+        "id": 36331,
+        "poster": "https://image.tmdb.org/t/p/w200/7mkj8Vv5lpndZnjdHNBdIV4fhoh.jpg"
+    },
+    {
+        "title": "Night and the City",
+        "year": 1950,
+        "id": 19119,
+        "poster": "https://image.tmdb.org/t/p/w200/2NBmzm8z5fd283eWeECkPrkwta8.jpg"
+    },
+    {
+        "title": "Decision Before Dawn",
+        "year": 1951,
+        "id": 4461,
+        "poster": "https://image.tmdb.org/t/p/w200/wOrzwxmEvPIiD9VDSuN1utgMAxX.jpg"
+    },
+    {
+        "title": "Red Mountain",
+        "year": 1951,
+        "id": 146856,
+        "poster": "https://image.tmdb.org/t/p/w200/gYdEVik2vDSIp4QsnQen2yo9vVk.jpg"
+    },
+    {
+        "title": "He Ran All the Way",
+        "year": 1951,
+        "id": 25738,
+        "poster": "https://image.tmdb.org/t/p/w200/rjeeFJdqE7JWBXPVXas3dDxrlTf.jpg"
+    },
+    {
+        "title": "A Place in the Sun",
+        "year": 1951,
+        "id": 25673,
+        "poster": "https://image.tmdb.org/t/p/w200/3tKYbChwIRYCwFrMUDBkbZyDIoN.jpg"
+    },
+    {
+        "title": "Anne of the Indies",
+        "year": 1951,
+        "id": 69784,
+        "poster": "https://image.tmdb.org/t/p/w200/qqqsaRNgEKfbmyPpCSwIYgcialS.jpg"
+    },
+    {
+        "title": "Only the Valiant",
+        "year": 1951,
+        "id": 56597,
+        "poster": "https://image.tmdb.org/t/p/w200/7j2DB5PBuyxXMDKM8t5sia87wht.jpg"
+    },
+    {
+        "title": "The Blue Veil",
+        "year": 1951,
+        "id": 114081,
+        "poster": "https://image.tmdb.org/t/p/w200/fY8BPAEkvr4VpknNRcxW2Mk1oGS.jpg"
+    },
+    {
+        "title": "Phone Call from a Stranger",
+        "year": 1952,
+        "id": 76229,
+        "poster": "https://image.tmdb.org/t/p/w200/sMw7gMaG1wIdAX4BYuUHJ61Ml7w.jpg"
+    },
+    {
+        "title": "Lure of the Wilderness",
+        "year": 1952,
+        "id": 249846,
+        "poster": "https://image.tmdb.org/t/p/w200/3OlYzgeQjLfoORi8eDBmEFVPTSC.jpg"
+    },
+    {
+        "title": "Botany Bay",
+        "year": 1952,
+        "id": 168330,
+        "poster": "https://image.tmdb.org/t/p/w200/duzddQHSBMoJgw2pp3rGwuuUCvy.jpg"
+    },
+    {
+        "title": "My Cousin Rachel",
+        "year": 1952,
+        "id": 94529,
+        "poster": "https://image.tmdb.org/t/p/w200/2Ki5RsrRByusjYOBFM6cK6SAo12.jpg"
+    },
+    {
+        "title": "I, the Jury",
+        "year": 1953,
+        "id": 37184,
+        "poster": "https://image.tmdb.org/t/p/w200/4jFRYkgZ5TOJLnIKtpt5yYrz9GM.jpg"
+    },
+    {
+        "title": "Come Back, Little Sheba",
+        "year": 1953,
+        "id": 84214,
+        "poster": "https://image.tmdb.org/t/p/w200/3hg3c6TVFVGuoqmHi0Yw25qvpRu.jpg"
+    },
+    {
+        "title": "Stalag 17",
+        "year": 1953,
+        "id": 632,
+        "poster": "https://image.tmdb.org/t/p/w200/lfve9FDKjT7JPbWI9NCs5340F79.jpg"
+    },
+    {
+        "title": "Man on a Tightrope",
+        "year": 1953,
+        "id": 99898,
+        "poster": "https://image.tmdb.org/t/p/w200/alW4hvzjGgdq74ZW4zoQNFA8OEh.jpg"
+    },
+    {
+        "title": "Rear Window",
+        "year": 1954,
+        "id": 567,
+        "poster": "https://image.tmdb.org/t/p/w200/ILVF0eJxHMddjxeQhswFtpMtqx.jpg"
+    },
+    {
+        "title": "Prince Valiant",
+        "year": 1954,
+        "id": 65994,
+        "poster": "https://image.tmdb.org/t/p/w200/o7q1JvtEmU46XecF9NWw7kmiswS.jpg"
+    },
+    {
+        "title": "The Silver Chalice",
+        "year": 1954,
+        "id": 65212,
+        "poster": "https://image.tmdb.org/t/p/w200/dwcpH7EX5glxxAvRmuiCVtBNBDN.jpg"
+    },
+    {
+        "title": "Demetrius and the Gladiators",
+        "year": 1954,
+        "id": 43332,
+        "poster": "https://image.tmdb.org/t/p/w200/qZHr0738TLaQWC9CXCQGpw85XUR.jpg"
+    },
+    {
+        "title": "Elephant Walk",
+        "year": 1954,
+        "id": 43335,
+        "poster": "https://image.tmdb.org/t/p/w200/82DMbgX6Mo9eT2oGpbZCHC3wDfh.jpg"
+    },
+    {
+        "title": "This Is My Love",
+        "year": 1954,
+        "id": 173619,
+        "poster": "https://image.tmdb.org/t/p/w200/e7FHJE1Tcw3A5UjSBGkrfvTwk0L.jpg"
+    },
+    {
+        "title": "Mister Roberts",
+        "year": 1955,
+        "id": 37853,
+        "poster": "https://image.tmdb.org/t/p/w200/5B8Gc1N2S3CDWHBzm0VxaMPTyzJ.jpg"
+    },
+    {
+        "title": "Untamed",
+        "year": 1955,
+        "id": 17637,
+        "poster": "https://image.tmdb.org/t/p/w200/vYYtgc5H3ilh2q7QO3nD5rrdwIg.jpg"
+    },
+    {
+        "title": "The Virgin Queen",
+        "year": 1955,
+        "id": 43327,
+        "poster": "https://image.tmdb.org/t/p/w200/1UbeN94QSvD9iv46ddHB3S5fucP.jpg"
+    },
+    {
+        "title": "The Indian Fighter",
+        "year": 1955,
+        "id": 57258,
+        "poster": "https://image.tmdb.org/t/p/w200/reWmkD0D2QGYivWZ5Lv9pVC75CS.jpg"
+    },
+    {
+        "title": "Crime in the Streets",
+        "year": 1956,
+        "id": 35917,
+        "poster": "https://image.tmdb.org/t/p/w200/gxSJPpedReAAUrny8CEqjTbfyFv.jpg"
+    },
+    {
+        "title": "Miracle in the Rain",
+        "year": 1956,
+        "id": 79521,
+        "poster": "https://image.tmdb.org/t/p/w200/nDcOSQFFMo6qwr9fvOhQWefnxTX.jpg"
+    },
+    {
+        "title": "Back from Eternity",
+        "year": 1956,
+        "id": 46525,
+        "poster": "https://image.tmdb.org/t/p/w200/uh1OztOgr6ICHH2vNzb2g5tJ2WF.jpg"
+    },
+    {
+        "title": "Peyton Place",
+        "year": 1957,
+        "id": 43236,
+        "poster": "https://image.tmdb.org/t/p/w200/pSANpoBLMbejWTtiKz630eSaDpi.jpg"
+    },
+    {
+        "title": "The Spirit of St. Louis",
+        "year": 1957,
+        "id": 18776,
+        "poster": "https://image.tmdb.org/t/p/w200/9mLHzgDph5eYYlvliiIA9nouOka.jpg"
+    },
+    {
+        "title": "Sayonara",
+        "year": 1957,
+        "id": 40885,
+        "poster": "https://image.tmdb.org/t/p/w200/xSXJDamf9vSb1qOiBhOMjB2soDE.jpg"
+    },
+    {
+        "title": "Run Silent, Run Deep",
+        "year": 1958,
+        "id": 18784,
+        "poster": "https://image.tmdb.org/t/p/w200/xdRkSTYa1ayIIuYezazDwH0Axcf.jpg"
+    },
+    {
+        "title": "I Married a Monster from Outer Space",
+        "year": 1958,
+        "id": 43117,
+        "poster": "https://image.tmdb.org/t/p/w200/a38yzngqdcauRc0p9WEeZgvT2xU.jpg"
+    },
+    {
+        "title": "Career",
+        "year": 1959,
+        "id": 216859,
+        "poster": "https://image.tmdb.org/t/p/w200/3VjhqInHfqDO6n7YzLitqmRKEef.jpg"
+    },
+    {
+        "title": "The Nun's Story",
+        "year": 1959,
+        "id": 27029,
+        "poster": "https://image.tmdb.org/t/p/w200/4vNWFhPyjTehPpZsvTnTywwXSiF.jpg"
+    },
+    {
+        "title": "Beloved Infidel",
+        "year": 1959,
+        "id": 109949,
+        "poster": "https://image.tmdb.org/t/p/w200/6ABKWW1tklOiP3oWaF2GVBcczgz.jpg"
+    },
+    {
+        "title": "Count Your Blessings",
+        "year": 1959,
+        "id": 166672,
+        "poster": "https://image.tmdb.org/t/p/w200/pFs7BaciuvpSOb9i9IMjvWOopmu.jpg"
+    },
+    {
+        "title": "Cimarron",
+        "year": 1960,
+        "id": 46623,
+        "poster": "https://image.tmdb.org/t/p/w200/9xPw8iIAWymvNBG0D7kSt45M9c2.jpg"
+    },
+    {
+        "title": "The Story of Ruth",
+        "year": 1960,
+        "id": 43042,
+        "poster": "https://image.tmdb.org/t/p/w200/4MPqitAdH1WC52AOMZStTc6bRMX.jpg"
+    },
+    {
+        "title": "Sunrise at Campobello",
+        "year": 1960,
+        "id": 72354,
+        "poster": "https://image.tmdb.org/t/p/w200/y9cJA6rz0cEcPmehvc1Rr1GvvCO.jpg"
+    },
+    {
+        "title": "King of the Roaring 20's \u2013 The Story of Arnold Rothstein",
+        "year": 1961,
+        "id": 43022,
+        "poster": "https://image.tmdb.org/t/p/w200/sk34cFwRYMwvYJOQ0ofGEgnhF06.jpg"
+    },
+    {
+        "title": "Return to Peyton Place",
+        "year": 1961,
+        "id": 111017,
+        "poster": "https://image.tmdb.org/t/p/w200/p4TVDg0Q4TkuDi0q8k4x89kTyTA.jpg"
+    },
+    {
+        "title": "Taras Bulba",
+        "year": 1962,
+        "id": 43012,
+        "poster": "https://image.tmdb.org/t/p/w200/8bnn12yMugSBIKlrhSuCOVJKrgH.jpg"
+    },
+    {
+        "title": "My Geisha",
+        "year": 1962,
+        "id": 43006,
+        "poster": "https://image.tmdb.org/t/p/w200/xIFrL4TKONYvfnZApzAxveysNTg.jpg"
+    },
+    {
+        "title": "Hemingway\u2019s Adventures of a Young Man",
+        "year": 1962,
+        "id": 111683,
+        "poster": "https://image.tmdb.org/t/p/w200/8IqWKVSHCmBWICtyrluWPN0TfrN.jpg"
+    },
+    {
+        "title": "Lost Command",
+        "year": 1966,
+        "id": 41057,
+        "poster": "https://image.tmdb.org/t/p/w200/fDC55I2v1WbtK3V0E7sTW1Hn0a9.jpg"
+    },
+    {
+        "title": "The Longest Hundred Miles",
+        "year": 1967,
+        "id": 85701,
+        "poster": "https://image.tmdb.org/t/p/w200/8aoGWZeooG2FwUAhqeHEOlnAdvA.jpg"
+    },
+    {
+        "title": "To Die in Paris",
+        "year": 1968,
+        "id": 586880,
+        "poster": null
     }
-  ]
-}
+]

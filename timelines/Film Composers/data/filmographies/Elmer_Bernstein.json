@@ -1,597 +1,866 @@
-{
-  "composer": "Elmer Bernstein",
-  "filmography": [
+[
     {
-      "title": "Saturday's Hero",
-      "release_date": "1951-09-10"
+        "title": "Battles of Chief Pontiac",
+        "year": 1952,
+        "id": 270223,
+        "poster": "https://image.tmdb.org/t/p/w200/fHrHQiKQ6s9bEv4uTOJm1HoqTXP.jpg"
     },
     {
-      "title": "Battles of Chief Pontiac",
-      "release_date": "1952-12-08"
+        "title": "Sudden Fear",
+        "year": 1952,
+        "id": 19171,
+        "poster": "https://image.tmdb.org/t/p/w200/xDDRhGX99c7smveM3UelCVmi6xi.jpg"
     },
     {
-      "title": "Sudden Fear",
-      "release_date": "1952-08-07"
+        "title": "Cat-Women of the Moon",
+        "year": 1953,
+        "id": 43341,
+        "poster": "https://image.tmdb.org/t/p/w200/jjN6eqMwirmmWmdgXj6uALFuebm.jpg"
     },
     {
-      "title": "Cat-Women of the Moon",
-      "release_date": "1953-09-03"
+        "title": "Robot Monster",
+        "year": 1953,
+        "id": 43353,
+        "poster": "https://image.tmdb.org/t/p/w200/5b4SKRHdSHCm2SZmrP26lnVC44x.jpg"
     },
     {
-      "title": "Never Wave at a WAC",
-      "release_date": "1953-01-28"
+        "title": "Never Wave at a WAC",
+        "year": 1953,
+        "id": 107236,
+        "poster": "https://image.tmdb.org/t/p/w200/gxACeyEVq2eV273RfMtxh2iafqT.jpg"
     },
     {
-      "title": "Robot Monster",
-      "release_date": "1953-06-24"
+        "title": "Miss Robin Crusoe",
+        "year": 1953,
+        "id": 98054,
+        "poster": "https://image.tmdb.org/t/p/w200/trJBCqXlIGp0iZRnaOM89Imi7iv.jpg"
     },
     {
-      "title": "Silent Raiders",
-      "release_date": "1954-09-17"
+        "title": "Make Haste to Live",
+        "year": 1954,
+        "id": 72769,
+        "poster": "https://image.tmdb.org/t/p/w200/2CR2tcB0tAxDVfcC6j0kgcfJAsH.jpg"
     },
     {
-      "title": "The Eternal Sea",
-      "release_date": "1955-04-20"
+        "title": "Silent Raiders",
+        "year": 1954,
+        "id": 255181,
+        "poster": "https://image.tmdb.org/t/p/w200/yaimEBxayjyDN7F8EsEVLM2RCnj.jpg"
     },
     {
-      "title": "The Man with the Golden Arm",
-      "release_date": "1955-12-15"
+        "title": "The Man with the Golden Arm",
+        "year": 1955,
+        "id": 541,
+        "poster": "https://image.tmdb.org/t/p/w200/3TUOhZhM5GCYIbxwFO3chpZ0DHx.jpg"
     },
     {
-      "title": "The View from Pompey's Head",
-      "release_date": "1955-11-04"
+        "title": "Storm Fear",
+        "year": 1955,
+        "id": 75637,
+        "poster": "https://image.tmdb.org/t/p/w200/NyojUKHvOqkmpSjWJOQyWRdOc3.jpg"
     },
     {
-      "title": "The Ten Commandments",
-      "release_date": "1956-11-08"
+        "title": "The Eternal Sea",
+        "year": 1955,
+        "id": 259692,
+        "poster": "https://image.tmdb.org/t/p/w200/g69kQaqSrRHF0B2Rokz2Yk2Phvy.jpg"
     },
     {
-      "title": "Men in War",
-      "release_date": "1957-01-26"
+        "title": "The View from Pompey's Head",
+        "year": 1955,
+        "id": 255620,
+        "poster": "https://image.tmdb.org/t/p/w200/1y9BamrZTAERdzOyYrxAhCsiT5L.jpg"
     },
     {
-      "title": "Drango",
-      "release_date": "1957"
+        "title": "It's a Dog's Life",
+        "year": 1955,
+        "id": 202198,
+        "poster": "https://image.tmdb.org/t/p/w200/fVTWy1yuMMBcb5ful7Qn7fSzaKQ.jpg"
     },
     {
-      "title": "Fear Strikes Out",
-      "release_date": "1957-03-20"
+        "title": "The Ten Commandments",
+        "year": 1956,
+        "id": 6844,
+        "poster": "https://image.tmdb.org/t/p/w200/n7baShuR4TVdV4xgsvAFf59y0aR.jpg"
     },
     {
-      "title": "Sweet Smell of Success",
-      "release_date": "1957-06-27"
+        "title": "Sweet Smell of Success",
+        "year": 1957,
+        "id": 976,
+        "poster": "https://image.tmdb.org/t/p/w200/akzvV8JasNrgEl5iAP9K6zPHGJe.jpg"
     },
     {
-      "title": "The Tin Star",
-      "release_date": "1957-10-23"
+        "title": "The Tin Star",
+        "year": 1957,
+        "id": 30054,
+        "poster": "https://image.tmdb.org/t/p/w200/tQQFO3ANmBlku8ZtSuyi0rUwHhG.jpg"
     },
     {
-      "title": "Desire Under the Elms",
-      "release_date": "1958-03-12"
+        "title": "Drango",
+        "year": 1957,
+        "id": 102740,
+        "poster": "https://image.tmdb.org/t/p/w200/k1QykStgJZSfxOsVWG1aXyN6uUR.jpg"
     },
     {
-      "title": "Kings Go Forth",
-      "release_date": "1958-06-14"
+        "title": "Men in War",
+        "year": 1957,
+        "id": 61370,
+        "poster": "https://image.tmdb.org/t/p/w200/jfhF7arZn3VAJhrbjpDLLI9MDOC.jpg"
     },
     {
-      "title": "God's Little Acre",
-      "release_date": "1958-08-13"
+        "title": "Fear Strikes Out",
+        "year": 1957,
+        "id": 125413,
+        "poster": "https://image.tmdb.org/t/p/w200/f4RPc5nOxMaAlTlzsc5YdcPB09s.jpg"
     },
     {
-      "title": "The Buccaneer",
-      "release_date": "1958-12-01"
+        "title": "Desire Under the Elms",
+        "year": 1958,
+        "id": 77960,
+        "poster": "https://image.tmdb.org/t/p/w200/lvRCRiVQtDv5OtlnhB1L8sw08jj.jpg"
     },
     {
-      "title": "Some Came Running",
-      "release_date": "1958-12-18"
+        "title": "The Buccaneer",
+        "year": 1958,
+        "id": 4933,
+        "poster": "https://image.tmdb.org/t/p/w200/hUUg1IuxuKl54eyQfyu5tCZhI1g.jpg"
     },
     {
-      "title": "The Miracle",
-      "release_date": "1959-11-12"
+        "title": "God's Little Acre",
+        "year": 1958,
+        "id": 37079,
+        "poster": "https://image.tmdb.org/t/p/w200/3X0IKivOxtWFfwFKmp3SS5MAVzo.jpg"
     },
     {
-      "title": "The Story on Page One",
-      "release_date": "1960-01-13"
+        "title": "Saddle the Wind",
+        "year": 1958,
+        "id": 77814,
+        "poster": "https://image.tmdb.org/t/p/w200/bn4b43hKF5z5jVSidGEma1yaWD5.jpg"
     },
     {
-      "title": "The Magnificent Seven",
-      "release_date": "1960-10-12"
+        "title": "Anna Lucasta",
+        "year": 1958,
+        "id": 170477,
+        "poster": "https://image.tmdb.org/t/p/w200/xNAJfYHiLgfBXYUYkS8GOqnEuQR.jpg"
     },
     {
-      "title": "The Rat Race",
-      "release_date": "1960-07-10"
+        "title": "Kings Go Forth",
+        "year": 1958,
+        "id": 78229,
+        "poster": "https://image.tmdb.org/t/p/w200/cSMo17VnTpCNBPpgaXNbZRLtIE1.jpg"
     },
     {
-      "title": "From the Terrace",
-      "release_date": "1960-07-15"
+        "title": "Some Came Running",
+        "year": 1958,
+        "id": 38724,
+        "poster": "https://image.tmdb.org/t/p/w200/oFivW0sMerjzWmC6GI8axAfc5xy.jpg"
     },
     {
-      "title": "The Comancheros",
-      "release_date": "1961-11-01"
+        "title": "The Story on Page One",
+        "year": 1959,
+        "id": 47925,
+        "poster": "https://image.tmdb.org/t/p/w200/el04qDkLaRX7dv1EdwWkKfGiqyB.jpg"
     },
     {
-      "title": "By Love Possessed",
-      "release_date": "1961"
+        "title": "The Miracle",
+        "year": 1959,
+        "id": 134810,
+        "poster": "https://image.tmdb.org/t/p/w200/vmdNQQvruPsDq9nj3WlJDF1fmo3.jpg"
     },
     {
-      "title": "The Young Doctors",
-      "release_date": "1961-08-23"
+        "title": "The Magnificent Seven",
+        "year": 1960,
+        "id": 966,
+        "poster": "https://image.tmdb.org/t/p/w200/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg"
     },
     {
-      "title": "Summer and Smoke",
-      "release_date": "1961-11-16"
+        "title": "The Fabulous Fifties",
+        "year": 1960,
+        "id": 153859,
+        "poster": "https://image.tmdb.org/t/p/w200/ydx8U72xEzkpLaWmBCgxrswnyo8.jpg"
     },
     {
-      "title": "Walk on the Wild Side",
-      "release_date": "1962-02-21"
+        "title": "From the Terrace",
+        "year": 1960,
+        "id": 42541,
+        "poster": "https://image.tmdb.org/t/p/w200/nG0CavLX9OXhtUVX0a3Nj9pLsA6.jpg"
     },
     {
-      "title": "Birdman of Alcatraz",
-      "release_date": "1962-07-03"
+        "title": "The Rat Race",
+        "year": 1960,
+        "id": 121636,
+        "poster": "https://image.tmdb.org/t/p/w200/acVCpz5YNwhRGb0j5G1jPy9HTm0.jpg"
     },
     {
-      "title": "To Kill a Mockingbird",
-      "release_date": "1962-12-25"
+        "title": "The Comancheros",
+        "year": 1961,
+        "id": 30462,
+        "poster": "https://image.tmdb.org/t/p/w200/awFLQbAuddc9atznFrdFZTeuhRA.jpg"
     },
     {
-      "title": "A Girl Named Tamiko",
-      "release_date": "1962-12-27"
+        "title": "Summer and Smoke",
+        "year": 1961,
+        "id": 94917,
+        "poster": "https://image.tmdb.org/t/p/w200/eFpVZFokirARldwjvvoEwGQhUXW.jpg"
     },
     {
-      "title": "Kings of the Sun",
-      "release_date": "1963-12-18"
+        "title": "The Young Doctors",
+        "year": 1961,
+        "id": 194146,
+        "poster": "https://image.tmdb.org/t/p/w200/agvdvHuQAVRe5sRXBnRcBCheeZL.jpg"
     },
     {
-      "title": "The Caretakers",
-      "release_date": "1963-08-21"
+        "title": "2\u207f: A Story of the Power of Numbers",
+        "year": 1961,
+        "id": 389267,
+        "poster": "https://image.tmdb.org/t/p/w200/oEMiVfnh65d5odkOYeOluL29LNC.jpg"
     },
     {
-      "title": "The Great Escape",
-      "release_date": "1963-06-20"
+        "title": "To Kill a Mockingbird",
+        "year": 1962,
+        "id": 595,
+        "poster": "https://image.tmdb.org/t/p/w200/gZycFUMLx2110dzK3nBNai7gfpM.jpg"
     },
     {
-      "title": "Love with the Proper Stranger",
-      "release_date": "1963-12-25"
+        "title": "Birdman of Alcatraz",
+        "year": 1962,
+        "id": 898,
+        "poster": "https://image.tmdb.org/t/p/w200/6EODLN11HTX4l2cmakAhWIoJLF.jpg"
     },
     {
-      "title": "Hud",
-      "release_date": "1963-05-29"
+        "title": "Walk on the Wild Side",
+        "year": 1962,
+        "id": 60792,
+        "poster": "https://image.tmdb.org/t/p/w200/t1fPzQlKpk06an9Akme1LJX2MjU.jpg"
     },
     {
-      "title": "The World of Henry Orient",
-      "release_date": "1964-03-19"
+        "title": "A Girl Named Tamiko",
+        "year": 1962,
+        "id": 173654,
+        "poster": "https://image.tmdb.org/t/p/w200/4RCToqNrRarDC2RXgsUEbwCgiKB.jpg"
     },
     {
-      "title": "The Carpetbaggers",
-      "release_date": "1964-04-09"
+        "title": "The Great Escape",
+        "year": 1963,
+        "id": 5925,
+        "poster": "https://image.tmdb.org/t/p/w200/gBH4H8UMFxl139HaLz6lRuvsel8.jpg"
     },
     {
-      "title": "The Sons of Katie Elder",
-      "release_date": "1965-06-24"
+        "title": "Hud",
+        "year": 1963,
+        "id": 24748,
+        "poster": "https://image.tmdb.org/t/p/w200/A168bF52vmAIGkC2Qafj7M2EmaE.jpg"
     },
     {
-      "title": "The Hallelujah Trail",
-      "release_date": "1965"
+        "title": "Love with the Proper Stranger",
+        "year": 1963,
+        "id": 39495,
+        "poster": "https://image.tmdb.org/t/p/w200/1Dzre2aAiLZhAW03FlJ1n6YwQSN.jpg"
     },
     {
-      "title": "Baby the Rain Must Fall",
-      "release_date": "1965-01-13"
+        "title": "The Caretakers",
+        "year": 1963,
+        "id": 85640,
+        "poster": "https://image.tmdb.org/t/p/w200/4sSpMxxCLtAyJiOC4zJtKIsySIw.jpg"
     },
     {
-      "title": "7 Women",
-      "release_date": "1966-01-05"
+        "title": "Kings of the Sun",
+        "year": 1963,
+        "id": 80027,
+        "poster": "https://image.tmdb.org/t/p/w200/luWboioLUipYdlcfolprXoMi2Fm.jpg"
     },
     {
-      "title": "The Silencers",
-      "release_date": "1966-02-18"
+        "title": "The Carpetbaggers",
+        "year": 1964,
+        "id": 42792,
+        "poster": "https://image.tmdb.org/t/p/w200/rjDleWaF5dUMV2FiBlMnH5QvXjq.jpg"
     },
     {
-      "title": "Cast A Giant Shadow",
-      "release_date": "1966"
+        "title": "Four Days In November",
+        "year": 1964,
+        "id": 139226,
+        "poster": "https://image.tmdb.org/t/p/w200/k0khNu7qbOn211UArU5xbi1EMat.jpg"
     },
     {
-      "title": "Hawaii",
-      "release_date": "1966-10-10"
+        "title": "The World of Henry Orient",
+        "year": 1964,
+        "id": 19662,
+        "poster": "https://image.tmdb.org/t/p/w200/4amE4cUpqH6TUm07UDOJMDz2xHw.jpg"
     },
     {
-      "title": "Return of the Seven",
-      "release_date": "1966-10-19"
+        "title": "The Sons of Katie Elder",
+        "year": 1965,
+        "id": 16211,
+        "poster": "https://image.tmdb.org/t/p/w200/n6ox5IniBxxx6ISTol5pm36WoFr.jpg"
     },
     {
-      "title": "Thoroughly Modern Millie",
-      "release_date": "1967-03-21"
+        "title": "Baby the Rain Must Fall",
+        "year": 1965,
+        "id": 95548,
+        "poster": "https://image.tmdb.org/t/p/w200/AhUaRlyV0WdbNZADY9ITZzhijh6.jpg"
     },
     {
-      "title": "The Scalphunters",
-      "release_date": "1968-04-02"
+        "title": "7 Women",
+        "year": 1965,
+        "id": 68692,
+        "poster": "https://image.tmdb.org/t/p/w200/cD4SUHUBDpJgFc63UjANsy1cPhl.jpg"
     },
     {
-      "title": "I Love You, Alice B. Toklas",
-      "release_date": "1968-08-29"
+        "title": "The Reward",
+        "year": 1965,
+        "id": 108506,
+        "poster": "https://image.tmdb.org/t/p/w200/6DUandtpeVOta5r7W0QZHvUTFAx.jpg"
     },
     {
-      "title": "Powers of Ten",
-      "release_date": "1977-09-04"
+        "title": "Cast a Giant Shadow",
+        "year": 1966,
+        "id": 8737,
+        "poster": "https://image.tmdb.org/t/p/w200/s3IhCoMfbQSMuUCJvpKWKFuOMwY.jpg"
     },
     {
-      "title": "Guns of the Magnificent Seven",
-      "release_date": "1969-05-28"
+        "title": "Return of the Seven",
+        "year": 1966,
+        "id": 12639,
+        "poster": "https://image.tmdb.org/t/p/w200/xO3cPFFzXa7zZ704dOwgws5duFK.jpg"
     },
     {
-      "title": "True Grit",
-      "release_date": "1969-06-12"
+        "title": "The Silencers",
+        "year": 1966,
+        "id": 21779,
+        "poster": "https://image.tmdb.org/t/p/w200/eLxVPMCV3IWiOKwxRKoSZqpT8lY.jpg"
     },
     {
-      "title": "The Bridge at Remagen",
-      "release_date": "1969-06-25"
+        "title": "Hawaii",
+        "year": 1966,
+        "id": 14689,
+        "poster": "https://image.tmdb.org/t/p/w200/cRqw7ajYhz7Kn4p0y559K6jR9Zi.jpg"
     },
     {
-      "title": "The Gypsy Moths",
-      "release_date": "1969-08-28"
+        "title": "Thoroughly Modern Millie",
+        "year": 1967,
+        "id": 32489,
+        "poster": "https://image.tmdb.org/t/p/w200/ce8rBGFR0naGsp6mKy9CNKn9iSa.jpg"
     },
     {
-      "title": "The Liberation of L.B. Jones",
-      "release_date": "1970-03-18"
+        "title": "The Scalphunters",
+        "year": 1968,
+        "id": 32068,
+        "poster": "https://image.tmdb.org/t/p/w200/m82aMr1Pcqt5t0cpSCwq5REdajY.jpg"
     },
     {
-      "title": "Cannon for Cordoba",
-      "release_date": "1970"
+        "title": "I Love You, Alice B. Toklas!",
+        "year": 1968,
+        "id": 42623,
+        "poster": "https://image.tmdb.org/t/p/w200/zhlJINj5sVFUnghjbxfJJvWjA2W.jpg"
     },
     {
-      "title": "A Walk in the Spring Rain",
-      "release_date": "1970-04-09"
+        "title": "Guns of the Magnificent Seven",
+        "year": 1969,
+        "id": 12625,
+        "poster": "https://image.tmdb.org/t/p/w200/moFQCPRHvMGfvoFbF5lqEQw9ETX.jpg"
     },
     {
-      "title": "Big Jake",
-      "release_date": "1971-05-26"
+        "title": "True Grit",
+        "year": 1969,
+        "id": 17529,
+        "poster": "https://image.tmdb.org/t/p/w200/lmexRC57l39elaIcnxhaHpcaIW2.jpg"
     },
     {
-      "title": "Doctors' Wives",
-      "release_date": "1971-02-03"
+        "title": "Midas Run",
+        "year": 1969,
+        "id": 231872,
+        "poster": "https://image.tmdb.org/t/p/w200/aGqqYLLWW2omI5SbpdkrCa5KGzy.jpg"
     },
     {
-      "title": "See No Evil",
-      "release_date": "1971-09-02"
+        "title": "The Gypsy Moths",
+        "year": 1969,
+        "id": 64079,
+        "poster": "https://image.tmdb.org/t/p/w200/ojSarHMxAFII9qAEC4tnN7PfLNT.jpg"
     },
     {
-      "title": "The Amazing Mr. Blunden",
-      "release_date": "1972"
+        "title": "Cannon for Cordoba",
+        "year": 1970,
+        "id": 96265,
+        "poster": "https://image.tmdb.org/t/p/w200/m4QvLDgS663bRbaHGQNK1BRd331.jpg"
     },
     {
-      "title": "Cahill U.S. Marshal",
-      "release_date": "1973-07-11"
+        "title": "The Liberation of L.B. Jones",
+        "year": 1970,
+        "id": 95556,
+        "poster": "https://image.tmdb.org/t/p/w200/nX4cm1sPtXMNC0LdofKADvCYwax.jpg"
     },
     {
-      "title": "The Magnificent Seven Ride!",
-      "release_date": "1972-08-01"
+        "title": "A Walk in the Spring Rain",
+        "year": 1970,
+        "id": 151540,
+        "poster": "https://image.tmdb.org/t/p/w200/hcPZyS4J4iVNvYKIbY2fHUZbpR4.jpg"
     },
     {
-      "title": "Gold",
-      "release_date": "1974-09-05"
+        "title": "Big Jake",
+        "year": 1971,
+        "id": 21717,
+        "poster": "https://image.tmdb.org/t/p/w200/wcmxYNuM9akm0Qjs86quqMAUX6C.jpg"
     },
     {
-      "title": "McQ",
-      "release_date": "1974"
+        "title": "See No Evil",
+        "year": 1971,
+        "id": 39859,
+        "poster": "https://image.tmdb.org/t/p/w200/gR2xs6S9F2zjPrmzWsgMXSdVX2C.jpg"
     },
     {
-      "title": "Nightmare Honeymoon",
-      "release_date": "1974-09-20"
+        "title": "Doctors' Wives",
+        "year": 1971,
+        "id": 200236,
+        "poster": "https://image.tmdb.org/t/p/w200/hRshcixd0dLfI2lsX63ys1PaZcA.jpg"
     },
     {
-      "title": "The Trial of Billy Jack",
-      "release_date": "1974-11-13"
+        "title": "The Magnificent Seven Ride!",
+        "year": 1972,
+        "id": 43417,
+        "poster": "https://image.tmdb.org/t/p/w200/g9wUJuEBpAFS6fjXguyWqudZWhZ.jpg"
     },
     {
-      "title": "Mr Quilp",
-      "release_date": "1975-11-20"
+        "title": "The Amazing Mr. Blunden",
+        "year": 1972,
+        "id": 53780,
+        "poster": "https://image.tmdb.org/t/p/w200/7ZnQAGqE26ys2QFk4SgZJ7FtuU9.jpg"
     },
     {
-      "title": "Report to the Commissioner",
-      "release_date": "1975-02-05"
+        "title": "Cahill: United States Marshal",
+        "year": 1973,
+        "id": 30708,
+        "poster": "https://image.tmdb.org/t/p/w200/oR3yIiQNL4EdYZJHNE8spFpV21b.jpg"
     },
     {
-      "title": "From Noon Till Three",
-      "release_date": "1976"
+        "title": "Incident on a Dark Street",
+        "year": 1973,
+        "id": 64770,
+        "poster": "https://image.tmdb.org/t/p/w200/vqU61Smed2e4322zOCX2CJoWb6e.jpg"
     },
     {
-      "title": "The Incredible Sarah",
-      "release_date": "1976"
+        "title": "Gold",
+        "year": 1974,
+        "id": 47737,
+        "poster": "https://image.tmdb.org/t/p/w200/2HncdDCSSeJQLIz3bAOocigqDqN.jpg"
     },
     {
-      "title": "The Shootist",
-      "release_date": "1976-07-21"
+        "title": "McQ",
+        "year": 1974,
+        "id": 26185,
+        "poster": "https://image.tmdb.org/t/p/w200/l2s6ti9dFmqqxd9HvWmegAsC92p.jpg"
     },
     {
-      "title": "Billy Jack Goes to Washington",
-      "release_date": "1977-04-16"
+        "title": "Nightmare Honeymoon",
+        "year": 1974,
+        "id": 98128,
+        "poster": "https://image.tmdb.org/t/p/w200/3tj7YrSJ1HyQ74wPRqDDWntPAv6.jpg"
     },
     {
-      "title": "Slap Shot",
-      "release_date": "1977-02-25"
+        "title": "The Trial of Billy Jack",
+        "year": 1974,
+        "id": 83980,
+        "poster": "https://image.tmdb.org/t/p/w200/xlYSv3tebgES8isB1hJWLc4cjy4.jpg"
     },
     {
-      "title": "Powers of Ten",
-      "release_date": "1977-09-04"
+        "title": "Ellery Queen: Too Many Suspects",
+        "year": 1975,
+        "id": 1014201,
+        "poster": "https://image.tmdb.org/t/p/w200/7Pp8v6KMlt6XWMgRgvdiG48hNMw.jpg"
     },
     {
-      "title": "National Lampoon's Animal House",
-      "release_date": "1978"
+        "title": "Report to the Commissioner",
+        "year": 1975,
+        "id": 42262,
+        "poster": "https://image.tmdb.org/t/p/w200/k0G33xOTiu4TTGmsRt0basMSck7.jpg"
     },
     {
-      "title": "Bloodbrothers",
-      "release_date": "1978-10-06"
+        "title": "The Old Curiosity Shop",
+        "year": 1975,
+        "id": 243717,
+        "poster": "https://image.tmdb.org/t/p/w200/hLazbtwKlrJi6k1x3DhGyt1iVdM.jpg"
     },
     {
-      "title": "Casey's Shadow",
-      "release_date": "1978-03-17"
+        "title": "From Noon Till Three",
+        "year": 1976,
+        "id": 6476,
+        "poster": "https://image.tmdb.org/t/p/w200/9n0F4swweH369HTI0etLc6fAuyi.jpg"
     },
     {
-      "title": "Zulu Dawn",
-      "release_date": "1979-05-15"
+        "title": "The Shootist",
+        "year": 1976,
+        "id": 12584,
+        "poster": "https://image.tmdb.org/t/p/w200/3FBCNDeffuKZQzuXnnFyNNip9AN.jpg"
     },
     {
-      "title": "The Great Santini",
-      "release_date": "1979-10-26"
+        "title": "Billy Jack Goes to Washington",
+        "year": 1977,
+        "id": 78140,
+        "poster": "https://image.tmdb.org/t/p/w200/a6wvKVuxfm2P4Tw7QUXso3tLvwa.jpg"
     },
     {
-      "title": "Meatballs",
-      "release_date": "1979-06-29"
+        "title": "Bloodbrothers",
+        "year": 1978,
+        "id": 114096,
+        "poster": "https://image.tmdb.org/t/p/w200/2DDE8LoMSo5b7ob6gC2613ijQfV.jpg"
     },
     {
-      "title": "Airplane!",
-      "release_date": "1980-06-27"
+        "title": "Animal House",
+        "year": 1978,
+        "id": 8469,
+        "poster": "https://image.tmdb.org/t/p/w200/fWooBbipMRIKeSRhEzmeaDV0T8H.jpg"
     },
     {
-      "title": "The Blues Brothers",
-      "release_date": "1980-06-20"
+        "title": "The Great Santini",
+        "year": 1979,
+        "id": 21887,
+        "poster": "https://image.tmdb.org/t/p/w200/xvoHFQlSAq0696rvONsEAWj1fcm.jpg"
     },
     {
-      "title": "Saturn 3",
-      "release_date": "1980-02-15"
+        "title": "Zulu Dawn",
+        "year": 1979,
+        "id": 18061,
+        "poster": "https://image.tmdb.org/t/p/w200/dGFmC4gRYUMcbVktIgM9kyqNqk8.jpg"
     },
     {
-      "title": "Heavy Metal",
-      "release_date": "1981-08-07"
+        "title": "Meatballs",
+        "year": 1979,
+        "id": 14035,
+        "poster": "https://image.tmdb.org/t/p/w200/9YA2erSNcca9NWd0xePC9ArFWnx.jpg"
     },
     {
-      "title": "Honky Tonk Freeway",
-      "release_date": "1981-08-21"
+        "title": "The Blues Brothers",
+        "year": 1980,
+        "id": 525,
+        "poster": "https://image.tmdb.org/t/p/w200/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg"
     },
     {
-      "title": "Going Ape!",
-      "release_date": "1981-04-10"
+        "title": "Airplane!",
+        "year": 1980,
+        "id": 813,
+        "poster": "https://image.tmdb.org/t/p/w200/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg"
     },
     {
-      "title": "The Chosen",
-      "release_date": "1982-04-30"
+        "title": "This Year's Blonde",
+        "year": 1980,
+        "id": 240136,
+        "poster": "https://image.tmdb.org/t/p/w200/zzApXfXvhFJ6HGReCXN9Y8UmpmY.jpg"
     },
     {
-      "title": "An American Werewolf in London",
-      "release_date": "1981-08-21"
+        "title": "Saturn 3",
+        "year": 1980,
+        "id": 19761,
+        "poster": "https://image.tmdb.org/t/p/w200/zAoLR1azwd8QbglnjWpOwJ4PI6C.jpg"
     },
     {
-      "title": "Stripes",
-      "release_date": "1981-06-26"
+        "title": "An American Werewolf in London",
+        "year": 1981,
+        "id": 814,
+        "poster": "https://image.tmdb.org/t/p/w200/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg"
     },
     {
-      "title": "Genocide",
-      "release_date": "1982"
+        "title": "Stripes",
+        "year": 1981,
+        "id": 10890,
+        "poster": "https://image.tmdb.org/t/p/w200/vP8tPOgmJSNOh4bpOv1bFjid3rZ.jpg"
     },
     {
-      "title": "Five Days One Summer",
-      "release_date": "1982-11-12"
+        "title": "Heavy Metal",
+        "year": 1981,
+        "id": 11827,
+        "poster": "https://image.tmdb.org/t/p/w200/atUtWrDlLzT1yeVK2EoYtvbS963.jpg"
     },
     {
-      "title": "Our House",
-      "release_date": "1982"
+        "title": "The Chosen",
+        "year": 1981,
+        "id": 25773,
+        "poster": "https://image.tmdb.org/t/p/w200/wtw4jMMKz5CfB4H408XGAa87XHp.jpg"
     },
     {
-      "title": "Airplane II: The Sequel",
-      "release_date": "1982-12-10"
+        "title": "Honky Tonk Freeway",
+        "year": 1981,
+        "id": 47871,
+        "poster": "https://image.tmdb.org/t/p/w200/hfwhYVNOlYsA05G4c3c08UuRLIS.jpg"
     },
     {
-      "title": "Michael Jackson's Thriller",
-      "release_date": "1983"
+        "title": "Going Ape!",
+        "year": 1981,
+        "id": 75963,
+        "poster": "https://image.tmdb.org/t/p/w200/ykjlb8pWz3j0R4EV1wGVxdBeXOy.jpg"
     },
     {
-      "title": "Class",
-      "release_date": "1983-07-22"
+        "title": "Airplane II: The Sequel",
+        "year": 1982,
+        "id": 2665,
+        "poster": "https://image.tmdb.org/t/p/w200/zs7Pjyabt0fwe2XqIx0gnF9Q4np.jpg"
     },
     {
-      "title": "Trading Places",
-      "release_date": "1983-06-08"
+        "title": "Five Days One Summer",
+        "year": 1982,
+        "id": 89571,
+        "poster": "https://image.tmdb.org/t/p/w200/pAu8cdw7QExCFE6lpw0XPNk7FLA.jpg"
     },
     {
-      "title": "Spacehunter: Adventures in the Forbidden Zone",
-      "release_date": "1983-05-20"
+        "title": "Trading Places",
+        "year": 1983,
+        "id": 1621,
+        "poster": "https://image.tmdb.org/t/p/w200/8mBuLCOcpWnmYtZc4aqtvDXslv6.jpg"
     },
     {
-      "title": "Prince Jack",
-      "release_date": "1984"
+        "title": "Spacehunter: Adventures in the Forbidden Zone",
+        "year": 1983,
+        "id": 26978,
+        "poster": "https://image.tmdb.org/t/p/w200/hXIis8l0rqCThFHlhvELf31pSXz.jpg"
     },
     {
-      "title": "Marie Ward",
-      "release_date": "1984"
+        "title": "Class",
+        "year": 1983,
+        "id": 21500,
+        "poster": "https://image.tmdb.org/t/p/w200/iDFeOVxNOSmAcsdmvtt4kZWB8GA.jpg"
     },
     {
-      "title": "Bolero",
-      "release_date": "1984-08-31"
+        "title": "Ghostbusters",
+        "year": 1984,
+        "id": 620,
+        "poster": "https://image.tmdb.org/t/p/w200/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg"
     },
     {
-      "title": "Ghostbusters",
-      "release_date": "1984-06-08"
+        "title": "The Black Cauldron",
+        "year": 1985,
+        "id": 10957,
+        "poster": "https://image.tmdb.org/t/p/w200/h64i9e6oJs2jrDZ4QzspXMqZhPF.jpg"
     },
     {
-      "title": "The Black Cauldron",
-      "release_date": "1985-07-24"
+        "title": "Spies Like Us",
+        "year": 1985,
+        "id": 9080,
+        "poster": "https://image.tmdb.org/t/p/w200/s0Sx8nd9Irq0aCPbsN78s0DYVlG.jpg"
     },
     {
-      "title": "Spies Like Us",
-      "release_date": "1985-12-03"
+        "title": "\u00a1Three Amigos!",
+        "year": 1986,
+        "id": 8388,
+        "poster": "https://image.tmdb.org/t/p/w200/dUNRnhl2cwjFJ6TOsaPJmZeMZ0S.jpg"
     },
     {
-      "title": "The Journey of Natty Gann",
-      "release_date": "1985-09-27"
+        "title": "Legal Eagles",
+        "year": 1986,
+        "id": 9930,
+        "poster": "https://image.tmdb.org/t/p/w200/aZKGkQ9rpMyQ75sbdLnpmiM3m73.jpg"
     },
     {
-      "title": "\u00a1Three Amigos!",
-      "release_date": "1986-12-12"
+        "title": "Leonard Part 6",
+        "year": 1987,
+        "id": 24828,
+        "poster": "https://image.tmdb.org/t/p/w200/ouT2pkDmasvSUZNUmVIm5Gki6H.jpg"
     },
     {
-      "title": "Legal Eagles",
-      "release_date": "1986-06-18"
+        "title": "Amazing Grace and Chuck",
+        "year": 1987,
+        "id": 74340,
+        "poster": "https://image.tmdb.org/t/p/w200/uEp2ZuH22RN4uPXRX6Y40XCcqWF.jpg"
     },
     {
-      "title": "Leonard Part 6",
-      "release_date": "1987-12-18"
+        "title": "The Good Mother",
+        "year": 1988,
+        "id": 104301,
+        "poster": "https://image.tmdb.org/t/p/w200/13AsjChBPvhefDsAazSqukmNCSu.jpg"
     },
     {
-      "title": "Amazing Grace and Chuck",
-      "release_date": "1987-05-22"
+        "title": "Funny Farm",
+        "year": 1988,
+        "id": 14170,
+        "poster": "https://image.tmdb.org/t/p/w200/i4ExIbPuAe0rAjpYcteiFx4QEfY.jpg"
     },
     {
-      "title": "Funny Farm",
-      "release_date": "1988-06-03"
+        "title": "My Left Foot: The Story of Christy Brown",
+        "year": 1989,
+        "id": 10161,
+        "poster": "https://image.tmdb.org/t/p/w200/GRAAl0bMQFoFIjV3aunc5jsM5u.jpg"
     },
     {
-      "title": "The Good Mother",
-      "release_date": "1988-11-04"
+        "title": "Slipstream",
+        "year": 1989,
+        "id": 22379,
+        "poster": "https://image.tmdb.org/t/p/w200/vdheFSJHXDr2Z7F4mJHJkQt8I3N.jpg"
     },
     {
-      "title": "A Night in the Life of Jimmy Reardon",
-      "release_date": "1988-02-26"
+        "title": "The Grifters",
+        "year": 1990,
+        "id": 18129,
+        "poster": "https://image.tmdb.org/t/p/w200/zMpGfkiDIdg5bB7WGcAT3Fdrfpt.jpg"
     },
     {
-      "title": "Da",
-      "release_date": "1988-04-29"
+        "title": "The Field",
+        "year": 1990,
+        "id": 31651,
+        "poster": "https://image.tmdb.org/t/p/w200/ppF5pUheNoL0EPuGRIEnHz1ewp7.jpg"
     },
     {
-      "title": "My Left Foot",
-      "release_date": "1989-02-24"
+        "title": "Oscar",
+        "year": 1991,
+        "id": 11890,
+        "poster": "https://image.tmdb.org/t/p/w200/rGJOzUwHlkx8MKy2oR2qEiT7g4G.jpg"
     },
     {
-      "title": "Slipstream",
-      "release_date": "1989-02-10"
+        "title": "Cape Fear",
+        "year": 1991,
+        "id": 1598,
+        "poster": "https://image.tmdb.org/t/p/w200/meJZAAuVcjic2ipvbOPz5UlE4P9.jpg"
     },
     {
-      "title": "The Field",
-      "release_date": "1990-09-21"
+        "title": "A Rage in Harlem",
+        "year": 1991,
+        "id": 41780,
+        "poster": "https://image.tmdb.org/t/p/w200/nPzZ0DVolHLUMcu8dhQ6EKdNNrW.jpg"
     },
     {
-      "title": "The Grifters",
-      "release_date": "1990-09-14"
+        "title": "Rambling Rose",
+        "year": 1991,
+        "id": 32221,
+        "poster": "https://image.tmdb.org/t/p/w200/hAoluBzewlMqRH4mgFJvr4EPOMw.jpg"
     },
     {
-      "title": "Cape Fear",
-      "release_date": "1991-11-15"
+        "title": "The Babe",
+        "year": 1992,
+        "id": 61225,
+        "poster": "https://image.tmdb.org/t/p/w200/lso2f5jbglHtGke2A8NwRkcfxF6.jpg"
     },
     {
-      "title": "Rambling Rose",
-      "release_date": "1991-09-20"
+        "title": "Mad Dog and Glory",
+        "year": 1993,
+        "id": 10433,
+        "poster": "https://image.tmdb.org/t/p/w200/wmgmTe9uQ5mtudN6e4IVEGvSqg1.jpg"
     },
     {
-      "title": "A Rage in Harlem",
-      "release_date": "1991-05-03"
+        "title": "The Age of Innocence",
+        "year": 1993,
+        "id": 10436,
+        "poster": "https://image.tmdb.org/t/p/w200/5Tuyt26v7qNR8Cl3m7ZRx36rduf.jpg"
     },
     {
-      "title": "Oscar",
-      "release_date": "1991-04-26"
+        "title": "The Good Son",
+        "year": 1993,
+        "id": 9272,
+        "poster": "https://image.tmdb.org/t/p/w200/6jZ1eef6SCVSMb4o1pSHHq84Nyf.jpg"
     },
     {
-      "title": "A River Runs Through It",
-      "release_date": "1992-09-11"
+        "title": "Lost in Yonkers",
+        "year": 1993,
+        "id": 27224,
+        "poster": "https://image.tmdb.org/t/p/w200/9COy4RAhPzOw1ICecKMYQCexTgm.jpg"
     },
     {
-      "title": "Innocent Blood",
-      "release_date": "1992-09-25"
+        "title": "The Cemetery Club",
+        "year": 1993,
+        "id": 79888,
+        "poster": "https://image.tmdb.org/t/p/w200/yWAA4NuA2fmkZQL3CEWRzPif6D7.jpg"
     },
     {
-      "title": "Mad Dog and Glory",
-      "release_date": "1993-03-05"
+        "title": "Devil in a Blue Dress",
+        "year": 1995,
+        "id": 8512,
+        "poster": "https://image.tmdb.org/t/p/w200/5lcJhwKGavLbPva17QkTBhLfqEk.jpg"
     },
     {
-      "title": "The Age of Innocence",
-      "release_date": "1993-09-17"
+        "title": "Frankie Starlight",
+        "year": 1995,
+        "id": 73067,
+        "poster": "https://image.tmdb.org/t/p/w200/6v3VxWhFsr2Qx8qIQkG4WL3f76X.jpg"
     },
     {
-      "title": "Lost in Yonkers",
-      "release_date": "1993-05-14"
+        "title": "Canadian Bacon",
+        "year": 1995,
+        "id": 1775,
+        "poster": "https://image.tmdb.org/t/p/w200/bzK2aQ8xUB67kwCR5LHTSY99HtT.jpg"
     },
     {
-      "title": "The Cemetery Club",
-      "release_date": "1993-02-03"
+        "title": "Roommates",
+        "year": 1995,
+        "id": 161495,
+        "poster": "https://image.tmdb.org/t/p/w200/ww737E66JgONeNCSZVuGRy7TvXI.jpg"
     },
     {
-      "title": "The Good Son",
-      "release_date": "1993-09-24"
+        "title": "Search and Destroy",
+        "year": 1995,
+        "id": 54022,
+        "poster": "https://image.tmdb.org/t/p/w200/fE6Bu947OQR0fFjbZmWQ7iupMzW.jpg"
     },
     {
-      "title": "Roommates",
-      "release_date": "1995-03-03"
+        "title": "Bulletproof",
+        "year": 1996,
+        "id": 10723,
+        "poster": "https://image.tmdb.org/t/p/w200/iI7G9YXxodrqkQPKis1y3EKP8wJ.jpg"
     },
     {
-      "title": "The Scarlet Letter",
-      "release_date": "1995-10-13"
+        "title": "The Rainmaker",
+        "year": 1997,
+        "id": 11975,
+        "poster": "https://image.tmdb.org/t/p/w200/twLGHXPjQtS8UyVGp5GXmhJiTM7.jpg"
     },
     {
-      "title": "Search and Destroy",
-      "release_date": "1995-04-28"
+        "title": "Hoodlum",
+        "year": 1997,
+        "id": 22073,
+        "poster": "https://image.tmdb.org/t/p/w200/hZrwqVXLyxxsNJHVc6bJKSUDkXA.jpg"
     },
     {
-      "title": "Canadian Bacon",
-      "release_date": "1995-09-22"
+        "title": "Buddy",
+        "year": 1997,
+        "id": 15170,
+        "poster": "https://image.tmdb.org/t/p/w200/88l3mMtQcHE5JW8gJmQJm9fmpAH.jpg"
     },
     {
-      "title": "Devil in a Blue Dress",
-      "release_date": "1995-09-16"
+        "title": "Twilight",
+        "year": 1998,
+        "id": 26269,
+        "poster": "https://image.tmdb.org/t/p/w200/ydzfDVuZer0tsnesfg2ql9CR5vc.jpg"
     },
     {
-      "title": "Frankie Starlight",
-      "release_date": "1995-11-22"
+        "title": "Wild Wild West",
+        "year": 1999,
+        "id": 8487,
+        "poster": "https://image.tmdb.org/t/p/w200/mCdo7nykEVCa25bjnkwgyX35fjm.jpg"
     },
     {
-      "title": "Bulletproof",
-      "release_date": "1996-09-06"
+        "title": "Bringing Out the Dead",
+        "year": 1999,
+        "id": 8649,
+        "poster": "https://image.tmdb.org/t/p/w200/gE2Q8mL0m0EA6HakRyc92uzSPJn.jpg"
     },
     {
-      "title": "Buddy",
-      "release_date": "1997-06-06"
+        "title": "Introducing Dorothy Dandridge",
+        "year": 1999,
+        "id": 54982,
+        "poster": "https://image.tmdb.org/t/p/w200/4y5HWByhvOrxzPZpxvwahpeAGZA.jpg"
     },
     {
-      "title": "The Rainmaker",
-      "release_date": "1997-11-21"
+        "title": "The Deep End of the Ocean",
+        "year": 1999,
+        "id": 30943,
+        "poster": "https://image.tmdb.org/t/p/w200/4Q8g9CfW7EiwxRCpLSDpOmcaEZb.jpg"
     },
     {
-      "title": "Hoodlum",
-      "release_date": "1997-08-27"
+        "title": "Keeping the Faith",
+        "year": 2000,
+        "id": 4967,
+        "poster": "https://image.tmdb.org/t/p/w200/9NF199FTvHr9ggqdBTVbPhF1MGk.jpg"
     },
     {
-      "title": "Twilight",
-      "release_date": "1998-03-06"
+        "title": "Chinese Coffee",
+        "year": 2000,
+        "id": 49511,
+        "poster": "https://image.tmdb.org/t/p/w200/nZGWnSuf1FIuzyEuMRZHHZWViAp.jpg"
     },
     {
-      "title": "Bringing Out the Dead",
-      "release_date": "1999-10-22"
+        "title": "Far from Heaven",
+        "year": 2002,
+        "id": 10712,
+        "poster": "https://image.tmdb.org/t/p/w200/9gQuvFDRPLx39smUvyafm36tp0d.jpg"
     },
     {
-      "title": "Wild Wild West",
-      "release_date": "1999-06-30"
-    },
-    {
-      "title": "The Deep End of the Ocean",
-      "release_date": "1999-03-12"
-    },
-    {
-      "title": "Keeping the Faith",
-      "release_date": "2000-04-14"
-    },
-    {
-      "title": "Far from Heaven",
-      "release_date": "2002-09-02"
-    },
-    {
-      "title": "Gangs of New York",
-      "release_date": "2002-12-20"
+        "title": "Cecil B. DeMille: American Epic",
+        "year": 2004,
+        "id": 263257,
+        "poster": "https://image.tmdb.org/t/p/w200/n2Bh3yNtpfvjCyKQuV4vgGPzFGo.jpg"
     }
-  ]
-}
+]

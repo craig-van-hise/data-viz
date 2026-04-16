@@ -1,181 +1,212 @@
-{
-  "composer": "Quincy Jones",
-  "filmography": [
+[
     {
-      "title": "The Pawnbroker",
-      "release_date": "1965-04-20"
+        "title": "The Boy in the Tree",
+        "year": 1961,
+        "id": 119460,
+        "poster": "https://image.tmdb.org/t/p/w200/u5fVvuHV5iiMBSG8jLVJhtjFKZg.jpg"
     },
     {
-      "title": "Mirage",
-      "release_date": "1965-05-26"
+        "title": "The Pawnbroker",
+        "year": 1965,
+        "id": 20540,
+        "poster": "https://image.tmdb.org/t/p/w200/o4CT5WPqmOLF2QfodAuGT7jQNn1.jpg"
     },
     {
-      "title": "The Slender Thread",
-      "release_date": "1965-12-23"
+        "title": "Mirage",
+        "year": 1965,
+        "id": 19661,
+        "poster": "https://image.tmdb.org/t/p/w200/dMDgPPaBvyed07YZOV98ge2igLL.jpg"
     },
     {
-      "title": "Walk, Don't Run",
-      "release_date": "1966-06-29"
+        "title": "The Slender Thread",
+        "year": 1965,
+        "id": 51054,
+        "poster": "https://image.tmdb.org/t/p/w200/bVJ9p6nTX2nvzAviASuvtMSQ6Jp.jpg"
     },
     {
-      "title": "The Deadly Affair",
-      "release_date": "1967-01-26"
+        "title": "Walk Don't Run",
+        "year": 1966,
+        "id": 38720,
+        "poster": "https://image.tmdb.org/t/p/w200/cdgTjp6blLr4AR48a6fT2q3dN2e.jpg"
     },
     {
-      "title": "Enter Laughing",
-      "release_date": "1967-02-25"
+        "title": "In the Heat of the Night",
+        "year": 1967,
+        "id": 10633,
+        "poster": "https://image.tmdb.org/t/p/w200/qFpfALhprXmOAbA5upTNupZw8rq.jpg"
     },
     {
-      "title": "Banning",
-      "release_date": "1967-06-30"
+        "title": "The Deadly Affair",
+        "year": 1967,
+        "id": 14755,
+        "poster": "https://image.tmdb.org/t/p/w200/Av6mrgiizvdSC1Tl9cEvazjS9S.jpg"
     },
     {
-      "title": "In the Heat of the Night",
-      "release_date": "1967-08-02"
+        "title": "Enter Laughing",
+        "year": 1967,
+        "id": 42693,
+        "poster": "https://image.tmdb.org/t/p/w200/7YdI1eCfG8N8xqvGhyezjODGGc9.jpg"
     },
     {
-      "title": "In Cold Blood",
-      "release_date": "1967-12-15"
+        "title": "In Cold Blood",
+        "year": 1967,
+        "id": 18900,
+        "poster": "https://image.tmdb.org/t/p/w200/sPEvsif5Y70mfVvtU39iOyrVJdF.jpg"
     },
     {
-      "title": "Ironside",
-      "release_date": "1967"
+        "title": "Ironside",
+        "year": 1967,
+        "id": 377718,
+        "poster": "https://image.tmdb.org/t/p/w200/uFnk2cdRTWyvwH1Ai5emKEGR3hy.jpg"
     },
     {
-      "title": "A Dandy in Aspic",
-      "release_date": "1968-04-02"
+        "title": "Banning",
+        "year": 1967,
+        "id": 84511,
+        "poster": "https://image.tmdb.org/t/p/w200/xpgrGgP2FLpFDgphq8urIA5WDh4.jpg"
     },
     {
-      "title": "The Counterfeit Killer",
-      "release_date": "1968"
+        "title": "The Split",
+        "year": 1968,
+        "id": 31937,
+        "poster": "https://image.tmdb.org/t/p/w200/djvKlaid635GhsedLRE3QUxV6sB.jpg"
     },
     {
-      "title": "Jigsaw",
-      "release_date": "1968-06-05"
+        "title": "Split Second to an Epitaph",
+        "year": 1968,
+        "id": 721142,
+        "poster": "https://image.tmdb.org/t/p/w200/i8dsOb2EKzOdMxB7px2RDNQwkIK.jpg"
     },
     {
-      "title": "For Love of Ivy",
-      "release_date": "1968-07-17"
+        "title": "A Dandy in Aspic",
+        "year": 1968,
+        "id": 84844,
+        "poster": "https://image.tmdb.org/t/p/w200/5MxaHR8EOtftUbhm1wqqdJIiUNS.jpg"
     },
     {
-      "title": "The Hell with Heroes",
-      "release_date": "1968-08-28"
+        "title": "The Hell with Heroes",
+        "year": 1968,
+        "id": 339678,
+        "poster": "https://image.tmdb.org/t/p/w200/eeDLV8l2j5O8GHc5aZuM16Q4irG.jpg"
     },
     {
-      "title": "The Split",
-      "release_date": "1968-11-04"
+        "title": "For Love of Ivy",
+        "year": 1968,
+        "id": 70591,
+        "poster": "https://image.tmdb.org/t/p/w200/xUa2GkJSaA6eVAc68ixL4I1MMiz.jpg"
     },
     {
-      "title": "Mackenna's Gold",
-      "release_date": "1969-03-18"
+        "title": "The Italian Job",
+        "year": 1969,
+        "id": 10536,
+        "poster": "https://image.tmdb.org/t/p/w200/8NOw3HPHkcBndJW2K6ofbcSb7WD.jpg"
     },
     {
-      "title": "The Italian Job",
-      "release_date": "1969-06-05"
+        "title": "John and Mary",
+        "year": 1969,
+        "id": 61742,
+        "poster": "https://image.tmdb.org/t/p/w200/1Uw1LUoDDhBpv9orJOEj1xQytRF.jpg"
     },
     {
-      "title": "The Lost Man",
-      "release_date": "1969-06-25"
+        "title": "The Lost Man",
+        "year": 1969,
+        "id": 193177,
+        "poster": "https://image.tmdb.org/t/p/w200/rQX60olLyDpSJoWBr7J3mMyLl5o.jpg"
     },
     {
-      "title": "Bob & Carol & Ted & Alice",
-      "release_date": "1969-09-17"
+        "title": "Bob & Carol & Ted & Alice",
+        "year": 1969,
+        "id": 26520,
+        "poster": "https://image.tmdb.org/t/p/w200/8fDLuB1q3JycYJPK0F65OYO3lAX.jpg"
     },
     {
-      "title": "John and Mary",
-      "release_date": "1969-12-14"
+        "title": "Cactus Flower",
+        "year": 1969,
+        "id": 28289,
+        "poster": "https://image.tmdb.org/t/p/w200/oabi6jdkxP3KHMNywKn6nQeDzQZ.jpg"
     },
     {
-      "title": "Cactus Flower",
-      "release_date": "1969-12-16"
+        "title": "Of Men and Demons",
+        "year": 1969,
+        "id": 209508,
+        "poster": "https://image.tmdb.org/t/p/w200/aYKFnfqvtUT1g27Gi7zAsKOeT1N.jpg"
     },
     {
-      "title": "Last of the Mobile Hot Shots",
-      "release_date": "1970-01-14"
+        "title": "They Call Me Mister Tibbs!",
+        "year": 1970,
+        "id": 34732,
+        "poster": "https://image.tmdb.org/t/p/w200/7UMb7hDPMlJPOvRgkclclnbtjRq.jpg"
     },
     {
-      "title": "The Out-of-Towners",
-      "release_date": "1970-05-28"
+        "title": "Last of the Mobile Hot Shots",
+        "year": 1970,
+        "id": 117999,
+        "poster": "https://image.tmdb.org/t/p/w200/xj5Rub6H5B9yMh6GL3oomOM1SLg.jpg"
     },
     {
-      "title": "They Call Me Mister Tibbs!",
-      "release_date": "1970-07-08"
+        "title": "The Out-of-Towners",
+        "year": 1970,
+        "id": 20444,
+        "poster": "https://image.tmdb.org/t/p/w200/1yun6b1oVbHvyfnkhs5Ib7uQjSL.jpg"
     },
     {
-      "title": "Brother John",
-      "release_date": "1971-03-24"
+        "title": "Eggs",
+        "year": 1971,
+        "id": 266534,
+        "poster": "https://image.tmdb.org/t/p/w200/ryimAPFoHeAzL2Kb1mYCAgNf6WS.jpg"
     },
     {
-      "title": "The Anderson Tapes",
-      "release_date": "1971-06-17"
+        "title": "Honky",
+        "year": 1971,
+        "id": 134186,
+        "poster": "https://image.tmdb.org/t/p/w200/ysAAIuaBCfU4RslCKR1LL5i5aPc.jpg"
     },
     {
-      "title": "Honky",
-      "release_date": "1971"
+        "title": "Brother John",
+        "year": 1971,
+        "id": 121923,
+        "poster": "https://image.tmdb.org/t/p/w200/oAlIrWE9dBolu5Q25HI18bTFoq.jpg"
     },
     {
-      "title": "Dollars",
-      "release_date": "1971-12-17"
+        "title": "$",
+        "year": 1971,
+        "id": 31644,
+        "poster": "https://image.tmdb.org/t/p/w200/bQ4f5lmo8m0tfkQqqXbAUfFeHIJ.jpg"
     },
     {
-      "title": "The Hot Rock",
-      "release_date": "1972-01-26"
+        "title": "The Anderson Tapes",
+        "year": 1971,
+        "id": 30941,
+        "poster": "https://image.tmdb.org/t/p/w200/6pjMMwqnL4qkl5pFnlfAqp0cNn9.jpg"
     },
     {
-      "title": "The New Centurions",
-      "release_date": "1972-08-03"
+        "title": "The Getaway",
+        "year": 1972,
+        "id": 5916,
+        "poster": "https://image.tmdb.org/t/p/w200/8SvnGUJsr16zUJ2CN7ONX1ZWtZ8.jpg"
     },
     {
-      "title": "The Getaway",
-      "release_date": "1972-12-19"
+        "title": "The Hot Rock",
+        "year": 1972,
+        "id": 46059,
+        "poster": "https://image.tmdb.org/t/p/w200/vzfGNqmANfRbavk5XdQTsfnjmeH.jpg"
     },
     {
-      "title": "The Wiz",
-      "release_date": "1978-10-24"
+        "title": "The Color Purple",
+        "year": 1985,
+        "id": 873,
+        "poster": "https://image.tmdb.org/t/p/w200/6bvxkcTAXyqxGRwo38mxw92D6Xr.jpg"
     },
     {
-      "title": "The Color Purple",
-      "release_date": "1985-12-18"
+        "title": "Get Rich or Die Tryin'",
+        "year": 2005,
+        "id": 10060,
+        "poster": "https://image.tmdb.org/t/p/w200/aaEJu8vFKtrAoSRtw3xjCf1aM5d.jpg"
     },
     {
-      "title": "Stalingrad",
-      "release_date": "1990"
-    },
-    {
-      "title": "The Fresh Prince of Bel-Air",
-      "release_date": "1990"
-    },
-    {
-      "title": "The Whoopi Goldberg Show",
-      "release_date": "1992"
-    },
-    {
-      "title": "Steel",
-      "release_date": "1997-08-15"
-    },
-    {
-      "title": "Fantasia 2000",
-      "release_date": "1999-12-17"
-    },
-    {
-      "title": "Austin Powers in Goldmember",
-      "release_date": "2002-07-26"
-    },
-    {
-      "title": "Get Rich or Die Tryin'",
-      "release_date": "2005-11-02"
-    },
-    {
-      "title": "Sandy Wexler",
-      "release_date": "2017-04-07"
-    },
-    {
-      "title": "The Color Purple",
-      "release_date": "2023-11-20"
-    },
-    {
-      "title": "Lola",
-      "release_date": "2024-02-09"
+        "title": "Lola",
+        "year": 2024,
+        "id": 818861,
+        "poster": "https://image.tmdb.org/t/p/w200/mCc3u1NXeHIgT8NyIOoZuoPUIxg.jpg"
     }
-  ]
-}
+]

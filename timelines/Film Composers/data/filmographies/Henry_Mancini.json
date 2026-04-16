@@ -1,165 +1,752 @@
-{
-  "composer": "Henry Mancini",
-  "filmography": [
+[
     {
-      "title": "\"Mr. Lucky\"",
-      "release_date": "1960"
+        "title": "Horizons West",
+        "year": 1952,
+        "id": 60535,
+        "poster": "https://image.tmdb.org/t/p/w200/rFV5wxIQTWytlZQksRJMceEhV1L.jpg"
     },
     {
-      "title": "\"High Time\"",
-      "release_date": "1960"
+        "title": "Lost in Alaska",
+        "year": 1952,
+        "id": 33522,
+        "poster": "https://image.tmdb.org/t/p/w200/dAt9fZTH134t034QlJ9Rj9gkA35.jpg"
     },
     {
-      "title": "\"Theme from The Great Imposter\"",
-      "release_date": "1961"
+        "title": "Back at the Front",
+        "year": 1952,
+        "id": 1003445,
+        "poster": "https://image.tmdb.org/t/p/w200/9LYgrFXo2msUwg1kGuLK3J6kSf5.jpg"
     },
     {
-      "title": "\"Moon River\"",
-      "release_date": "1961"
+        "title": "The Raiders",
+        "year": 1952,
+        "id": 326060,
+        "poster": "https://image.tmdb.org/t/p/w200/jaKeE7YNF2YPD1PK6Dvnk0ukfuh.jpg"
     },
     {
-      "title": "\"Experiment In Terror\"",
-      "release_date": "1962"
+        "title": "Abbott and Costello Go to Mars",
+        "year": 1953,
+        "id": 33472,
+        "poster": "https://image.tmdb.org/t/p/w200/wGnKIzOiymXrPq2GU5htrWVIXZK.jpg"
     },
     {
-      "title": "\"Theme from Hatari!\"",
-      "release_date": "1962"
+        "title": "It Came from Outer Space",
+        "year": 1953,
+        "id": 19483,
+        "poster": "https://image.tmdb.org/t/p/w200/zPXff8iRma28YQFApfzuWadZXzP.jpg"
     },
     {
-      "title": "\"Days of Wine and Roses\"",
-      "release_date": "1963"
+        "title": "Girls in the Night",
+        "year": 1953,
+        "id": 116594,
+        "poster": "https://image.tmdb.org/t/p/w200/vPjvWjgKmYIFdJJ6Kz1FSkz9lwW.jpg"
     },
     {
-      "title": "\"Banzai Pipeline\"",
-      "release_date": "1963"
+        "title": "City Beneath the Sea",
+        "year": 1953,
+        "id": 49327,
+        "poster": "https://image.tmdb.org/t/p/w200/h5nRcZ1HO4T8oNNZmXgBD0kRr9x.jpg"
     },
     {
-      "title": "\"Charade\"",
-      "release_date": "1963"
+        "title": "Seminole",
+        "year": 1953,
+        "id": 63861,
+        "poster": "https://image.tmdb.org/t/p/w200/dVY3d7uVAMFSrFqlzrEMQlh3FFB.jpg"
     },
     {
-      "title": "\"The Pink Panther Theme\"",
-      "release_date": "1964"
+        "title": "The Lone Hand",
+        "year": 1953,
+        "id": 176411,
+        "poster": "https://image.tmdb.org/t/p/w200/hgKpBKYkW5Tfv7v8hjgL3JfbJHU.jpg"
     },
     {
-      "title": "\"A Shot in the Dark\"",
-      "release_date": "1964"
+        "title": "Creature from the Black Lagoon",
+        "year": 1954,
+        "id": 10973,
+        "poster": "https://image.tmdb.org/t/p/w200/euCzA2Exc70MpTDCVYih8tdE7z1.jpg"
     },
     {
-      "title": "\"Dear Heart\"",
-      "release_date": "1964"
+        "title": "The Glenn Miller Story",
+        "year": 1954,
+        "id": 17729,
+        "poster": "https://image.tmdb.org/t/p/w200/eEuwIMj7jKYaUt0ZG6aVpYxlkrC.jpg"
     },
     {
-      "title": "\"How Soon\"",
-      "release_date": "1964"
+        "title": "The Far Country",
+        "year": 1954,
+        "id": 18721,
+        "poster": "https://image.tmdb.org/t/p/w200/clia72SGMEDdkNqlrDneigfJrlQ.jpg"
     },
     {
-      "title": "\"The Sweetheart Tree\"",
-      "release_date": "1965"
+        "title": "Saskatchewan",
+        "year": 1954,
+        "id": 147905,
+        "poster": "https://image.tmdb.org/t/p/w200/nvGkHcdEGB40Pmtqx1sLtxU0mt2.jpg"
     },
     {
-      "title": "\"La Raspa\"",
-      "release_date": "1965"
+        "title": "Ma and Pa Kettle at Waikiki",
+        "year": 1955,
+        "id": 50683,
+        "poster": "https://image.tmdb.org/t/p/w200/qSsJON9CguF5CrDj09r5AWFAbYx.jpg"
     },
     {
-      "title": "\"Moment to Moment\"",
-      "release_date": "1965"
+        "title": "Abbott and Costello Meet the Keystone Kops",
+        "year": 1955,
+        "id": 33476,
+        "poster": "https://image.tmdb.org/t/p/w200/hPxsFbTp4mX13EjEwkZgZikc2lF.jpg"
     },
     {
-      "title": "\"Hawaii (Main Theme)\"",
-      "release_date": "1966"
+        "title": "Abbott and Costello Meet the Mummy",
+        "year": 1955,
+        "id": 26661,
+        "poster": "https://image.tmdb.org/t/p/w200/aHKjPVnDwE6iiz3pVj7MGwXo8B.jpg"
     },
     {
-      "title": "\"Two for the Road\"",
-      "release_date": "1967"
+        "title": "The Kettles in the Ozarks",
+        "year": 1956,
+        "id": 57086,
+        "poster": "https://image.tmdb.org/t/p/w200/2TbuoOVa7hDN8pFWlJWceyDimzK.jpg"
     },
     {
-      "title": "\"Wait Until Dark\"",
-      "release_date": "1967"
+        "title": "The Creature Walks Among Us",
+        "year": 1956,
+        "id": 39408,
+        "poster": "https://image.tmdb.org/t/p/w200/lygDmTXJgynNuHkXH0PjJidXQ0F.jpg"
     },
     {
-      "title": "\"Norma La De Guadalajara\"",
-      "release_date": "1968"
+        "title": "Rock, Pretty Baby",
+        "year": 1956,
+        "id": 252443,
+        "poster": "https://image.tmdb.org/t/p/w200/yXmyQpqyJvVjnBEB8aF6F3IUjpn.jpg"
     },
     {
-      "title": "\"A Man, a Horse and a Gun\"",
-      "release_date": "1968"
+        "title": "Man Afraid",
+        "year": 1957,
+        "id": 146637,
+        "poster": "https://image.tmdb.org/t/p/w200/2MkVQmL6xwWuDoTqNuQjEbthbcA.jpg"
     },
     {
-      "title": "\"Love Theme from Romeo and Juliet\"",
-      "release_date": "1969"
+        "title": "The Land Unknown",
+        "year": 1957,
+        "id": 43716,
+        "poster": "https://image.tmdb.org/t/p/w200/1kJNx5GJTnp2rLZV8I3Aq4rVL4W.jpg"
     },
     {
-      "title": "\"Moonlight Sonata\"",
-      "release_date": "1969"
+        "title": "The Monolith Monsters",
+        "year": 1957,
+        "id": 52196,
+        "poster": "https://image.tmdb.org/t/p/w200/xIStqMPFzdvOs4Lm0kRwEMGNNm6.jpg"
     },
     {
-      "title": "\"There Isn't Enough to Go Around\"",
-      "release_date": "1969"
+        "title": "The Night Runner",
+        "year": 1957,
+        "id": 73000,
+        "poster": "https://image.tmdb.org/t/p/w200/nl4uSfRZdAu49l3XsiFQZLxDiI1.jpg"
     },
     {
-      "title": "\"Theme from Z (Life Goes On)\"",
-      "release_date": "1970"
+        "title": "Joe Dakota",
+        "year": 1957,
+        "id": 208162,
+        "poster": "https://image.tmdb.org/t/p/w200/k3lNVBQkETQoki9ZKkN4iRL1pwt.jpg"
     },
     {
-      "title": "\"Theme from The Molly Maguires\"",
-      "release_date": "1970"
+        "title": "Touch of Evil",
+        "year": 1958,
+        "id": 1480,
+        "poster": "https://image.tmdb.org/t/p/w200/1pvRgmfBaoMczIJBOi9gCOZ4FMC.jpg"
     },
     {
-      "title": "\"Darling Lili\"",
-      "release_date": "1970"
+        "title": "Voice in the Mirror",
+        "year": 1958,
+        "id": 81441,
+        "poster": "https://image.tmdb.org/t/p/w200/rcBfcdvzkMIn1N18NmG1Mv0Ditz.jpg"
     },
     {
-      "title": "\"Love Story\"",
-      "release_date": "1971"
+        "title": "Summer Love",
+        "year": 1958,
+        "id": 218864,
+        "poster": "https://image.tmdb.org/t/p/w200/3drvwLd4pyi5fWZhq4sLlTYYgew.jpg"
     },
     {
-      "title": "\"Theme from Cade's County\"",
-      "release_date": "1972"
+        "title": "Imitation of Life",
+        "year": 1959,
+        "id": 34148,
+        "poster": "https://image.tmdb.org/t/p/w200/xt3cUn7lsjpaGuB279A4v8zAYRn.jpg"
     },
     {
-      "title": "\"Theme from Nicholas and Alexandra\"",
-      "release_date": "1972"
+        "title": "High Time",
+        "year": 1960,
+        "id": 104602,
+        "poster": "https://image.tmdb.org/t/p/w200/7Awxvx9TxA57dXOPfEnbxqTQBbd.jpg"
     },
     {
-      "title": "\"Theme from the Mancini Generation\"",
-      "release_date": "1972"
+        "title": "The Great Impostor",
+        "year": 1960,
+        "id": 63887,
+        "poster": "https://image.tmdb.org/t/p/w200/geTOtU4S4nM5By8aA49nLpppwya.jpg"
     },
     {
-      "title": "\"All His Children\"(with Charley Pride)",
-      "release_date": "1972"
+        "title": "Breakfast at Tiffany's",
+        "year": 1961,
+        "id": 164,
+        "poster": "https://image.tmdb.org/t/p/w200/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg"
     },
     {
-      "title": "\"Oklahoma Crude\"",
-      "release_date": "1973"
+        "title": "Bachelor in Paradise",
+        "year": 1961,
+        "id": 52841,
+        "poster": "https://image.tmdb.org/t/p/w200/b5KDQqX4wIbT9G2Er8juwnd3E8c.jpg"
     },
     {
-      "title": "\"Hangin' Out\"(with the Mouldy Seven)",
-      "release_date": "1974"
+        "title": "Hatari!",
+        "year": 1962,
+        "id": 11385,
+        "poster": "https://image.tmdb.org/t/p/w200/fT1Ht8PSM5cFKmejrnufWvpXAPk.jpg"
     },
     {
-      "title": "\"Once Is Not Enough\"",
-      "release_date": "1975"
+        "title": "Experiment in Terror",
+        "year": 1962,
+        "id": 42995,
+        "poster": "https://image.tmdb.org/t/p/w200/knD04Xa9nYoGYQARpN2fXHf2JAg.jpg"
     },
     {
-      "title": "\"African Symphony\"",
-      "release_date": "1976"
+        "title": "Mr. Hobbs Takes a Vacation",
+        "year": 1962,
+        "id": 41521,
+        "poster": "https://image.tmdb.org/t/p/w200/82JEB6tYkXwB1LshoT2mho9QH2p.jpg"
     },
     {
-      "title": "\"Slow Hot Wind\"",
-      "release_date": "1976"
+        "title": "The Pink Panther",
+        "year": 1963,
+        "id": 936,
+        "poster": "https://image.tmdb.org/t/p/w200/aCjJ0sKayks2uL7MJBzdp2i67NI.jpg"
     },
     {
-      "title": "\"Theme from Charlie's Angels\"",
-      "release_date": "1977"
+        "title": "Charade",
+        "year": 1963,
+        "id": 4808,
+        "poster": "https://image.tmdb.org/t/p/w200/qqaPjC5FQidtKY65jbAKZPiOTaS.jpg"
     },
     {
-      "title": "\"Ravel's Bolero\"",
-      "release_date": "1980"
+        "title": "Days of Wine and Roses",
+        "year": 1963,
+        "id": 32488,
+        "poster": "https://image.tmdb.org/t/p/w200/cRVl1BR3x3P2NqUv61eveJNJ0ip.jpg"
     },
     {
-      "title": "\"The Thornbirds Theme\"",
-      "release_date": "1984"
+        "title": "Soldier in the Rain",
+        "year": 1963,
+        "id": 53336,
+        "poster": "https://image.tmdb.org/t/p/w200/vmJhxt93SGZrrLiaXU9C8Jtsubf.jpg"
+    },
+    {
+        "title": "A Shot in the Dark",
+        "year": 1964,
+        "id": 1594,
+        "poster": "https://image.tmdb.org/t/p/w200/pR6tNqNLYIbRRYC5TFKWVWaVvvK.jpg"
+    },
+    {
+        "title": "Carol for Another Christmas",
+        "year": 1964,
+        "id": 86778,
+        "poster": "https://image.tmdb.org/t/p/w200/v8WK3fmkDDZf5lNLe9ulXfih3v1.jpg"
+    },
+    {
+        "title": "Man's Favorite Sport?",
+        "year": 1964,
+        "id": 39231,
+        "poster": "https://image.tmdb.org/t/p/w200/ku6w1vtaKM0lIR9jz1MupKmzqZR.jpg"
+    },
+    {
+        "title": "The Great Race",
+        "year": 1965,
+        "id": 11575,
+        "poster": "https://image.tmdb.org/t/p/w200/9rL8GWuFdO3fLXcNV9rZRHskoOn.jpg"
+    },
+    {
+        "title": "Dear Heart",
+        "year": 1965,
+        "id": 101226,
+        "poster": "https://image.tmdb.org/t/p/w200/8rRzxfPsztNhgac81KJk3tphCME.jpg"
+    },
+    {
+        "title": "Arabesque",
+        "year": 1966,
+        "id": 23030,
+        "poster": "https://image.tmdb.org/t/p/w200/ufQBXrETmVizoVaoYKAmjArRTyr.jpg"
+    },
+    {
+        "title": "What Did You Do in the War, Daddy?",
+        "year": 1966,
+        "id": 36283,
+        "poster": "https://image.tmdb.org/t/p/w200/dgJL21bZBUF22jJHt66be84mcpc.jpg"
+    },
+    {
+        "title": "Moment to Moment",
+        "year": 1966,
+        "id": 118919,
+        "poster": "https://image.tmdb.org/t/p/w200/oOKx1DZG5zI7yqCIfXmjwllWns7.jpg"
+    },
+    {
+        "title": "Wait Until Dark",
+        "year": 1967,
+        "id": 11206,
+        "poster": "https://image.tmdb.org/t/p/w200/cNW3ewCB52KkxzSE47PcE5Bqvmr.jpg"
+    },
+    {
+        "title": "Two for the Road",
+        "year": 1967,
+        "id": 5767,
+        "poster": "https://image.tmdb.org/t/p/w200/f9GAaL5gXzSP8LhXJcAx8Remfy3.jpg"
+    },
+    {
+        "title": "Gunn",
+        "year": 1967,
+        "id": 86903,
+        "poster": "https://image.tmdb.org/t/p/w200/6phRyvtKjFn7dwbJZ9vLkb14Fce.jpg"
+    },
+    {
+        "title": "The Party",
+        "year": 1968,
+        "id": 10794,
+        "poster": "https://image.tmdb.org/t/p/w200/8d2Msw39YzwkBWfBMauCulp7D0.jpg"
+    },
+    {
+        "title": "Gaily, Gaily",
+        "year": 1969,
+        "id": 147357,
+        "poster": "https://image.tmdb.org/t/p/w200/gpRCXPaIR7VAyahpQqW8aCERjJI.jpg"
+    },
+    {
+        "title": "Me, Natalie",
+        "year": 1969,
+        "id": 181553,
+        "poster": "https://image.tmdb.org/t/p/w200/6KAYtHlO618SmRqw10Q9QZSD8uf.jpg"
+    },
+    {
+        "title": "Sunflower",
+        "year": 1970,
+        "id": 1863,
+        "poster": "https://image.tmdb.org/t/p/w200/eVxcQRc3xfA2IOOzXHT0ML1CjzS.jpg"
+    },
+    {
+        "title": "The Molly Maguires",
+        "year": 1970,
+        "id": 42345,
+        "poster": "https://image.tmdb.org/t/p/w200/3ywN7tPWiOkbalS2gAEPzNk4Nq9.jpg"
+    },
+    {
+        "title": "The Hawaiians",
+        "year": 1970,
+        "id": 85290,
+        "poster": "https://image.tmdb.org/t/p/w200/bf0Np3insLJiYkY6e6ZCQeytPZy.jpg"
+    },
+    {
+        "title": "Darling Lili",
+        "year": 1970,
+        "id": 42586,
+        "poster": "https://image.tmdb.org/t/p/w200/ugypriAtGu3LdUrp5bLkeIcg5Jf.jpg"
+    },
+    {
+        "title": "Sometimes a Great Notion",
+        "year": 1971,
+        "id": 40083,
+        "poster": "https://image.tmdb.org/t/p/w200/8ZSweQLYQR1J7oS3IRPk2XE5hRc.jpg"
+    },
+    {
+        "title": "The Night Visitor",
+        "year": 1971,
+        "id": 72086,
+        "poster": "https://image.tmdb.org/t/p/w200/bOKz7uhdjuLC9MNNY2874T5h6pX.jpg"
+    },
+    {
+        "title": "Sam Cade",
+        "year": 1972,
+        "id": 77441,
+        "poster": "https://image.tmdb.org/t/p/w200/qqiZTGrWejh2VjBbbh24kqBmmOZ.jpg"
+    },
+    {
+        "title": "The Marshal of Madrid",
+        "year": 1972,
+        "id": 473883,
+        "poster": "https://image.tmdb.org/t/p/w200/3bX4qriCpABYMWIiLnL5Q1HiZyF.jpg"
+    },
+    {
+        "title": "Ann-Margret: When You're Smiling",
+        "year": 1973,
+        "id": 970199,
+        "poster": "https://image.tmdb.org/t/p/w200/aMLzXTGuNiVNzDBiRdmSaOhyIP8.jpg"
+    },
+    {
+        "title": "The Thief Who Came to Dinner",
+        "year": 1973,
+        "id": 92299,
+        "poster": "https://image.tmdb.org/t/p/w200/2sopwAOdBOzrQ5kcBdZrC1Y9FnS.jpg"
+    },
+    {
+        "title": "Oklahoma Crude",
+        "year": 1973,
+        "id": 147106,
+        "poster": "https://image.tmdb.org/t/p/w200/8yCermso0k5dGHsUDYG8sxGnc8H.jpg"
+    },
+    {
+        "title": "Visions of Eight",
+        "year": 1973,
+        "id": 73319,
+        "poster": "https://image.tmdb.org/t/p/w200/mzVkecyq9ZUh5kaF8caVwr7tHso.jpg"
+    },
+    {
+        "title": "The White Dawn",
+        "year": 1974,
+        "id": 6966,
+        "poster": "https://image.tmdb.org/t/p/w200/e74001YinU9Z8FR7Oepj1q9LgF6.jpg"
+    },
+    {
+        "title": "That's Entertainment!",
+        "year": 1974,
+        "id": 33740,
+        "poster": "https://image.tmdb.org/t/p/w200/uao9fRNFxBXC6mqA8WyO01RU4dJ.jpg"
+    },
+    {
+        "title": "99 and 44/100% Dead",
+        "year": 1974,
+        "id": 52661,
+        "poster": "https://image.tmdb.org/t/p/w200/lJwpJweuzkRdZd6fhhxF5RNv7cZ.jpg"
+    },
+    {
+        "title": "The Girl from Petrovka",
+        "year": 1974,
+        "id": 62376,
+        "poster": "https://image.tmdb.org/t/p/w200/xCrir2dXPvJXCa2yiFaE1puZUcO.jpg"
+    },
+    {
+        "title": "Once Is Not Enough",
+        "year": 1975,
+        "id": 97831,
+        "poster": "https://image.tmdb.org/t/p/w200/hl08lQ78W2vai0ogIhuCHWrTlgy.jpg"
+    },
+    {
+        "title": "The Return of the Pink Panther",
+        "year": 1975,
+        "id": 11843,
+        "poster": "https://image.tmdb.org/t/p/w200/vMyjHGfCT89RpwLeN7ofmfgDru7.jpg"
+    },
+    {
+        "title": "The Great Waldo Pepper",
+        "year": 1975,
+        "id": 19740,
+        "poster": "https://image.tmdb.org/t/p/w200/oe8ew2TXKbAoMTXHjHNIWWZKDBr.jpg"
+    },
+    {
+        "title": "Silver Streak",
+        "year": 1976,
+        "id": 11558,
+        "poster": "https://image.tmdb.org/t/p/w200/gY1a4k9dalGx83D7TJ2C76xBprS.jpg"
+    },
+    {
+        "title": "W.C. Fields and Me",
+        "year": 1976,
+        "id": 49914,
+        "poster": "https://image.tmdb.org/t/p/w200/5pVWpLDdjC4T8Ae2VKbDCCVO0vh.jpg"
+    },
+    {
+        "title": "Alex & the Gypsy",
+        "year": 1976,
+        "id": 147157,
+        "poster": "https://image.tmdb.org/t/p/w200/pJdR8KDTBCYhtVEvow3Kq0mkOgF.jpg"
+    },
+    {
+        "title": "The Pink Panther Strikes Again",
+        "year": 1976,
+        "id": 12268,
+        "poster": "https://image.tmdb.org/t/p/w200/GGCch9LNAKwp4ZADAcNz1hd1dn.jpg"
+    },
+    {
+        "title": "Angela",
+        "year": 1977,
+        "id": 567963,
+        "poster": "https://image.tmdb.org/t/p/w200/tVFKLxDB9Y2BX58aeyFf6wLfWay.jpg"
+    },
+    {
+        "title": "A Family Upside Down",
+        "year": 1978,
+        "id": 265968,
+        "poster": "https://image.tmdb.org/t/p/w200/eFf8D7q0LdKT9gPv134Ukc79ZIP.jpg"
+    },
+    {
+        "title": "House Calls",
+        "year": 1978,
+        "id": 36361,
+        "poster": "https://image.tmdb.org/t/p/w200/w1dPYHsQHc9gE7usBblY2dysBuX.jpg"
+    },
+    {
+        "title": "Who Is Killing the Great Chefs of Europe?",
+        "year": 1978,
+        "id": 42216,
+        "poster": "https://image.tmdb.org/t/p/w200/N98Pdb4hdNqZsYO5bBXXb897RS.jpg"
+    },
+    {
+        "title": "Funny Business",
+        "year": 1978,
+        "id": 542416,
+        "poster": null
+    },
+    {
+        "title": "Revenge of the Pink Panther",
+        "year": 1978,
+        "id": 6081,
+        "poster": "https://image.tmdb.org/t/p/w200/pvFiI8Kkq6JIf9uxDUU5FEvet7f.jpg"
+    },
+    {
+        "title": "The Prisoner of Zenda",
+        "year": 1979,
+        "id": 1732,
+        "poster": "https://image.tmdb.org/t/p/w200/qu9PmZs3qBNpJyjYr84RngAaFnO.jpg"
+    },
+    {
+        "title": "Nightwing",
+        "year": 1979,
+        "id": 65603,
+        "poster": "https://image.tmdb.org/t/p/w200/i3nXT6Cn4Jc4Ta2AJGnBH1Tu21A.jpg"
+    },
+    {
+        "title": "10",
+        "year": 1979,
+        "id": 9051,
+        "poster": "https://image.tmdb.org/t/p/w200/uUCr4WTogPnb7LOILL8opxSyxGw.jpg"
+    },
+    {
+        "title": "The Best Place to Be",
+        "year": 1979,
+        "id": 573212,
+        "poster": "https://image.tmdb.org/t/p/w200/gD2FJZrzgT3rZWEMRybb8IR05UR.jpg"
+    },
+    {
+        "title": "Little Miss Marker",
+        "year": 1980,
+        "id": 47876,
+        "poster": "https://image.tmdb.org/t/p/w200/clqmOwegCW2YeIxxl6Aoo1omQMq.jpg"
+    },
+    {
+        "title": "A Change of Seasons",
+        "year": 1980,
+        "id": 60816,
+        "poster": "https://image.tmdb.org/t/p/w200/eFjpzGCbb02D7lvpre1hNOLJ0Wm.jpg"
+    },
+    {
+        "title": "The Shadow Box",
+        "year": 1980,
+        "id": 131481,
+        "poster": "https://image.tmdb.org/t/p/w200/qiUjTgcTYx61sBEX29b0tI8zmfd.jpg"
+    },
+    {
+        "title": "S.O.B.",
+        "year": 1981,
+        "id": 27225,
+        "poster": "https://image.tmdb.org/t/p/w200/6irq1xZdQ8rC4AuxPDlA9NkPyYs.jpg"
+    },
+    {
+        "title": "Condorman",
+        "year": 1981,
+        "id": 19379,
+        "poster": "https://image.tmdb.org/t/p/w200/wRe9kAvjN5IGAjPd0oCKhjyQDt0.jpg"
+    },
+    {
+        "title": "Back Roads",
+        "year": 1981,
+        "id": 61653,
+        "poster": "https://image.tmdb.org/t/p/w200/gjEnwAqNADksJugIs2F7EgQ5ekp.jpg"
+    },
+    {
+        "title": "Mommie Dearest",
+        "year": 1981,
+        "id": 15660,
+        "poster": "https://image.tmdb.org/t/p/w200/3Amv5uQfadEonn7SmYLfNnoeOSu.jpg"
+    },
+    {
+        "title": "Victor/Victoria",
+        "year": 1982,
+        "id": 12614,
+        "poster": "https://image.tmdb.org/t/p/w200/mCjXcPRM3Rc7gOCGeVrBdPvF2bk.jpg"
+    },
+    {
+        "title": "Trail of the Pink Panther",
+        "year": 1982,
+        "id": 9699,
+        "poster": "https://image.tmdb.org/t/p/w200/l2Gv4I8CN28aflcqecPgb0NKh63.jpg"
+    },
+    {
+        "title": "The Man Who Loved Women",
+        "year": 1983,
+        "id": 69928,
+        "poster": "https://image.tmdb.org/t/p/w200/uO8atMbKAAbagLtAKhgjnsJqA0O.jpg"
+    },
+    {
+        "title": "Curse of the Pink Panther",
+        "year": 1983,
+        "id": 36576,
+        "poster": "https://image.tmdb.org/t/p/w200/vd4bjWY1wJrjjl0c0ar2wccGT96.jpg"
+    },
+    {
+        "title": "Second Thoughts",
+        "year": 1983,
+        "id": 332402,
+        "poster": "https://image.tmdb.org/t/p/w200/7P3BFwOHM1JRCcrQfpQyMs51Djs.jpg"
+    },
+    {
+        "title": "Better Late Than Never",
+        "year": 1983,
+        "id": 301110,
+        "poster": "https://image.tmdb.org/t/p/w200/lCwWLZg4EwsjQXbOr7CGcwqaXLK.jpg"
+    },
+    {
+        "title": "Harry & Son",
+        "year": 1984,
+        "id": 91767,
+        "poster": "https://image.tmdb.org/t/p/w200/kl9yUlWRBEyXNGIXav1WIRBy5te.jpg"
+    },
+    {
+        "title": "Lifeforce",
+        "year": 1985,
+        "id": 11954,
+        "poster": "https://image.tmdb.org/t/p/w200/AeLmyhJNQd2BMFGER36ctAeDhIp.jpg"
+    },
+    {
+        "title": "Santa Claus: The Movie",
+        "year": 1985,
+        "id": 13764,
+        "poster": "https://image.tmdb.org/t/p/w200/tZvGQF2623FD0MZgvOy18J5d7x5.jpg"
+    },
+    {
+        "title": "That's Dancing!",
+        "year": 1985,
+        "id": 42047,
+        "poster": "https://image.tmdb.org/t/p/w200/8K23BnOyDaFInwD5RzP1uwF4iyQ.jpg"
+    },
+    {
+        "title": "The Great Mouse Detective",
+        "year": 1986,
+        "id": 9994,
+        "poster": "https://image.tmdb.org/t/p/w200/9uDr7vfjCFr39KGCcqrk44Cg7fQ.jpg"
+    },
+    {
+        "title": "A Fine Mess",
+        "year": 1986,
+        "id": 48609,
+        "poster": "https://image.tmdb.org/t/p/w200/cjIPWHHX92WrnmCVh05rlkdmnOD.jpg"
+    },
+    {
+        "title": "That's Life!",
+        "year": 1986,
+        "id": 52961,
+        "poster": "https://image.tmdb.org/t/p/w200/opZSLqdoRoAIg6oW99iiNmrSgAp.jpg"
+    },
+    {
+        "title": "Blind Date",
+        "year": 1987,
+        "id": 918,
+        "poster": "https://image.tmdb.org/t/p/w200/cLb3akSpZhU5qkmCO46IHfJtcs0.jpg"
+    },
+    {
+        "title": "The Glass Menagerie",
+        "year": 1987,
+        "id": 52780,
+        "poster": "https://image.tmdb.org/t/p/w200/zF02disLmOSyb3BSS4c50MC7xNo.jpg"
+    },
+    {
+        "title": "Murder by the Book",
+        "year": 1987,
+        "id": 606957,
+        "poster": "https://image.tmdb.org/t/p/w200/qmQqvHCHRKgiudQNk9E37wA9Wbz.jpg"
+    },
+    {
+        "title": "Without a Clue",
+        "year": 1988,
+        "id": 12582,
+        "poster": "https://image.tmdb.org/t/p/w200/uZmoKYDfF965UAgPrUSz0FbavsE.jpg"
+    },
+    {
+        "title": "Justin Case",
+        "year": 1988,
+        "id": 281678,
+        "poster": "https://image.tmdb.org/t/p/w200/1eGL0a6lmBplLHAkgd51VUGSIfM.jpg"
+    },
+    {
+        "title": "Sunset",
+        "year": 1988,
+        "id": 38560,
+        "poster": "https://image.tmdb.org/t/p/w200/hQZtPZwcVMBNoT8hrNpOFNIPQv0.jpg"
+    },
+    {
+        "title": "Skin Deep",
+        "year": 1989,
+        "id": 12478,
+        "poster": "https://image.tmdb.org/t/p/w200/mNFq1Bk9oXD774hVyvdPlNCtwPt.jpg"
+    },
+    {
+        "title": "Welcome Home",
+        "year": 1989,
+        "id": 56346,
+        "poster": "https://image.tmdb.org/t/p/w200/9b6NYeKMSomxp6Oacj0OKTjXHKe.jpg"
+    },
+    {
+        "title": "Physical Evidence",
+        "year": 1989,
+        "id": 41938,
+        "poster": "https://image.tmdb.org/t/p/w200/3tBOiYvoDKlimXBrK5MCXXKkyHe.jpg"
+    },
+    {
+        "title": "Peter Gunn",
+        "year": 1989,
+        "id": 76553,
+        "poster": "https://image.tmdb.org/t/p/w200/yiA62N2MlHwN4UBKiZFiaR11F1P.jpg"
+    },
+    {
+        "title": "Ghost Dad",
+        "year": 1990,
+        "id": 10485,
+        "poster": "https://image.tmdb.org/t/p/w200/vYNIUUkJSZixxrfpMLFgVlagbaf.jpg"
+    },
+    {
+        "title": "Fear",
+        "year": 1990,
+        "id": 52395,
+        "poster": "https://image.tmdb.org/t/p/w200/A36ATn3m63VnjMR8lMJu2Z5L1dv.jpg"
+    },
+    {
+        "title": "Switch",
+        "year": 1991,
+        "id": 10261,
+        "poster": "https://image.tmdb.org/t/p/w200/ddmOMoFWMpXJSU0YFddBU7d6kWT.jpg"
+    },
+    {
+        "title": "Married to It",
+        "year": 1991,
+        "id": 32083,
+        "poster": "https://image.tmdb.org/t/p/w200/fSRbQbEU5eeRsMeUG4pQWaXze98.jpg"
+    },
+    {
+        "title": "Never Forget",
+        "year": 1991,
+        "id": 113234,
+        "poster": "https://image.tmdb.org/t/p/w200/bwyUtUqxyA2317yLuNKThJa8qPs.jpg"
+    },
+    {
+        "title": "Tom and Jerry: The Movie",
+        "year": 1992,
+        "id": 22582,
+        "poster": "https://image.tmdb.org/t/p/w200/k68ZB5trRKcEJSQdPiY6jtxVq14.jpg"
+    },
+    {
+        "title": "Son of the Pink Panther",
+        "year": 1993,
+        "id": 46828,
+        "poster": "https://image.tmdb.org/t/p/w200/vSBzy0XtZvJQ4N9KLoWvblprZY2.jpg"
+    },
+    {
+        "title": "Piano Cin\u00e9ma",
+        "year": 2022,
+        "id": 1185299,
+        "poster": "https://image.tmdb.org/t/p/w200/aW0QN4ELhmWGnWtkLlyLIMrd1vR.jpg"
     }
-  ]
-}
+]

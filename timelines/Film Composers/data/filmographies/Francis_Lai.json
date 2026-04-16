@@ -1,1049 +1,476 @@
-{
-  "composer": "Francis Lai",
-  "filmography": [
+[
     {
-      "title": "Louis Silvers",
-      "release_date": "1934"
+        "title": "Fragilit\u00e9, ton nom est femme",
+        "year": 1965,
+        "id": 622273,
+        "poster": null
     },
     {
-      "title": "Max Steiner",
-      "release_date": "1935"
+        "title": "A Man and a Woman",
+        "year": 1966,
+        "id": 42726,
+        "poster": "https://image.tmdb.org/t/p/w200/boDZQiubhyhksN8fcgM4sXZ2btW.jpg"
     },
     {
-      "title": "Leo F. Forbstein",
-      "release_date": "1936"
+        "title": "Live for Life",
+        "year": 1967,
+        "id": 76295,
+        "poster": "https://image.tmdb.org/t/p/w200/gMmbvhfqMQPg2oRfh4eKf9jXDzP.jpg"
     },
     {
-      "title": "Charles Previn",
-      "release_date": "1937"
+        "title": "My Love, My Love",
+        "year": 1967,
+        "id": 198792,
+        "poster": "https://image.tmdb.org/t/p/w200/vJDp1kSuRYIVMzv6oSqgJXyvwSn.jpg"
     },
     {
-      "title": "Erich Wolfgang Korngold / Alfred Newman",
-      "release_date": "1938"
+        "title": "I'll Never Forget What's'isname",
+        "year": 1967,
+        "id": 139058,
+        "poster": "https://image.tmdb.org/t/p/w200/isgjO5QfslKGJaWGp2o3MjgPgZl.jpg"
     },
     {
-      "title": "Herbert Stothart / Richard Hageman, W. Franke Harling, John Leipold and Leo Shuken",
-      "release_date": "1939"
+        "title": "Action Man",
+        "year": 1967,
+        "id": 78181,
+        "poster": "https://image.tmdb.org/t/p/w200/hKghCL8XmJmXMqxuBPKuaLFynGV.jpg"
     },
     {
-      "title": "Leigh Harline, Paul J. Smith and Ned Washington / Alfred Newman",
-      "release_date": "1940"
+        "title": "The Bobo",
+        "year": 1967,
+        "id": 114104,
+        "poster": "https://image.tmdb.org/t/p/w200/hnQ2kWZ9KHF6mhLHHKUySCXn3o8.jpg"
     },
     {
-      "title": "Bernard Herrmann / Frank Churchill and Oliver Wallace",
-      "release_date": "1941"
+        "title": "House of Cards",
+        "year": 1968,
+        "id": 4930,
+        "poster": "https://image.tmdb.org/t/p/w200/bjcpPPIuvDYBJCaV7P9OKZCOY1t.jpg"
     },
     {
-      "title": "Max Steiner / Ray Heindorf and Heinz Roemheld",
-      "release_date": "1942"
+        "title": "13 Days in France",
+        "year": 1968,
+        "id": 268655,
+        "poster": "https://image.tmdb.org/t/p/w200/mqmmlrQreC557367fQLxDAzzFII.jpg"
     },
     {
-      "title": "Alfred Newman / Ray Heindorf",
-      "release_date": "1943"
+        "title": "Mayerling",
+        "year": 1968,
+        "id": 63888,
+        "poster": "https://image.tmdb.org/t/p/w200/7yV66NIGGJO3Th7KCn8I21Atwtf.jpg"
     },
     {
-      "title": "Max Steiner / Morris Stoloff and Carmen Dragon",
-      "release_date": "1944"
+        "title": "Tender Moment",
+        "year": 1968,
+        "id": 134191,
+        "poster": "https://image.tmdb.org/t/p/w200/6PfpzIkeeG06qT4akox4Hftj1NS.jpg"
     },
     {
-      "title": "Miklos Rozsa / Georgie Stoll",
-      "release_date": "1945"
+        "title": "Love Is a Funny Thing",
+        "year": 1969,
+        "id": 73824,
+        "poster": "https://image.tmdb.org/t/p/w200/zSzzdpOjQ7e3JMbiDttfb6mGNU0.jpg"
     },
     {
-      "title": "Hugo Friedhofer / Morris Stoloff",
-      "release_date": "1946"
+        "title": "3 Into 2 Won't Go",
+        "year": 1969,
+        "id": 230400,
+        "poster": "https://image.tmdb.org/t/p/w200/63nWYhYr8KCgeFgkSDIVc7Poe0G.jpg"
     },
     {
-      "title": "Miklos Rozsa / Alfred Newman",
-      "release_date": "1947"
+        "title": "Hannibal Brooks",
+        "year": 1969,
+        "id": 26972,
+        "poster": "https://image.tmdb.org/t/p/w200/y4wG7BG6anYd4XTyKZ75N6ZEJt3.jpg"
     },
     {
-      "title": "Life with Father \u2013 Max Steiner",
-      "release_date": "1947"
+        "title": "Hello-Goodbye",
+        "year": 1970,
+        "id": 1864,
+        "poster": "https://image.tmdb.org/t/p/w200/8dshIjstWuMsPS0xCSrJsODbqa8.jpg"
     },
     {
-      "title": "Brian Easdale / Johnny Green and Roger Edens",
-      "release_date": "1948"
+        "title": "Rider on the Rain",
+        "year": 1970,
+        "id": 27889,
+        "poster": "https://image.tmdb.org/t/p/w200/6MhB6TjDxa4e9KnX6ebzjAoxu5I.jpg"
     },
     {
-      "title": "The Red Shoes \u2013 Brian Easdale",
-      "release_date": "1948"
+        "title": "The Crook",
+        "year": 1970,
+        "id": 120100,
+        "poster": "https://image.tmdb.org/t/p/w200/ue4iFAWTPBDMBsTn0octSZpgkE0.jpg"
     },
     {
-      "title": "Aaron Copland / Roger Edens and Lennie Hayton",
-      "release_date": "1949"
+        "title": "The Games",
+        "year": 1970,
+        "id": 92296,
+        "poster": "https://image.tmdb.org/t/p/w200/kbLLTlxkBMvOsiP7twALSzTyQOX.jpg"
     },
     {
-      "title": "The Inspector General \u2013 Johnny Green",
-      "release_date": "1949"
+        "title": "Eyes Full of Sun",
+        "year": 1970,
+        "id": 338345,
+        "poster": "https://image.tmdb.org/t/p/w200/7V3HGxmJobCQRDfB4zEkLhfhC1H.jpg"
     },
     {
-      "title": "Franz Waxman / Adolph Deutsch and Roger Edens",
-      "release_date": "1950"
+        "title": "Love Story",
+        "year": 1970,
+        "id": 9062,
+        "poster": "https://image.tmdb.org/t/p/w200/5A7SGcT1GlhWfHsCRQQtGe0TpJB.jpg"
     },
     {
-      "title": "Sunset Boulevard \u2013 Franz Waxman",
-      "release_date": "1950"
+        "title": "The Modification",
+        "year": 1970,
+        "id": 359686,
+        "poster": "https://image.tmdb.org/t/p/w200/r83zxCQgteFNGupoWJECF6ORAYL.jpg"
     },
     {
-      "title": "Franz Waxman / Johnny Green and Saul Chaplin",
-      "release_date": "1951"
+        "title": "Iran",
+        "year": 1971,
+        "id": 135136,
+        "poster": "https://image.tmdb.org/t/p/w200/hiypb2AUZIhXdMOvxFKGvMHrXMV.jpg"
     },
     {
-      "title": "September Affair \u2013 Victor Young",
-      "release_date": "1951"
+        "title": "The Legend of Frenchie King",
+        "year": 1971,
+        "id": 64345,
+        "poster": "https://image.tmdb.org/t/p/w200/pQgcpLTie0dGCZibymDcTD7nncG.jpg"
     },
     {
-      "title": "Dimitri Tiomkin / Alfred Newman",
-      "release_date": "1952"
+        "title": "And Hope to Die",
+        "year": 1972,
+        "id": 91571,
+        "poster": "https://image.tmdb.org/t/p/w200/phKALAg6yiVxM1EXxHlUFf9c4cE.jpg"
     },
     {
-      "title": "High Noon \u2013 Dimitri Tiomkin",
-      "release_date": "1952"
+        "title": "Happy New Year",
+        "year": 1973,
+        "id": 76329,
+        "poster": "https://image.tmdb.org/t/p/w200/3JdSrp8qV1LhYIXKONT5iP4i4LV.jpg"
     },
     {
-      "title": "Bronislau Kaper / Alfred Newman",
-      "release_date": "1953"
+        "title": "Killing in the Sun",
+        "year": 1973,
+        "id": 78797,
+        "poster": "https://image.tmdb.org/t/p/w200/46LukCHkPaJsUKTC6v25dqm15w9.jpg"
     },
     {
-      "title": "Dimitri Tiomkin / Adolph Deutsch and Saul Chaplin",
-      "release_date": "1954"
+        "title": "Reigen",
+        "year": 1973,
+        "id": 267353,
+        "poster": "https://image.tmdb.org/t/p/w200/r3QTCNvaKc2l1GJrCWPogsFlAg6.jpg"
     },
     {
-      "title": "Alfred Newman / Robert Russell Bennett, Jay Blackton and Adolph Deutsch",
-      "release_date": "1955"
+        "title": "Marriage",
+        "year": 1974,
+        "id": 63325,
+        "poster": "https://image.tmdb.org/t/p/w200/mD6dXVMmdwf6shPwnzP289BeyyE.jpg"
     },
     {
-      "title": "Victor Young / Alfred Newman and Ken Darby",
-      "release_date": "1956"
+        "title": "Un amour de pluie",
+        "year": 1974,
+        "id": 245200,
+        "poster": "https://image.tmdb.org/t/p/w200/syAHcIGe3AitbulfxJ3pRBnGFbk.jpg"
     },
     {
-      "title": "Malcolm Arnold",
-      "release_date": "1957"
+        "title": "Child Under a Leaf",
+        "year": 1974,
+        "id": 520486,
+        "poster": "https://image.tmdb.org/t/p/w200/jZRkmpwIf63zMVIZQ0OfsJ9YEAk.jpg"
     },
     {
-      "title": "Dimitri Tiomkin / Andr\u00e9 Previn",
-      "release_date": "1958"
+        "title": "By the Blood of Others",
+        "year": 1974,
+        "id": 427330,
+        "poster": "https://image.tmdb.org/t/p/w200/uZufOEaqkqUMnf5l4I5fEi1pa0J.jpg"
     },
     {
-      "title": "Miklos Rozsa / Andr\u00e9 Previn and Ken Darby",
-      "release_date": "1959"
+        "title": "Cat and Mouse",
+        "year": 1975,
+        "id": 76347,
+        "poster": "https://image.tmdb.org/t/p/w200/eY7khWOm8QIPiiPNi8P5YIa4YXv.jpg"
     },
     {
-      "title": "On the Beach \u2013 Ernest Gold",
-      "release_date": "1959"
+        "title": "The Baby Sitter",
+        "year": 1975,
+        "id": 94129,
+        "poster": "https://image.tmdb.org/t/p/w200/ucw7dXV1LdOmiOJLBhuZQMUmFwx.jpg"
     },
     {
-      "title": "Ernest Gold / Morris Stoloff and Harry Sukman",
-      "release_date": "1960"
+        "title": "Emmanuelle: The Joys of a Woman",
+        "year": 1975,
+        "id": 28209,
+        "poster": "https://image.tmdb.org/t/p/w200/cuG4YTomxIOw2yxIcTJMvRiQNYK.jpg"
     },
     {
-      "title": "The Alamo \u2013 Dimitri Tiomkin",
-      "release_date": "1960"
+        "title": "The Good and the Bad",
+        "year": 1976,
+        "id": 4735,
+        "poster": "https://image.tmdb.org/t/p/w200/3bUCM70za8ARtCkeQVkEOybXovJ.jpg"
     },
     {
-      "title": "Henry Mancini / Saul Chaplin, Johnny Green, Sid Ramin and Irwin Kostal",
-      "release_date": "1961"
+        "title": "Striptease",
+        "year": 1976,
+        "id": 346815,
+        "poster": "https://image.tmdb.org/t/p/w200/hDXdNxOciurTWz3gzp0rvFL4Roa.jpg"
     },
     {
-      "title": "The Guns of Navarone \u2013 Dimitri Tiomkin",
-      "release_date": "1961"
+        "title": "Lost Soul",
+        "year": 1977,
+        "id": 42768,
+        "poster": "https://image.tmdb.org/t/p/w200/8c9ktbl0mKPbZOVhNGdtiIwAX6K.jpg"
     },
     {
-      "title": "Maurice Jarre / Ray Heindorf",
-      "release_date": "1962"
+        "title": "Bilitis",
+        "year": 1977,
+        "id": 50435,
+        "poster": "https://image.tmdb.org/t/p/w200/uhebKo7EuNJpSTfOorWxDCQQJAn.jpg"
     },
     {
-      "title": "To Kill a Mockingbird \u2013 Elmer Bernstein",
-      "release_date": "1962"
+        "title": "Another Man, Another Chance",
+        "year": 1977,
+        "id": 146117,
+        "poster": "https://image.tmdb.org/t/p/w200/aW1k75z1NqVhH4TN938AO3UlGem.jpg"
     },
     {
-      "title": "John Addison / Andr\u00e9 Previn",
-      "release_date": "1963"
+        "title": "International Velvet",
+        "year": 1978,
+        "id": 42207,
+        "poster": "https://image.tmdb.org/t/p/w200/xWvDYwyY3rZTlSy4UFrvZjA06Q9.jpg"
     },
     {
-      "title": "Richard M. Sherman and Robert B. Sherman / Andr\u00e9 Previn",
-      "release_date": "1964"
+        "title": "Boarding School",
+        "year": 1978,
+        "id": 68123,
+        "poster": "https://image.tmdb.org/t/p/w200/cdLGfBDjvBDA5gvaRrOxlH5RSb0.jpg"
     },
     {
-      "title": "The Fall of the Roman Empire \u2013 Dimitri Tiomkin",
-      "release_date": "1964"
+        "title": "Us Two",
+        "year": 1979,
+        "id": 76348,
+        "poster": "https://image.tmdb.org/t/p/w200/brtJa4LvmyjjMHe2csyFXf0rKvj.jpg"
     },
     {
-      "title": "Maurice Jarre / Irwin Kostal",
-      "release_date": "1965"
+        "title": "Beyond the Reef",
+        "year": 1979,
+        "id": 86102,
+        "poster": "https://image.tmdb.org/t/p/w200/6ekUUdSAzIMxrykGNBcw3IRoFsZ.jpg"
     },
     {
-      "title": "Doctor Zhivago \u2013 Maurice Jarre",
-      "release_date": "1965"
+        "title": "Bolero",
+        "year": 1981,
+        "id": 37335,
+        "poster": "https://image.tmdb.org/t/p/w200/6FUXOIU9pa835mNRD4bG4MKzdrx.jpg"
     },
     {
-      "title": "A Man and a Woman",
-      "release_date": "1966-05-10"
+        "title": "Edith and Marcel",
+        "year": 1983,
+        "id": 99313,
+        "poster": "https://image.tmdb.org/t/p/w200/u5Bm73MFvcxw3WjghQvyLE0IQOe.jpg"
     },
     {
-      "title": "Golden Globe Award for Best Original Score for A Man and a Woman",
-      "release_date": "1966"
+        "title": "My New Partner",
+        "year": 1984,
+        "id": 10260,
+        "poster": "https://image.tmdb.org/t/p/w200/kvILcin1mGcEyu0rrME8MlmD9b3.jpg"
     },
     {
-      "title": "John Barry / Ken Thorne",
-      "release_date": "1966"
+        "title": "I Believe in Santa Claus",
+        "year": 1984,
+        "id": 150219,
+        "poster": "https://image.tmdb.org/t/p/w200/fUi9GTJuWuqxFs4uMqRmeTEk0AR.jpg"
     },
     {
-      "title": "Hawaii \u2013 Elmer Bernstein",
-      "release_date": "1966"
+        "title": "No More God, No More Love",
+        "year": 1985,
+        "id": 391854,
+        "poster": "https://image.tmdb.org/t/p/w200/plJR2qDuA1yapgdeY5nBywdQA6P.jpg"
     },
     {
-      "title": "Vivre pour vivre",
-      "release_date": "1967"
+        "title": "Marie: A True Story",
+        "year": 1985,
+        "id": 87400,
+        "poster": "https://image.tmdb.org/t/p/w200/ulZH8aa972yRBDnbbt07LCvHjDd.jpg"
     },
     {
-      "title": "The Bobo",
-      "release_date": "1967-09-28"
+        "title": "AIDS: Love in Danger",
+        "year": 1985,
+        "id": 567944,
+        "poster": "https://image.tmdb.org/t/p/w200/41HY0OzA8VxQTbEFViQR6xSgx11.jpg"
     },
     {
-      "title": "I'll Never Forget What's'isname",
-      "release_date": "1967-12-18"
+        "title": "A Man and a Woman: 20 Years Later",
+        "year": 1986,
+        "id": 76350,
+        "poster": "https://image.tmdb.org/t/p/w200/kaV8LzIfnINjs4ReJcEH2GtZeD9.jpg"
     },
     {
-      "title": "BAFTA Anthony Asquith Award for Film Music for Vivre pour vivre",
-      "release_date": "1967"
+        "title": "Bandits",
+        "year": 1987,
+        "id": 163883,
+        "poster": "https://image.tmdb.org/t/p/w200/rYLObQ8eSN7Eqf8WomwyQjsnGyU.jpg"
     },
     {
-      "title": "Golden Globe Award for Best Original Score for Vivre pour vivre",
-      "release_date": "1967"
+        "title": "Dark Eyes",
+        "year": 1987,
+        "id": 44658,
+        "poster": "https://image.tmdb.org/t/p/w200/bXu1AWvAUg0OWHNjB5O1kKJ4AUt.jpg"
     },
     {
-      "title": "Elmer Bernstein / Alfred Newman and Ken Darby",
-      "release_date": "1967"
+        "title": "Itinerary of a Spoiled Child",
+        "year": 1988,
+        "id": 38198,
+        "poster": "https://image.tmdb.org/t/p/w200/9yZaH3bmvrN5EQktVZouaRTGKgQ.jpg"
     },
     {
-      "title": "Camelot \u2013 Frederick Loewe",
-      "release_date": "1967"
+        "title": "Bernadette",
+        "year": 1988,
+        "id": 66970,
+        "poster": "https://image.tmdb.org/t/p/w200/A8ncSIajEr2iCZFWAqxfklqNugG.jpg"
     },
     {
-      "title": "House of Cards",
-      "release_date": "1968-11-18"
+        "title": "Too Beautiful for You",
+        "year": 1989,
+        "id": 48524,
+        "poster": "https://image.tmdb.org/t/p/w200/eGgg6qufHcMHrKvG3eoPhCEVDnI.jpg"
     },
     {
-      "title": "Mayerling",
-      "release_date": "1968"
+        "title": "There Were Days... and Moons",
+        "year": 1990,
+        "id": 51329,
+        "poster": "https://image.tmdb.org/t/p/w200/fmHjQpI4aFc3OXRcHBuJmbyhPHf.jpg"
     },
     {
-      "title": "13 jours en France",
-      "release_date": "1968-09-27"
+        "title": "My New Partner II",
+        "year": 1990,
+        "id": 22240,
+        "poster": "https://image.tmdb.org/t/p/w200/exiz9yOOHEjdjo36x3Ic4YMSgc8.jpg"
     },
     {
-      "title": "La le\u00e7on particuli\u00e8re",
-      "release_date": "1968-12-20"
+        "title": "The Passion of Bernadette",
+        "year": 1990,
+        "id": 164103,
+        "poster": "https://image.tmdb.org/t/p/w200/qDzuK8UOgjxhfD5LZoelbDxOPMr.jpg"
     },
     {
-      "title": "John Barry / Johnny Green",
-      "release_date": "1968"
+        "title": "Le Provincial",
+        "year": 1990,
+        "id": 288714,
+        "poster": "https://image.tmdb.org/t/p/w200/u36vUbnIQbsDSGFG4HALcjZhTzW.jpg"
     },
     {
-      "title": "The Shoes of the Fisherman \u2013 Alex North",
-      "release_date": "1968"
+        "title": "I'll Be Going Now",
+        "year": 1991,
+        "id": 197237,
+        "poster": "https://image.tmdb.org/t/p/w200/LlKrOc7gJB9cZOBKerkQ07dbWv.jpg"
     },
     {
-      "title": "Life Love Death",
-      "release_date": "1969"
+        "title": "Les Cl\u00e9s du Paradis",
+        "year": 1991,
+        "id": 50209,
+        "poster": "https://image.tmdb.org/t/p/w200/mmYEmpnTL4jcLC0MfV4yJuslZVN.jpg"
     },
     {
-      "title": "Hannibal Brooks",
-      "release_date": "1969-04-03"
+        "title": "The Beautiful Story",
+        "year": 1992,
+        "id": 45777,
+        "poster": "https://image.tmdb.org/t/p/w200/iNKRikAtpG6dXE8JUmUo8XVbfSO.jpg"
     },
     {
-      "title": "Three into Two Won't Go",
-      "release_date": "1969-07-02"
+        "title": "Stranger in the House",
+        "year": 1992,
+        "id": 81042,
+        "poster": "https://image.tmdb.org/t/p/w200/dDRoPO5Z63KG9hyuamL8ccRLM8B.jpg"
     },
     {
-      "title": "Un Homme qui me pla\u00eet",
-      "release_date": "1969"
+        "title": "Le Voleur et la menteuse",
+        "year": 1993,
+        "id": 252396,
+        "poster": "https://image.tmdb.org/t/p/w200/oJOQfaHHtasWSmJ8hEgLLiIwtj9.jpg"
     },
     {
-      "title": "Burt Bacharach / Lennie Hayton and Lionel Newman",
-      "release_date": "1969"
+        "title": "All That... for This?!",
+        "year": 1993,
+        "id": 33489,
+        "poster": "https://image.tmdb.org/t/p/w200/9fuw8j4tM47POn32VKRZ0IhF46u.jpg"
     },
     {
-      "title": "Butch Cassidy and the Sundance Kid \u2013 Burt Bacharach",
-      "release_date": "1969"
+        "title": "Les Miserables",
+        "year": 1995,
+        "id": 48750,
+        "poster": "https://image.tmdb.org/t/p/w200/toQ6BJCiKVSnklpsma2GnJ6KKah.jpg"
     },
     {
-      "title": "Rider On The Rain",
-      "release_date": "1970-01-21"
+        "title": "Men, Women: A User's Manual",
+        "year": 1996,
+        "id": 76390,
+        "poster": "https://image.tmdb.org/t/p/w200/5cbsWJB790lWB99w33MiAGCSMYb.jpg"
     },
     {
-      "title": "Le Voyou",
-      "release_date": "1970-11-20"
+        "title": "Chance or Coincidence",
+        "year": 1998,
+        "id": 76394,
+        "poster": "https://image.tmdb.org/t/p/w200/3g3y0DuCqPhWsMjExdyZBebOOU7.jpg"
     },
     {
-      "title": "Eyes Full of Sun",
-      "release_date": "1970"
+        "title": "One 4 All",
+        "year": 1999,
+        "id": 103980,
+        "poster": "https://image.tmdb.org/t/p/w200/neEAatUctlcAsfRvacAGNrl0QQe.jpg"
     },
     {
-      "title": "The Games",
-      "release_date": "1970-07-09"
+        "title": "The Courage to Love",
+        "year": 2005,
+        "id": 76396,
+        "poster": "https://image.tmdb.org/t/p/w200/6Ty60iEEkTwcbfEufp79stlwFTU.jpg"
     },
     {
-      "title": "Hello-Goodbye",
-      "release_date": "1970-07-12"
+        "title": "Amore e libert\u00e0 - Masaniello",
+        "year": 2006,
+        "id": 881341,
+        "poster": "https://image.tmdb.org/t/p/w200/a2ae4tEmHTNwA1io5wZtXlDrnRv.jpg"
     },
     {
-      "title": "Berlin Affair\u00a0(de)",
-      "release_date": "1970"
+        "title": "What War May Bring",
+        "year": 2010,
+        "id": 53456,
+        "poster": "https://image.tmdb.org/t/p/w200/a2I79MY0mqqBvMJBuCGVkzBufG6.jpg"
     },
     {
-      "title": "Love Story",
-      "release_date": "1970-12-16"
+        "title": "D'un film \u00e0 l'autre",
+        "year": 2011,
+        "id": 426460,
+        "poster": "https://image.tmdb.org/t/p/w200/rxJqOAgLxuViDP1OUp9rTcfm9kb.jpg"
     },
     {
-      "title": "Academy Award for Best Music, Original Score for Love Story",
-      "release_date": "1970"
+        "title": "We Love You, You Bastard",
+        "year": 2014,
+        "id": 262117,
+        "poster": "https://image.tmdb.org/t/p/w200/65Cg36ylbqSa3bthnyVo5LC7ZgO.jpg"
     },
     {
-      "title": "Golden Globe Award for Best Original Score for Love Story",
-      "release_date": "1970"
+        "title": "Un + une",
+        "year": 2015,
+        "id": 352025,
+        "poster": "https://image.tmdb.org/t/p/w200/1FAZpAfBsBtkAxUGkskXf4pTEUu.jpg"
     },
     {
-      "title": "Grammy Award for Best Original Score Written for a Motion Picture for Love Story",
-      "release_date": "1970"
+        "title": "Everyone's Life",
+        "year": 2017,
+        "id": 437399,
+        "poster": "https://image.tmdb.org/t/p/w200/pvTvo9V6CMVCgOYmdqXFV8vTYxb.jpg"
     },
     {
-      "title": "Francis Lai / The Beatles (John Lennon, Paul McCartney, George Harrison and Ringo Starr)",
-      "release_date": "1970"
+        "title": "The Best Years of a Life",
+        "year": 2019,
+        "id": 582887,
+        "poster": "https://image.tmdb.org/t/p/w200/41jZAOJvZRj4e1jshl3sFzKqHnR.jpg"
     },
     {
-      "title": "Love Story \u2013 Francis Lai",
-      "release_date": "1970"
-    },
-    {
-      "title": "Early Morning (1971 film)",
-      "release_date": "1971"
-    },
-    {
-      "title": "The Legend of Frenchie King",
-      "release_date": "1971-12-16"
-    },
-    {
-      "title": "Michel Legrand / John Williams",
-      "release_date": "1971"
-    },
-    {
-      "title": "Shaft \u2013 Isaac Hayes",
-      "release_date": "1971"
-    },
-    {
-      "title": "L'aventure, c'est l'aventure",
-      "release_date": "1972"
-    },
-    {
-      "title": "Dust in the Sun",
-      "release_date": "1958-10-03"
-    },
-    {
-      "title": "Charlie Chaplin, Raymond Rasch and Larry Russell / Ralph Burns",
-      "release_date": "1972"
-    },
-    {
-      "title": "The Godfather \u2013 Nino Rota",
-      "release_date": "1972"
-    },
-    {
-      "title": "La bonne ann\u00e9e",
-      "release_date": "1973"
-    },
-    {
-      "title": "Un homme libre",
-      "release_date": "1973"
-    },
-    {
-      "title": "BAFTA Anthony Asquith Award for Film Music for La Bonne ann\u00e9e",
-      "release_date": "1973"
-    },
-    {
-      "title": "Marvin Hamlisch / Marvin Hamlisch",
-      "release_date": "1973"
-    },
-    {
-      "title": "Jonathan Livingston Seagull \u2013 Neil Diamond",
-      "release_date": "1973"
-    },
-    {
-      "title": "Visit to a Chief's Son",
-      "release_date": "1974"
-    },
-    {
-      "title": "Loving in the Rain",
-      "release_date": "1974"
-    },
-    {
-      "title": "And Now My Love",
-      "release_date": "1974-05-15"
-    },
-    {
-      "title": "Child Under a Leaf",
-      "release_date": "1974-10-11"
-    },
-    {
-      "title": "Nino Rota and Carmine Coppola / Nelson Riddle",
-      "release_date": "1974"
-    },
-    {
-      "title": "The Little Prince \u2013 Alan Jay Lerner and Frederick Loewe",
-      "release_date": "1974"
-    },
-    {
-      "title": "Wanted: Babysitter",
-      "release_date": "1975-10-15"
-    },
-    {
-      "title": "Emmanuelle 2",
-      "release_date": "1975-12-15"
-    },
-    {
-      "title": "John Williams / Leonard Rosenman",
-      "release_date": "1975"
-    },
-    {
-      "title": "Jaws \u2013 John Williams",
-      "release_date": "1975"
-    },
-    {
-      "title": "The Good and the Bad",
-      "release_date": "1976"
-    },
-    {
-      "title": "Body of My Enemy",
-      "release_date": "1976-10-13"
-    },
-    {
-      "title": "Jerry Goldsmith / Leonard Rosenman",
-      "release_date": "1976"
-    },
-    {
-      "title": "A Star is Born \u2013 Kenneth Ascher and Paul Williams",
-      "release_date": "1976"
-    },
-    {
-      "title": "Anima persa",
-      "release_date": "1977-01-20"
-    },
-    {
-      "title": "Bilitis",
-      "release_date": "1977-03-16"
-    },
-    {
-      "title": "Another Man, Another Chance",
-      "release_date": "1977-09-28"
-    },
-    {
-      "title": "C\u00e9sar Award for Best Music Written for a Film for Bilitis",
-      "release_date": "1977"
-    },
-    {
-      "title": "John Williams / Jonathan Tunick",
-      "release_date": "1977"
-    },
-    {
-      "title": "Star Wars \u2013 John Williams",
-      "release_date": "1977"
-    },
-    {
-      "title": "Passion Flower Hotel",
-      "release_date": "1978-04-14"
-    },
-    {
-      "title": "Robert et Robert",
-      "release_date": "1978"
-    },
-    {
-      "title": "International Velvet",
-      "release_date": "1978-07-19"
-    },
-    {
-      "title": "Oliver's Story",
-      "release_date": "1978-12-15"
-    },
-    {
-      "title": "Giorgio Moroder / Joe Renzetti",
-      "release_date": "1978"
-    },
-    {
-      "title": "Midnight Express \u2013 Giorgio Moroder",
-      "release_date": "1978"
-    },
-    {
-      "title": "Lacombe, Alain; Rocle, Claude",
-      "release_date": "1979"
-    },
-    {
-      "title": "Georges Delerue / Ralph Burns",
-      "release_date": "1979"
-    },
-    {
-      "title": "Apocalypse Now \u2013 Carmine Coppola and Francis Ford Coppola",
-      "release_date": "1979"
-    },
-    {
-      "title": "Michael Gore",
-      "release_date": "1980"
-    },
-    {
-      "title": "The Stunt Man \u2013 Dominic Frontiere",
-      "release_date": "1980"
-    },
-    {
-      "title": "Beyond the Reef",
-      "release_date": "1981-04-24"
-    },
-    {
-      "title": "Les Uns et les autres",
-      "release_date": "1984-12-31"
-    },
-    {
-      "title": "Madame Claude 2",
-      "release_date": "1981"
-    },
-    {
-      "title": "C\u00e9sar Award for Best Music Written for a Film for Les Uns et les Autres",
-      "release_date": "1981"
-    },
-    {
-      "title": "Vangelis",
-      "release_date": "1981"
-    },
-    {
-      "title": "No Award",
-      "release_date": "1981"
-    },
-    {
-      "title": "John Williams / Henry Mancini and Leslie Bricusse",
-      "release_date": "1982"
-    },
-    {
-      "title": "E.T. the Extra-Terrestrial \u2013 John Williams",
-      "release_date": "1982"
-    },
-    {
-      "title": "\u00c9dith et Marcel",
-      "release_date": "1983"
-    },
-    {
-      "title": "Bill Conti / Michel Legrand, Alan and Marilyn Bergman",
-      "release_date": "1983"
-    },
-    {
-      "title": "Flashdance \u2013 Giorgio Moroder",
-      "release_date": "1983"
-    },
-    {
-      "title": "Dog Day",
-      "release_date": "1984"
-    },
-    {
-      "title": "My New Partner",
-      "release_date": "1984"
-    },
-    {
-      "title": "Maurice Jarre / Prince",
-      "release_date": "1984"
-    },
-    {
-      "title": "A Passage to India \u2013 Maurice Jarre",
-      "release_date": "1984"
-    },
-    {
-      "title": "Marie",
-      "release_date": "1985-09-25"
-    },
-    {
-      "title": "John Barry",
-      "release_date": "1985"
-    },
-    {
-      "title": "Out of Africa \u2013 John Barry",
-      "release_date": "1985"
-    },
-    {
-      "title": "A Man and a Woman: 20 Years Later",
-      "release_date": "1986-05-13"
-    },
-    {
-      "title": "Attention bandits!",
-      "release_date": "1987-06-03"
-    },
-    {
-      "title": "Herbie Hancock",
-      "release_date": "1986"
-    },
-    {
-      "title": "The Mission \u2013 Ennio Morricone",
-      "release_date": "1986"
-    },
-    {
-      "title": "Dark Eyes",
-      "release_date": "1987-09-09"
-    },
-    {
-      "title": "Ryuichi Sakamoto, David Byrne and Cong Su",
-      "release_date": "1987"
-    },
-    {
-      "title": "The Last Emperor \u2013 David Byrne, Ryuichi Sakamoto and Cong Su",
-      "release_date": "1987"
-    },
-    {
-      "title": "Itin\u00e9raire d'un enfant g\u00e2t\u00e9",
-      "release_date": "1988"
-    },
-    {
-      "title": "C\u00e9sar Award for Best Music Written for a Film for Itin\u00e9raire d'un enfant g\u00e2t\u00e9",
-      "release_date": "1988"
-    },
-    {
-      "title": "Dave Grusin",
-      "release_date": "1988"
-    },
-    {
-      "title": "Gorillas in the Mist \u2013 Maurice Jarre",
-      "release_date": "1988"
-    },
-    {
-      "title": "Alan Menken",
-      "release_date": "1989"
-    },
-    {
-      "title": "The Little Mermaid \u2013 Alan Menken",
-      "release_date": "1989"
-    },
-    {
-      "title": "My New Partner II",
-      "release_date": "1990"
-    },
-    {
-      "title": "There Were Days... and Moons",
-      "release_date": "1990"
-    },
-    {
-      "title": "John Barry",
-      "release_date": "1990"
-    },
-    {
-      "title": "The Sheltering Sky \u2013 Richard Horowitz and Ryuichi Sakamoto",
-      "release_date": "1990"
-    },
-    {
-      "title": "Les Cl\u00e9s du paradis",
-      "release_date": "1991"
-    },
-    {
-      "title": "Alan Menken",
-      "release_date": "1991"
-    },
-    {
-      "title": "Beauty and the Beast \u2013 Alan Menken",
-      "release_date": "1991"
-    },
-    {
-      "title": "La Belle Histoire",
-      "release_date": "1992"
-    },
-    {
-      "title": "Alan Menken",
-      "release_date": "1992"
-    },
-    {
-      "title": "Aladdin \u2013 Alan Menken",
-      "release_date": "1992"
-    },
-    {
-      "title": "John Williams",
-      "release_date": "1993"
-    },
-    {
-      "title": "Heaven & Earth \u2013 Kitar\u014d",
-      "release_date": "1993"
-    },
-    {
-      "title": "Hans Zimmer",
-      "release_date": "1994"
-    },
-    {
-      "title": "The Lion King \u2013 Hans Zimmer",
-      "release_date": "1994"
-    },
-    {
-      "title": "Luis Bacalov / Alan Menken and Stephen Schwartz",
-      "release_date": "1995"
-    },
-    {
-      "title": "A Walk in the Clouds \u2013 Maurice Jarre",
-      "release_date": "1995"
-    },
-    {
-      "title": "Men, Women: A User's Manual",
-      "release_date": "1996-08-28"
-    },
-    {
-      "title": "Gabriel Yared / Rachel Portman",
-      "release_date": "1996"
-    },
-    {
-      "title": "The English Patient \u2013 Gabriel Yared",
-      "release_date": "1996"
-    },
-    {
-      "title": "James Horner / Anne Dudley",
-      "release_date": "1997"
-    },
-    {
-      "title": "Titanic \u2013 James Horner",
-      "release_date": "1997"
-    },
-    {
-      "title": "Hasards ou co\u00efncidences",
-      "release_date": "1998-09-07"
-    },
-    {
-      "title": "C\u00e9sar Award for Best Music Written for a Film for Hasards ou co\u00efncidences",
-      "release_date": "1998"
-    },
-    {
-      "title": "Nicola Piovani / Stephen Warbeck",
-      "release_date": "1998"
-    },
-    {
-      "title": "The Truman Show \u2013 Burkhard Dallwitz and Philip Glass",
-      "release_date": "1998"
-    },
-    {
-      "title": "John Corigliano",
-      "release_date": "1999"
-    },
-    {
-      "title": "The Legend of 1900 \u2013 Ennio Morricone",
-      "release_date": "1999"
-    },
-    {
-      "title": "Tan Dun",
-      "release_date": "2000"
-    },
-    {
-      "title": "Gladiator \u2013 Hans Zimmer, Lisa Gerrard",
-      "release_date": "2000"
-    },
-    {
-      "title": "Howard Shore",
-      "release_date": "2001"
-    },
-    {
-      "title": "Moulin Rouge! \u2013 Craig Armstrong",
-      "release_date": "2001"
-    },
-    {
-      "title": "Elmer Bernstein",
-      "release_date": "2001"
-    },
-    {
-      "title": "Elliot Goldenthal",
-      "release_date": "2002"
-    },
-    {
-      "title": "Frida \u2013 Elliot Goldenthal",
-      "release_date": "2002"
-    },
-    {
-      "title": "George Martin",
-      "release_date": "2002"
-    },
-    {
-      "title": "Howard Shore",
-      "release_date": "2003"
-    },
-    {
-      "title": "The Lord of the Rings: The Return of the King \u2013 Howard Shore",
-      "release_date": "2003"
-    },
-    {
-      "title": "Maurice Jarre",
-      "release_date": "2003"
-    },
-    {
-      "title": "Jan A. P. Kaczmarek",
-      "release_date": "2004"
-    },
-    {
-      "title": "The Aviator \u2013 Howard Shore",
-      "release_date": "2004"
-    },
-    {
-      "title": "Alan and Marilyn Bergman",
-      "release_date": "2004"
-    },
-    {
-      "title": "Gustavo Santaolalla",
-      "release_date": "2005"
-    },
-    {
-      "title": "Memoirs of a Geisha \u2013 John Williams",
-      "release_date": "2005"
-    },
-    {
-      "title": "Jerry Leiber and Mike Stoller",
-      "release_date": "2005"
-    },
-    {
-      "title": "Gustavo Santaolalla",
-      "release_date": "2006"
-    },
-    {
-      "title": "The Painted Veil \u2013 Alexandre Desplat",
-      "release_date": "2006"
-    },
-    {
-      "title": "Peer Raben",
-      "release_date": "2006"
-    },
-    {
-      "title": "Dario Marianelli",
-      "release_date": "2007"
-    },
-    {
-      "title": "Atonement \u2013 Dario Marianelli",
-      "release_date": "2007"
-    },
-    {
-      "title": "Mikis Theodorakis",
-      "release_date": "2007"
-    },
-    {
-      "title": "A. R. Rahman",
-      "release_date": "2008"
-    },
-    {
-      "title": "Slumdog Millionaire \u2013 A. R. Rahman",
-      "release_date": "2008"
-    },
-    {
-      "title": "Angelo Badalamenti",
-      "release_date": "2008"
-    },
-    {
-      "title": "Michael Giacchino",
-      "release_date": "2009"
-    },
-    {
-      "title": "Up \u2013 Michael Giacchino",
-      "release_date": "2009"
-    },
-    {
-      "title": "Marvin Hamlisch",
-      "release_date": "2009"
-    },
-    {
-      "title": "Trent Reznor and Atticus Ross",
-      "release_date": "2010"
-    },
-    {
-      "title": "The Social Network \u2013 Trent Reznor and Atticus Ross",
-      "release_date": "2010"
-    },
-    {
-      "title": "John Barry",
-      "release_date": "2010"
-    },
-    {
-      "title": "Ludovic Bource",
-      "release_date": "2011"
-    },
-    {
-      "title": "The Artist \u2013 Ludovic Bource",
-      "release_date": "2011"
-    },
-    {
-      "title": "Giorgio Moroder",
-      "release_date": "2011"
-    },
-    {
-      "title": "Mychael Danna",
-      "release_date": "2012"
-    },
-    {
-      "title": "Life of Pi \u2013 Mychael Danna",
-      "release_date": "2012"
-    },
-    {
-      "title": "Pino Donaggio",
-      "release_date": "2012"
-    },
-    {
-      "title": "Steven Price",
-      "release_date": "2013"
-    },
-    {
-      "title": "All Is Lost \u2013 Alex Ebert",
-      "release_date": "2013"
-    },
-    {
-      "title": "Riz Ortolani",
-      "release_date": "2013"
-    },
-    {
-      "title": "Salaud, on t'aime",
-      "release_date": "2014-03-21"
-    },
-    {
-      "title": "Lifetime Achievement Award from the World Soundtrack Academy",
-      "release_date": "2014"
-    },
-    {
-      "title": "Lifetime Achievement Award, Ghent Film Festival,",
-      "release_date": "2014"
-    },
-    {
-      "title": "Alexandre Desplat",
-      "release_date": "2014"
-    },
-    {
-      "title": "The Theory of Everything \u2013 J\u00f3hann J\u00f3hannsson",
-      "release_date": "2014"
-    },
-    {
-      "title": "Francis Lai",
-      "release_date": "2014"
-    },
-    {
-      "title": "Un plus une",
-      "release_date": "2015-08-29"
-    },
-    {
-      "title": "Ennio Morricone",
-      "release_date": "2015"
-    },
-    {
-      "title": "The Hateful Eight \u2013 Ennio Morricone",
-      "release_date": "2015"
-    },
-    {
-      "title": "Patrick Doyle and George Fenton",
-      "release_date": "2015"
-    },
-    {
-      "title": "Justin Hurwitz",
-      "release_date": "2016"
-    },
-    {
-      "title": "La La Land \u2013 Justin Hurwitz",
-      "release_date": "2016"
-    },
-    {
-      "title": "Ryuichi Sakamoto",
-      "release_date": "2016"
-    },
-    {
-      "title": "Alexandre Desplat",
-      "release_date": "2017"
-    },
-    {
-      "title": "The Shape of Water \u2013 Alexandre Desplat",
-      "release_date": "2017"
-    },
-    {
-      "title": "David Shire",
-      "release_date": "2017"
-    },
-    {
-      "title": "Ludwig G\u00f6ransson",
-      "release_date": "2018"
-    },
-    {
-      "title": "First Man \u2013 Justin Hurwitz",
-      "release_date": "2018"
-    },
-    {
-      "title": "Philippe Sarde",
-      "release_date": "2018"
-    },
-    {
-      "title": "The Best Years of a Life",
-      "release_date": "2019-05-18"
-    },
-    {
-      "title": "Hildur Gu\u00f0nad\u00f3ttir",
-      "release_date": "2019"
-    },
-    {
-      "title": "Joker \u2013 Hildur Gu\u00f0nad\u00f3ttir",
-      "release_date": "2019"
-    },
-    {
-      "title": "Krzysztof Penderecki and Fr\u00e9d\u00e9ric Devreese",
-      "release_date": "2019"
-    },
-    {
-      "title": "Trent Reznor, Atticus Ross and Jon Batiste",
-      "release_date": "2020"
-    },
-    {
-      "title": "Soul \u2013 Trent Reznor, Atticus Ross, and Jon Batiste",
-      "release_date": "2020"
-    },
-    {
-      "title": "Gabriel Yared",
-      "release_date": "2020"
-    },
-    {
-      "title": "Hans Zimmer",
-      "release_date": "2021"
-    },
-    {
-      "title": "Dune \u2013 Hans Zimmer",
-      "release_date": "2021"
-    },
-    {
-      "title": "Eleni Karaindrou",
-      "release_date": "2021"
-    },
-    {
-      "title": "Volker Bertelmann",
-      "release_date": "2022"
-    },
-    {
-      "title": "Babylon \u2013 Justin Hurwitz",
-      "release_date": "2022"
-    },
-    {
-      "title": "Bruno Coulais",
-      "release_date": "2022"
-    },
-    {
-      "title": "Ludwig G\u00f6ransson",
-      "release_date": "2023"
-    },
-    {
-      "title": "Oppenheimer \u2013 Ludwig G\u00f6ransson",
-      "release_date": "2023"
-    },
-    {
-      "title": "Nicola Piovani and Laurence Rosenthal",
-      "release_date": "2023"
-    },
-    {
-      "title": "Daniel Blumberg",
-      "release_date": "2024"
-    },
-    {
-      "title": "Challengers \u2013 Trent Reznor and Atticus Ross",
-      "release_date": "2024"
-    },
-    {
-      "title": "Elliot Goldenthal",
-      "release_date": "2024"
-    },
-    {
-      "title": "Philip Glass and Michael Nyman",
-      "release_date": "2025"
+        "title": "The Cinema of Francis Lai",
+        "year": 2026,
+        "id": 1626658,
+        "poster": "https://image.tmdb.org/t/p/w200/49IAGOTrwaovE2QAFQYK6YuIEvO.jpg"
     }
-  ]
-}
+]

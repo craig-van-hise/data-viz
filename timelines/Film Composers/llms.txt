@@ -1,0 +1,12 @@
+# Film Composers Timeline
+
+A visualization project mapping film composer careers.
+
+## Key Files
+- [composers.html](file:///Users/vv2024/Documents/Repos%20-%20vv2024/data-viz/timelines/Film%20Composers/composers.html): Main timeline entry point.
+- [PROJECT_STATE.md](file:///Users/vv2024/Documents/Repos%20-%20vv2024/data-viz/timelines/Film%20Composers/PROJECT_STATE.md): Architecture and current status.
+- [README.md](file:///Users/vv2024/Documents/Repos%20-%20vv2024/data-viz/timelines/Film%20Composers/README.md): Project overview.
+
+## Data Structure
+- `data/composer_lifespans.json`: Biographical data.
+- `data/Most important films.json`: Chronological film markers.

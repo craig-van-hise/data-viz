@@ -1,493 +1,770 @@
-{
-  "composer": "James Horner",
-  "filmography": [
+[
     {
-      "title": "The Drought",
-      "release_date": "1978"
+        "title": "Up from the Depths",
+        "year": 1979,
+        "id": 56429,
+        "poster": "https://image.tmdb.org/t/p/w200/pskHeZCsUgSZDTOUGFPnuJsNfsd.jpg"
     },
     {
-      "title": "Fantasies",
-      "release_date": "1981-11-06"
+        "title": "The Lady in Red",
+        "year": 1979,
+        "id": 39771,
+        "poster": "https://image.tmdb.org/t/p/w200/x6By21xOmC2JfEnco2WFWDrDGsT.jpg"
     },
     {
-      "title": "Gist and Evans",
-      "release_date": "1978"
+        "title": "Humanoids from the Deep",
+        "year": 1980,
+        "id": 29343,
+        "poster": "https://image.tmdb.org/t/p/w200/jVqNWDvTIwjcHsMyNSUT0sfGrq9.jpg"
     },
     {
-      "title": "Landscapes",
-      "release_date": "1978"
+        "title": "Battle Beyond the Stars",
+        "year": 1980,
+        "id": 14460,
+        "poster": "https://image.tmdb.org/t/p/w200/z4EYBy4Xk8yv11YgYei42v46Qol.jpg"
     },
     {
-      "title": "Just for a Laugh",
-      "release_date": "1978"
+        "title": "Wolfen",
+        "year": 1981,
+        "id": 10725,
+        "poster": "https://image.tmdb.org/t/p/w200/hb4TJBeElGyIa7tmF2466iwwItB.jpg"
     },
     {
-      "title": "The Watcher",
-      "release_date": "1978"
+        "title": "Deadly Blessing",
+        "year": 1981,
+        "id": 33016,
+        "poster": "https://image.tmdb.org/t/p/w200/uVbllQDWJAglLyXYbWwgEGWpIu9.jpg"
     },
     {
-      "title": "The Lady in Red",
-      "release_date": "1979"
+        "title": "Angel Dusted",
+        "year": 1981,
+        "id": 170698,
+        "poster": "https://image.tmdb.org/t/p/w200/pLS7MeLc15rvdLyptSX23JQu5i4.jpg"
     },
     {
-      "title": "Up from the Depths",
-      "release_date": "1979-06-29"
+        "title": "The Hand",
+        "year": 1981,
+        "id": 42149,
+        "poster": "https://image.tmdb.org/t/p/w200/zUSAV9rObBlJfYIK9y4o88hmmdd.jpg"
     },
     {
-      "title": "Humanoids from the Deep",
-      "release_date": "1980-05-16"
+        "title": "A Few Days at Weasel Creek",
+        "year": 1981,
+        "id": 617742,
+        "poster": "https://image.tmdb.org/t/p/w200/d8FVWHbDzR6RmVwnYkfeHXalAm1.jpg"
     },
     {
-      "title": "Battle Beyond the Stars",
-      "release_date": "1980-07-25"
+        "title": "The Pursuit of D.B. Cooper",
+        "year": 1981,
+        "id": 45226,
+        "poster": "https://image.tmdb.org/t/p/w200/4uDT9RF7JlZf1T0bn0p68DRVmNv.jpg"
     },
     {
-      "title": "The Hand",
-      "release_date": "1981-04-24"
+        "title": "48 Hrs.",
+        "year": 1982,
+        "id": 150,
+        "poster": "https://image.tmdb.org/t/p/w200/rvvjXHzEDBIvIVDBHNOwHS7hVPu.jpg"
     },
     {
-      "title": "Wolfen",
-      "release_date": "1981-07-24"
+        "title": "Star Trek II: The Wrath of Khan",
+        "year": 1982,
+        "id": 154,
+        "poster": "https://image.tmdb.org/t/p/w200/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg"
     },
     {
-      "title": "Deadly Blessing",
-      "release_date": "1981-08-14"
+        "title": "A Piano for Mrs. Cimino",
+        "year": 1982,
+        "id": 270107,
+        "poster": "https://image.tmdb.org/t/p/w200/rAtaFhuDEyIz6tjqTcHc8okaQVe.jpg"
     },
     {
-      "title": "The Pursuit of D. B. Cooper",
-      "release_date": "1981"
+        "title": "Rascals and Robbers: The Secret Adventures of Tom Sawyer and Huck Finn",
+        "year": 1982,
+        "id": 88139,
+        "poster": "https://image.tmdb.org/t/p/w200/yxOdUvIkFM7N7Ca0c0nF9vCCCqN.jpg"
     },
     {
-      "title": "Star Trek II: The Wrath of Khan",
-      "release_date": "1982-06-04"
+        "title": "Krull",
+        "year": 1983,
+        "id": 849,
+        "poster": "https://image.tmdb.org/t/p/w200/izDbySIrTmID0Nh6UqcWrUvOMjU.jpg"
     },
     {
-      "title": "48 Hrs.",
-      "release_date": "1982-12-08"
+        "title": "Gorky Park",
+        "year": 1983,
+        "id": 8289,
+        "poster": "https://image.tmdb.org/t/p/w200/xQFH7XlMk8pLPDzK5XVEj5McsRm.jpg"
     },
     {
-      "title": "Space Raiders",
-      "release_date": "1983"
+        "title": "Space Raiders",
+        "year": 1983,
+        "id": 7269,
+        "poster": "https://image.tmdb.org/t/p/w200/bsGP4IhqHluCuRVSOs04fOniBq2.jpg"
     },
     {
-      "title": "Something Wicked This Way Comes",
-      "release_date": "1983-04-29"
+        "title": "Uncommon Valor",
+        "year": 1983,
+        "id": 9967,
+        "poster": "https://image.tmdb.org/t/p/w200/gdppSF9wv07bvt9UYv3yGydTpZt.jpg"
     },
     {
-      "title": "Krull",
-      "release_date": "1983-07-29"
+        "title": "Testament",
+        "year": 1983,
+        "id": 21259,
+        "poster": "https://image.tmdb.org/t/p/w200/sIc7cgiGi1p4YK4zFEiObCUztXj.jpg"
     },
     {
-      "title": "Brainstorm",
-      "release_date": "1983-09-30"
+        "title": "Something Wicked This Way Comes",
+        "year": 1983,
+        "id": 24808,
+        "poster": "https://image.tmdb.org/t/p/w200/94dMO6kAawyFUk0sCDGIjAnchED.jpg"
     },
     {
-      "title": "Testament",
-      "release_date": "1983-11-04"
+        "title": "Between Friends",
+        "year": 1983,
+        "id": 198192,
+        "poster": "https://image.tmdb.org/t/p/w200/bIQ8dHvGTJk6aZWsheshkaoWKGW.jpg"
     },
     {
-      "title": "The Dresser",
-      "release_date": "1983-12-06"
+        "title": "Brainstorm",
+        "year": 1983,
+        "id": 15050,
+        "poster": "https://image.tmdb.org/t/p/w200/afiRgLXIfH12NemvtthCkrwNtAu.jpg"
     },
     {
-      "title": "Gorky Park",
-      "release_date": "1983-12-15"
+        "title": "The Dresser",
+        "year": 1983,
+        "id": 42122,
+        "poster": "https://image.tmdb.org/t/p/w200/kPIeNAwdN2Ds77Bf7bfZAmDrzoh.jpg"
     },
     {
-      "title": "Uncommon Valor",
-      "release_date": "1983-12-16"
+        "title": "Star Trek III: The Search for Spock",
+        "year": 1984,
+        "id": 157,
+        "poster": "https://image.tmdb.org/t/p/w200/yqEj0oPfKBMCz7YcCARHDgH7VFm.jpg"
     },
     {
-      "title": "The Stone Boy",
-      "release_date": "1984-04-06"
+        "title": "The Stone Boy",
+        "year": 1984,
+        "id": 154276,
+        "poster": "https://image.tmdb.org/t/p/w200/see0E9EV9MLRyh6M09COAeujnm0.jpg"
     },
     {
-      "title": "Star Trek III: The Search for Spock",
-      "release_date": "1984-06-01"
+        "title": "Cocoon",
+        "year": 1985,
+        "id": 10328,
+        "poster": "https://image.tmdb.org/t/p/w200/wqNNm36j3nkucAucHEGAW5pNZcd.jpg"
     },
     {
-      "title": "Heaven Help Us",
-      "release_date": "1985-02-08"
+        "title": "Commando",
+        "year": 1985,
+        "id": 10999,
+        "poster": "https://image.tmdb.org/t/p/w200/ollPAAAgZ7euU8VisfqU3cuXhZ6.jpg"
     },
     {
-      "title": "Cocoon",
-      "release_date": "1985-06-21"
+        "title": "Barbarian Queen",
+        "year": 1985,
+        "id": 29903,
+        "poster": "https://image.tmdb.org/t/p/w200/u1W6PBK6okOq2D9uJK5UKSyOFEP.jpg"
     },
     {
-      "title": "Volunteers",
-      "release_date": "1985-08-16"
+        "title": "The Journey of Natty Gann",
+        "year": 1985,
+        "id": 35144,
+        "poster": "https://image.tmdb.org/t/p/w200/z2eHb3ih4k9zannMKn3wmVvYAis.jpg"
     },
     {
-      "title": "The Journey of Natty Gann",
-      "release_date": "1985-09-27"
+        "title": "Surviving",
+        "year": 1985,
+        "id": 183046,
+        "poster": "https://image.tmdb.org/t/p/w200/xx36QmEwzzP0nmt6Bep2Mqc0ZFC.jpg"
     },
     {
-      "title": "Commando",
-      "release_date": "1985-10-04"
+        "title": "Heaven Help Us",
+        "year": 1985,
+        "id": 40929,
+        "poster": "https://image.tmdb.org/t/p/w200/pZ345bJOpi30Nb5ZN6qDGySOAOf.jpg"
     },
     {
-      "title": "Off Beat",
-      "release_date": "1986-04-11"
+        "title": "Volunteers",
+        "year": 1985,
+        "id": 19259,
+        "poster": "https://image.tmdb.org/t/p/w200/tua28Wyv9uGBtPTBGCP7GsN3Znu.jpg"
     },
     {
-      "title": "Aliens",
-      "release_date": "1986-07-18"
+        "title": "The Name of the Rose",
+        "year": 1986,
+        "id": 192,
+        "poster": "https://image.tmdb.org/t/p/w200/d6dlbTBb3N7nXDz7tQslDJs2jgv.jpg"
     },
     {
-      "title": "Where the River Runs Black",
-      "release_date": "1986-09-19"
+        "title": "Aliens",
+        "year": 1986,
+        "id": 679,
+        "poster": "https://image.tmdb.org/t/p/w200/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg"
     },
     {
-      "title": "The Name of the Rose",
-      "release_date": "1986-09-19"
+        "title": "An American Tail",
+        "year": 1986,
+        "id": 4978,
+        "poster": "https://image.tmdb.org/t/p/w200/wjhUy9af89vc9CviKcPgTNTrmIq.jpg"
     },
     {
-      "title": "An American Tail",
-      "release_date": "1986-11-21"
+        "title": "Off Beat",
+        "year": 1986,
+        "id": 39243,
+        "poster": "https://image.tmdb.org/t/p/w200/lc7Plw3ebetrmGoSq9ads6PNExy.jpg"
     },
     {
-      "title": "P.K. and the Kid",
-      "release_date": "1987"
+        "title": "Captain EO",
+        "year": 1986,
+        "id": 1500440,
+        "poster": "https://image.tmdb.org/t/p/w200/b7sZDYAMU9Ph42GiyTF8nyKVUKp.jpg"
     },
     {
-      "title": "Project X",
-      "release_date": "1987-04-17"
+        "title": "Where the River Runs Black",
+        "year": 1986,
+        "id": 26046,
+        "poster": "https://image.tmdb.org/t/p/w200/wkDGX6zxgRIOvQJRqiEr0z9G1Zr.jpg"
     },
     {
-      "title": "*batteries not included",
-      "release_date": "1987-12-18"
+        "title": "*batteries not included",
+        "year": 1987,
+        "id": 11548,
+        "poster": "https://image.tmdb.org/t/p/w200/8NkpnpdLd8J6zCR8ZGTeGTur4uO.jpg"
     },
     {
-      "title": "Willow",
-      "release_date": "1988-05-20"
+        "title": "Project X",
+        "year": 1987,
+        "id": 18410,
+        "poster": "https://image.tmdb.org/t/p/w200/odUw1Th64wqGF8hQLyNJoKWbAXX.jpg"
     },
     {
-      "title": "Red Heat",
-      "release_date": "1988-06-17"
+        "title": "P.K. and the Kid",
+        "year": 1987,
+        "id": 194875,
+        "poster": "https://image.tmdb.org/t/p/w200/nAa5wgXYKUrm8M7whKX5hDvtd4d.jpg"
     },
     {
-      "title": "Vibes",
-      "release_date": "1988-08-05"
+        "title": "Willow",
+        "year": 1988,
+        "id": 847,
+        "poster": "https://image.tmdb.org/t/p/w200/pAIRGMIdN7ZdZhflazdV2ezuJ9f.jpg"
     },
     {
-      "title": "The Land Before Time",
-      "release_date": "1988-11-18"
+        "title": "Cocoon: The Return",
+        "year": 1988,
+        "id": 11285,
+        "poster": "https://image.tmdb.org/t/p/w200/xBsXdBl8qCXoQsWX6vfsVjWOMGk.jpg"
     },
     {
-      "title": "Cocoon: The Return",
-      "release_date": "1988-11-23"
+        "title": "Red Heat",
+        "year": 1988,
+        "id": 9604,
+        "poster": "https://image.tmdb.org/t/p/w200/AoJTHXmO01EZgT0p1YTsGBEQxLj.jpg"
     },
     {
-      "title": "Field of Dreams",
-      "release_date": "1989-04-21"
+        "title": "The Land Before Time",
+        "year": 1988,
+        "id": 12144,
+        "poster": "https://image.tmdb.org/t/p/w200/wSC2wxFj3ZgrIHlIaePeuHN4igo.jpg"
     },
     {
-      "title": "Honey, I Shrunk the Kids",
-      "release_date": "1989-06-23"
+        "title": "Vibes",
+        "year": 1988,
+        "id": 21185,
+        "poster": "https://image.tmdb.org/t/p/w200/yAT8QJquco2dGBEwqQJBLfP7wtM.jpg"
     },
     {
-      "title": "In Country",
-      "release_date": "1989-09-29"
+        "title": "Andy Colby\u2019s Incredibly Awesome Adventure",
+        "year": 1988,
+        "id": 88347,
+        "poster": "https://image.tmdb.org/t/p/w200/w8Ax22PY2b0RFItbNlTeA757fji.jpg"
     },
     {
-      "title": "Dad",
-      "release_date": "1989-10-27"
+        "title": "Field of Dreams",
+        "year": 1989,
+        "id": 2323,
+        "poster": "https://image.tmdb.org/t/p/w200/oeM7nAw6FVFICwUaXKCRkDsKjqO.jpg"
     },
     {
-      "title": "Glory",
-      "release_date": "1989-12-15"
+        "title": "Honey, I Shrunk the Kids",
+        "year": 1989,
+        "id": 9354,
+        "poster": "https://image.tmdb.org/t/p/w200/omQOzahi2NIeiYznNxHFDvNbvo6.jpg"
     },
     {
-      "title": "I Love You to Death",
-      "release_date": "1990-04-06"
+        "title": "Tummy Trouble",
+        "year": 1989,
+        "id": 83200,
+        "poster": "https://image.tmdb.org/t/p/w200/mLOqZNasNOUKSNCpAIeHmJWPkvW.jpg"
     },
     {
-      "title": "Another 48 Hrs.",
-      "release_date": "1990-06-08"
+        "title": "Glory",
+        "year": 1989,
+        "id": 9665,
+        "poster": "https://image.tmdb.org/t/p/w200/pGDzBjZvzmSCIEduQBfESLMiwtp.jpg"
     },
     {
-      "title": "Once Around",
-      "release_date": "1991-01-18"
+        "title": "In Country",
+        "year": 1989,
+        "id": 32855,
+        "poster": "https://image.tmdb.org/t/p/w200/rLyxWz5O2QfOBbqLDlloUHQyuru.jpg"
     },
     {
-      "title": "My Heroes Have Always Been Cowboys",
-      "release_date": "1991-03-01"
+        "title": "Dad",
+        "year": 1989,
+        "id": 21291,
+        "poster": "https://image.tmdb.org/t/p/w200/l43BVUdXxbsSt3stBgiW53Dql1n.jpg"
     },
     {
-      "title": "Class Action",
-      "release_date": "1991-03-15"
+        "title": "Another 48 Hrs.",
+        "year": 1990,
+        "id": 11595,
+        "poster": "https://image.tmdb.org/t/p/w200/ixeygHHDsuzsg67H1IPTc3Qp8cR.jpg"
     },
     {
-      "title": "The Rocketeer",
-      "release_date": "1991-06-21"
+        "title": "I Love You to Death",
+        "year": 1990,
+        "id": 3101,
+        "poster": "https://image.tmdb.org/t/p/w200/8LdWJLUfEa5JeUJ7SljJQMIJikZ.jpg"
     },
     {
-      "title": "An American Tail: Fievel Goes West",
-      "release_date": "1991-11-17"
+        "title": "Extreme Close-Up",
+        "year": 1990,
+        "id": 769421,
+        "poster": "https://image.tmdb.org/t/p/w200/tdqv4NB9ETduFppiqfCQJ385q4O.jpg"
     },
     {
-      "title": "Thunderheart",
-      "release_date": "1992-04-03"
+        "title": "An American Tail: Fievel Goes West",
+        "year": 1991,
+        "id": 10380,
+        "poster": "https://image.tmdb.org/t/p/w200/k4aLupAkHWwHiEDwvqsZFAnUYF.jpg"
     },
     {
-      "title": "Sneakers",
-      "release_date": "1992-09-11"
+        "title": "The Rocketeer",
+        "year": 1991,
+        "id": 10249,
+        "poster": "https://image.tmdb.org/t/p/w200/2tDFRESFwKww1LHRE8W1Exj9edH.jpg"
     },
     {
-      "title": "Unlawful Entry",
-      "release_date": "1992-06-26"
+        "title": "Once Around",
+        "year": 1991,
+        "id": 39233,
+        "poster": "https://image.tmdb.org/t/p/w200/A8uBNt0C5hpj1N1UqAUAqHexT3A.jpg"
     },
     {
-      "title": "Patriot Games",
-      "release_date": "1992-06-05"
+        "title": "Class Action",
+        "year": 1991,
+        "id": 15771,
+        "poster": "https://image.tmdb.org/t/p/w200/9BOsvZL2DuE2JFGYOssynTjs8K6.jpg"
     },
     {
-      "title": "Swing Kids",
-      "release_date": "1993-03-05"
+        "title": "My Heroes Have Always Been Cowboys",
+        "year": 1991,
+        "id": 122937,
+        "poster": "https://image.tmdb.org/t/p/w200/cPBY0tDrEc74mH5ckap2Shfz7Fp.jpg"
     },
     {
-      "title": "A Far Off Place",
-      "release_date": "1993-03-12"
+        "title": "Sneakers",
+        "year": 1992,
+        "id": 2322,
+        "poster": "https://image.tmdb.org/t/p/w200/l2pIGwCvpZEpBuMb55YBl6A04Jv.jpg"
     },
     {
-      "title": "Jack the Bear",
-      "release_date": "1993-04-02"
+        "title": "Thunderheart",
+        "year": 1992,
+        "id": 12395,
+        "poster": "https://image.tmdb.org/t/p/w200/uGbVd9gzRHk70E8WQPZcjiv6ZLk.jpg"
     },
     {
-      "title": "Once Upon a Forest",
-      "release_date": "1993-06-18"
+        "title": "Patriot Games",
+        "year": 1992,
+        "id": 9869,
+        "poster": "https://image.tmdb.org/t/p/w200/9IT7gnszrRthduYxCLqaIkM55Un.jpg"
     },
     {
-      "title": "House of Cards",
-      "release_date": "1993-01-30"
+        "title": "Unlawful Entry",
+        "year": 1992,
+        "id": 17494,
+        "poster": "https://image.tmdb.org/t/p/w200/dvw1Pkt0tk8tvXy61cMwOaPgkyb.jpg"
     },
     {
-      "title": "Hocus Pocus",
-      "release_date": "1993-07-16"
+        "title": "Swing Kids",
+        "year": 1993,
+        "id": 10419,
+        "poster": "https://image.tmdb.org/t/p/w200/o85xTgX5ByDewuYo5yOLIsP02CX.jpg"
     },
     {
-      "title": "Searching for Bobby Fischer",
-      "release_date": "1993-08-11"
+        "title": "The Man Without a Face",
+        "year": 1993,
+        "id": 10502,
+        "poster": "https://image.tmdb.org/t/p/w200/9dmH2jc6jwlZo90JQTFOx4XaBWt.jpg"
     },
     {
-      "title": "The Man Without a Face",
-      "release_date": "1993-08-25"
+        "title": "Once Upon a Forest",
+        "year": 1993,
+        "id": 33539,
+        "poster": "https://image.tmdb.org/t/p/w200/aGmed955Bv1ok2YBjjhAA71b7OF.jpg"
     },
     {
-      "title": "Bopha!",
-      "release_date": "1993-09-17"
+        "title": "Jack the Bear",
+        "year": 1993,
+        "id": 38749,
+        "poster": "https://image.tmdb.org/t/p/w200/ujQp7d43MmENpjMG9qaZslMqD24.jpg"
     },
     {
-      "title": "We're Back! A Dinosaur's Story",
-      "release_date": "1993-11-24"
+        "title": "A Far Off Place",
+        "year": 1993,
+        "id": 24736,
+        "poster": "https://image.tmdb.org/t/p/w200/uVTs2cUYgeGkdiPoszBOjFXqvNd.jpg"
     },
     {
-      "title": "The Pelican Brief",
-      "release_date": "1993-12-17"
+        "title": "House of Cards",
+        "year": 1993,
+        "id": 47095,
+        "poster": "https://image.tmdb.org/t/p/w200/cmZTyKkjlchMjhgzvnpfkxIglqJ.jpg"
     },
     {
-      "title": "Clear and Present Danger",
-      "release_date": "1994-08-05"
+        "title": "The Pelican Brief",
+        "year": 1993,
+        "id": 9944,
+        "poster": "https://image.tmdb.org/t/p/w200/7B1HS0SqfJR1jbeHS6V0ZWdzLXP.jpg"
     },
     {
-      "title": "The Pagemaster",
-      "release_date": "1994-11-23"
+        "title": "Searching for Bobby Fischer",
+        "year": 1993,
+        "id": 14291,
+        "poster": "https://image.tmdb.org/t/p/w200/oAJpHkMpfXiFY9F3HocIz9fhHLc.jpg"
     },
     {
-      "title": "Legends of the Fall",
-      "release_date": "1994-12-23"
+        "title": "We're Back! A Dinosaur's Story",
+        "year": 1993,
+        "id": 18890,
+        "poster": "https://image.tmdb.org/t/p/w200/iyFmhYlioe3PDZjSKWtcIhu5R02.jpg"
     },
     {
-      "title": "Braveheart",
-      "release_date": "1995-05-18"
+        "title": "Bopha!",
+        "year": 1993,
+        "id": 76264,
+        "poster": "https://image.tmdb.org/t/p/w200/chp4an84fVorgFz1ICbbnQkW2pK.jpg"
     },
     {
-      "title": "Casper",
-      "release_date": "1995-05-26"
+        "title": "Legends of the Fall",
+        "year": 1994,
+        "id": 4476,
+        "poster": "https://image.tmdb.org/t/p/w200/t1KPGlW0UGd0m515LPQmk2F4nu1.jpg"
     },
     {
-      "title": "Apollo 13",
-      "release_date": "1995-06-30"
+        "title": "Clear and Present Danger",
+        "year": 1994,
+        "id": 9331,
+        "poster": "https://image.tmdb.org/t/p/w200/6xTM8FPxrLRYwz6I3fqtwh7xybs.jpg"
     },
     {
-      "title": "Jade",
-      "release_date": "1995-10-13"
+        "title": "The Pagemaster",
+        "year": 1994,
+        "id": 15139,
+        "poster": "https://image.tmdb.org/t/p/w200/iIWUuCjN8VND7BDugvf45LveA6p.jpg"
     },
     {
-      "title": "Jumanji",
-      "release_date": "1995-12-10"
+        "title": "Braveheart",
+        "year": 1995,
+        "id": 197,
+        "poster": "https://image.tmdb.org/t/p/w200/or1gBugydmjToAEq7OZY0owwFk.jpg"
     },
     {
-      "title": "Balto",
-      "release_date": "1995-12-22"
+        "title": "Apollo 13",
+        "year": 1995,
+        "id": 568,
+        "poster": "https://image.tmdb.org/t/p/w200/tVeKscCm2fY1xDXZk8PgnZ87h9S.jpg"
     },
     {
-      "title": "The Spitfire Grill",
-      "release_date": "1996-01-24"
+        "title": "Jade",
+        "year": 1995,
+        "id": 11863,
+        "poster": "https://image.tmdb.org/t/p/w200/8KWiZKDYpAgh8n27lanvTuDquyX.jpg"
     },
     {
-      "title": "Courage Under Fire",
-      "release_date": "1996-07-12"
+        "title": "Casper",
+        "year": 1995,
+        "id": 8839,
+        "poster": "https://image.tmdb.org/t/p/w200/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg"
     },
     {
-      "title": "To Gillian on Her 37th Birthday",
-      "release_date": "1996-10-18"
+        "title": "Jumanji",
+        "year": 1995,
+        "id": 8844,
+        "poster": "https://image.tmdb.org/t/p/w200/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg"
     },
     {
-      "title": "Ransom",
-      "release_date": "1996-11-08"
+        "title": "Balto",
+        "year": 1995,
+        "id": 21032,
+        "poster": "https://image.tmdb.org/t/p/w200/dCVcdb5oxDizqFLz0F7TE60NoC9.jpg"
     },
     {
-      "title": "The Devil's Own",
-      "release_date": "1997-03-13"
+        "title": "Ransom",
+        "year": 1996,
+        "id": 3595,
+        "poster": "https://image.tmdb.org/t/p/w200/4nmOA5ZOY2VlHzwSlKY03sF2JUz.jpg"
     },
     {
-      "title": "Titanic",
-      "release_date": "1997-11-01"
+        "title": "Courage Under Fire",
+        "year": 1996,
+        "id": 10684,
+        "poster": "https://image.tmdb.org/t/p/w200/vDJurMJkrx049AiXa3DJx5Zx7a4.jpg"
     },
     {
-      "title": "Deep Impact",
-      "release_date": "1998-05-08"
+        "title": "To Gillian on Her 37th Birthday",
+        "year": 1996,
+        "id": 30500,
+        "poster": "https://image.tmdb.org/t/p/w200/7HGWS6WlsPzBsB7NG5JM4P8NrIv.jpg"
     },
     {
-      "title": "The Mask of Zorro",
-      "release_date": "1998-07-17"
+        "title": "The Spitfire Grill",
+        "year": 1996,
+        "id": 47907,
+        "poster": "https://image.tmdb.org/t/p/w200/8msETDMD6sxIkN3YtIFbCy23CBP.jpg"
     },
     {
-      "title": "Mighty Joe Young",
-      "release_date": "1998-12-25"
+        "title": "Titanic",
+        "year": 1997,
+        "id": 597,
+        "poster": "https://image.tmdb.org/t/p/w200/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
     },
     {
-      "title": "Bicentennial Man",
-      "release_date": "1999-12-17"
+        "title": "The Devil's Own",
+        "year": 1997,
+        "id": 4477,
+        "poster": "https://image.tmdb.org/t/p/w200/3KIPu7H3tST0j4tpqdKpQZUBCQz.jpg"
     },
     {
-      "title": "The Perfect Storm",
-      "release_date": "2000-06-30"
+        "title": "Deep Impact",
+        "year": 1998,
+        "id": 8656,
+        "poster": "https://image.tmdb.org/t/p/w200/a3vQS7JKqlOb3MdVJHuTCP9s7Mg.jpg"
     },
     {
-      "title": "How the Grinch Stole Christmas",
-      "release_date": "2000-11-08"
+        "title": "The Mask of Zorro",
+        "year": 1998,
+        "id": 9342,
+        "poster": "https://image.tmdb.org/t/p/w200/bdMufwGDDzqu4kTSQwrKc5WR4bu.jpg"
     },
     {
-      "title": "Enemy at the Gates",
-      "release_date": "2001-03-16"
+        "title": "Mighty Joe Young",
+        "year": 1998,
+        "id": 9822,
+        "poster": "https://image.tmdb.org/t/p/w200/93oAWBl6UIEmeknmRKbUkVq4cKl.jpg"
     },
     {
-      "title": "Iris",
-      "release_date": "2001-12-14"
+        "title": "Bicentennial Man",
+        "year": 1999,
+        "id": 2277,
+        "poster": "https://image.tmdb.org/t/p/w200/wrs23eO0VEWwOQpXoOasMnlW9Y4.jpg"
     },
     {
-      "title": "A Beautiful Mind",
-      "release_date": "2001-12-13"
+        "title": "The Perfect Storm",
+        "year": 2000,
+        "id": 2133,
+        "poster": "https://image.tmdb.org/t/p/w200/vJPoxqgpfFNbGi0HyoNsjFeLCio.jpg"
     },
     {
-      "title": "Windtalkers",
-      "release_date": "2002-06-14"
+        "title": "How the Grinch Stole Christmas",
+        "year": 2000,
+        "id": 8871,
+        "poster": "https://image.tmdb.org/t/p/w200/1WZbbPApEivA421gCOluuzMMKCk.jpg"
     },
     {
-      "title": "The Four Feathers",
-      "release_date": "2002-09-20"
+        "title": "Freedom Song",
+        "year": 2000,
+        "id": 47208,
+        "poster": "https://image.tmdb.org/t/p/w200/nFoPavCiN4fKGY23BZUahyu1GYb.jpg"
     },
     {
-      "title": "Beyond Borders",
-      "release_date": "2003-10-24"
+        "title": "A Beautiful Mind",
+        "year": 2001,
+        "id": 453,
+        "poster": "https://image.tmdb.org/t/p/w200/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg"
     },
     {
-      "title": "Radio",
-      "release_date": "2003-10-24"
+        "title": "Enemy at the Gates",
+        "year": 2001,
+        "id": 853,
+        "poster": "https://image.tmdb.org/t/p/w200/cHRAbVdsCWFaQrswRsBP7Bn255W.jpg"
     },
     {
-      "title": "The Missing",
-      "release_date": "2003-11-26"
+        "title": "Iris",
+        "year": 2001,
+        "id": 11889,
+        "poster": "https://image.tmdb.org/t/p/w200/pqtVPrv3xPLTUayC0bPruRjYWDF.jpg"
     },
     {
-      "title": "House of Sand and Fog",
-      "release_date": "2003-12-19"
+        "title": "The Four Feathers",
+        "year": 2002,
+        "id": 9093,
+        "poster": "https://image.tmdb.org/t/p/w200/bfmpeRr9LTXzBC2dpC89FE5uavK.jpg"
     },
     {
-      "title": "Bobby Jones: Stroke of Genius",
-      "release_date": "2004-04-30"
+        "title": "Windtalkers",
+        "year": 2002,
+        "id": 12100,
+        "poster": "https://image.tmdb.org/t/p/w200/547q4HXlvEcS06lujfb2yzsTP3H.jpg"
     },
     {
-      "title": "Troy",
-      "release_date": "2004-05-13"
+        "title": "House of Sand and Fog",
+        "year": 2003,
+        "id": 11093,
+        "poster": "https://image.tmdb.org/t/p/w200/hLxSOukLfC4j5pNbdE7lqaw8KgL.jpg"
     },
     {
-      "title": "The Forgotten",
-      "release_date": "2004-09-24"
+        "title": "Beyond Borders",
+        "year": 2003,
+        "id": 9839,
+        "poster": "https://image.tmdb.org/t/p/w200/j7Upm2AtGuTzCs2Asq0GyBIMAxX.jpg"
     },
     {
-      "title": "The Chumscrubber",
-      "release_date": "2005-08-26"
+        "title": "The Missing",
+        "year": 2003,
+        "id": 12146,
+        "poster": "https://image.tmdb.org/t/p/w200/86s5nw5F1G8lJtEowO0LBB4hoBW.jpg"
     },
     {
-      "title": "Flightplan",
-      "release_date": "2005-09-23"
+        "title": "Radio",
+        "year": 2003,
+        "id": 13920,
+        "poster": "https://image.tmdb.org/t/p/w200/uQ6ci4iFHhB6TWB2f4wftR7AEly.jpg"
     },
     {
-      "title": "The Legend of Zorro",
-      "release_date": "2005-10-28"
+        "title": "Troy",
+        "year": 2004,
+        "id": 652,
+        "poster": "https://image.tmdb.org/t/p/w200/51auXjXepW1zblzhaN7CAhwvf5i.jpg"
     },
     {
-      "title": "The New World",
-      "release_date": "2005-12-25"
+        "title": "The Forgotten",
+        "year": 2004,
+        "id": 10145,
+        "poster": "https://image.tmdb.org/t/p/w200/gANKh0Vm00CTE1Hf2aTh2IIXn8X.jpg"
     },
     {
-      "title": "All the King's Men",
-      "release_date": "2006-09-22"
+        "title": "Bobby Jones: Stroke of Genius",
+        "year": 2004,
+        "id": 24747,
+        "poster": "https://image.tmdb.org/t/p/w200/wzbV4jsCWZqOEAmyjjGemLNZbK7.jpg"
     },
     {
-      "title": "Apocalypto",
-      "release_date": "2006-12-08"
+        "title": "The Legend of Zorro",
+        "year": 2005,
+        "id": 1656,
+        "poster": "https://image.tmdb.org/t/p/w200/duZDsuIA2uX93Vujtm89oHeTFqE.jpg"
     },
     {
-      "title": "The Life Before Her Eyes",
-      "release_date": "2007-09-08"
+        "title": "The New World",
+        "year": 2005,
+        "id": 11400,
+        "poster": "https://image.tmdb.org/t/p/w200/dPyWMlQd54r3pK17GKG3iqjvNZ7.jpg"
     },
     {
-      "title": "The Spiderwick Chronicles",
-      "release_date": "2008-01-31"
+        "title": "Flightplan",
+        "year": 2005,
+        "id": 9315,
+        "poster": "https://image.tmdb.org/t/p/w200/oNjZFzbe7PfF3TxztNHDkinOPyB.jpg"
     },
     {
-      "title": "The Boy in the Striped Pyjamas",
-      "release_date": "2008-08-28"
+        "title": "The Chumscrubber",
+        "year": 2005,
+        "id": 13919,
+        "poster": "https://image.tmdb.org/t/p/w200/uMb26IjDgdq8p4H3XNO1CAsjT4m.jpg"
     },
     {
-      "title": "Avatar",
-      "release_date": "2009-12-10"
+        "title": "Apocalypto",
+        "year": 2006,
+        "id": 1579,
+        "poster": "https://image.tmdb.org/t/p/w200/cRY25Q32kDNPFDkFkxAs6bgCq3L.jpg"
     },
     {
-      "title": "The Karate Kid",
-      "release_date": "1984-06-22"
+        "title": "All the King's Men",
+        "year": 2006,
+        "id": 1717,
+        "poster": "https://image.tmdb.org/t/p/w200/r3Yu6JdufxUSqy6PJgT887UpSMt.jpg"
     },
     {
-      "title": "Day of the Falcon (also known as Black Gold)",
-      "release_date": "2011"
+        "title": "The Life Before Her Eyes",
+        "year": 2007,
+        "id": 13079,
+        "poster": "https://image.tmdb.org/t/p/w200/1Kmy4EfYegTyQNQeHZomTWvmFPe.jpg"
     },
     {
-      "title": "Cristiada",
-      "release_date": "2012-04-20"
+        "title": "The Spiderwick Chronicles",
+        "year": 2008,
+        "id": 8204,
+        "poster": "https://image.tmdb.org/t/p/w200/uN7MUMaCXfa8DbMMp61A8iXEcEG.jpg"
     },
     {
-      "title": "The Amazing Spider-Man",
-      "release_date": "2012-06-13"
+        "title": "The Boy in the Striped Pyjamas",
+        "year": 2008,
+        "id": 14574,
+        "poster": "https://image.tmdb.org/t/p/w200/2C8QCXdMlojTxZjfBlINr4FWcb6.jpg"
     },
     {
-      "title": "Wolf Totem",
-      "release_date": "2015-02-19"
+        "title": "Avatar",
+        "year": 2009,
+        "id": 19995,
+        "poster": "https://image.tmdb.org/t/p/w200/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg"
     },
     {
-      "title": "Southpaw",
-      "release_date": "2015-06-15"
+        "title": "The Karate Kid",
+        "year": 2010,
+        "id": 38575,
+        "poster": "https://image.tmdb.org/t/p/w200/b1RBy3l297N0c7PHjlz35cClWju.jpg"
     },
     {
-      "title": "The 33",
-      "release_date": "2015-08-06"
+        "title": "Black Gold",
+        "year": 2011,
+        "id": 77221,
+        "poster": "https://image.tmdb.org/t/p/w200/9ikn974ObBFOnIre7JE4tDwQnGd.jpg"
     },
     {
-      "title": "The Magnificent Seven",
-      "release_date": "1960-10-12"
+        "title": "The Amazing Spider-Man",
+        "year": 2012,
+        "id": 1930,
+        "poster": "https://image.tmdb.org/t/p/w200/jexoNYnPd6vVrmygwF6QZmWPFdu.jpg"
+    },
+    {
+        "title": "Reflections on Titanic",
+        "year": 2012,
+        "id": 213362,
+        "poster": "https://image.tmdb.org/t/p/w200/4TxXJqt7UrsgsCuiW8H2YN51t5g.jpg"
+    },
+    {
+        "title": "Outlaws - For Greater Glory",
+        "year": 2012,
+        "id": 96399,
+        "poster": "https://image.tmdb.org/t/p/w200/7jgh0ej04j98q2NFpSZLlpDazUo.jpg"
+    },
+    {
+        "title": "Wolf Totem",
+        "year": 2015,
+        "id": 309302,
+        "poster": "https://image.tmdb.org/t/p/w200/WHE5b5pO3lLyStt5cA2vMLYPI4.jpg"
+    },
+    {
+        "title": "Southpaw",
+        "year": 2015,
+        "id": 307081,
+        "poster": "https://image.tmdb.org/t/p/w200/kSQ49Fi3NVTqGGXILmxV2T2pdkG.jpg"
+    },
+    {
+        "title": "The 33",
+        "year": 2015,
+        "id": 293646,
+        "poster": "https://image.tmdb.org/t/p/w200/hpXkIuAlIlcNYACRE2MssxnHvZQ.jpg"
+    },
+    {
+        "title": "The Magnificent Seven",
+        "year": 2016,
+        "id": 333484,
+        "poster": "https://image.tmdb.org/t/p/w200/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg"
     }
-  ]
-}
+]
