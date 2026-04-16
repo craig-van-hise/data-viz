@@ -25,6 +25,11 @@ An interactive tool to visualize and compare the theoretical vs. real-world spee
 A visualization of research topics derived from the OpenAlex database.
 * **Key Features:** Hierarchical tree view of connected research concepts.
 
+### 🌐 [VV Studio: Network Topology](./my-network/vv-studio_-network-topology/dist/index.html)
+An interactive network diagram and infrastructure map for VV Studio.
+* **Key Features:** Real-time data visualization, interactive topology mapping, and infrastructure insights.
+
+
 ---
 
 ## 🔗 Connect

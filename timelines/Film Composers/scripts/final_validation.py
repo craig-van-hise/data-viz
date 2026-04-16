@@ -1,7 +1,7 @@
 import json
 import re
 
-with open('Film Composers/data/composer_lifespans.json', 'r') as f:
+with open('../data/composer_lifespans.json', 'r') as f:
     data = json.load(f)
 
 # Regex for Month Day, Year

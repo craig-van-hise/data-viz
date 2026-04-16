@@ -12,7 +12,7 @@ def convert_date(date_str):
     except ValueError:
         return date_str
 
-file_path = 'Film Composers/data/composer_lifespans.json'
+file_path = '../data/composer_lifespans.json'
 
 with open(file_path, 'r') as f:
     data = json.load(f)

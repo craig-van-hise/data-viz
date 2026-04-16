@@ -11,7 +11,7 @@ corrections = {
     "Trevor Jones": {"birth": "March 23, 1949", "death": "-"}
 }
 
-file_path = 'Film Composers/data/composer_lifespans.json'
+file_path = '../data/composer_lifespans.json'
 
 with open(file_path, 'r') as f:
     data = json.load(f)

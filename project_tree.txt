@@ -1,0 +1,672 @@
+
+/Users/vv2024/Documents/Repos - vv2024/data-viz
+├── PROJECT_CONTEXT_BUNDLE.md
+├── PROJECT_STATE.md
+├── README.md
+├── bandwidth-visualizer
+|  ├── App.tsx
+|  ├── README.md
+|  ├── components
+|  |  ├── BandwidthChart.tsx
+|  |  ├── ControlPanel.tsx
+|  |  └── Tooltip.tsx
+|  ├── constants.ts
+|  ├── index.html
+|  ├── index.tsx
+|  ├── metadata.json
+|  ├── package.json
+|  ├── pnpm-lock.yaml
+|  ├── tsconfig.json
+|  ├── types.ts
+|  └── vite.config.ts
+├── index.html
+├── index.html.bak
+├── llms.txt
+├── my-network
+|  ├── ### **VV Studio- Network Topology**.txt
+|  ├── vv-studio_-network-topology
+|  |  ├── README.md
+|  |  ├── index.html
+|  |  ├── metadata.json
+|  |  ├── package-lock.json
+|  |  ├── package.json
+|  |  ├── src
+|  |  |  ├── App.tsx
+|  |  |  ├── components
+|  |  |  |  ├── DetailPanel.tsx
+|  |  |  |  └── NetworkDiagram.tsx
+|  |  |  ├── data.ts
+|  |  |  ├── index.css
+|  |  |  ├── lib
+|  |  |  |  └── utils.ts
+|  |  |  └── main.tsx
+|  |  ├── tsconfig.json
+|  |  └── vite.config.ts
+|  └── xOlder
+|     ├── # Network Administration & Cross-Platform Integration- My LAN.txt
+|     ├── App stacks-.txt
+|     └── my-network.html
+├── open-alex-topics
+|  ├── get_topics_make_tree.py
+|  ├── index.html
+|  └── openalex_tree.json
+├── project_tree.txt
+└── timelines
+   ├── Film Composers
+   |  ├── composer_profile.html
+   |  ├── composers.html
+   |  ├── data
+   |  |  ├── Film Composers list.json
+   |  |  ├── Most important films.json
+   |  |  ├── composer_lifespans.json
+   |  |  └── filmographies
+   |  |     ├── A.R._Rahman.json
+   |  |     ├── Aaron_Copland.json
+   |  |     ├── Akira_Ifukube.json
+   |  |     ├── Alan_Menken.json
+   |  |     ├── Alan_Silvestri.json
+   |  |     ├── Alberto_Iglesias.json
+   |  |     ├── Alex_North.json
+   |  |     ├── Alexandre_Desplat.json
+   |  |     ├── Alfred_Newman.json
+   |  |     ├── Angelo_Badalamenti.json
+   |  |     ├── Basil_Poledouris.json
+   |  |     ├── Bernard_Herrmann.json
+   |  |     ├── Bill_Conti.json
+   |  |     ├── Bronislaw_Kaper.json
+   |  |     ├── Carter_Burwell.json
+   |  |     ├── Christopher_Young.json
+   |  |     ├── Clint_Mansell.json
+   |  |     ├── Daniel_Pemberton.json
+   |  |     ├── Danny_Elfman.json
+   |  |     ├── Dario_Marianelli.json
+   |  |     ├── Dave_Grusin.json
+   |  |     ├── David_Arnold.json
+   |  |     ├── David_Raksin.json
+   |  |     ├── Dimitri_Tiomkin.json
+   |  |     ├── Elliot_Goldenthal.json
+   |  |     ├── Elmer_Bernstein.json
+   |  |     ├── Ennio_Morricone.json
+   |  |     ├── Erich_Wolfgang_Korngold.json
+   |  |     ├── Francis_Lai.json
+   |  |     ├── Franz_Waxman.json
+   |  |     ├── Gabriel_Yared.json
+   |  |     ├── George_Fenton.json
+   |  |     ├── Georges_Delerue.json
+   |  |     ├── Giorgio_Moroder.json
+   |  |     ├── Graeme_Revell.json
+   |  |     ├── Gustavo_Santaolalla.json
+   |  |     ├── Hans_Zimmer.json
+   |  |     ├── Harry_Gregson-Williams.json
+   |  |     ├── Henry_Mancini.json
+   |  |     ├── Herbert_Stothart.json
+   |  |     ├── Howard_Shore.json
+   |  |     ├── Hugo_Friedhofer.json
+   |  |     ├── Jack_Nitzsche.json
+   |  |     ├── James_Horner.json
+   |  |     ├── James_Newton_Howard.json
+   |  |     ├── Jerry_Goldsmith.json
+   |  |     ├── Joe_Hisaishi.json
+   |  |     ├── John_Barry.json
+   |  |     ├── John_Carpenter.json
+   |  |     ├── John_Powell.json
+   |  |     ├── John_Williams.json
+   |  |     ├── Jonny_Greenwood.json
+   |  |     ├── Jóhann_Jóhannsson.json
+   |  |     ├── Lalo_Schifrin.json
+   |  |     ├── Leonard_Bernstein.json
+   |  |     ├── Lisa_Gerrard.json
+   |  |     ├── Ludwig_Göransson.json
+   |  |     ├── Malcolm_Arnold.json
+   |  |     ├── Marc_Shaiman.json
+   |  |     ├── Marco_Beltrami.json
+   |  |     ├── Mark_Isham.json
+   |  |     ├── Maurice_Jarre.json
+   |  |     ├── Max_Richter.json
+   |  |     ├── Max_Steiner.json
+   |  |     ├── Michael_Giacchino.json
+   |  |     ├── Michael_Kamen.json
+   |  |     ├── Michael_Nyman.json
+   |  |     ├── Michel_Legrand.json
+   |  |     ├── Mike_Oldfield.json
+   |  |     ├── Miklós_Rózsa.json
+   |  |     ├── Nino_Rota.json
+   |  |     ├── Patrick_Doyle.json
+   |  |     ├── Philip_Glass.json
+   |  |     ├── Pino_Donaggio.json
+   |  |     ├── Quincy_Jones.json
+   |  |     ├── Rachel_Portman.json
+   |  |     ├── Randy_Edelman.json
+   |  |     ├── Randy_Newman.json
+   |  |     ├── Roy_Webb.json
+   |  |     ├── Ryuichi_Sakamoto.json
+   |  |     ├── Shigeru_Umebayashi.json
+   |  |     ├── Shirley_Walker.json
+   |  |     ├── Tangerine_Dream.json
+   |  |     ├── Thomas_Newman.json
+   |  |     ├── Toru_Takemitsu.json
+   |  |     ├── Trevor_Jones.json
+   |  |     ├── Vangelis.json
+   |  |     ├── Victor_Young.json
+   |  |     ├── Wendy_Carlos.json
+   |  |     ├── Wojciech_Kilar.json
+   |  |     └── Zbigniew_Preisner.json
+   |  ├── scripts
+   |  |  ├── add_rozsa_films.py
+   |  |  ├── check_thumbnails.py
+   |  |  ├── debug_ddg.html
+   |  |  ├── debug_ddg.py
+   |  |  ├── debug_yt.py
+   |  |  ├── enrich_rozsa_full.py
+   |  |  ├── enrich_rozsa_youtube.py
+   |  |  ├── enrich_youtube_links.py
+   |  |  ├── refine_dates.py
+   |  |  ├── refine_dates_threaded.py
+   |  |  ├── scrape_rozsa_thumbnails.py
+   |  |  ├── scrape_thumbnails.py
+   |  |  └── update_html.py
+   |  └── thumbnails
+   |     ├── A.R. Rahman
+   |     |  ├── 127 Hours.jpg
+   |     |  ├── Lagaan.jpg
+   |     |  └── Slumdog Millionaire.jpg
+   |     ├── Aaron Copland
+   |     |  ├── Of Mice and Men.jpg
+   |     |  ├── The Heiress.jpg
+   |     |  └── The Red Pony.jpg
+   |     ├── Akira Ifukube
+   |     |  ├── Godzilla.jpg
+   |     |  ├── Rodan.jpg
+   |     |  └── The Mysterians.jpg
+   |     ├── Alan Menken
+   |     |  ├── Aladdin.jpg
+   |     |  ├── Beauty and the Beast.jpg
+   |     |  └── The Little Mermaid.jpg
+   |     ├── Alan Silvestri
+   |     |  ├── Back to the Future.jpg
+   |     |  ├── Forrest Gump.jpg
+   |     |  └── The Avengers.jpg
+   |     ├── Alberto Iglesias
+   |     |  ├── Talk to Her.jpg
+   |     |  ├── The Constant Gardener.jpg
+   |     |  └── Tinker Tailor Soldier Spy.jpg
+   |     ├── Alex North
+   |     |  ├── A Streetcar Named Desire.jpg
+   |     |  ├── Spartacus.jpg
+   |     |  ├── Whos Afraid of Virginia Woolf.jpg
+   |     |  └── Whos Afraid of Virginia Woolf?.jpg
+   |     ├── Alexandre Desplat
+   |     |  ├── The Grand Budapest Hotel.jpg
+   |     |  ├── The Kings Speech.jpg
+   |     |  └── The Shape of Water.jpg
+   |     ├── Alfred Newman
+   |     |  ├── All About Eve.jpg
+   |     |  ├── How the West Was Won.jpg
+   |     |  └── The Song of Bernadette.jpg
+   |     ├── Angelo Badalamenti
+   |     |  ├── Blue Velvet.jpg
+   |     |  ├── Mulholland Drive.jpg
+   |     |  ├── Twin Peaks  Fire Walk with Me.jpg
+   |     |  └── Twin Peaks Fire Walk with Me.jpg
+   |     ├── Basil Poledouris
+   |     |  ├── Conan the Barbarian.jpg
+   |     |  ├── RoboCop.jpg
+   |     |  └── The Hunt for Red October.jpg
+   |     ├── Bernard Herrmann
+   |     |  ├── Citizen Kane.jpg
+   |     |  ├── Psycho.jpg
+   |     |  └── Vertigo.jpg
+   |     ├── Bill Conti
+   |     |  ├── For Your Eyes Only.jpg
+   |     |  ├── Rocky.jpg
+   |     |  └── The Right Stuff.jpg
+   |     ├── Bronislaw Kaper
+   |     |  ├── Auntie Mame.jpg
+   |     |  ├── Lili.jpg
+   |     |  └── Mutiny on the Bounty.jpg
+   |     ├── Carter Burwell
+   |     |  ├── Carol.jpg
+   |     |  ├── Fargo.jpg
+   |     |  └── No Country for Old Men.jpg
+   |     ├── Christopher Young
+   |     |  ├── Hellraiser.jpg
+   |     |  ├── SpiderMan 3.jpg
+   |     |  └── The Shipping News.jpg
+   |     ├── Clint Mansell
+   |     |  ├── Moon.jpg
+   |     |  ├── Requiem for a Dream.jpg
+   |     |  └── The Fountain.jpg
+   |     ├── Daniel Pemberton
+   |     |  ├── SpiderMan  Into the SpiderVerse.jpg
+   |     |  ├── SpiderMan Into the SpiderVerse.jpg
+   |     |  ├── Steve Jobs.jpg
+   |     |  └── The Man from UNCLE.jpg
+   |     ├── Danny Elfman
+   |     |  ├── Batman.jpg
+   |     |  ├── Edward Scissorhands.jpg
+   |     |  └── The Nightmare Before Christmas.jpg
+   |     ├── Dario Marianelli
+   |     |  ├── Atonement.jpg
+   |     |  ├── Pride  Prejudice.jpg
+   |     |  ├── Pride & Prejudice.jpg
+   |     |  └── V for Vendetta.jpg
+   |     ├── Dave Grusin
+   |     |  ├── On Golden Pond.jpg
+   |     |  ├── The Firm.jpg
+   |     |  └── Tootsie.jpg
+   |     ├── David Arnold
+   |     |  ├── Casino Royale.jpg
+   |     |  ├── Independence Day.jpg
+   |     |  └── Stargate.jpg
+   |     ├── David Raksin
+   |     |  ├── Forever Amber.jpg
+   |     |  ├── Laura.jpg
+   |     |  └── The Bad and the Beautiful.jpg
+   |     ├── Dimitri Tiomkin
+   |     |  ├── Giant.jpg
+   |     |  ├── High Noon.jpg
+   |     |  └── The High and the Mighty.jpg
+   |     ├── Elliot Goldenthal
+   |     |  ├── Alien 3.jpg
+   |     |  ├── Frida.jpg
+   |     |  └── Interview with the Vampire.jpg
+   |     ├── Elmer Bernstein
+   |     |  ├── The Great Escape.jpg
+   |     |  ├── The Magnificent Seven.jpg
+   |     |  └── To Kill a Mockingbird.jpg
+   |     ├── Ennio Morricone
+   |     |  ├── Cinema Paradiso.jpg
+   |     |  ├── The Good the Bad and the Ugly.jpg
+   |     |  ├── The Good, the Bad and the Ugly.jpg
+   |     |  └── The Mission.jpg
+   |     ├── Erich Wolfgang Korngold
+   |     |  ├── Kings Row.jpg
+   |     |  ├── The Adventures of Robin Hood.jpg
+   |     |  └── The Sea Hawk.jpg
+   |     ├── Francis Lai
+   |     |  ├── A Man and a Woman.jpg
+   |     |  ├── Bilitis.jpg
+   |     |  └── Love Story.jpg
+   |     ├── Franz Waxman
+   |     |  ├── A Place in the Sun.jpg
+   |     |  ├── Bride of Frankenstein.jpg
+   |     |  └── Sunset Boulevard.jpg
+   |     ├── Gabriel Yared
+   |     |  ├── City of Angels.jpg
+   |     |  ├── The English Patient.jpg
+   |     |  └── The Talented Mr Ripley.jpg
+   |     ├── George Fenton
+   |     |  ├── Dangerous Liaisons.jpg
+   |     |  ├── Gandhi.jpg
+   |     |  └── The Fisher King.jpg
+   |     ├── Georges Delerue
+   |     |  ├── A Little Romance.jpg
+   |     |  ├── Contempt.jpg
+   |     |  └── Jules and Jim.jpg
+   |     ├── Giorgio Moroder
+   |     |  ├── Midnight Express.jpg
+   |     |  ├── Scarface.jpg
+   |     |  └── Top Gun.jpg
+   |     ├── Graeme Revell
+   |     |  ├── Sin City.jpg
+   |     |  ├── The Chronicles of Riddick.jpg
+   |     |  └── The Crow.jpg
+   |     ├── Gustavo Santaolalla
+   |     |  ├── Babel.jpg
+   |     |  ├── Brokeback Mountain.jpg
+   |     |  └── The Motorcycle Diaries.jpg
+   |     ├── Hans Zimmer
+   |     |  ├── Gladiator.jpg
+   |     |  ├── Inception.jpg
+   |     |  └── The Lion King.jpg
+   |     ├── Harry Gregson-Williams
+   |     |  ├── Shrek.jpg
+   |     |  ├── The Chronicles of Narnia  The Lion, the Witch and the Wardrobe.jpg
+   |     |  ├── The Chronicles of Narnia The Lion the Witch and the Wardrobe.jpg
+   |     |  └── The Martian.jpg
+   |     ├── Henry Mancini
+   |     |  ├── Breakfast at Tiffanys.jpg
+   |     |  ├── The Pink Panther.jpg
+   |     |  └── Touch of Evil.jpg
+   |     ├── Herbert Stothart
+   |     |  ├── Mrs Miniver.jpg
+   |     |  ├── Mutiny on the Bounty.jpg
+   |     |  └── The Wizard of Oz.jpg
+   |     ├── Howard Shore
+   |     |  ├── The Aviator.jpg
+   |     |  ├── The Lord of the Rings  The Fellowship of the Ring.jpg
+   |     |  ├── The Lord of the Rings The Fellowship of the Ring.jpg
+   |     |  └── The Silence of the Lambs.jpg
+   |     ├── Hugo Friedhofer
+   |     |  ├── An Affair to Remember.jpg
+   |     |  ├── The Best Years of Our Lives.jpg
+   |     |  └── The Bishops Wife.jpg
+   |     ├── Jack Nitzsche
+   |     |  ├── One Flew Over the Cuckoos Nest.jpg
+   |     |  ├── Performance.jpg
+   |     |  └── Starman.jpg
+   |     ├── James Horner
+   |     |  ├── Avatar.jpg
+   |     |  ├── Braveheart.jpg
+   |     |  └── Titanic.jpg
+   |     ├── James Newton Howard
+   |     |  ├── King Kong.jpg
+   |     |  ├── The Fugitive.jpg
+   |     |  └── The Sixth Sense.jpg
+   |     ├── Jerry Goldsmith
+   |     |  ├── Chinatown.jpg
+   |     |  ├── Star Trek  The Motion Picture.jpg
+   |     |  ├── Star Trek The Motion Picture.jpg
+   |     |  └── The Omen.jpg
+   |     ├── Joe Hisaishi
+   |     |  ├── My Neighbor Totoro.jpg
+   |     |  ├── Princess Mononoke.jpg
+   |     |  └── Spirited Away.jpg
+   |     ├── John Barry
+   |     |  ├── Dances with Wolves.jpg
+   |     |  ├── Goldfinger.jpg
+   |     |  └── Out of Africa.jpg
+   |     ├── John Carpenter
+   |     |  ├── Escape from New York.jpg
+   |     |  ├── Halloween.jpg
+   |     |  └── The Thing.jpg
+   |     ├── John Powell
+   |     |  ├── How to Train Your Dragon.jpg
+   |     |  ├── Solo  A Star Wars Story.jpg
+   |     |  ├── Solo A Star Wars Story.jpg
+   |     |  └── The Bourne Identity.jpg
+   |     ├── John Williams
+   |     |  ├── Close Encounters of the Third Kind.jpg
+   |     |  ├── ET the ExtraTerrestrial.jpg
+   |     |  ├── Harry Potter and the Sorcerers Stone.jpg
+   |     |  ├── Jaws.jpg
+   |     |  ├── Jurassic Park.jpg
+   |     |  ├── Raiders of the Lost Ark.jpg
+   |     |  ├── Saving Private Ryan.jpg
+   |     |  ├── Schindlers List.jpg
+   |     |  ├── Star Wars  Episode IV  A New Hope.jpg
+   |     |  ├── Star Wars Episode IV  A New Hope.jpg
+   |     |  └── Superman.jpg
+   |     ├── Jonny Greenwood
+   |     |  ├── Phantom Thread.jpg
+   |     |  ├── The Power of the Dog.jpg
+   |     |  └── There Will Be Blood.jpg
+   |     ├── Jóhann Jóhannsson
+   |     |  ├── Arrival.jpg
+   |     |  ├── Sicario.jpg
+   |     |  └── The Theory of Everything.jpg
+   |     ├── Lalo Schifrin
+   |     |  ├── Bullitt.jpg
+   |     |  ├── Cool Hand Luke.jpg
+   |     |  └── Dirty Harry.jpg
+   |     ├── Leonard Bernstein
+   |     |  └── On the Waterfront.jpg
+   |     ├── Lisa Gerrard
+   |     |  ├── Gladiator.jpg
+   |     |  ├── The Insider.jpg
+   |     |  └── Whale Rider.jpg
+   |     ├── Ludwig Göransson
+   |     |  ├── Black Panther.jpg
+   |     |  ├── Oppenheimer.jpg
+   |     |  └── Tenet.jpg
+   |     ├── Malcolm Arnold
+   |     |  ├── Hobsons Choice.jpg
+   |     |  ├── The Bridge on the River Kwai.jpg
+   |     |  └── Whistle Down the Wind.jpg
+   |     ├── Marc Shaiman
+   |     |  ├── Hairspray.jpg
+   |     |  ├── Misery.jpg
+   |     |  └── The American President.jpg
+   |     ├── Marco Beltrami
+   |     |  ├── 3 10 to Yuma.jpg
+   |     |  ├── 310 to Yuma.jpg
+   |     |  ├── Scream.jpg
+   |     |  └── The Hurt Locker.jpg
+   |     ├── Mark Isham
+   |     |  ├── A River Runs Through It.jpg
+   |     |  ├── Crash.jpg
+   |     |  └── The Black Dahlia.jpg
+   |     ├── Maurice Jarre
+   |     |  ├── A Passage to India.jpg
+   |     |  ├── Doctor Zhivago.jpg
+   |     |  └── Lawrence of Arabia.jpg
+   |     ├── Max Richter
+   |     |  ├── Ad Astra.jpg
+   |     |  ├── Mary Queen of Scots.jpg
+   |     |  └── Waltz with Bashir.jpg
+   |     ├── Max Steiner
+   |     |  ├── Casablanca.jpg
+   |     |  ├── Gone with the Wind.jpg
+   |     |  └── King Kong.jpg
+   |     ├── Michael Giacchino
+   |     |  ├── Star Trek.jpg
+   |     |  ├── The Incredibles.jpg
+   |     |  └── Up.jpg
+   |     ├── Michael Kamen
+   |     |  ├── Brazil.jpg
+   |     |  ├── Die Hard.jpg
+   |     |  ├── Robin Hood  Prince of Thieves.jpg
+   |     |  └── Robin Hood Prince of Thieves.jpg
+   |     ├── Michael Nyman
+   |     |  ├── Gattaca.jpg
+   |     |  ├── The Cook the Thief His Wife  Her Lover.jpg
+   |     |  ├── The Cook, the Thief, His Wife & Her Lover.jpg
+   |     |  └── The Piano.jpg
+   |     ├── Michel Legrand
+   |     |  ├── Summer of 42.jpg
+   |     |  ├── The Thomas Crown Affair.jpg
+   |     |  └── The Umbrellas of Cherbourg.jpg
+   |     ├── Mike Oldfield
+   |     |  ├── The Exorcist.jpg
+   |     |  ├── The Killing Fields.jpg
+   |     |  └── The Space Movie.jpg
+   |     ├── Miklós Rózsa
+   |     |  ├── A Double Life.jpg
+   |     |  ├── A Song to Remember.jpg
+   |     |  ├── A Time to Love and a Time to Die.jpg
+   |     |  ├── A Womans Vengeance.jpg
+   |     |  ├── Adams Rib.jpg
+   |     |  ├── All the Brothers Were Valiant.jpg
+   |     |  ├── Beau Brummell.jpg
+   |     |  ├── Because of Him.jpg
+   |     |  ├── Ben-Hur.jpg
+   |     |  ├── Bhowani Junction.jpg
+   |     |  ├── Blood on the Sun.jpg
+   |     |  ├── Brute Force.jpg
+   |     |  ├── Command Decision.jpg
+   |     |  ├── Crisis.jpg
+   |     |  ├── Criss Cross.jpg
+   |     |  ├── Dark Waters.jpg
+   |     |  ├── Dead Men Dont Wear Plaid.jpg
+   |     |  ├── Desert Fury.jpg
+   |     |  ├── Diane.jpg
+   |     |  ├── Double Indemnity.jpg
+   |     |  ├── East Side, West Side.jpg
+   |     |  ├── El Cid.jpg
+   |     |  ├── Eye of the Needle.jpg
+   |     |  ├── Fedora.jpg
+   |     |  ├── Five Graves to Cairo.jpg
+   |     |  ├── Green Fire.jpg
+   |     |  ├── Ivanhoe.jpg
+   |     |  ├── Julius Caesar.jpg
+   |     |  ├── Jungle Book.jpg
+   |     |  ├── King of Kings.jpg
+   |     |  ├── Kiss the Blood Off My Hands.jpg
+   |     |  ├── Knight Without Armour.jpg
+   |     |  ├── Knights of the Round Table.jpg
+   |     |  ├── Lady on a Train.jpg
+   |     |  ├── Last Embrace.jpg
+   |     |  ├── Lust for Life.jpg
+   |     |  ├── Lydia.jpg
+   |     |  ├── Madame Bovary.jpg
+   |     |  ├── Men of the Fighting Lady.jpg
+   |     |  ├── Moonfleet.jpg
+   |     |  ├── Plymouth Adventure.jpg
+   |     |  ├── Providence.jpg
+   |     |  ├── Quo Vadis.jpg
+   |     |  ├── Seagulls Over Sorrento.jpg
+   |     |  ├── Secret Beyond the Door.jpg
+   |     |  ├── So Proudly We Hail.jpg
+   |     |  ├── Sodom and Gomorrah.jpg
+   |     |  ├── Something of Value.jpg
+   |     |  ├── Song of Scheherazade.jpg
+   |     |  ├── Spellbound.jpg
+   |     |  ├── Sundown.jpg
+   |     |  ├── Ten Days in Paris.jpg
+   |     |  ├── That Hamilton Woman.jpg
+   |     |  ├── The Asphalt Jungle.jpg
+   |     |  ├── The Bribe.jpg
+   |     |  ├── The Divorce of Lady X.jpg
+   |     |  ├── The Four Feathers.jpg
+   |     |  ├── The Golden Voyage of Sinbad.jpg
+   |     |  ├── The Green Cockatoo.jpg
+   |     |  ├── The Hour Before the Dawn.jpg
+   |     |  ├── The Jungle Book.jpg
+   |     |  ├── The Killers.jpg
+   |     |  ├── The Kings Thief.jpg
+   |     |  ├── The Light Touch.jpg
+   |     |  ├── The Lost Weekend.jpg
+   |     |  ├── The Macomber Affair.jpg
+   |     |  ├── The Man in Half Moon Street.jpg
+   |     |  ├── The Miniver Story.jpg
+   |     |  ├── The Naked City.jpg
+   |     |  ├── The Other Love.jpg
+   |     |  ├── The Power.jpg
+   |     |  ├── The Private Files of J Edgar Hoover.jpg
+   |     |  ├── The Private Life of Sherlock Holmes.jpg
+   |     |  ├── The Red Danube.jpg
+   |     |  ├── The Red House.jpg
+   |     |  ├── The Seventh Sin.jpg
+   |     |  ├── The Spy in Black.jpg
+   |     |  ├── The Story of Three Loves.jpg
+   |     |  ├── The Strange Love of Martha Ivers.jpg
+   |     |  ├── The Thief of Bagdad.jpg
+   |     |  ├── The Thief of Baghdad.jpg
+   |     |  ├── The VIPs.jpg
+   |     |  ├── The Woman of the Town.jpg
+   |     |  ├── The World, the Flesh and the Devil.jpg
+   |     |  ├── Thunder in the City.jpg
+   |     |  ├── Time After Time.jpg
+   |     |  ├── Time Out of Mind.jpg
+   |     |  ├── Tip on a Dead Jockey.jpg
+   |     |  ├── To Be or Not to Be.jpg
+   |     |  ├── Tribute to a Bad Man.jpg
+   |     |  ├── Valley of the Kings.jpg
+   |     |  └── Young Bess.jpg
+   |     ├── Nino Rota
+   |     |  ├── 8.jpg
+   |     |  ├── 8½.jpg
+   |     |  ├── Romeo and Juliet.jpg
+   |     |  └── The Godfather.jpg
+   |     ├── Patrick Doyle
+   |     |  ├── Harry Potter and the Goblet of Fire.jpg
+   |     |  ├── Henry V.jpg
+   |     |  └── Sense and Sensibility.jpg
+   |     ├── Philip Glass
+   |     |  ├── Koyaanisqatsi.jpg
+   |     |  ├── The Hours.jpg
+   |     |  └── The Truman Show.jpg
+   |     ├── Pino Donaggio
+   |     |  ├── Carrie.jpg
+   |     |  ├── Dont Look Now.jpg
+   |     |  └── Dressed to Kill.jpg
+   |     ├── Quincy Jones
+   |     |  ├── In Cold Blood.jpg
+   |     |  ├── The Color Purple.jpg
+   |     |  └── The Pawnbroker.jpg
+   |     ├── Rachel Portman
+   |     |  ├── Chocolat.jpg
+   |     |  ├── Emma.jpg
+   |     |  └── The Cider House Rules.jpg
+   |     ├── Randy Edelman
+   |     |  ├── Dragonheart.jpg
+   |     |  ├── Gettysburg.jpg
+   |     |  └── The Last of the Mohicans.jpg
+   |     ├── Randy Newman
+   |     |  ├── Monsters Inc.jpg
+   |     |  ├── Monsters, Inc.jpg
+   |     |  ├── The Natural.jpg
+   |     |  └── Toy Story.jpg
+   |     ├── Roy Webb
+   |     |  ├── Cat People.jpg
+   |     |  ├── Notorious.jpg
+   |     |  └── Out of the Past.jpg
+   |     ├── Ryuichi Sakamoto
+   |     |  ├── Merry Christmas Mr Lawrence.jpg
+   |     |  ├── Merry Christmas, Mr Lawrence.jpg
+   |     |  ├── The Last Emperor.jpg
+   |     |  └── The Revenant.jpg
+   |     ├── Shigeru Umebayashi
+   |     |  ├── 2046.jpg
+   |     |  ├── House of Flying Daggers.jpg
+   |     |  └── In the Mood for Love.jpg
+   |     ├── Shirley Walker
+   |     |  ├── Batman  Mask of the Phantasm.jpg
+   |     |  ├── Batman Mask of the Phantasm.jpg
+   |     |  ├── Final Destination.jpg
+   |     |  └── Memoirs of an Invisible Man.jpg
+   |     ├── Tangerine Dream
+   |     |  ├── Risky Business.jpg
+   |     |  ├── Sorcerer.jpg
+   |     |  └── Thief.jpg
+   |     ├── Thomas Newman
+   |     |  ├── American Beauty.jpg
+   |     |  ├── Finding Nemo.jpg
+   |     |  └── The Shawshank Redemption.jpg
+   |     ├── Toru Takemitsu
+   |     |  ├── Harakiri.jpg
+   |     |  ├── Ran.jpg
+   |     |  └── Woman in the Dunes.jpg
+   |     ├── Trevor Jones
+   |     |  ├── Dark City.jpg
+   |     |  ├── Labyrinth.jpg
+   |     |  └── The Last of the Mohicans.jpg
+   |     ├── Vangelis
+   |     |  ├── 1492  Conquest of Paradise.jpg
+   |     |  ├── 1492 Conquest of Paradise.jpg
+   |     |  ├── Blade Runner.jpg
+   |     |  └── Chariots of Fire.jpg
+   |     ├── Victor Young
+   |     |  ├── Around the World in 80 Days.jpg
+   |     |  ├── For Whom the Bell Tolls.jpg
+   |     |  └── Shane.jpg
+   |     ├── Wendy Carlos
+   |     |  ├── A Clockwork Orange.jpg
+   |     |  ├── The Shining.jpg
+   |     |  └── Tron.jpg
+   |     ├── Wojciech Kilar
+   |     |  ├── Bram Stokers Dracula.jpg
+   |     |  ├── The Ninth Gate.jpg
+   |     |  └── The Pianist.jpg
+   |     └── Zbigniew Preisner
+   |        ├── The Double Life of Veronique.jpg
+   |        ├── The Secret Garden.jpg
+   |        ├── Three Colors  Blue.jpg
+   |        └── Three Colors Blue.jpg
+   ├── Spatial Audio
+   |  ├── # Spatial Audio Technologies: A Chronology v2.md
+   |  ├── # Spatial Audio Technologies: A Chronology v3.md
+   |  ├── # Timeline addendum.md
+   |  └── index.html
+   ├── check_missing.py
+   ├── convert_dates_numeric.py
+   ├── debug_composer.py
+   ├── debug_missing_final.py
+   ├── debug_missing_ones.py
+   ├── debug_wikitext.py
+   ├── fetch_composer_dates.py
+   ├── fetch_composer_dates_v2.py
+   ├── fetch_composer_dates_v3.py
+   ├── fetch_composer_dates_v4.py
+   ├── final_validation.py
+   ├── find_overlaps.py
+   ├── index.html
+   ├── patch_missing_dates.py
+   └── verified_live_profile.html
+
+directory: 428 file: 1442 symboliclink: 9
+
+ignored: directory (42)
+
+
+[2K[1G

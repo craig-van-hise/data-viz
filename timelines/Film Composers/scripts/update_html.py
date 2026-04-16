@@ -2,7 +2,7 @@ import json
 import os
 import re
 
-base_dir = "/Users/vv2024/Documents/AI Projects/Timelines/Film Composers"
+base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 html_path = os.path.join(base_dir, "composers.html")
 json_path = os.path.join(base_dir, "data/Most important films.json")
 

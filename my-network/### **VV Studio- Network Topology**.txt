@@ -1,0 +1,88 @@
+We are making an infographic. An interactive network diagram.
+
+### **VV Studio: Network Topology**
+
+**Project Overview**
+The goal is to design an interactive "VV Studio: Network Topology" UI. The interface should consist of a main canvas displaying a network topology diagram, and a dynamic side panel (or modal) that populates with detailed information when a user clicks on a specific node in the diagram. 
+
+#### **1. The Core Nodes (Main Devices)**
+The diagram contains five primary nodes. The design should visually differentiate between operating systems/device types (e.g., Mac, Windows, and Network Infrastructure).
+
+* **MAC-LAPTOP**
+    * *Role:* Management Console
+    * *Type:* Mac OS Device
+* **MAC-MINI**
+    * *Role:* Infrastructure Hub
+    * *Type:* Mac OS Device
+* **WIN-WORKSTATION**
+    * *Role:* Production Core
+    * *Type:* Windows OS Device
+* **WIN-LAPTOP**
+    * *Role:* Mobile Production
+    * *Type:* Windows OS Device
+* **5GHz Wi-Fi LAN**
+    * *Role:* Local Boundary
+    * *Type:* Network Hub / Router
+
+#### **2. Hardware Peripherals (Attached Storage)**
+There are four external storage nodes that physically connect to specific main devices. The design must visually represent these as sub-nodes branching off their parent devices.
+
+* **Attached to MAC-MINI:**
+    * 1TB NVMe (M.2)
+    * 2TB NVMe (M.2)
+    * 32TB Array (8-Bay Server)
+* **Attached to WIN-WORKSTATION:**
+    * 8TB Array (4-Bay Server)
+
+#### **3. The Connections (Network Topology & Protocols)**
+The nodes are wired together using different connection types. The design needs to visually distinguish between these protocols using different line styles, colors, or animations (e.g., solid vs. dashed, varying thicknesses, glowing effects). 
+
+* **Tailscale VPN (Virtual/Encrypted):** Connects MAC-LAPTOP directly to MAC-MINI.
+* **Thunderbolt 4 Bridge:** Connects MAC-MINI directly to WIN-WORKSTATION.
+* **1Gb Ethernet:** Connects WIN-WORKSTATION directly to WIN-LAPTOP.
+* **Wi-Fi LAN:** MAC-LAPTOP, MAC-MINI, WIN-WORKSTATION, and WIN-LAPTOP all connect independently to the central "5GHz Wi-Fi LAN" hub.
+* **Thunderbolt 4 (Hardware):** Connects the MAC-MINI to its two NVMe drives.
+* **USB 3 (Hardware):** Connects the MAC-MINI to its 32TB array, and the WIN-WORKSTATION to its 8TB array.
+
+#### **4. Interactive Data Schema (The Detail Panel)**
+When a primary device node is interacted with (clicked/tapped), a detailed view must appear. The UI needs to cleanly organize the following nested data structure for each device:
+
+**Device 1: MAC-LAPTOP**
+* **Role:** Management Console & Control Plane
+* **Storage Hierarchy:** 256GB Internal SSD (Primary Storage - OS / System)
+* **Network Interconnections:** 5GHz Wi-Fi LAN, Tailscale VPN
+* **Application Stack:**
+    * *Production:* Antigravity, Claude Code, VS Code, Obsidian
+    * *Infrastructure:* Tailscale
+    * *Management:* Jump Desktop, Microsoft Remote Desktop, Apple Screen Sharing
+
+**Device 2: MAC-MINI**
+* **Role:** Infrastructure Hub / Subnet Router / Media Server
+* **Storage Hierarchy:**
+    * 256GB Internal SSD (Primary Storage - OS / System)
+    * 1TB M.2 NVMe (Primary Storage - Agent Sandbox)
+    * 2TB M.2 NVMe (Primary Storage - Sandbox Staging / Mac Laptop Remote Work)
+    * 32TB 8-Bay Array (Primary/Secondary/Tertiary - Hybrid Pool)
+* **Network Interconnections:** Tailscale Subnet Router, Thunderbolt 4 Bridge (SMB), 5GHz Wi-Fi LAN
+* **Application Stack:**
+    * *Production:* Antigravity, Claude Code, VS Code, Xcode, Dorico, Notion, Reaper, Nuendo, Bidule, Blender
+    * *Infrastructure:* Custom App: Fortress Security Control Center, Tailscale
+
+**Device 3: WIN-WORKSTATION**
+* **Role:** High-Compute Production Core
+* **Storage Hierarchy:**
+    * 8TB M.2 NVMe Internal (Primary Storage - Active Projects)
+    * 8TB SATA III SSD Internal (Secondary Storage - Backups)
+    * 8TB 4-Bay Array (Tertiary Storage - Cold Storage)
+* **Network Interconnections:** Thunderbolt 4 Bridge (SMB), 1Gb Gigabit Ethernet, 5GHz Wi-Fi LAN
+* **Application Stack:**
+    * *Production:* Ollama, n8n, Langflow, Reaper, Nuendo, Bidule, VSL, SWAM, Sample Modeling, SPARTA, IEM, MIR PRO 3D, Wwise, Unity, Unreal Engine, Blender, OBS Studio, DaVinci Resolve
+    * *Infrastructure:* Docker, WSL 2, Tailscale, rtpMIDI
+
+**Device 4: WIN-LAPTOP**
+* **Role:** Mobile Production Node
+* **Storage Hierarchy:** 2TB SATA III SSD (Primary Storage - Field Production)
+* **Network Interconnections:** 1Gb Gigabit Ethernet, 5GHz Wi-Fi LAN
+* **Application Stack:**
+    * *Production:* Dorico, Notion, Reaper, Nuendo
+    * *Infrastructure:* Tailscale, rtpMIDI

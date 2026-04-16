@@ -128,7 +128,7 @@ def simple_date_extract(text):
     return birth, death
 
 def main():
-    with open('Film Composers/data/Film Composers list.json', 'r') as f:
+    with open('../data/Film Composers list.json', 'r') as f:
         composers = json.load(f)
 
     results = []
@@ -160,7 +160,7 @@ def main():
         
         # time.sleep(0.5) # slightly faster but still safe
 
-    with open('Film Composers/data/composer_lifespans.json', 'w') as f:
+    with open('../data/composer_lifespans.json', 'w') as f:
         json.dump(results, f, indent=4)
     
     print("Done!")

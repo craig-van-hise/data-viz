@@ -35,4 +35,4 @@ venv.bak/
 *.swo
 
 # Project
-index.html.bak
+xCleanup/

@@ -1,6 +1,6 @@
 import json
 
-with open('Film Composers/data/composer_lifespans.json', 'r') as f:
+with open('../data/composer_lifespans.json', 'r') as f:
     data = json.load(f)
 
 missing = []

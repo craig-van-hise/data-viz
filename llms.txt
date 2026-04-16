@@ -1,0 +1,9 @@
+# Data Viz Projects
+
+A collection of interactive data visualization experiments.
+
+- [Film Composers](timelines/Film%20Composers/composers.html): Timeline of active years for major film composers.
+- [Spatial Audio](timelines/Spatial%20Audio/index.html): Interactive chronology of spatial audio technologies.
+- [Bandwidth Visualizer](bandwidth-visualizer/dist/index.html): Tool to compare speeds of digital interfaces.
+- [OpenAlex Topic Tree](open-alex-topics/index.html): Hierarchical tree view of research topics.
+- [VV Studio: Network Topology](my-network/vv-studio_-network-topology/dist/index.html): Interactive network diagram for VV Studio.

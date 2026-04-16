@@ -1,7 +1,7 @@
 import json
 from collections import defaultdict
 
-with open('Film Composers/data/Most important films.json', 'r') as f:
+with open('../data/Most important films.json', 'r') as f:
     data = json.load(f)
 
 print("Searching for composers with multiple films in the same year...")
