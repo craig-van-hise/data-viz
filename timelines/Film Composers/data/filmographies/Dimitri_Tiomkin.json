@@ -3,684 +3,798 @@
         "title": "Alice in Wonderland",
         "year": "1933",
         "id": 25694,
-        "poster": "https://image.tmdb.org/t/p/w200/k4hlsqfhEtTrEtiDE647qxTR6PI.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/k4hlsqfhEtTrEtiDE647qxTR6PI.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=iAjL2I7H1Wc"
     },
     {
         "title": "The Casino Murder Case",
         "year": "1935",
         "id": 87881,
-        "poster": "https://image.tmdb.org/t/p/w200/psMxJHNMj2xP6msln8l9QGaTy4l.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/psMxJHNMj2xP6msln8l9QGaTy4l.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=tUYO7hK6iD0"
     },
     {
         "title": "Mad Love",
         "year": "1935",
         "id": 28261,
-        "poster": "https://image.tmdb.org/t/p/w200/lDD8pKd6jSrFLV3RvE0eDGGGxR0.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/lDD8pKd6jSrFLV3RvE0eDGGGxR0.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=4cCyRjfYIeg"
     },
     {
         "title": "I Live My Life",
         "year": "1935",
         "id": 179066,
-        "poster": "https://image.tmdb.org/t/p/w200/mla8LHfmoKRmvkL25rEVvBKcOwD.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/mla8LHfmoKRmvkL25rEVvBKcOwD.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=6U3P7XHnsiA"
     },
     {
         "title": "Lost Horizon",
         "year": "1937",
         "id": 3598,
-        "poster": "https://image.tmdb.org/t/p/w200/jCY8uJ80xlO2ApfrsB8s2gzyiBX.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/jCY8uJ80xlO2ApfrsB8s2gzyiBX.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=s5TV247wxiY"
     },
     {
         "title": "The Road Back",
         "year": "1937",
         "id": 139793,
-        "poster": "https://image.tmdb.org/t/p/w200/jqt1yBGWpFguezeW1zjUxPcUok1.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/jqt1yBGWpFguezeW1zjUxPcUok1.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Ubqxbxv9O0I"
     },
     {
         "title": "You Can't Take It with You",
         "year": "1938",
         "id": 34106,
-        "poster": "https://image.tmdb.org/t/p/w200/9JltqbDyWstYW6gnvqDO6L5bOrx.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/9JltqbDyWstYW6gnvqDO6L5bOrx.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=lvNZNgfRtoY"
     },
     {
         "title": "Spawn of the North",
         "year": "1938",
         "id": 78092,
-        "poster": "https://image.tmdb.org/t/p/w200/lCoitaqpPEIIgJyDtXli5UnK3Bm.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/lCoitaqpPEIIgJyDtXli5UnK3Bm.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=9Y_QvVUsCwo"
     },
     {
         "title": "Mr. Smith Goes to Washington",
         "year": "1939",
         "id": 3083,
-        "poster": "https://image.tmdb.org/t/p/w200/nDjg1fbNyq15excNDl3acd2IqAk.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/nDjg1fbNyq15excNDl3acd2IqAk.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=WTg9oWw3mRA"
     },
     {
         "title": "Only Angels Have Wings",
         "year": "1939",
         "id": 43832,
-        "poster": "https://image.tmdb.org/t/p/w200/lqcwiWancAkjtAQPHr9V3SfJjBM.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/lqcwiWancAkjtAQPHr9V3SfJjBM.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=f_395XtmfSc"
     },
     {
         "title": "Men Without Souls",
         "year": "1940",
         "id": 119309,
-        "poster": "https://image.tmdb.org/t/p/w200/mwAQ8j3ACnVScirsrAuLVnGT38n.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/mwAQ8j3ACnVScirsrAuLVnGT38n.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=YSD0SwH_HvU"
     },
     {
         "title": "The Westerner",
         "year": "1940",
         "id": 14710,
-        "poster": "https://image.tmdb.org/t/p/w200/5DpDg1GYiqAKoCozbunCqPYvRPD.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/5DpDg1GYiqAKoCozbunCqPYvRPD.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=rkTTiCFqEaA"
     },
     {
         "title": "Lucky Partners",
         "year": "1940",
         "id": 158439,
-        "poster": "https://image.tmdb.org/t/p/w200/rlkH5giKu0lB43UkdJquQbPxVX.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/rlkH5giKu0lB43UkdJquQbPxVX.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=lYVTqrBfock"
     },
     {
         "title": "Meet John Doe",
         "year": "1941",
         "id": 32574,
-        "poster": "https://image.tmdb.org/t/p/w200/dnBZbFE2OGlTGNGBVTn6t83tJtd.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/dnBZbFE2OGlTGNGBVTn6t83tJtd.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=OZ5fqD57DyQ"
     },
     {
         "title": "The Corsican Brothers",
         "year": "1941",
         "id": 43800,
-        "poster": "https://image.tmdb.org/t/p/w200/q3V3ImLPY4J14VzWdHoyWhpu97c.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/q3V3ImLPY4J14VzWdHoyWhpu97c.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=zlb-aGspVHk"
     },
     {
         "title": "Scattergood Meets Broadway",
         "year": "1941",
         "id": 387955,
-        "poster": "https://image.tmdb.org/t/p/w200/sjcg545qxfatmb1WUA0RWTMNfoD.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/sjcg545qxfatmb1WUA0RWTMNfoD.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=do8rZwAQ-II"
     },
     {
         "title": "Forced Landing",
         "year": "1941",
         "id": 336286,
-        "poster": "https://image.tmdb.org/t/p/w200/y4SlaVIhq6RialKCS0yabJR1t6C.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/y4SlaVIhq6RialKCS0yabJR1t6C.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=AyJqd6IxWlY"
     },
     {
         "title": "Flying Blind",
         "year": "1941",
         "id": 249365,
-        "poster": "https://image.tmdb.org/t/p/w200/skySQUdBKdpPPmlZY5Lmv3ajmJA.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/skySQUdBKdpPPmlZY5Lmv3ajmJA.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Znn7_VuQ9AY"
     },
     {
         "title": "The Moon and Sixpence",
         "year": "1942",
         "id": 56146,
-        "poster": "https://image.tmdb.org/t/p/w200/ymkV9KzBHDRshe4M6CiLi5L7pYN.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/ymkV9KzBHDRshe4M6CiLi5L7pYN.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=ZPXWLuBLhM0"
     },
     {
         "title": "A Gentleman After Dark",
         "year": "1942",
         "id": 97774,
-        "poster": "https://image.tmdb.org/t/p/w200/eoCxLqTuy7FUcpHYBgclwwJegki.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/eoCxLqTuy7FUcpHYBgclwwJegki.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=TElhHKTkoTs"
     },
     {
         "title": "Twin Beds",
         "year": "1942",
         "id": 97773,
-        "poster": "https://image.tmdb.org/t/p/w200/seElgmFuoWOrj2i5CeVn7FbPrHV.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/seElgmFuoWOrj2i5CeVn7FbPrHV.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=FR5NQe5gjMI"
     },
     {
         "title": "Report from the Aleutians",
         "year": "1943",
         "id": 23388,
-        "poster": "https://image.tmdb.org/t/p/w200/AiUsJmATl5XyAaNTV2myd55HWmN.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/AiUsJmATl5XyAaNTV2myd55HWmN.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=ATbqh1F_7Lk"
     },
     {
         "title": "Shadow of a Doubt",
         "year": "1943",
         "id": 21734,
-        "poster": "https://image.tmdb.org/t/p/w200/ptyWagbWE8jSGyV2tGEzAdVbRCj.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/ptyWagbWE8jSGyV2tGEzAdVbRCj.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=T6dzCh4Ibxc"
     },
     {
         "title": "Why We Fight: The Battle of Russia",
         "year": "1943",
         "id": 112912,
-        "poster": "https://image.tmdb.org/t/p/w200/xgcuUIKFkiVwtUzZy7iE7oeD8ro.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/xgcuUIKFkiVwtUzZy7iE7oeD8ro.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=MXlau7Diskg"
     },
     {
         "title": "The Unknown Guest",
         "year": "1943",
         "id": 124729,
-        "poster": "https://image.tmdb.org/t/p/w200/scBXj3zdRlFO0RinPlTshuJVi5V.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/scBXj3zdRlFO0RinPlTshuJVi5V.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=9Y_QvVUsCwo"
     },
     {
         "title": "When Strangers Marry",
         "year": "1944",
         "id": 26169,
-        "poster": "https://image.tmdb.org/t/p/w200/cHhmAtkD3R2Z2wJb2rcJumcIy43.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/cHhmAtkD3R2Z2wJb2rcJumcIy43.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=NFCLGdn2_I0"
     },
     {
         "title": "The Bridge of San Luis Rey",
         "year": "1944",
         "id": 151386,
-        "poster": "https://image.tmdb.org/t/p/w200/5z3oEBAx5Atnx3W235nBJdUtVZD.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/5z3oEBAx5Atnx3W235nBJdUtVZD.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=15Kf6qrs3lw"
     },
     {
         "title": "The Impostor",
         "year": "1944",
         "id": 92410,
-        "poster": "https://image.tmdb.org/t/p/w200/8zNvp3HsSelkqRK3JHqkHBZLjPN.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/8zNvp3HsSelkqRK3JHqkHBZLjPN.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=5Suw-SE8TuM"
     },
     {
         "title": "Ladies Courageous",
         "year": "1944",
         "id": 377588,
-        "poster": "https://image.tmdb.org/t/p/w200/q3puHpS6ON1PTm5VytVLoPkRVFt.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/q3puHpS6ON1PTm5VytVLoPkRVFt.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=OopeeQF7YjM"
     },
     {
         "title": "Attack! The Battle for New Britain",
         "year": "1944",
         "id": 271518,
-        "poster": "https://image.tmdb.org/t/p/w200/8bB7oY4TFLQeO3n9GUu03rwQicY.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/8bB7oY4TFLQeO3n9GUu03rwQicY.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=HNjMknSZ21Q"
     },
     {
         "title": "Why We Fight: The Battle of China",
         "year": "1944",
         "id": 86084,
-        "poster": "https://image.tmdb.org/t/p/w200/6O8iJ5AiTewW9fuBEHlCYND8Yfa.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/6O8iJ5AiTewW9fuBEHlCYND8Yfa.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=456Zo-1F0-A"
     },
     {
         "title": "Dillinger",
         "year": "1945",
         "id": 28115,
-        "poster": "https://image.tmdb.org/t/p/w200/52fF9VV0ImOBtTKpAfKVYRVuuRv.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/52fF9VV0ImOBtTKpAfKVYRVuuRv.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=VaBxGcCB1gY"
     },
     {
         "title": "Pardon My Past",
         "year": "1945",
         "id": 212926,
-        "poster": "https://image.tmdb.org/t/p/w200/qTDav4P6cAO3K55fJlv84IX1VJv.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/qTDav4P6cAO3K55fJlv84IX1VJv.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=4JDEU10zr2M"
     },
     {
         "title": "China's Little Devils",
         "year": "1945",
         "id": 390206,
-        "poster": "https://image.tmdb.org/t/p/w200/xGODTAZolKRDGu6SEKUXi3COW6R.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/xGODTAZolKRDGu6SEKUXi3COW6R.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=5cdFcSfTid0"
     },
     {
         "title": "Forever Yours",
         "year": "1945",
         "id": 390194,
-        "poster": "https://image.tmdb.org/t/p/w200/8m2LILBDF5OQWxlJusjB4zM3yKC.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/8m2LILBDF5OQWxlJusjB4zM3yKC.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=mY-t0kHH4U0"
     },
     {
         "title": "War Comes to America",
         "year": "1945",
         "id": 162865,
-        "poster": "https://image.tmdb.org/t/p/w200/e2zocBTXIsYfp0DSNydcvzdNgxy.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/e2zocBTXIsYfp0DSNydcvzdNgxy.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=ktPe3kBLpWs"
     },
     {
         "title": "It's a Wonderful Life",
         "year": "1946",
         "id": 1585,
-        "poster": "https://image.tmdb.org/t/p/w200/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Isi18cFW7Nk"
     },
     {
         "title": "The Dark Mirror",
         "year": "1946",
         "id": 44041,
-        "poster": "https://image.tmdb.org/t/p/w200/iGo43zFcIugVmdQ1L6snrYHU3Dq.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/iGo43zFcIugVmdQ1L6snrYHU3Dq.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=eTxn4DUxXE4"
     },
     {
         "title": "Whistle Stop",
         "year": "1946",
         "id": 55600,
-        "poster": "https://image.tmdb.org/t/p/w200/yOhmHkmefSZk3QlyhLn63i7oSii.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/yOhmHkmefSZk3QlyhLn63i7oSii.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=YSD0SwH_HvU"
     },
     {
         "title": "Let There Be Light",
         "year": "1946",
         "id": 86990,
-        "poster": "https://image.tmdb.org/t/p/w200/wgcAMb5BLKFANzTDfKwnxeH1kYA.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/wgcAMb5BLKFANzTDfKwnxeH1kYA.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=5HlKXxaywsE"
     },
     {
         "title": "Black Beauty",
         "year": "1946",
         "id": 254138,
-        "poster": "https://image.tmdb.org/t/p/w200/rRRcFwq9AqjXojrIsdWLyABDN88.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/rRRcFwq9AqjXojrIsdWLyABDN88.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=jzt4TiOZ-R0"
     },
     {
         "title": "Angel on My Shoulder",
         "year": "1946",
         "id": 22688,
-        "poster": "https://image.tmdb.org/t/p/w200/tIDUVxp1yeq1Bw4KsdAaoEJtSsI.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/tIDUVxp1yeq1Bw4KsdAaoEJtSsI.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=DM8OrJ__I4M"
     },
     {
         "title": "Duel in the Sun",
         "year": "1946",
         "id": 32275,
-        "poster": "https://image.tmdb.org/t/p/w200/dW479xuDWrcuFuxr7yfoReztlzF.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/dW479xuDWrcuFuxr7yfoReztlzF.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=-vV9S5TjuS8"
     },
     {
         "title": "The Long Night",
         "year": "1947",
         "id": 44626,
-        "poster": "https://image.tmdb.org/t/p/w200/oM9ckww6Apnni3YrQl9R4qsXN7q.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/oM9ckww6Apnni3YrQl9R4qsXN7q.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=0dHe6YkNCNY"
     },
     {
         "title": "Portrait of Jennie",
         "year": "1948",
         "id": 32558,
-        "poster": "https://image.tmdb.org/t/p/w200/AuZVFoCOxKKwC6eKWol4NkAFpWi.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/AuZVFoCOxKKwC6eKWol4NkAFpWi.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=xCD3OdLka2Y"
     },
     {
         "title": "Tarzan and the Mermaids",
         "year": "1948",
         "id": 70136,
-        "poster": "https://image.tmdb.org/t/p/w200/729UP57wf1f9qwYmXsRqSBt0oJC.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/729UP57wf1f9qwYmXsRqSBt0oJC.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=45rnLyztk_o"
     },
     {
         "title": "So This Is New York",
         "year": "1948",
         "id": 88407,
-        "poster": "https://image.tmdb.org/t/p/w200/xV9sDUCo3UmnPPxHVSu36f0pJsB.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/xV9sDUCo3UmnPPxHVSu36f0pJsB.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=B268TpoRWx8"
     },
     {
         "title": "The Dude Goes West",
         "year": "1948",
         "id": 272255,
-        "poster": "https://image.tmdb.org/t/p/w200/eWxRLhxMSTbvgGgENfxKW98kZRD.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/eWxRLhxMSTbvgGgENfxKW98kZRD.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=ldvPOu8AWSI"
     },
     {
         "title": "Red River",
         "year": "1948",
         "id": 3089,
-        "poster": "https://image.tmdb.org/t/p/w200/jyNTsAzrIWB441OtvfbgKtx1kFS.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/jyNTsAzrIWB441OtvfbgKtx1kFS.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=9Vmw5ZUuhSI"
     },
     {
         "title": "Red Light",
         "year": "1949",
         "id": 25807,
-        "poster": "https://image.tmdb.org/t/p/w200/5Vs4kB5HD3dIVoPuVNvi9xr9ONI.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/5Vs4kB5HD3dIVoPuVNvi9xr9ONI.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=9Vmw5ZUuhSI"
     },
     {
         "title": "D.O.A.",
         "year": "1949",
         "id": 18995,
-        "poster": "https://image.tmdb.org/t/p/w200/m7wZXWOt9XQKJT8r9pbAFo7jB46.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/m7wZXWOt9XQKJT8r9pbAFo7jB46.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=CrgV1gqgbHc"
     },
     {
         "title": "Home of the Brave",
         "year": "1949",
         "id": 90807,
-        "poster": "https://image.tmdb.org/t/p/w200/5DCIWBuKVZmJcM61gOcPDzm4sRU.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/5DCIWBuKVZmJcM61gOcPDzm4sRU.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=YSD0SwH_HvU"
     },
     {
         "title": "Champion",
         "year": "1949",
         "id": 25918,
-        "poster": "https://image.tmdb.org/t/p/w200/luBAS7aD9Iu6RwEumfXbQewjO1g.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/luBAS7aD9Iu6RwEumfXbQewjO1g.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=sinmxukXfLg"
     },
     {
         "title": "Canadian Pacific",
         "year": "1949",
         "id": 64378,
-        "poster": "https://image.tmdb.org/t/p/w200/1fsHETsnxk6QcNxXAHuVgFTTjKa.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/1fsHETsnxk6QcNxXAHuVgFTTjKa.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=ox54UHVnYgs"
     },
     {
         "title": "The Men",
         "year": "1950",
         "id": 1882,
-        "poster": "https://image.tmdb.org/t/p/w200/88hG50Z7EMxKdsKOBc5o2yOpPB5.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/88hG50Z7EMxKdsKOBc5o2yOpPB5.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=CIvOlKRzIIA"
     },
     {
         "title": "Guilty Bystander",
         "year": "1950",
         "id": 37485,
-        "poster": "https://image.tmdb.org/t/p/w200/2YKtb9Umc788aLJyfnHgJQ3kOOm.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/2YKtb9Umc788aLJyfnHgJQ3kOOm.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=gaghzP761fE"
     },
     {
         "title": "Cyrano de Bergerac",
         "year": "1950",
         "id": 43386,
-        "poster": "https://image.tmdb.org/t/p/w200/l4JFOXslwb90opz8xozfIhPke8z.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/l4JFOXslwb90opz8xozfIhPke8z.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=s8ZFOfeXg7c"
     },
     {
         "title": "Champagne for Caesar",
         "year": "1950",
         "id": 41084,
-        "poster": "https://image.tmdb.org/t/p/w200/jVigwtKTVb9YnoZ4yi3Je5vx88y.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/jVigwtKTVb9YnoZ4yi3Je5vx88y.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=_C-MVGWiTuU"
     },
     {
         "title": "Dakota Lil",
         "year": "1950",
         "id": 255429,
-        "poster": "https://image.tmdb.org/t/p/w200/qQd7qzuy3r09agvmX34AtHqKd3B.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/qQd7qzuy3r09agvmX34AtHqKd3B.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=6LgEec2Zf4s"
     },
     {
         "title": "Strangers on a Train",
         "year": "1951",
         "id": 845,
-        "poster": "https://image.tmdb.org/t/p/w200/ihC083U7ef56Ui4x0P0dobojrZ1.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/ihC083U7ef56Ui4x0P0dobojrZ1.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=zzsLM0ezx4k"
     },
     {
         "title": "The Thing from Another World",
         "year": "1951",
         "id": 10785,
-        "poster": "https://image.tmdb.org/t/p/w200/rm2w8dEhOGDuckB6i0Spz9lTzpR.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/rm2w8dEhOGDuckB6i0Spz9lTzpR.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=MktLCvYf_QQ"
     },
     {
         "title": "The Well",
         "year": "1951",
         "id": 29112,
-        "poster": "https://image.tmdb.org/t/p/w200/spCIIPdOgW5NIMA4evLFBmw1prB.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/spCIIPdOgW5NIMA4evLFBmw1prB.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=UuGy6ykIiQ0"
     },
     {
         "title": "Drums in the Deep South",
         "year": "1951",
         "id": 110851,
-        "poster": "https://image.tmdb.org/t/p/w200/5bTVhe2XopRyzpaVoOwNdG8Kd8j.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/5bTVhe2XopRyzpaVoOwNdG8Kd8j.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=KNZzVYdmqPI"
     },
     {
         "title": "Peking Express",
         "year": "1951",
         "id": 191782,
-        "poster": "https://image.tmdb.org/t/p/w200/seTwDPquEmWnbCf4XZAXiwyBJI4.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/seTwDPquEmWnbCf4XZAXiwyBJI4.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=ZzWzsva027M"
     },
     {
         "title": "Mister Universe",
         "year": "1951",
         "id": 411613,
-        "poster": "https://image.tmdb.org/t/p/w200/oOqcDRNw7PWnbskJhIs1NZUZmtV.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/oOqcDRNw7PWnbskJhIs1NZUZmtV.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=gjkLf46Gu0g"
     },
     {
         "title": "High Noon",
         "year": "1952",
         "id": 288,
-        "poster": "https://image.tmdb.org/t/p/w200/qETSMQ4IXBSAS409Z9OL0ppXWTW.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/qETSMQ4IXBSAS409Z9OL0ppXWTW.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=GsHCKgfC-yY"
     },
     {
         "title": "The Steel Trap",
         "year": "1952",
         "id": 31559,
-        "poster": "https://image.tmdb.org/t/p/w200/b0AifWNRWGkw0gCn30H358PfmdD.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/b0AifWNRWGkw0gCn30H358PfmdD.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=V04RjTcrgN0"
     },
     {
         "title": "The Big Sky",
         "year": "1952",
         "id": 43367,
-        "poster": "https://image.tmdb.org/t/p/w200/gnqdiMuvS5oBIVLxQY3Cq8wYIBR.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/gnqdiMuvS5oBIVLxQY3Cq8wYIBR.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=xUxCRFAV3P4"
     },
     {
         "title": "Bugles in the Afternoon",
         "year": "1952",
         "id": 59041,
-        "poster": "https://image.tmdb.org/t/p/w200/ugzyabmb4oojUuQNhbZhuFd5h0E.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/ugzyabmb4oojUuQNhbZhuFd5h0E.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=ATbqh1F_7Lk"
     },
     {
         "title": "Mutiny",
         "year": "1952",
         "id": 227296,
-        "poster": "https://image.tmdb.org/t/p/w200/xCT3yq4enxPd5kXjRD0zjearb1z.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/xCT3yq4enxPd5kXjRD0zjearb1z.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=6BH5yDLB3Lw"
     },
     {
         "title": "The Four Poster",
         "year": "1952",
         "id": 204294,
-        "poster": "https://image.tmdb.org/t/p/w200/nOEt54CiY9Ba7q7z6FRvzAGabnD.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/nOEt54CiY9Ba7q7z6FRvzAGabnD.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=txcEstYr0fc"
     },
     {
         "title": "The Happy Time",
         "year": "1952",
         "id": 178587,
-        "poster": "https://image.tmdb.org/t/p/w200/2051X5uGk207R1D9oRoch43LHeq.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/2051X5uGk207R1D9oRoch43LHeq.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=QW_ij1TimlY"
     },
     {
         "title": "My Six Convicts",
         "year": "1952",
         "id": 44611,
-        "poster": "https://image.tmdb.org/t/p/w200/gAbPvReDcfyIikKzgkDLNmF2ZKg.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/gAbPvReDcfyIikKzgkDLNmF2ZKg.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=ETC1ihulT14"
     },
     {
         "title": "Lady in the Iron Mask",
         "year": "1952",
         "id": 337925,
-        "poster": "https://image.tmdb.org/t/p/w200/rY80v4XWCP5OE8GPWk3Ji0WApC1.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/rY80v4XWCP5OE8GPWk3Ji0WApC1.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=0hDO5aL8qfM"
     },
     {
         "title": "Angel Face",
         "year": "1953",
         "id": 1938,
-        "poster": "https://image.tmdb.org/t/p/w200/c4wrCYEgEtLXxoyEZf4pBl6XD4V.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/c4wrCYEgEtLXxoyEZf4pBl6XD4V.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=4qmMw3CXAO8"
     },
     {
         "title": "I Confess",
         "year": "1953",
         "id": 30159,
-        "poster": "https://image.tmdb.org/t/p/w200/5IYyJetEctAypFYIffqx55PXTPT.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/5IYyJetEctAypFYIffqx55PXTPT.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=D2yuyHD3m28"
     },
     {
         "title": "Jeopardy",
         "year": "1953",
         "id": 41611,
-        "poster": "https://image.tmdb.org/t/p/w200/8eXPMsrLsTK2AcFSwbCoWWIeeRB.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/8eXPMsrLsTK2AcFSwbCoWWIeeRB.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=IMgrEQM5QW0"
     },
     {
         "title": "Return to Paradise",
         "year": "1953",
         "id": 116932,
-        "poster": "https://image.tmdb.org/t/p/w200/u2g9hI9G3gTgZU4Hf5HxwbUJfEi.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/u2g9hI9G3gTgZU4Hf5HxwbUJfEi.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=s2a0WLszJyA"
     },
     {
         "title": "Take the High Ground!",
         "year": "1953",
         "id": 102091,
-        "poster": "https://image.tmdb.org/t/p/w200/71ZNVdhhvJaaxPxwwl4Xs5Ydrw6.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/71ZNVdhhvJaaxPxwwl4Xs5Ydrw6.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=3_b7VdCdi8s"
     },
     {
         "title": "Blowing Wild",
         "year": "1953",
         "id": 76140,
-        "poster": "https://image.tmdb.org/t/p/w200/qRIRy1yb44RHCZjKL2O1WEPjK46.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/qRIRy1yb44RHCZjKL2O1WEPjK46.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=2Dbqgo_RY4Q"
     },
     {
         "title": "Cease Fire!",
         "year": "1953",
         "id": 182805,
-        "poster": "https://image.tmdb.org/t/p/w200/hM0I2PPomtzo0FvFGpCcTJGnD8X.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/hM0I2PPomtzo0FvFGpCcTJGnD8X.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=BE5x_VL6xOU"
     },
     {
         "title": "Dial M for Murder",
         "year": "1954",
         "id": 521,
-        "poster": "https://image.tmdb.org/t/p/w200/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Ncbod0QSLJA"
     },
     {
         "title": "A Bullet Is Waiting",
         "year": "1954",
         "id": 44867,
-        "poster": "https://image.tmdb.org/t/p/w200/9lVtsmgNivlQuTPUKBG5gUmmEYN.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/9lVtsmgNivlQuTPUKBG5gUmmEYN.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=EI9hufDoynk"
     },
     {
         "title": "The High and the Mighty",
         "year": "1954",
         "id": 17761,
-        "poster": "https://image.tmdb.org/t/p/w200/il7ZUf1ys5ElbafW2VAEnX5NWD7.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/il7ZUf1ys5ElbafW2VAEnX5NWD7.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=V-y4m89Z5n4"
     },
     {
         "title": "The Command",
         "year": "1954",
         "id": 108345,
-        "poster": "https://image.tmdb.org/t/p/w200/xhfYxJHlWftZqLkvFWOpwwVnlot.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/xhfYxJHlWftZqLkvFWOpwwVnlot.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=YSD0SwH_HvU"
     },
     {
         "title": "His Majesty O'Keefe",
         "year": "1954",
         "id": 113785,
-        "poster": "https://image.tmdb.org/t/p/w200/kdHvzBI9lzoUJ0roiDvFALxMegs.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/kdHvzBI9lzoUJ0roiDvFALxMegs.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=odiu0L3L1QA"
     },
     {
         "title": "The Adventures of Hajji Baba",
         "year": "1954",
         "id": 108668,
-        "poster": "https://image.tmdb.org/t/p/w200/6hIIpvcpgCUwBjflpTP7FbVTlyS.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/6hIIpvcpgCUwBjflpTP7FbVTlyS.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=6E_KkzloQf0"
     },
     {
         "title": "Land of the Pharaohs",
         "year": "1955",
         "id": 42564,
-        "poster": "https://image.tmdb.org/t/p/w200/bpSzz9kkxb95vMgJiGyWe3nV99I.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/bpSzz9kkxb95vMgJiGyWe3nV99I.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=yJVpIZOHiNQ"
     },
     {
         "title": "Strange Lady in Town",
         "year": "1955",
         "id": 121906,
-        "poster": "https://image.tmdb.org/t/p/w200/2RcBhfPRgFgzNic4UkE71lE8EGA.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/2RcBhfPRgFgzNic4UkE71lE8EGA.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=xoq6W32L31w"
     },
     {
         "title": "The Court-Martial of Billy Mitchell",
         "year": "1955",
         "id": 118910,
-        "poster": "https://image.tmdb.org/t/p/w200/hdaOpCeRev0lsFybiOSjbaIbehm.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/hdaOpCeRev0lsFybiOSjbaIbehm.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=if0oVOuVyBg"
     },
     {
         "title": "Friendly Persuasion",
         "year": "1956",
         "id": 43258,
-        "poster": "https://image.tmdb.org/t/p/w200/mhsdObvFHoOfgaKAVJUOeK3LiOP.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/mhsdObvFHoOfgaKAVJUOeK3LiOP.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=xwXo7--0Spo"
     },
     {
         "title": "Tension at Table Rock",
         "year": "1956",
         "id": 74527,
-        "poster": "https://image.tmdb.org/t/p/w200/s3PEW2Ag8WC5ExnnlG0Y2i3YIDJ.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/s3PEW2Ag8WC5ExnnlG0Y2i3YIDJ.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=p63RToJuFN4"
     },
     {
         "title": "Giant",
         "year": "1956",
         "id": 1712,
-        "poster": "https://image.tmdb.org/t/p/w200/h5RRYPVVuHzd7QOJyP5Dsi8J9XZ.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/h5RRYPVVuHzd7QOJyP5Dsi8J9XZ.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=OvNflzgPZaE"
     },
     {
         "title": "Night Passage",
         "year": "1957",
         "id": 25381,
-        "poster": "https://image.tmdb.org/t/p/w200/jb9YcoP4c4kM2n1w37JyYELms2o.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/jb9YcoP4c4kM2n1w37JyYELms2o.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=AyJqd6IxWlY"
     },
     {
         "title": "Wild Is the Wind",
         "year": "1957",
         "id": 93528,
-        "poster": "https://image.tmdb.org/t/p/w200/7vnKOkyrvJ77uLlGk5hzXyqyAfQ.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/7vnKOkyrvJ77uLlGk5hzXyqyAfQ.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=F-hMqFqVqTk"
     },
     {
         "title": "Gunfight at the O.K. Corral",
         "year": "1957",
         "id": 22201,
-        "poster": "https://image.tmdb.org/t/p/w200/71AQUFbw49ALCNtKZ69flFmbRhF.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/71AQUFbw49ALCNtKZ69flFmbRhF.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=ESx0WnJcTN0"
     },
     {
         "title": "Search for Paradise",
         "year": "1957",
         "id": 271147,
-        "poster": "https://image.tmdb.org/t/p/w200/4rCYYinljcIDiRksb9UZB8fdZmc.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4rCYYinljcIDiRksb9UZB8fdZmc.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=s2a0WLszJyA"
     },
     {
         "title": "The Old Man and the Sea",
         "year": "1958",
         "id": 11331,
-        "poster": "https://image.tmdb.org/t/p/w200/6Q34dJL6m1vdzAr0jDDKDmNL52e.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/6Q34dJL6m1vdzAr0jDDKDmNL52e.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=4iTn8Ftq9Sg"
     },
     {
         "title": "Rio Bravo",
         "year": "1959",
         "id": 301,
-        "poster": "https://image.tmdb.org/t/p/w200/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=m9wU8AhP2LU"
     },
     {
         "title": "Last Train from Gun Hill",
         "year": "1959",
         "id": 14677,
-        "poster": "https://image.tmdb.org/t/p/w200/hXbBkFAcJZBHH629Kj4Ujrq1r2l.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/hXbBkFAcJZBHH629Kj4Ujrq1r2l.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=DXWPiMnevlE"
     },
     {
         "title": "The Young Land",
         "year": "1959",
         "id": 18447,
-        "poster": "https://image.tmdb.org/t/p/w200/81GomzdaVYNLc0cL2dlfnCvuRdn.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/81GomzdaVYNLc0cL2dlfnCvuRdn.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=LDLcSg2H9q4"
     },
     {
         "title": "The Alamo",
         "year": "1960",
         "id": 11209,
-        "poster": "https://image.tmdb.org/t/p/w200/54KNQfJnYZwhI3sPYyjXtptWGfg.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/54KNQfJnYZwhI3sPYyjXtptWGfg.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=5epfRO-jHPo"
     },
     {
         "title": "The Unforgiven",
         "year": "1960",
         "id": 6643,
-        "poster": "https://image.tmdb.org/t/p/w200/9085eJIHF1LqoKgGWK74Z3dxXpo.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/9085eJIHF1LqoKgGWK74Z3dxXpo.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=xetDQY3MCsA"
     },
     {
         "title": "The Sundowners",
         "year": "1960",
         "id": 43047,
-        "poster": "https://image.tmdb.org/t/p/w200/yGXxKdR3sttc0Gu927wMETZH3al.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/yGXxKdR3sttc0Gu927wMETZH3al.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=NVS32PjoQrg"
     },
     {
         "title": "The Guns of Navarone",
         "year": "1961",
         "id": 10911,
-        "poster": "https://image.tmdb.org/t/p/w200/j6VSFnm20GlkUi8yb7hM5Qfc1fA.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/j6VSFnm20GlkUi8yb7hM5Qfc1fA.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=He99PRNhJsU"
     },
     {
         "title": "Town Without Pity",
         "year": "1961",
         "id": 93427,
-        "poster": "https://image.tmdb.org/t/p/w200/uJ7YsfTPQHE0PnbLa80GlBhxtHT.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/uJ7YsfTPQHE0PnbLa80GlBhxtHT.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=OwD7g_olw6o"
     },
     {
         "title": "55 Days at Peking",
         "year": "1963",
         "id": 27759,
-        "poster": "https://image.tmdb.org/t/p/w200/uR0xaqmqlbhatf9014mHuwV1Uly.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/uR0xaqmqlbhatf9014mHuwV1Uly.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=VaBxGcCB1gY"
     },
     {
         "title": "Circus World",
         "year": "1964",
         "id": 42782,
-        "poster": "https://image.tmdb.org/t/p/w200/vwioP29cTAsQP1dUrVa1yvLVNmz.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/vwioP29cTAsQP1dUrVa1yvLVNmz.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=BE5x_VL6xOU"
     },
     {
         "title": "36 Hours",
         "year": "1964",
         "id": 37684,
-        "poster": "https://image.tmdb.org/t/p/w200/JrkndJe6vmkrMorF7l3TjuTvB9.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/JrkndJe6vmkrMorF7l3TjuTvB9.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=_DezXIYvnS8"
     },
     {
         "title": "The Fall of the Roman Empire",
         "year": "1964",
         "id": 17277,
-        "poster": "https://image.tmdb.org/t/p/w200/ggrPUKNYFZ6ogs896ZiT0lQG9Tr.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/ggrPUKNYFZ6ogs896ZiT0lQG9Tr.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=lMe8HKopNLE"
     },
     {
         "title": "The War Wagon",
         "year": "1967",
         "id": 27277,
-        "poster": "https://image.tmdb.org/t/p/w200/wGSv9mfHocleVwH4Q8d38SkwQP.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/wGSv9mfHocleVwH4Q8d38SkwQP.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=V1o0cU8xqdg"
     },
     {
         "title": "Great Catherine",
         "year": "1968",
         "id": 144283,
-        "poster": "https://image.tmdb.org/t/p/w200/buMMizQp8hF1bE94nBHTkS7AoTV.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/buMMizQp8hF1bE94nBHTkS7AoTV.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=hKlMA6jRUY8"
     },
     {
         "title": "Tchaikovsky",
         "year": "1970",
         "id": 150102,
-        "poster": "https://image.tmdb.org/t/p/w200/gafqVNvP9u3mFgulb8xVXuQvrEh.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/gafqVNvP9u3mFgulb8xVXuQvrEh.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=_ClVrn7ImNk"
     },
     {
         "title": "Merry Christmas, George Bailey",
         "year": "1997",
         "id": 1215744,
-        "poster": "https://image.tmdb.org/t/p/w200/vjtHskJCjtSZaUpJHuPVjyW5vUk.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/vjtHskJCjtSZaUpJHuPVjyW5vUk.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Isi18cFW7Nk"
     }
 ]

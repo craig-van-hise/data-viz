@@ -3,342 +3,399 @@
         "title": "Dansen",
         "year": "1983",
         "id": 503002,
-        "poster": "https://image.tmdb.org/t/p/w200/cN0ilH6JzXtAEi9QDcR9hbQr3fD.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/cN0ilH6JzXtAEi9QDcR9hbQr3fD.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=923np_OxcG4"
     },
     {
         "title": "Someday, Someone Will Be Killed",
         "year": "1984",
         "id": 437350,
-        "poster": "https://image.tmdb.org/t/p/w200/aLcVZu73lgE5XVaRMAb94GtM644.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/aLcVZu73lgE5XVaRMAb94GtM644.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=1DARltMpC_A"
     },
     {
         "title": "And Then",
         "year": "1985",
         "id": 118785,
-        "poster": "https://image.tmdb.org/t/p/w200/4qih3JeneA3QooN0sDa26aGBuPZ.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4qih3JeneA3QooN0sDa26aGBuPZ.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=923np_OxcG4"
     },
     {
         "title": "Let Him Rest in Peace",
         "year": "1985",
         "id": 226860,
-        "poster": "https://image.tmdb.org/t/p/w200/ahKY9uIXJdPfEvMXxW45Lp01Rnd.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/ahKY9uIXJdPfEvMXxW45Lp01Rnd.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Akle3NlVIdU"
     },
     {
         "title": "The Gentlemen\u2019s Alliance",
         "year": "1986",
         "id": 454356,
-        "poster": "https://image.tmdb.org/t/p/w200/x7pCNOmDrKDf7MRd9XybHMPQ5Au.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/x7pCNOmDrKDf7MRd9XybHMPQ5Au.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=CydoHnlWpEI"
     },
     {
         "title": "Love and Action in Osaka",
         "year": "1988",
         "id": 433777,
-        "poster": "https://image.tmdb.org/t/p/w200/evxXwWtgqPfWnGNTdyFZL48CkM4.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/evxXwWtgqPfWnGNTdyFZL48CkM4.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=923np_OxcG4"
     },
     {
         "title": "Tekken",
         "year": "1990",
         "id": 618739,
-        "poster": "https://image.tmdb.org/t/p/w200/uubQnXi2uYfEhtwu19Au4dCt4oW.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/uubQnXi2uYfEhtwu19Au4dCt4oW.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=BAdIlU55M1Y"
     },
     {
         "title": "Yumeji",
         "year": "1991",
         "id": 110903,
-        "poster": "https://image.tmdb.org/t/p/w200/hWpDDjkRHzYb1EyS6XwnFAlDOJD.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/hWpDDjkRHzYb1EyS6XwnFAlDOJD.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=923np_OxcG4"
     },
     {
         "title": "Investigation of a Typical Love",
         "year": "1992",
         "id": 686374,
-        "poster": "https://image.tmdb.org/t/p/w200/nPGoWAIxsaC7DKdafGwVlAZOada.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/nPGoWAIxsaC7DKdafGwVlAZOada.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=CydoHnlWpEI"
     },
     {
         "title": "The City That Never Sleeps: Shinjuku Shark",
         "year": "1993",
         "id": 316995,
-        "poster": "https://image.tmdb.org/t/p/w200/4PSZLnBgGmGKSipPBWydWdoDZI2.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4PSZLnBgGmGKSipPBWydWdoDZI2.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=moquWkt8mAE"
     },
     {
         "title": "Yoi Ko to Asobou",
         "year": "1994",
         "id": 1023600,
-        "poster": "https://image.tmdb.org/t/p/w200/sSr9va5xZZnYhrryIHvevqpIAO2.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/sSr9va5xZZnYhrryIHvevqpIAO2.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=SgGNiX9y4nI"
     },
     {
         "title": "Ghost Pub",
         "year": "1994",
         "id": 431044,
-        "poster": "https://image.tmdb.org/t/p/w200/A0QQBOz2lbZLCNODSDoJW3IQUj.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/A0QQBOz2lbZLCNODSDoJW3IQUj.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=okhJtmSsSSY"
     },
     {
         "title": "Boxer Joe",
         "year": "1995",
         "id": 1141440,
-        "poster": "https://image.tmdb.org/t/p/w200/fAhA5cjiIU8RxEQzbAKcdGLsqOZ.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/fAhA5cjiIU8RxEQzbAKcdGLsqOZ.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=-NnFijz9BN4"
     },
     {
         "title": "The Christ of Nanjing",
         "year": "1995",
         "id": 307064,
-        "poster": "https://image.tmdb.org/t/p/w200/luzGME28V6TdCnbbvmzt8owbJx2.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/luzGME28V6TdCnbbvmzt8owbJx2.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=frSvFW0VA_c"
     },
     {
         "title": "Option Zero",
         "year": "1997",
         "id": 68422,
-        "poster": "https://image.tmdb.org/t/p/w200/hsjWV01dqMlsfwfETUHugMKHj7Y.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/hsjWV01dqMlsfwfETUHugMKHj7Y.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=SgGNiX9y4nI"
     },
     {
         "title": "The Things We Liked",
         "year": "1997",
         "id": 313573,
-        "poster": null
+        "poster": null,
+        "youtube_link": "https://www.youtube.com/watch?v=CydoHnlWpEI"
     },
     {
         "title": "Ichigo domei",
         "year": "1997",
         "id": 645867,
-        "poster": "https://image.tmdb.org/t/p/w200/lyMkDQYTzSx0XoXqqDYDF5PGSCM.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/lyMkDQYTzSx0XoXqqDYDF5PGSCM.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=-NnFijz9BN4"
     },
     {
         "title": "Sleepless Town",
         "year": "1998",
         "id": 68913,
-        "poster": "https://image.tmdb.org/t/p/w200/uJpj7Nx9ZvVZbKbduF9iQfKs8Jq.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/uJpj7Nx9ZvVZbKbduF9iQfKs8Jq.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=dpo6bbDXqw4"
     },
     {
         "title": "In the Mood for Love",
         "year": "2000",
         "id": 843,
-        "poster": "https://image.tmdb.org/t/p/w200/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=CydoHnlWpEI"
     },
     {
         "title": "2000 AD",
         "year": "2000",
         "id": 32249,
-        "poster": "https://image.tmdb.org/t/p/w200/cYJRSQkk2l1U3h4xY3pBQlHe3S8.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/cYJRSQkk2l1U3h4xY3pBQlHe3S8.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=SgGNiX9y4nI"
     },
     {
         "title": "Onmyoji",
         "year": "2001",
         "id": 21325,
-        "poster": "https://image.tmdb.org/t/p/w200/ptiwNaV092Ut3qWLnN07fx2hFjl.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/ptiwNaV092Ut3qWLnN07fx2hFjl.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=-NnFijz9BN4"
     },
     {
         "title": "An Adolescent",
         "year": "2001",
         "id": 106438,
-        "poster": "https://image.tmdb.org/t/p/w200/8TB3TrTJ4613moX81tVFapEZN55.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/8TB3TrTJ4613moX81tVFapEZN55.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wv4zDQGaUxo"
     },
     {
         "title": "Midnight Fly",
         "year": "2001",
         "id": 256076,
-        "poster": "https://image.tmdb.org/t/p/w200/qeqL49tLjf3HnuMAT9Morn1A6nP.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/qeqL49tLjf3HnuMAT9Morn1A6nP.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=dbSkcvyTXEE"
     },
     {
         "title": "Rain of Light",
         "year": "2001",
         "id": 353549,
-        "poster": "https://image.tmdb.org/t/p/w200/uZWbbrm9Q2tJmVKXvevPbvnZOGW.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/uZWbbrm9Q2tJmVKXvevPbvnZOGW.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=tm24l128tGI"
     },
     {
         "title": "Zhou Yu's Train",
         "year": "2002",
         "id": 61477,
-        "poster": "https://image.tmdb.org/t/p/w200/etTZFDdXUjGB0cagwyWIeHlx6Xb.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/etTZFDdXUjGB0cagwyWIeHlx6Xb.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=iZ0tKVGIy8Q"
     },
     {
         "title": "Onmyoji II",
         "year": "2003",
         "id": 45719,
-        "poster": "https://image.tmdb.org/t/p/w200/aGptUOgEo8AusrUBtPyjSQRGGoR.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/aGptUOgEo8AusrUBtPyjSQRGGoR.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=-NnFijz9BN4"
     },
     {
         "title": "The Floating Landscape",
         "year": "2003",
         "id": 95728,
-        "poster": "https://image.tmdb.org/t/p/w200/h1B43bbbDEYDbZQ5SlxareNTgsV.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/h1B43bbbDEYDbZQ5SlxareNTgsV.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=qBzgyWDZfUI"
     },
     {
         "title": "2046",
         "year": "2004",
         "id": 844,
-        "poster": "https://image.tmdb.org/t/p/w200/jIN65qw0Giplo4CshzMrxz204Wn.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/jIN65qw0Giplo4CshzMrxz204Wn.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=BAdIlU55M1Y"
     },
     {
         "title": "House of Flying Daggers",
         "year": "2004",
         "id": 9550,
-        "poster": "https://image.tmdb.org/t/p/w200/93feGsGiCtG5ymrRcErUgBsdo6v.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/93feGsGiCtG5ymrRcErUgBsdo6v.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=U_xj65cvjtg"
     },
     {
         "title": "Curse of the Golden Flower",
         "year": "2006",
         "id": 1494,
-        "poster": "https://image.tmdb.org/t/p/w200/gHkkDpfo5YnOrbVfwtDHi91BkrU.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/gHkkDpfo5YnOrbVfwtDHi91BkrU.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=3mQEzL8UyvE"
     },
     {
         "title": "The Dark Sea",
         "year": "2006",
         "id": 28144,
-        "poster": "https://image.tmdb.org/t/p/w200/8SMNfy81fC1AlJYsFrKc34sFKhM.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/8SMNfy81fC1AlJYsFrKc34sFKhM.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=moquWkt8mAE"
     },
     {
         "title": "Daisy",
         "year": "2006",
         "id": 18426,
-        "poster": "https://image.tmdb.org/t/p/w200/twmYZWjyrHm0fhJnPxHcC4XtrA3.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/twmYZWjyrHm0fhJnPxHcC4XtrA3.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=dJcrtv-p5d4"
     },
     {
         "title": "Fearless",
         "year": "2006",
         "id": 7549,
-        "poster": "https://image.tmdb.org/t/p/w200/yKJ7rjIwOa8XvACELo9eV8IvMPb.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/yKJ7rjIwOa8XvACELo9eV8IvMPb.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=A9eHFEvGEws"
     },
     {
         "title": "Hannibal Rising",
         "year": "2007",
         "id": 1248,
-        "poster": "https://image.tmdb.org/t/p/w200/7FTDMQoac0uqJUquZk4KenDzLMZ.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/7FTDMQoac0uqJUquZk4KenDzLMZ.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=vYScB7EmG5Y"
     },
     {
         "title": "Incendiary",
         "year": "2008",
         "id": 15705,
-        "poster": "https://image.tmdb.org/t/p/w200/jJWBiaN0nCRdbKpFKEkUIZe3Q6b.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/jJWBiaN0nCRdbKpFKEkUIZe3Q6b.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=lLISUnt925A"
     },
     {
         "title": "Tears for Sale",
         "year": "2008",
         "id": 16403,
-        "poster": "https://image.tmdb.org/t/p/w200/90dWmvkiNDEgIhy4cC8HbKAsiLk.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/90dWmvkiNDEgIhy4cC8HbKAsiLk.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=SQxB5XFFoXs"
     },
     {
         "title": "Absurdistan",
         "year": "2008",
         "id": 7344,
-        "poster": "https://image.tmdb.org/t/p/w200/r6RchJPk6PiSX8LCw1PjQEyTyS0.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/r6RchJPk6PiSX8LCw1PjQEyTyS0.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=SgGNiX9y4nI"
     },
     {
         "title": "Murderer",
         "year": "2009",
         "id": 72074,
-        "poster": "https://image.tmdb.org/t/p/w200/hWXohEViuvWDeBjwPFDNe3S9dmN.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/hWXohEViuvWDeBjwPFDNe3S9dmN.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=SgGNiX9y4nI"
     },
     {
         "title": "True Legend",
         "year": "2010",
         "id": 37034,
-        "poster": "https://image.tmdb.org/t/p/w200/6UICxESwvJbvRHdgT0jenH1xPmW.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/6UICxESwvJbvRHdgT0jenH1xPmW.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=sfDGtV-yWjE"
     },
     {
         "title": "Trishna",
         "year": "2011",
         "id": 85542,
-        "poster": "https://image.tmdb.org/t/p/w200/xFCJeLJDXYhrX6Z4bHbdiDeVUgm.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/xFCJeLJDXYhrX6Z4bHbdiDeVUgm.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=JPoUqhfLXSY"
     },
     {
         "title": "Days of Grace",
         "year": "2012",
         "id": 68556,
-        "poster": "https://image.tmdb.org/t/p/w200/kOJnUPFJ9vpzxMkUAxzNFCR96Bw.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/kOJnUPFJ9vpzxMkUAxzNFCR96Bw.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=SgGNiX9y4nI"
     },
     {
         "title": "Nightfall",
         "year": "2012",
         "id": 96664,
-        "poster": "https://image.tmdb.org/t/p/w200/bUbrXzhVKImZsUn7xTfVVUeKeq5.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/bUbrXzhVKImZsUn7xTfVVUeKeq5.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=moquWkt8mAE"
     },
     {
         "title": "The Assassins",
         "year": "2012",
         "id": 136701,
-        "poster": "https://image.tmdb.org/t/p/w200/iflthXJoh1jDND6CWCrEAG9JgwT.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/iflthXJoh1jDND6CWCrEAG9JgwT.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Akle3NlVIdU"
     },
     {
         "title": "The Grandmaster",
         "year": "2013",
         "id": 44865,
-        "poster": "https://image.tmdb.org/t/p/w200/ydBVVIscL6TsX5hYztA5YpBCwJ3.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/ydBVVIscL6TsX5hYztA5YpBCwJ3.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Rm_9J70qqzo"
     },
     {
         "title": "Like the Wind",
         "year": "2013",
         "id": 235208,
-        "poster": "https://image.tmdb.org/t/p/w200/sgOgPIFfpjcucXocH4e2TKO9Dce.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/sgOgPIFfpjcucXocH4e2TKO9Dce.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=9I9bYdA-4l0"
     },
     {
         "title": "One Step Away",
         "year": "2014",
         "id": 309795,
-        "poster": "https://image.tmdb.org/t/p/w200/8HXsv8wlTCyEGT7LhVvt7be8rGs.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/8HXsv8wlTCyEGT7LhVvt7be8rGs.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=SgGNiX9y4nI"
     },
     {
         "title": "Rise of the Legend",
         "year": "2014",
         "id": 294993,
-        "poster": "https://image.tmdb.org/t/p/w200/rQLhQytqw27NHUlmrArOIs4yQl.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/rQLhQytqw27NHUlmrArOIs4yQl.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=jgmermlIsAU"
     },
     {
         "title": "The Bride",
         "year": "2015",
         "id": 350849,
-        "poster": "https://image.tmdb.org/t/p/w200/uyoXnjqwY5ay8SPqXqyFgIF8RVO.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/uyoXnjqwY5ay8SPqXqyFgIF8RVO.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=923np_OxcG4"
     },
     {
         "title": "Crouching Tiger, Hidden Dragon: Sword of Destiny",
         "year": "2016",
         "id": 263341,
-        "poster": "https://image.tmdb.org/t/p/w200/te3aeAyhkfqgpa5BSTq3oNxGqQD.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/te3aeAyhkfqgpa5BSTq3oNxGqQD.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=TCrr5KHZRlQ"
     },
     {
         "title": "The Wasted Times",
         "year": "2016",
         "id": 382572,
-        "poster": "https://image.tmdb.org/t/p/w200/vQm1jnqrQQoDxBRYFKQ9uq8Rbm7.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/vQm1jnqrQQoDxBRYFKQ9uq8Rbm7.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=o-j1K4TiRmI"
     },
     {
         "title": "Leap",
         "year": "2020",
         "id": 638032,
-        "poster": "https://image.tmdb.org/t/p/w200/uX2JYxu1riaaPD2sQID6SMPct6d.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/uX2JYxu1riaaPD2sQID6SMPct6d.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=923np_OxcG4"
     },
     {
         "title": "The Yin Yang Master",
         "year": "2021",
         "id": 758902,
-        "poster": "https://image.tmdb.org/t/p/w200/6RJwhxEtEFZKC8ogLJ4eBwr42yc.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/6RJwhxEtEFZKC8ogLJ4eBwr42yc.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=CNaawI_uuGM"
     },
     {
         "title": "Greetings from Cr\u00eenga\u0219i",
         "year": "2023",
         "id": 1178951,
-        "poster": "https://image.tmdb.org/t/p/w200/sNjdYRvg6SHZP4Zaale4eVCxC9N.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/sNjdYRvg6SHZP4Zaale4eVCxC9N.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=1DARltMpC_A"
     },
     {
         "title": "Dwelling by the West Lake",
         "year": "2024",
         "id": 925293,
-        "poster": "https://image.tmdb.org/t/p/w200/a8X7hMZIqwn8nRl1wKyBTakE0Yh.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/a8X7hMZIqwn8nRl1wKyBTakE0Yh.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=moquWkt8mAE"
     },
     {
         "title": "In the Belly of a Tiger",
         "year": "2024",
         "id": 1062522,
-        "poster": "https://image.tmdb.org/t/p/w200/9EBvk3HbWSfmOFhawXpEQihOc0t.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/9EBvk3HbWSfmOFhawXpEQihOc0t.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=TCrr5KHZRlQ"
     },
     {
         "title": "In the Mood for Love 2001",
         "year": "2025",
         "id": 1430370,
-        "poster": "https://image.tmdb.org/t/p/w200/9veh00OKZ68ZZmh3EfkvmYvzzss.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/9veh00OKZ68ZZmh3EfkvmYvzzss.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=CydoHnlWpEI"
     },
     {
         "title": "My World without Me",
         "year": "2025",
         "id": 1575593,
-        "poster": "https://image.tmdb.org/t/p/w200/aAJCR3IHipwy9J3UE3Le3SFkzGO.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/aAJCR3IHipwy9J3UE3Le3SFkzGO.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=SgGNiX9y4nI"
     }
 ]

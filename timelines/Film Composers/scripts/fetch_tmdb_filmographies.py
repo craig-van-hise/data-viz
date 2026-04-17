@@ -94,14 +94,29 @@ for i, composer in enumerate(composers):
         
         # Step F (Save)
         safe_name = composer.replace(" ", "_")
-        # Handle special characters (e.g., Jóhann Jóhannsson -> Johann_Johannsson-like but usually underscores are enough)
-        # Note: The existing system uses specific underscores.
         output_file = os.path.join(OUTPUT_DIR, f"{safe_name}.json")
+        
+        # Load existing data to preserve youtube_links
+        existing_yt_links = {}
+        if os.path.exists(output_file):
+            try:
+                with open(output_file, 'r') as f:
+                    old_data = json.load(f)
+                    for film in old_data:
+                        if "youtube_link" in film:
+                            existing_yt_links[film["title"]] = film["youtube_link"]
+            except Exception as e:
+                print(f"  ⚠️ Could not read existing file {output_file}: {e}")
+
+        # Inject existing youtube_links
+        for film in deduped_list:
+            if film["title"] in existing_yt_links:
+                film["youtube_link"] = existing_yt_links[film["title"]]
         
         with open(output_file, 'w') as f:
             json.dump(deduped_list, f, indent=4)
             
-        print(f"  ✅ Saved {len(deduped_list)} films to {safe_name}.json")
+        print(f"  ✅ Saved {len(deduped_list)} films to {safe_name}.json (Preserved {len(existing_yt_links)} YT links)")
         
     except Exception as e:
         print(f"  ❌ Error processing {composer}: {e}")

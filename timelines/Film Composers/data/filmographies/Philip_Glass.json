@@ -3,372 +3,434 @@
         "title": "Inquiring Nuns",
         "year": "1968",
         "id": 291275,
-        "poster": "https://image.tmdb.org/t/p/w200/pZs4Nvfi4abwKqCPuSfavMeO7EU.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/pZs4Nvfi4abwKqCPuSfavMeO7EU.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=gRyM0-S-wok"
     },
     {
         "title": "Koyaanisqatsi",
         "year": "1983",
         "id": 11314,
-        "poster": "https://image.tmdb.org/t/p/w200/6zCNciRcob8lwuydVXgq0esla8L.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/6zCNciRcob8lwuydVXgq0esla8L.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=CMV850rhcQM"
     },
     {
         "title": "Mishima: A Life in Four Chapters",
         "year": "1985",
         "id": 27064,
-        "poster": "https://image.tmdb.org/t/p/w200/4kIXsE4SwUjO0eUqpolsHNO5GLH.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4kIXsE4SwUjO0eUqpolsHNO5GLH.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=txoqe611j-o"
     },
     {
         "title": "Empire City",
         "year": "1985",
         "id": 649144,
-        "poster": "https://image.tmdb.org/t/p/w200/aZQlJ3zNkPskE974fNYDBhe59tL.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/aZQlJ3zNkPskE974fNYDBhe59tL.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=KjvPGQ_yGEU"
     },
     {
         "title": "Hamburger Hill",
         "year": "1987",
         "id": 10652,
-        "poster": "https://image.tmdb.org/t/p/w200/a84FDoIm64qcyKq6BEMB9Ycldpt.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/a84FDoIm64qcyKq6BEMB9Ycldpt.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=mVh6P9zMZbU"
     },
     {
         "title": "Anima Mundi",
         "year": "1991",
         "id": 54220,
-        "poster": "https://image.tmdb.org/t/p/w200/p3y1G5CDFGtw7XMp3XyRzoHBvGE.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/p3y1G5CDFGtw7XMp3XyRzoHBvGE.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Yfef24cAp4Q"
     },
     {
         "title": "Mindwalk",
         "year": "1991",
         "id": 48745,
-        "poster": "https://image.tmdb.org/t/p/w200/1gw9BlsexGu8xTZYqxFOsd2j3fW.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/1gw9BlsexGu8xTZYqxFOsd2j3fW.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=WrN6UBHP2yM"
     },
     {
         "title": "A Brief History of Time",
         "year": "1991",
         "id": 1358,
-        "poster": "https://image.tmdb.org/t/p/w200/A3sVrDThz8Xthfq2EglWoypKEfU.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/A3sVrDThz8Xthfq2EglWoypKEfU.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=2mpG4d7CBbg"
     },
     {
         "title": "Candyman",
         "year": "1992",
         "id": 9529,
-        "poster": "https://image.tmdb.org/t/p/w200/jQtgkgDZE7egMq532sOt83DnT83.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/jQtgkgDZE7egMq532sOt83DnT83.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=5WkRas2gBBI"
     },
     {
         "title": "Mirror of the Planet",
         "year": "1992",
         "id": 418769,
-        "poster": "https://image.tmdb.org/t/p/w200/Ajlc3pd8nCkmrnDxphXMJpnFRFC.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/Ajlc3pd8nCkmrnDxphXMJpnFRFC.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=CMV850rhcQM"
     },
     {
         "title": "Candyman: Farewell to the Flesh",
         "year": "1995",
         "id": 10824,
-        "poster": "https://image.tmdb.org/t/p/w200/2scgM9dFaHEppWb3tS99gCAh8KX.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/2scgM9dFaHEppWb3tS99gCAh8KX.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=EwsZlfF1xzg"
     },
     {
         "title": "Evidence",
         "year": "1995",
         "id": 106828,
-        "poster": null
+        "poster": null,
+        "youtube_link": "https://www.youtube.com/watch?v=tQmVrEAIwfU"
     },
     {
         "title": "The Interview",
         "year": "1995",
         "id": 471130,
-        "poster": "https://image.tmdb.org/t/p/w200/pkVpIcoPb8nrcadhjCa4h1Ywmcy.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/pkVpIcoPb8nrcadhjCa4h1Ywmcy.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=0_E-4cN2l-k"
     },
     {
         "title": "The Secret Agent",
         "year": "1996",
         "id": 47199,
-        "poster": "https://image.tmdb.org/t/p/w200/tPHoV5WGQROGQmbSw4h8NGWB22c.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/tPHoV5WGQROGQmbSw4h8NGWB22c.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wGBae7KTSSY"
     },
     {
         "title": "Mama General",
         "year": "1997",
         "id": 1191018,
-        "poster": null
+        "poster": null,
+        "youtube_link": "https://www.youtube.com/watch?v=1pMN3QZpdiA"
     },
     {
         "title": "Kundun",
         "year": "1997",
         "id": 9746,
-        "poster": "https://image.tmdb.org/t/p/w200/yvdFRDoQIQ5PBk4u8x8gJT8NJAw.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/yvdFRDoQIQ5PBk4u8x8gJT8NJAw.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wqqUjQf43oo"
     },
     {
         "title": "Bent",
         "year": "1997",
         "id": 19601,
-        "poster": "https://image.tmdb.org/t/p/w200/mTRIVPmRK01rgLlE6XJPGbbRdXb.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/mTRIVPmRK01rgLlE6XJPGbbRdXb.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=5FVwdWUp5sc"
     },
     {
         "title": "Perfect Moment",
         "year": "1997",
         "id": 530394,
-        "poster": "https://image.tmdb.org/t/p/w200/qtATC89DTFZJg9mkbZ9dV0tJZSy.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/qtATC89DTFZJg9mkbZ9dV0tJZSy.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=1pMN3QZpdiA"
     },
     {
         "title": "The Truman Show",
         "year": "1998",
         "id": 37165,
-        "poster": "https://image.tmdb.org/t/p/w200/vuza0WqY239yBXOadKlGwJsZJFE.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=R-WjAOdkU5E"
     },
     {
         "title": "The Hours",
         "year": "2002",
         "id": 590,
-        "poster": "https://image.tmdb.org/t/p/w200/4myDtowDJQPQnkEDB1IWGtJR1Fo.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4myDtowDJQPQnkEDB1IWGtJR1Fo.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=yYuTEcArOr8"
     },
     {
         "title": "The Baroness and the Pig",
         "year": "2002",
         "id": 93239,
-        "poster": "https://image.tmdb.org/t/p/w200/i5T0MWLwD7RjdVqcF6b3QDk6b7j.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/i5T0MWLwD7RjdVqcF6b3QDk6b7j.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=txoqe611j-o"
     },
     {
         "title": "The Fog of War",
         "year": "2003",
         "id": 12698,
-        "poster": "https://image.tmdb.org/t/p/w200/m1dEnkrdJGBSLeAyJepuGrU9sNI.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/m1dEnkrdJGBSLeAyJepuGrU9sNI.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=fbUuA919Nrs"
     },
     {
         "title": "Taking Lives",
         "year": "2004",
         "id": 11081,
-        "poster": "https://image.tmdb.org/t/p/w200/1JEt0qtEaYrJZuPeTArR691V256.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/1JEt0qtEaYrJZuPeTArR691V256.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=2BwHsCtLyz8"
     },
     {
         "title": "Secret Window",
         "year": "2004",
         "id": 1586,
-        "poster": "https://image.tmdb.org/t/p/w200/hvzw4wufKZkDCTPVeG71Z7pGfZh.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/hvzw4wufKZkDCTPVeG71Z7pGfZh.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=gTFS-JVxtQs"
     },
     {
         "title": "Undertow",
         "year": "2004",
         "id": 16131,
-        "poster": "https://image.tmdb.org/t/p/w200/dWjsI848P3kPT0wbVYZ8huydJPW.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/dWjsI848P3kPT0wbVYZ8huydJPW.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=EEropkceqYo"
     },
     {
         "title": "The Moustache",
         "year": "2005",
         "id": 16998,
-        "poster": "https://image.tmdb.org/t/p/w200/4xTwprpMi7KpMukbGl21CMCz4sk.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4xTwprpMi7KpMukbGl21CMCz4sk.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=O76pCMenYdY"
     },
     {
         "title": "The Giant Buddhas",
         "year": "2005",
         "id": 274262,
-        "poster": "https://image.tmdb.org/t/p/w200/tOwxcyfyr5q6wianJZG7776734.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/tOwxcyfyr5q6wianJZG7776734.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=qjl4aS2eDpY"
     },
     {
         "title": "Neverwas",
         "year": "2005",
         "id": 22473,
-        "poster": "https://image.tmdb.org/t/p/w200/qJVHrTJtGsSrWFNzVmKaoC71v33.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/qJVHrTJtGsSrWFNzVmKaoC71v33.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=xSNQlSqNi_c"
     },
     {
         "title": "Notes on a Scandal",
         "year": "2006",
         "id": 1259,
-        "poster": "https://image.tmdb.org/t/p/w200/ieX6ZO2Kf2qjoIBXbQW5awivbhY.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/ieX6ZO2Kf2qjoIBXbQW5awivbhY.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=WhjkSeyKGYw"
     },
     {
         "title": "The Illusionist",
         "year": "2006",
         "id": 1491,
-        "poster": "https://image.tmdb.org/t/p/w200/1O9jUvqkHaGBMVRyOJz1AlkmALW.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/1O9jUvqkHaGBMVRyOJz1AlkmALW.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=EEropkceqYo"
     },
     {
         "title": "Roving Mars",
         "year": "2006",
         "id": 18085,
-        "poster": "https://image.tmdb.org/t/p/w200/l2SX7melm80fHU0KNYRSwW5KmPg.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/l2SX7melm80fHU0KNYRSwW5KmPg.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=qrF-CfuDHNk"
     },
     {
         "title": "Un leader in ascolto",
         "year": "2006",
         "id": 1309002,
-        "poster": null
+        "poster": null,
+        "youtube_link": "https://www.youtube.com/watch?v=5WkRas2gBBI"
     },
     {
         "title": "Glass: A Portrait of Philip in Twelve Parts",
         "year": "2007",
         "id": 39764,
-        "poster": "https://image.tmdb.org/t/p/w200/a4LeIkkCfwwJxIWh8gJM1SuUUsp.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/a4LeIkkCfwwJxIWh8gJM1SuUUsp.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=8gOlX7r1TfE"
     },
     {
         "title": "Cassandra's Dream",
         "year": "2007",
         "id": 4787,
-        "poster": "https://image.tmdb.org/t/p/w200/rZLKa5mXJzfmJsC9DFNkcpZ5vS0.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/rZLKa5mXJzfmJsC9DFNkcpZ5vS0.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=QVXUbGQeT9U"
     },
     {
         "title": "No Reservations",
         "year": "2007",
         "id": 3638,
-        "poster": "https://image.tmdb.org/t/p/w200/eKqfRSf0DZ0Qey1f9ZHuZfsmXVR.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/eKqfRSf0DZ0Qey1f9ZHuZfsmXVR.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=JR4sPFGq7-8"
     },
     {
         "title": "Mr. Nice",
         "year": "2010",
         "id": 46934,
-        "poster": "https://image.tmdb.org/t/p/w200/uag1ajVUMuHTXqkX0H52z0FveON.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/uag1ajVUMuHTXqkX0H52z0FveON.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=-nBE9U7q1Uc"
     },
     {
         "title": "Astral City: A Spiritual Journey",
         "year": "2010",
         "id": 52333,
-        "poster": "https://image.tmdb.org/t/p/w200/aUsqP3347kkNIbcx05uglDIs5jb.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/aUsqP3347kkNIbcx05uglDIs5jb.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=U-vLMIS_fBk"
     },
     {
         "title": "They Were There",
         "year": "2011",
         "id": 86375,
-        "poster": "https://image.tmdb.org/t/p/w200/5kaz7u9dWkPD1HDP5cKuTjN9U5i.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/5kaz7u9dWkPD1HDP5cKuTjN9U5i.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=5WkRas2gBBI"
     },
     {
         "title": "Rebirth",
         "year": "2011",
         "id": 132709,
-        "poster": "https://image.tmdb.org/t/p/w200/jL8Tz77txotTukWhT3SIiFaqWAF.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/jL8Tz77txotTukWhT3SIiFaqWAF.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=5WkRas2gBBI"
     },
     {
         "title": "Elena",
         "year": "2011",
         "id": 78182,
-        "poster": "https://image.tmdb.org/t/p/w200/pdSxysKTeE6oTYhtVBF08Nwj2Ir.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/pdSxysKTeE6oTYhtVBF08Nwj2Ir.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=sLaDyezmXZA"
     },
     {
         "title": "Glass: Kepler",
         "year": "2011",
         "id": 568488,
-        "poster": "https://image.tmdb.org/t/p/w200/7JSlZAl4liLk0y45pPxMiY0JuiE.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/7JSlZAl4liLk0y45pPxMiY0JuiE.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=ParycYlZ_T0"
     },
     {
         "title": "Besa: The Promise",
         "year": "2012",
         "id": 265807,
-        "poster": "https://image.tmdb.org/t/p/w200/wyRAl5JjO3qwvIXqCWx9NSuTjIT.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/wyRAl5JjO3qwvIXqCWx9NSuTjIT.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=LMmuzmhsVfM"
     },
     {
         "title": "The Apostle",
         "year": "2012",
         "id": 139900,
-        "poster": "https://image.tmdb.org/t/p/w200/qg1UAkyVqQCqlDmUzk95jzjOWYV.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/qg1UAkyVqQCqlDmUzk95jzjOWYV.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=-nBE9U7q1Uc"
     },
     {
         "title": "Re: Awakenings",
         "year": "2013",
         "id": 339084,
-        "poster": "https://image.tmdb.org/t/p/w200/jMIYakkrXHjgydi0xusQNPBAObA.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/jMIYakkrXHjgydi0xusQNPBAObA.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=EEropkceqYo"
     },
     {
         "title": "Glass: The Perfect American",
         "year": "2013",
         "id": 310806,
-        "poster": "https://image.tmdb.org/t/p/w200/ljYjhY3SCpEG5yixFca2ccgrwGC.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/ljYjhY3SCpEG5yixFca2ccgrwGC.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=hyfODcwMXsw"
     },
     {
         "title": "Einstein on the Beach",
         "year": "2014",
         "id": 327079,
-        "poster": "https://image.tmdb.org/t/p/w200/iliEtQuQniRvS8kq6NU2kBR3FaV.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/iliEtQuQniRvS8kq6NU2kBR3FaV.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=FowSeDVoV48"
     },
     {
         "title": "Fantastic Four",
         "year": "2015",
         "id": 166424,
-        "poster": "https://image.tmdb.org/t/p/w200/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/cDroz5qSlP8xZ6tOpeYoPkBvKyL.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=mxUnrFI4px0"
     },
     {
         "title": "Jane",
         "year": "2017",
         "id": 470819,
-        "poster": "https://image.tmdb.org/t/p/w200/lasO6v47evkx4JfRqf4Rhqp8FZd.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/lasO6v47evkx4JfRqf4Rhqp8FZd.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Vm-t3wXL1Pc"
     },
     {
         "title": "Cr\u00f4nica da Demoli\u00e7\u00e3o",
         "year": "2017",
         "id": 365343,
-        "poster": "https://image.tmdb.org/t/p/w200/4vXcsKLEvnB9yLXdrAbMFAtxRqZ.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4vXcsKLEvnB9yLXdrAbMFAtxRqZ.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wqqUjQf43oo"
     },
     {
         "title": "The Last Dalai Lama?",
         "year": "2017",
         "id": 466182,
-        "poster": "https://image.tmdb.org/t/p/w200/vPXKiJMhloUg3mFWsLnoSzJYDX9.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/vPXKiJMhloUg3mFWsLnoSzJYDX9.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=QNRl1t_C7oc"
     },
     {
         "title": "Paris Opera Ballet: Tribute to Jerome Robbins 2",
         "year": "2018",
         "id": 695795,
-        "poster": "https://image.tmdb.org/t/p/w200/2BxFrDz2N1SL04flFyKZquSVMP.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/2BxFrDz2N1SL04flFyKZquSVMP.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=A-drqylU9Fc"
     },
     {
         "title": "Samurai Marathon",
         "year": "2019",
         "id": 578514,
-        "poster": "https://image.tmdb.org/t/p/w200/yusSNvTIKItyVgAZFUmSqAd5o1k.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/yusSNvTIKItyVgAZFUmSqAd5o1k.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=9ZIuh5OYZEI"
     },
     {
         "title": "Philip Glass: Akhnaten",
         "year": "2020",
         "id": 954762,
-        "poster": "https://image.tmdb.org/t/p/w200/iCML69Wnoz1DtFqFybbxUJilTSD.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/iCML69Wnoz1DtFqFybbxUJilTSD.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=ji6LTT6tLpQ"
     },
     {
         "title": "Alice",
         "year": "2022",
         "id": 1181718,
-        "poster": "https://image.tmdb.org/t/p/w200/zcTFreP3FN4cWDf3wqD0NOOx9Ih.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/zcTFreP3FN4cWDf3wqD0NOOx9Ih.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=EVFUBpfJ_Z4"
     },
     {
         "title": "The Pigeon Tunnel",
         "year": "2023",
         "id": 1155770,
-        "poster": "https://image.tmdb.org/t/p/w200/xsDb7JlPS6QnI26bTP3sREz9n0K.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/xsDb7JlPS6QnI26bTP3sREz9n0K.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=6lcqnPc7iOk"
     },
     {
         "title": "Klaus M\u00e4kel\u00e4 conducts Ravel With Yuja Wang and the Orchestre de Paris",
         "year": "2023",
         "id": 1468425,
-        "poster": "https://image.tmdb.org/t/p/w200/xC3b1eaVfqLK0Jhb4NGHCwvFjqS.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/xC3b1eaVfqLK0Jhb4NGHCwvFjqS.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=W4JJXNsl2NQ"
     },
     {
         "title": "Once Within a Time",
         "year": "2023",
         "id": 1061859,
-        "poster": "https://image.tmdb.org/t/p/w200/lynZTmyyNnL7jfohkerZJvNEXtl.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/lynZTmyyNnL7jfohkerZJvNEXtl.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Hz9xuksnTH4"
     },
     {
         "title": "Dobrawa Czocher Europavox Sessions 2023",
         "year": "2023",
         "id": 1496019,
-        "poster": "https://image.tmdb.org/t/p/w200/17RWAK0GWCpiIg09Y4Il9g3Id8Q.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/17RWAK0GWCpiIg09Y4Il9g3Id8Q.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=ckI0bbZBtzk"
     },
     {
         "title": "Concert for Notre-Dame La Temp\u00eate | Sabine Devieilhe | Olivier Latry",
         "year": "2025",
         "id": 1459690,
-        "poster": "https://image.tmdb.org/t/p/w200/d8wBLhvYLcSIPtBmnsVJvZ3mGB6.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/d8wBLhvYLcSIPtBmnsVJvZ3mGB6.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=yeckyz-GJJk"
     },
     {
         "title": "Yuja Wang x David Hockney London Lightroom",
         "year": "2025",
         "id": 1490410,
-        "poster": "https://image.tmdb.org/t/p/w200/gu92yXp9t9YYcoBRxPfWOJU6KEm.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/gu92yXp9t9YYcoBRxPfWOJU6KEm.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=itPSw-T2NCw"
     },
     {
         "title": "Carolyn Carlson : Midnight Souls",
         "year": "2025",
         "id": 1604303,
-        "poster": "https://image.tmdb.org/t/p/w200/8MvQoiZ9l7Q5Q9KfB6RQSGqigRO.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/8MvQoiZ9l7Q5Q9KfB6RQSGqigRO.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Cpek7piksQg"
     },
     {
         "title": "Vanessa Wagner & Friends @ Paris Sur Mesure",
         "year": "2025",
         "id": 1646089,
-        "poster": "https://image.tmdb.org/t/p/w200/9F3IXbzxhxUspmUx8FgTIY6BRQU.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/9F3IXbzxhxUspmUx8FgTIY6BRQU.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=5LqBQ5Ecus8"
     }
 ]

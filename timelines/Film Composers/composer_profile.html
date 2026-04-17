@@ -448,16 +448,17 @@
                 const dateVal = film.year || film.release_date; 
                 const pct = getPercent(dateVal, start, end);
                 const safeTitle = cleanTitle(film.title);
-                const thumbUrl = `${thumbBase}${safeTitle}.jpg`;
-
                 const marker = document.createElement('div');
                 marker.className = 'film-marker';
                 marker.style.left = `${pct}%`;
 
-                // Content
+                // Image Fallback Logic
+                const localThumb = `${thumbBase}${safeTitle}.jpg`;
+                const tmdbThumb = film.poster ? film.poster : 'https://placehold.co/200x300?text=No+Image';
+
                 let html = `
                     <div class="film-tooltip">
-                        <img src="${thumbUrl}" class="tooltip-img" onerror="this.src='https://placehold.co/200x300?text=No+Image'">
+                        <img src="${localThumb}" class="tooltip-img" onerror="this.onerror=null; this.src='${tmdbThumb}';">
                         <div class="tooltip-title">${film.title}</div>
                         <div class="tooltip-year">${dateVal}</div>
                 `;

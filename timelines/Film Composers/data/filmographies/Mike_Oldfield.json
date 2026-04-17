@@ -3,24 +3,28 @@
         "title": "Charlotte",
         "year": "1974",
         "id": 295232,
-        "poster": "https://image.tmdb.org/t/p/w200/w5sJyxk4itPGfIAAYWokyJq8UVZ.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/w5sJyxk4itPGfIAAYWokyJq8UVZ.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=OHpdR1Qo-Do"
     },
     {
         "title": "The Space Movie",
         "year": "1980",
         "id": 98355,
-        "poster": "https://image.tmdb.org/t/p/w200/6NIgiiU7hbC3I3yoPPMpJMEHqQs.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/6NIgiiU7hbC3I3yoPPMpJMEHqQs.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=r3aKsTa7h7U"
     },
     {
         "title": "Milano '83",
         "year": "1983",
         "id": 285187,
-        "poster": "https://image.tmdb.org/t/p/w200/3TTCkN2GSYYJvlDuUH9kAlopbyM.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/3TTCkN2GSYYJvlDuUH9kAlopbyM.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=inQSnHnEhIg"
     },
     {
         "title": "The Killing Fields",
         "year": "1984",
         "id": 625,
-        "poster": "https://image.tmdb.org/t/p/w200/cX6Bv7natnZwQjsV9bLL8mmWjkS.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/cX6Bv7natnZwQjsV9bLL8mmWjkS.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=AckUPng8yvk"
     }
 ]

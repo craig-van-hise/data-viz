@@ -3,144 +3,168 @@
         "title": "Little Shop of Horrors",
         "year": "1986",
         "id": 10776,
-        "poster": "https://image.tmdb.org/t/p/w200/iKkbN17OmFosaW6asCNZTTsyvpu.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/iKkbN17OmFosaW6asCNZTTsyvpu.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=0W6ZOqOHPUc"
     },
     {
         "title": "The Little Mermaid",
         "year": "1989",
         "id": 10144,
-        "poster": "https://image.tmdb.org/t/p/w200/plcZXvI310FkbwIptvd6rqk63LP.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=6BQstzJTONU"
     },
     {
         "title": "Beauty and the Beast",
         "year": "1991",
         "id": 10020,
-        "poster": "https://image.tmdb.org/t/p/w200/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=YoeIJGanS_0"
     },
     {
         "title": "Aladdin",
         "year": "1992",
         "id": 812,
-        "poster": "https://image.tmdb.org/t/p/w200/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=zuQiZX17g-A"
     },
     {
         "title": "Life with Mikey",
         "year": "1993",
         "id": 42580,
-        "poster": "https://image.tmdb.org/t/p/w200/dKsvF5t5xsm17HG3GJzQQGJpJzP.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/dKsvF5t5xsm17HG3GJzQQGJpJzP.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=_tWGRfIpZgY"
     },
     {
         "title": "Pocahontas",
         "year": "1995",
         "id": 10530,
-        "poster": "https://image.tmdb.org/t/p/w200/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=WGP3bkCf1KM"
     },
     {
         "title": "Aladdin on Ice",
         "year": "1995",
         "id": 778840,
-        "poster": "https://image.tmdb.org/t/p/w200/f6oi3tNP93Sc4OfflnAfletcKyh.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/f6oi3tNP93Sc4OfflnAfletcKyh.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=zuQiZX17g-A"
     },
     {
         "title": "Beauty and the Beast: A Concert on Ice",
         "year": "1996",
         "id": 608111,
-        "poster": "https://image.tmdb.org/t/p/w200/aGsX6A4t0ZPUoN6dEkXGwu7Cw0m.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/aGsX6A4t0ZPUoN6dEkXGwu7Cw0m.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=LaglHZg7trM"
     },
     {
         "title": "The Hunchback of Notre Dame",
         "year": "1996",
         "id": 10545,
-        "poster": "https://image.tmdb.org/t/p/w200/hImMgT9B27evYSRmfztqdDtX6qi.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/hImMgT9B27evYSRmfztqdDtX6qi.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=jAtDSQRKWjU"
     },
     {
         "title": "Hercules",
         "year": "1997",
         "id": 11970,
-        "poster": "https://image.tmdb.org/t/p/w200/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/dK9rNoC97tgX3xXg5zdxFisdfcp.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=kgGDANtLstw"
     },
     {
         "title": "Home on the Range",
         "year": "2004",
         "id": 13700,
-        "poster": "https://image.tmdb.org/t/p/w200/9xIIo4FMquy5SRqn8hppyr2QadR.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/9xIIo4FMquy5SRqn8hppyr2QadR.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=32UeB-o9GRU"
     },
     {
         "title": "Noel",
         "year": "2004",
         "id": 41171,
-        "poster": "https://image.tmdb.org/t/p/w200/pPYlVwLF8mRFxCiXFxHeFN0d4ON.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/pPYlVwLF8mRFxCiXFxHeFN0d4ON.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=mB3UIJr5UOk"
     },
     {
         "title": "The Shaggy Dog",
         "year": "2006",
         "id": 10067,
-        "poster": "https://image.tmdb.org/t/p/w200/tGX3YyPaYMbjiRwR5PjRsJW7GtM.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/tGX3YyPaYMbjiRwR5PjRsJW7GtM.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=_acrO1YGqpA"
     },
     {
         "title": "Enchanted",
         "year": "2007",
         "id": 4523,
-        "poster": "https://image.tmdb.org/t/p/w200/8KCNzCArLlvLdQoHx6npua2VSVc.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/8KCNzCArLlvLdQoHx6npua2VSVc.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=lsHrMCnxHPs"
     },
     {
         "title": "Tangled",
         "year": "2010",
         "id": 38757,
-        "poster": "https://image.tmdb.org/t/p/w200/ym7Kst6a4uodryxqbGOxmewF235.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=MBoRWCMTO_Y"
     },
     {
         "title": "Mirror Mirror",
         "year": "2012",
         "id": 62764,
-        "poster": "https://image.tmdb.org/t/p/w200/pys6zIJN8Sxlk2Ss2GZuYuXPbtw.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/pys6zIJN8Sxlk2Ss2GZuYuXPbtw.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=nhjghJgX4Ws"
     },
     {
         "title": "Sausage Party",
         "year": "2016",
         "id": 223702,
-        "poster": "https://image.tmdb.org/t/p/w200/vNgdPJQ5CI60oEiiHLKRNrsDhMy.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/vNgdPJQ5CI60oEiiHLKRNrsDhMy.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=DHpWtodTvpI"
     },
     {
         "title": "Beauty and the Beast",
         "year": "2017",
         "id": 321612,
-        "poster": "https://image.tmdb.org/t/p/w200/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=YoeIJGanS_0"
     },
     {
         "title": "Howard",
         "year": "2018",
         "id": 512191,
-        "poster": "https://image.tmdb.org/t/p/w200/kTMIYVGKeXsIcVumZvyapkhvQiY.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/kTMIYVGKeXsIcVumZvyapkhvQiY.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=-YsHZNUx3p8"
     },
     {
         "title": "Aladdin",
         "year": "2019",
         "id": 420817,
-        "poster": "https://image.tmdb.org/t/p/w200/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=zuQiZX17g-A"
     },
     {
         "title": "The Little Mermaid Live!",
         "year": "2019",
         "id": 642271,
-        "poster": "https://image.tmdb.org/t/p/w200/mVZklqsmbbkOgTG4o0nVtM8rJ82.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/mVZklqsmbbkOgTG4o0nVtM8rJ82.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=2xLYC0XnVxM"
     },
     {
         "title": "Disenchanted",
         "year": "2022",
         "id": 338958,
-        "poster": "https://image.tmdb.org/t/p/w200/uyNLq2Dc3s4IOdcYTU8ZtM2lTjb.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/uyNLq2Dc3s4IOdcYTU8ZtM2lTjb.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=si6axhfEOF4"
     },
     {
         "title": "The Little Mermaid",
         "year": "2023",
         "id": 447277,
-        "poster": "https://image.tmdb.org/t/p/w200/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=6BQstzJTONU"
     },
     {
         "title": "Spellbound",
         "year": "2024",
         "id": 592983,
-        "poster": "https://image.tmdb.org/t/p/w200/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4dSrwXJNKtMtlkwJPgZMkjjuHvD.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=BrUHh6BYYWQ"
     }
 ]

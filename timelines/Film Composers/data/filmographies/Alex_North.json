@@ -3,354 +3,413 @@
         "title": "A Streetcar Named Desire",
         "year": "1951",
         "id": 702,
-        "poster": "https://image.tmdb.org/t/p/w200/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Oyuf0C_RX1k"
     },
     {
         "title": "The 13th Letter",
         "year": "1951",
         "id": 39306,
-        "poster": "https://image.tmdb.org/t/p/w200/jPzUgfoHHGx5XK3fpsYdt92Zurl.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/jPzUgfoHHGx5XK3fpsYdt92Zurl.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=4SgwRugLH2Y"
     },
     {
         "title": "Death of a Salesman",
         "year": "1951",
         "id": 104394,
-        "poster": "https://image.tmdb.org/t/p/w200/xnyRkG1LMQX0NUpROq61GiKW7eJ.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/xnyRkG1LMQX0NUpROq61GiKW7eJ.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=3GD9MMGcz00"
     },
     {
         "title": "Viva Zapata!",
         "year": "1952",
         "id": 1810,
-        "poster": "https://image.tmdb.org/t/p/w200/vfarxn9ddiaZpRDml8FGhB46Qrc.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/vfarxn9ddiaZpRDml8FGhB46Qrc.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=7QPiGUw_h54"
     },
     {
         "title": "Les Miserables",
         "year": "1952",
         "id": 132654,
-        "poster": "https://image.tmdb.org/t/p/w200/vNjUYTCqMHAeRUOcTKHCoFtvl7M.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/vNjUYTCqMHAeRUOcTKHCoFtvl7M.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=kgzMrMqsLrU"
     },
     {
         "title": "Pony Soldier",
         "year": "1952",
         "id": 171019,
-        "poster": "https://image.tmdb.org/t/p/w200/vZynvTz4oVDlORA9Svrh6aBdjK0.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/vZynvTz4oVDlORA9Svrh6aBdjK0.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=-LupuViokZ4"
     },
     {
         "title": "The Member of the Wedding",
         "year": "1952",
         "id": 93775,
-        "poster": "https://image.tmdb.org/t/p/w200/i1QymzFHXx9ZKbqqNayuzmUHRIo.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/i1QymzFHXx9ZKbqqNayuzmUHRIo.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=H06Zyfkm_xQ"
     },
     {
         "title": "Decision for Chemistry",
         "year": "1954",
         "id": 1290805,
-        "poster": "https://image.tmdb.org/t/p/w200/tbN8sQGmPxu6ajvgxIDndFy5SaY.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/tbN8sQGmPxu6ajvgxIDndFy5SaY.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=x2eyuJzVtZo"
     },
     {
         "title": "Go Man Go",
         "year": "1954",
         "id": 108582,
-        "poster": "https://image.tmdb.org/t/p/w200/sasvA9gTtKYlKaTnMK7Ab8C4KjH.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/sasvA9gTtKYlKaTnMK7Ab8C4KjH.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=f1Q9zaJ5JGg"
     },
     {
         "title": "D\u00e9sir\u00e9e",
         "year": "1954",
         "id": 43333,
-        "poster": "https://image.tmdb.org/t/p/w200/mvTDhI11hpiWJDRKAheoWtBknTf.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/mvTDhI11hpiWJDRKAheoWtBknTf.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=8T5joHHsY-c"
     },
     {
         "title": "Man with the Gun",
         "year": "1955",
         "id": 26758,
-        "poster": "https://image.tmdb.org/t/p/w200/4QTV9kkliG5wrsHj0x6fNYsaQ34.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4QTV9kkliG5wrsHj0x6fNYsaQ34.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=LRXpcweqWBo"
     },
     {
         "title": "I'll Cry Tomorrow",
         "year": "1955",
         "id": 28575,
-        "poster": "https://image.tmdb.org/t/p/w200/8UfnjpxvNa5nbckfE9EWdc38VRg.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/8UfnjpxvNa5nbckfE9EWdc38VRg.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=phsGrak5udM"
     },
     {
         "title": "The Rose Tattoo",
         "year": "1955",
         "id": 65550,
-        "poster": "https://image.tmdb.org/t/p/w200/3W3dgP2l24JJWq6sVEl6TddLwbe.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/3W3dgP2l24JJWq6sVEl6TddLwbe.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=O1-2ovrNkig"
     },
     {
         "title": "The Racers",
         "year": "1955",
         "id": 137343,
-        "poster": "https://image.tmdb.org/t/p/w200/yU4BUiRcoec9MLlx83cUHZFkJKE.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/yU4BUiRcoec9MLlx83cUHZFkJKE.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=sFXteWx_vYA"
     },
     {
         "title": "Unchained",
         "year": "1955",
         "id": 216876,
-        "poster": "https://image.tmdb.org/t/p/w200/xfZzlqi3S8R41E4Hi3TaFH9lOxg.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/xfZzlqi3S8R41E4Hi3TaFH9lOxg.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Jcd48O2NDBs"
     },
     {
         "title": "The Bad Seed",
         "year": "1956",
         "id": 42196,
-        "poster": "https://image.tmdb.org/t/p/w200/iAgSkpZslQ2s3onL9TaHbyWygtC.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/iAgSkpZslQ2s3onL9TaHbyWygtC.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wSsPDhPD5MY"
     },
     {
         "title": "The King and Four Queens",
         "year": "1956",
         "id": 43310,
-        "poster": "https://image.tmdb.org/t/p/w200/w6lTWootXbnAH0HwPcEkShId9jH.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/w6lTWootXbnAH0HwPcEkShId9jH.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=XrEJ11DyhKI"
     },
     {
         "title": "The Rainmaker",
         "year": "1956",
         "id": 43542,
-        "poster": "https://image.tmdb.org/t/p/w200/3E2dmfh3e2LOKq0psiNXAGwtZGl.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/3E2dmfh3e2LOKq0psiNXAGwtZGl.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=4X3rTUEatEQ"
     },
     {
         "title": "The Bachelor Party",
         "year": "1957",
         "id": 185263,
-        "poster": "https://image.tmdb.org/t/p/w200/to8xodOCvR57xDOS8rojBTwqGa5.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/to8xodOCvR57xDOS8rojBTwqGa5.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wwFLfS1NDhU"
     },
     {
         "title": "Four Girls in Town",
         "year": "1957",
         "id": 108247,
-        "poster": "https://image.tmdb.org/t/p/w200/3GdW663UW8hVQ4FHp0vb5UVzp2G.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/3GdW663UW8hVQ4FHp0vb5UVzp2G.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=XrEJ11DyhKI"
     },
     {
         "title": "Stage Struck",
         "year": "1958",
         "id": 111910,
-        "poster": "https://image.tmdb.org/t/p/w200/2taT00UvxPyKIofYvIJ5RTV1pV9.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/2taT00UvxPyKIofYvIJ5RTV1pV9.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=xd0aZsN2UBk"
     },
     {
         "title": "The Long, Hot Summer",
         "year": "1958",
         "id": 40085,
-        "poster": "https://image.tmdb.org/t/p/w200/nWQddN7kfkVqSimb4SQc35gNUnP.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/nWQddN7kfkVqSimb4SQc35gNUnP.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Reuqn-eUNt8"
     },
     {
         "title": "Hot Spell",
         "year": "1958",
         "id": 185266,
-        "poster": "https://image.tmdb.org/t/p/w200/mJwdq74GWTaEXTOS4CXRI2ARHx7.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/mJwdq74GWTaEXTOS4CXRI2ARHx7.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=YIj7KsQJ_rs"
     },
     {
         "title": "South Seas Adventure",
         "year": "1958",
         "id": 157095,
-        "poster": "https://image.tmdb.org/t/p/w200/BrT5zWG2rHZicd5xVr7wDNg0YA.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/BrT5zWG2rHZicd5xVr7wDNg0YA.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Zcuc7dmXZNY"
     },
     {
         "title": "The Wonderful Country",
         "year": "1959",
         "id": 6610,
-        "poster": "https://image.tmdb.org/t/p/w200/nS12kvSCEEp6SCi3TU6Hk5bRjo2.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/nS12kvSCEEp6SCi3TU6Hk5bRjo2.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=nQYDmOCprr4"
     },
     {
         "title": "The Sound and the Fury",
         "year": "1959",
         "id": 159615,
-        "poster": "https://image.tmdb.org/t/p/w200/vNzr5YImhoBwOyCSBhcIZhAF9IA.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/vNzr5YImhoBwOyCSBhcIZhAF9IA.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=LCNiveDcmLg"
     },
     {
         "title": "Spartacus",
         "year": "1960",
         "id": 967,
-        "poster": "https://image.tmdb.org/t/p/w200/r0Fgg1GyZgzokaiw2HFQv3oPaL2.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/r0Fgg1GyZgzokaiw2HFQv3oPaL2.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=pjhlJJukj1E"
     },
     {
         "title": "The Children's Hour",
         "year": "1961",
         "id": 20139,
-        "poster": "https://image.tmdb.org/t/p/w200/goyEWixvULM2IRN4KsKibyrJE4J.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/goyEWixvULM2IRN4KsKibyrJE4J.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=TbKzpHYbkYU"
     },
     {
         "title": "The Misfits",
         "year": "1961",
         "id": 11536,
-        "poster": "https://image.tmdb.org/t/p/w200/rkIkyPhT5oetT463HxpdIuct30l.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/rkIkyPhT5oetT463HxpdIuct30l.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=pzt_njJ0mCg"
     },
     {
         "title": "Sanctuary",
         "year": "1961",
         "id": 210808,
-        "poster": "https://image.tmdb.org/t/p/w200/5TNdwZYfTpeBzEI5WYoHcLPjRvi.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/5TNdwZYfTpeBzEI5WYoHcLPjRvi.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=E0a_t_p7Gz4"
     },
     {
         "title": "All Fall Down",
         "year": "1962",
         "id": 86240,
-        "poster": "https://image.tmdb.org/t/p/w200/kY826mLuUOc8CXEyWSXiPUAb0xv.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/kY826mLuUOc8CXEyWSXiPUAb0xv.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=ILI-EMtr5Ms"
     },
     {
         "title": "Cleopatra",
         "year": "1963",
         "id": 8095,
-        "poster": "https://image.tmdb.org/t/p/w200/bj7rUGUewofA9cpHt1h36gvDFfy.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/bj7rUGUewofA9cpHt1h36gvDFfy.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=B2BOkin4t_Y"
     },
     {
         "title": "Cheyenne Autumn",
         "year": "1964",
         "id": 40630,
-        "poster": "https://image.tmdb.org/t/p/w200/kYc1NuT9Cvm6GHAdf5nlEXb3evl.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/kYc1NuT9Cvm6GHAdf5nlEXb3evl.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=l_j6dqUMe1M"
     },
     {
         "title": "The Outrage",
         "year": "1964",
         "id": 85609,
-        "poster": "https://image.tmdb.org/t/p/w200/9dhtCGXMu0oCLf9Hysrth4cqgKc.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/9dhtCGXMu0oCLf9Hysrth4cqgKc.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=QQZcw6g0G9Q"
     },
     {
         "title": "The Agony and the Ecstasy",
         "year": "1965",
         "id": 36815,
-        "poster": "https://image.tmdb.org/t/p/w200/4ZiwyXtyxYDmMnNiVemCPgxY8X6.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4ZiwyXtyxYDmMnNiVemCPgxY8X6.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=t_SLh4UAGCc"
     },
     {
         "title": "Who's Afraid of Virginia Woolf?",
         "year": "1966",
         "id": 396,
-        "poster": "https://image.tmdb.org/t/p/w200/wF7ihB5V5gSm6zxjv3ZhHOpgREI.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/wF7ihB5V5gSm6zxjv3ZhHOpgREI.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=0Ez6L0jKm2s"
     },
     {
         "title": "The Shoes of the Fisherman",
         "year": "1968",
         "id": 17665,
-        "poster": "https://image.tmdb.org/t/p/w200/m9HqMSaDz7Peo0ufCaBUP8gG5gf.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/m9HqMSaDz7Peo0ufCaBUP8gG5gf.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=xJc767C6jag"
     },
     {
         "title": "The Devil's Brigade",
         "year": "1968",
         "id": 31938,
-        "poster": "https://image.tmdb.org/t/p/w200/kbcyQHD93FcPxUvKQai5oJ9tUtE.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/kbcyQHD93FcPxUvKQai5oJ9tUtE.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=_4TnJUZfFwI"
     },
     {
         "title": "A Dream of Kings",
         "year": "1969",
         "id": 272162,
-        "poster": "https://image.tmdb.org/t/p/w200/vWZFi8DWKMTSwzL9HkIfb7w45Pf.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/vWZFi8DWKMTSwzL9HkIfb7w45Pf.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=uxBkXM1SC40"
     },
     {
         "title": "Hard Contract",
         "year": "1969",
         "id": 67220,
-        "poster": "https://image.tmdb.org/t/p/w200/e5xeWDPyCUKzktgxl4IX8TZ95Js.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/e5xeWDPyCUKzktgxl4IX8TZ95Js.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=f1Q9zaJ5JGg"
     },
     {
         "title": "Willard",
         "year": "1971",
         "id": 42532,
-        "poster": "https://image.tmdb.org/t/p/w200/uhDAH8JRO9R1ROjSH24GoJPaJBJ.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/uhDAH8JRO9R1ROjSH24GoJPaJBJ.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=SZRnshONkNw"
     },
     {
         "title": "Pocket Money",
         "year": "1972",
         "id": 45512,
-        "poster": "https://image.tmdb.org/t/p/w200/sfSFXd5vrJ1Zo29Vz6G3t3iK1Yv.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/sfSFXd5vrJ1Zo29Vz6G3t3iK1Yv.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=f1Q9zaJ5JGg"
     },
     {
         "title": "Shanks",
         "year": "1974",
         "id": 29399,
-        "poster": "https://image.tmdb.org/t/p/w200/7QlcNEGeEXp5ixtCaOuQyGlEb7S.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/7QlcNEGeEXp5ixtCaOuQyGlEb7S.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=tkBT95bzN3o"
     },
     {
         "title": "Once Upon a Scoundrel",
         "year": "1974",
         "id": 206188,
-        "poster": "https://image.tmdb.org/t/p/w200/mdnxqKpbNZ7SGpKmSKubpYwyA4p.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/mdnxqKpbNZ7SGpKmSKubpYwyA4p.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=ydiH1t1F2X4"
     },
     {
         "title": "Bite the Bullet",
         "year": "1975",
         "id": 32617,
-        "poster": "https://image.tmdb.org/t/p/w200/2tg8EWatD9mwuKTsTJJ5A96oy5G.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/2tg8EWatD9mwuKTsTJJ5A96oy5G.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=X_YZIUsEJmE"
     },
     {
         "title": "Journey into Fear",
         "year": "1975",
         "id": 200331,
-        "poster": "https://image.tmdb.org/t/p/w200/hpwhvnefWCqcfSjkmSqkoKf2GJE.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/hpwhvnefWCqcfSjkmSqkoKf2GJE.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Mxz8qHDPdKo"
     },
     {
         "title": "The Passover Plot",
         "year": "1976",
         "id": 152256,
-        "poster": "https://image.tmdb.org/t/p/w200/iT7CdYetTJB0qIyJXMkenzPbZQe.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/iT7CdYetTJB0qIyJXMkenzPbZQe.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Ne0c56f7Fzw"
     },
     {
         "title": "Somebody Killed Her Husband",
         "year": "1978",
         "id": 120520,
-        "poster": "https://image.tmdb.org/t/p/w200/1MaxW1Cv1XwZ1mVw6KFsxHe4ynz.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/1MaxW1Cv1XwZ1mVw6KFsxHe4ynz.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=iFPeEHQQEqk"
     },
     {
         "title": "Wise Blood",
         "year": "1979",
         "id": 42179,
-        "poster": "https://image.tmdb.org/t/p/w200/gSZQC6u86iaugBSs1KBrXST7KSL.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/gSZQC6u86iaugBSs1KBrXST7KSL.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=hb-9a6cfYAI"
     },
     {
         "title": "Carny",
         "year": "1980",
         "id": 32027,
-        "poster": "https://image.tmdb.org/t/p/w200/jXiS5rTxZ9hNdXJbTTIQ1ICtGKP.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/jXiS5rTxZ9hNdXJbTTIQ1ICtGKP.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Dd6nLSLa1Ko"
     },
     {
         "title": "Dragonslayer",
         "year": "1981",
         "id": 848,
-        "poster": "https://image.tmdb.org/t/p/w200/92VXAEwbjebYqTeUa7uX5bBtDuD.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/92VXAEwbjebYqTeUa7uX5bBtDuD.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=VImC6ALYqGA"
     },
     {
         "title": "Sister, Sister",
         "year": "1982",
         "id": 489775,
-        "poster": "https://image.tmdb.org/t/p/w200/fnbZaZo8uMjCEw6AEosTdRScGeI.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/fnbZaZo8uMjCEw6AEosTdRScGeI.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=OPtJaN67C3w"
     },
     {
         "title": "Under the Volcano",
         "year": "1984",
         "id": 41089,
-        "poster": "https://image.tmdb.org/t/p/w200/414VrLFf8gffMUNTGm0zlg2UuHh.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/414VrLFf8gffMUNTGm0zlg2UuHh.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=XUAm49pwJ8A"
     },
     {
         "title": "Prizzi's Honor",
         "year": "1985",
         "id": 2075,
-        "poster": "https://image.tmdb.org/t/p/w200/5azGfZXuUFYjYfz6etYOdlyLXwL.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/5azGfZXuUFYjYfz6etYOdlyLXwL.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=lkc21t51-0I"
     },
     {
         "title": "Death of a Salesman",
         "year": "1985",
         "id": 12615,
-        "poster": "https://image.tmdb.org/t/p/w200/tIRmjfaLmVHjGFaIcNGD3hggvbO.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/tIRmjfaLmVHjGFaIcNGD3hggvbO.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=3GD9MMGcz00"
     },
     {
         "title": "Good Morning, Vietnam",
         "year": "1987",
         "id": 801,
-        "poster": "https://image.tmdb.org/t/p/w200/sreISlFUn5TyR41QNjlfAdX5SEW.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/sreISlFUn5TyR41QNjlfAdX5SEW.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=vH9fsBjSAxc"
     },
     {
         "title": "The Dead",
         "year": "1987",
         "id": 39507,
-        "poster": "https://image.tmdb.org/t/p/w200/hFLUqiwvvtcUqA5NZNejaaNpTv0.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/hFLUqiwvvtcUqA5NZNejaaNpTv0.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=GsVQSAay_6I"
     },
     {
         "title": "The Penitent",
         "year": "1988",
         "id": 334098,
-        "poster": "https://image.tmdb.org/t/p/w200/faaLeS26vQroTP3fBEg51fg5ruL.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/faaLeS26vQroTP3fBEg51fg5ruL.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=6nCub1x-fLY"
     },
     {
         "title": "The Last Butterfly",
         "year": "1991",
         "id": 108970,
-        "poster": "https://image.tmdb.org/t/p/w200/mD7E1tqDKEsQfsDdz5CTJNi9wz.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/mD7E1tqDKEsQfsDdz5CTJNi9wz.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=8u6mQ5x240o"
     }
 ]

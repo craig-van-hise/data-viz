@@ -3,138 +3,161 @@
         "title": "Dark Star",
         "year": "1974",
         "id": 1410,
-        "poster": "https://image.tmdb.org/t/p/w200/aiqLBiH0IWrog2Q78dZTT8Ad9Sp.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/aiqLBiH0IWrog2Q78dZTT8Ad9Sp.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=TBGlqnofRQQ"
     },
     {
         "title": "Assault on Precinct 13",
         "year": "1976",
         "id": 17814,
-        "poster": "https://image.tmdb.org/t/p/w200/RtGDEmXbSxE8NThCCY1SXFXLLw.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/RtGDEmXbSxE8NThCCY1SXFXLLw.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=5lgyKoLiRjs"
     },
     {
         "title": "Halloween",
         "year": "1978",
         "id": 948,
-        "poster": "https://image.tmdb.org/t/p/w200/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=hntbkd4H504"
     },
     {
         "title": "The Fog",
         "year": "1980",
         "id": 790,
-        "poster": "https://image.tmdb.org/t/p/w200/12EeSboRofP3CI4SPmMFNNXCbtY.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/12EeSboRofP3CI4SPmMFNNXCbtY.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=UM2__acpW4k"
     },
     {
         "title": "Escape from New York",
         "year": "1981",
         "id": 1103,
-        "poster": "https://image.tmdb.org/t/p/w200/vH9llaphjAssRGi0k7e75tD40Ce.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/vH9llaphjAssRGi0k7e75tD40Ce.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=NVS0vpl5qU4"
     },
     {
         "title": "Halloween II",
         "year": "1981",
         "id": 11281,
-        "poster": "https://image.tmdb.org/t/p/w200/3nX5HHGgOKaVMxXwMLT9DHO1Ne6.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/3nX5HHGgOKaVMxXwMLT9DHO1Ne6.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=qMmtuPZLdpY"
     },
     {
         "title": "Halloween III: Season of the Witch",
         "year": "1982",
         "id": 10676,
-        "poster": "https://image.tmdb.org/t/p/w200/WABfdeaThFYXCySGIOvRNv2sSW.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/WABfdeaThFYXCySGIOvRNv2sSW.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=0DGbI-T6Q7w"
     },
     {
         "title": "The Thing",
         "year": "1982",
         "id": 1091,
-        "poster": "https://image.tmdb.org/t/p/w200/tzGY49kseSE9QAKk47uuDGwnSCu.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=SsMH-sdznh8"
     },
     {
         "title": "Christine",
         "year": "1983",
         "id": 8769,
-        "poster": "https://image.tmdb.org/t/p/w200/mMtUJke2TtIoT6JB9hkvERmsSu8.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/mMtUJke2TtIoT6JB9hkvERmsSu8.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=gvdPCDssgUs"
     },
     {
         "title": "Big Trouble in Little China",
         "year": "1986",
         "id": 6978,
-        "poster": "https://image.tmdb.org/t/p/w200/gI2Qs1yTTj3NcESJyttCkbmJ4k9.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/gI2Qs1yTTj3NcESJyttCkbmJ4k9.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wE1uSnrnVH0"
     },
     {
         "title": "Prince of Darkness",
         "year": "1987",
         "id": 8852,
-        "poster": "https://image.tmdb.org/t/p/w200/jjcAOhtGuX4p8XvlVn1WXUT1jWi.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/jjcAOhtGuX4p8XvlVn1WXUT1jWi.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=A4X4kdCGXM0"
     },
     {
         "title": "They Live",
         "year": "1988",
         "id": 8337,
-        "poster": "https://image.tmdb.org/t/p/w200/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=5TvafuihQ4Y"
     },
     {
         "title": "Body Bags",
         "year": "1993",
         "id": 31578,
-        "poster": "https://image.tmdb.org/t/p/w200/xRwna1sWDByZs9hsnlabt16INHl.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/xRwna1sWDByZs9hsnlabt16INHl.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=0J5Qq8ZwnIs"
     },
     {
         "title": "In the Mouth of Madness",
         "year": "1995",
         "id": 2654,
-        "poster": "https://image.tmdb.org/t/p/w200/msh4tEUzbnEqlHcFOUH4O0Zti8r.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/msh4tEUzbnEqlHcFOUH4O0Zti8r.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=--wAw7gBQxU"
     },
     {
         "title": "Village of the Damned",
         "year": "1995",
         "id": 12122,
-        "poster": "https://image.tmdb.org/t/p/w200/pXXNmSVqkvSMoMitsdjK0V8Dkna.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/pXXNmSVqkvSMoMitsdjK0V8Dkna.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=14xmNCcgKBg"
     },
     {
         "title": "Escape from L.A.",
         "year": "1996",
         "id": 10061,
-        "poster": "https://image.tmdb.org/t/p/w200/3L9lL2eUsmLNNfENPwNOc82Hzpw.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/3L9lL2eUsmLNNfENPwNOc82Hzpw.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=QT1_fsOy_r0"
     },
     {
         "title": "Vampires",
         "year": "1998",
         "id": 9945,
-        "poster": "https://image.tmdb.org/t/p/w200/4JhaFBPwyC5IM1rKaRR07Gzutse.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4JhaFBPwyC5IM1rKaRR07Gzutse.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=lanPTCmTPrA"
     },
     {
         "title": "Ghosts of Mars",
         "year": "2001",
         "id": 10016,
-        "poster": "https://image.tmdb.org/t/p/w200/i2zztssCIbahGES1fdfWFmDXian.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/i2zztssCIbahGES1fdfWFmDXian.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=nkQ80xVsSoE"
     },
     {
         "title": "Halloween",
         "year": "2018",
         "id": 424139,
-        "poster": "https://image.tmdb.org/t/p/w200/f7JAX5EGk4GgsEnus6OxyzwpFp7.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/f7JAX5EGk4GgsEnus6OxyzwpFp7.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=hntbkd4H504"
     },
     {
         "title": "Halloween Kills",
         "year": "2021",
         "id": 610253,
-        "poster": "https://image.tmdb.org/t/p/w200/ir9eyz1mtgsohjvo7UYtqUfFuES.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/ir9eyz1mtgsohjvo7UYtqUfFuES.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Ad7R8R8HTmA"
     },
     {
         "title": "Halloween Ends",
         "year": "2022",
         "id": 616820,
-        "poster": "https://image.tmdb.org/t/p/w200/q06saepaXeBdkMibuN4R2fXmgIw.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/q06saepaXeBdkMibuN4R2fXmgIw.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=QBllEiAKI0I"
     },
     {
         "title": "Firestarter",
         "year": "2022",
         "id": 532710,
-        "poster": "https://image.tmdb.org/t/p/w200/jjBdPcQ0bplBnv2XgElKLoeFDuM.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/jjBdPcQ0bplBnv2XgElKLoeFDuM.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=UXJE7Wwt16o"
     },
     {
         "title": "Untitled Bong Joon Ho Horror Action Film",
         "year": "9999",
         "id": 1436834,
-        "poster": null
+        "poster": null,
+        "youtube_link": "https://www.youtube.com/watch?v=fof-W47KXsU"
     }
 ]

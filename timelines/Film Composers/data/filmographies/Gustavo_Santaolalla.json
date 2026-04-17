@@ -3,192 +3,224 @@
         "title": "Amores Perros",
         "year": "2000",
         "id": 55,
-        "poster": "https://image.tmdb.org/t/p/w200/A4lH22nlFF7MdalGfcvSrlC1ttt.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/A4lH22nlFF7MdalGfcvSrlC1ttt.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=9UfDMmI4Zmo"
     },
     {
         "title": "September 11",
         "year": "2002",
         "id": 1926,
-        "poster": "https://image.tmdb.org/t/p/w200/3DfDYe82PS4rDWpHKSSWeiPme8C.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/3DfDYe82PS4rDWpHKSSWeiPme8C.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wc4PjqXTkTY"
     },
     {
         "title": "21 Grams",
         "year": "2003",
         "id": 470,
-        "poster": "https://image.tmdb.org/t/p/w200/wZ0l6or5juuVWqDkLEgaghs4f9l.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/wZ0l6or5juuVWqDkLEgaghs4f9l.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=cbcHB3b6GZ0"
     },
     {
         "title": "The Motorcycle Diaries",
         "year": "2004",
         "id": 1653,
-        "poster": "https://image.tmdb.org/t/p/w200/qz2aBYT8CAiJYvX4fRZpJ5G0Oz1.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/qz2aBYT8CAiJYvX4fRZpJ5G0Oz1.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=8Pr_k87TW8k"
     },
     {
         "title": "Brokeback Mountain",
         "year": "2005",
         "id": 142,
-        "poster": "https://image.tmdb.org/t/p/w200/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=2bk73tNzHkU"
     },
     {
         "title": "North Country",
         "year": "2005",
         "id": 9701,
-        "poster": "https://image.tmdb.org/t/p/w200/upxUN4zmX79o49mBW9htKZDeNq7.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/upxUN4zmX79o49mBW9htKZDeNq7.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wc4PjqXTkTY"
     },
     {
         "title": "Babel",
         "year": "2006",
         "id": 1164,
-        "poster": "https://image.tmdb.org/t/p/w200/bZByZbvU7u14WjoUJERqCRW9saN.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/bZByZbvU7u14WjoUJERqCRW9saN.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=UDCP-3RsOfM"
     },
     {
         "title": "Linha de Passe",
         "year": "2008",
         "id": 8902,
-        "poster": "https://image.tmdb.org/t/p/w200/xKx5msZOhp71R7w9LPudDfrFQsz.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/xKx5msZOhp71R7w9LPudDfrFQsz.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wc4PjqXTkTY"
     },
     {
         "title": "I Come with the Rain",
         "year": "2009",
         "id": 31166,
-        "poster": "https://image.tmdb.org/t/p/w200/wOJZ3XvHjcGfLBh0GLJU3HhsJKE.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/wOJZ3XvHjcGfLBh0GLJU3HhsJKE.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=ZNUfqEzGrz4"
     },
     {
         "title": "Biutiful",
         "year": "2010",
         "id": 45958,
-        "poster": "https://image.tmdb.org/t/p/w200/4BLshBMp8INRDhvfuKwxMlHDIIt.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4BLshBMp8INRDhvfuKwxMlHDIIt.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=pcye4lXHKQY"
     },
     {
         "title": "Dhobi Ghat",
         "year": "2010",
         "id": 54890,
-        "poster": "https://image.tmdb.org/t/p/w200/hSNbvyrRbfAxz29yJSz7bJ1Ujuu.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/hSNbvyrRbfAxz29yJSz7bJ1Ujuu.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wc4PjqXTkTY"
     },
     {
         "title": "Nanga Parbat",
         "year": "2010",
         "id": 46636,
-        "poster": "https://image.tmdb.org/t/p/w200/3gDuEocmcYBRYtUmEPL7nl34gmz.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/3gDuEocmcYBRYtUmEPL7nl34gmz.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=lVhY79neFPQ"
     },
     {
         "title": "His Mother's Eyes",
         "year": "2011",
         "id": 65237,
-        "poster": "https://image.tmdb.org/t/p/w200/q4LJjziwWNSn3gnplOC9iDyNb8g.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/q4LJjziwWNSn3gnplOC9iDyNb8g.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=mUpO0ekWfXs"
     },
     {
         "title": "On the Road",
         "year": "2012",
         "id": 83770,
-        "poster": "https://image.tmdb.org/t/p/w200/k7LQteD02p3VHixbS6NXHkFdFwT.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/k7LQteD02p3VHixbS6NXHkFdFwT.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wc4PjqXTkTY"
     },
     {
         "title": "N\u00e9stor Kirchner, la pel\u00edcula",
         "year": "2012",
         "id": 622906,
-        "poster": "https://image.tmdb.org/t/p/w200/wc88B6q1yCKZJ8xolUxOr8PtzNR.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/wc88B6q1yCKZJ8xolUxOr8PtzNR.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wc4PjqXTkTY"
     },
     {
         "title": "August: Osage County",
         "year": "2013",
         "id": 152737,
-        "poster": "https://image.tmdb.org/t/p/w200/fvjxr77dfxdIOY3lvj0bHP4B5xT.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/fvjxr77dfxdIOY3lvj0bHP4B5xT.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=uvSJcgnLwnI"
     },
     {
         "title": "Wild Tales",
         "year": "2014",
         "id": 265195,
-        "poster": "https://image.tmdb.org/t/p/w200/bU7IUeTdYFOgeUPtwpWKQNhORMC.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/bU7IUeTdYFOgeUPtwpWKQNhORMC.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wc4PjqXTkTY"
     },
     {
         "title": "The Book of Life",
         "year": "2014",
         "id": 228326,
-        "poster": "https://image.tmdb.org/t/p/w200/aotTZos5KswgCryEzx2rlOjFsm1.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/aotTZos5KswgCryEzx2rlOjFsm1.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wc4PjqXTkTY"
     },
     {
         "title": "Rouge Br\u00e9sil",
         "year": "2014",
         "id": 1574685,
-        "poster": "https://image.tmdb.org/t/p/w200/mA9T5BSL6oiFXqYcUIuJEw6D7Fq.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/mA9T5BSL6oiFXqYcUIuJEw6D7Fq.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wc4PjqXTkTY"
     },
     {
         "title": "Before the Flood",
         "year": "2016",
         "id": 410718,
-        "poster": "https://image.tmdb.org/t/p/w200/u0EfH2zsp6rLOvEKVvWGgzGRQn3.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/u0EfH2zsp6rLOvEKVvWGgzGRQn3.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=_tDUS9577Tc"
     },
     {
         "title": "The Tribes of Palos Verdes",
         "year": "2017",
         "id": 324562,
-        "poster": "https://image.tmdb.org/t/p/w200/8w4JecmVtqcSMk4mdiHURzISsYz.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/8w4JecmVtqcSMk4mdiHURzISsYz.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=w5Jw5To4W0E"
     },
     {
         "title": "All That Divides Us",
         "year": "2017",
         "id": 432614,
-        "poster": "https://image.tmdb.org/t/p/w200/zeWMS0Vu6egl2M6YdGlK619yoCs.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/zeWMS0Vu6egl2M6YdGlK619yoCs.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wc4PjqXTkTY"
     },
     {
         "title": "To End a War",
         "year": "2017",
         "id": 474605,
-        "poster": "https://image.tmdb.org/t/p/w200/th879Z87jVetR4qkdcjMXa3qYXH.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/th879Z87jVetR4qkdcjMXa3qYXH.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wc4PjqXTkTY"
     },
     {
         "title": "Postman",
         "year": "2019",
         "id": 591511,
-        "poster": "https://image.tmdb.org/t/p/w200/kImACP0X3JLKbEpHi0mvNAb6JAM.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/kImACP0X3JLKbEpHi0mvNAb6JAM.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wc4PjqXTkTY"
     },
     {
         "title": "Freak Power: The Ballot or the Bomb",
         "year": "2020",
         "id": 755519,
-        "poster": "https://image.tmdb.org/t/p/w200/wGPVka6V9WK2FCSlZICRomX3ZEe.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/wGPVka6V9WK2FCSlZICRomX3ZEe.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=dQr3PuxRDI0"
     },
     {
         "title": "Finch",
         "year": "2021",
         "id": 522402,
-        "poster": "https://image.tmdb.org/t/p/w200/eEJtzD1F05xDipFEDY98CTH5yZn.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/eEJtzD1F05xDipFEDY98CTH5yZn.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wc4PjqXTkTY"
     },
     {
         "title": "The House",
         "year": "2022",
         "id": 926899,
-        "poster": "https://image.tmdb.org/t/p/w200/xhE1EYcD6U7m5R8AT7yf29CCxia.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/xhE1EYcD6U7m5R8AT7yf29CCxia.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wc4PjqXTkTY"
     },
     {
         "title": "Wild Life",
         "year": "2023",
         "id": 1096369,
-        "poster": "https://image.tmdb.org/t/p/w200/gptHW5vSYZtRt13GmjT3fuRY9rY.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/gptHW5vSYZtRt13GmjT3fuRY9rY.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wc4PjqXTkTY"
     },
     {
         "title": "Pleiades (or Going Home)",
         "year": "2023",
         "id": 1179057,
-        "poster": "https://image.tmdb.org/t/p/w200/jk3IEe81X7wAQCDBxXwt32isjGy.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/jk3IEe81X7wAQCDBxXwt32isjGy.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wc4PjqXTkTY"
     },
     {
         "title": "Norita",
         "year": "2024",
         "id": 1300506,
-        "poster": "https://image.tmdb.org/t/p/w200/iPZ6Q8s7zk5Cn8sFvycgJpIFybl.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/iPZ6Q8s7zk5Cn8sFvycgJpIFybl.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wc4PjqXTkTY"
     },
     {
         "title": "Ayahuasca Now",
         "year": "2024",
         "id": 1159661,
-        "poster": "https://image.tmdb.org/t/p/w200/88mfTDUkLf0bKwg7FwMHIiwEzEV.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/88mfTDUkLf0bKwg7FwMHIiwEzEV.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wc4PjqXTkTY"
     },
     {
         "title": "Pedro P\u00e1ramo",
         "year": "2024",
         "id": 1069387,
-        "poster": "https://image.tmdb.org/t/p/w200/gugzjPIalz5hy2RbVxqXCpXWanj.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/gugzjPIalz5hy2RbVxqXCpXWanj.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=qlQGuDkg8dE"
     }
 ]

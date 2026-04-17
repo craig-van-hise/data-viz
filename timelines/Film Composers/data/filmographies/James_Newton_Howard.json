@@ -3,882 +3,1029 @@
         "title": "Dune",
         "year": "1984",
         "id": 841,
-        "poster": "https://image.tmdb.org/t/p/w200/4kJmUCE7mkVJjXa7A0g2rY4IGTm.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4kJmUCE7mkVJjXa7A0g2rY4IGTm.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=oJvdeVRXXGs"
     },
     {
         "title": "Head Office",
         "year": "1985",
         "id": 41625,
-        "poster": "https://image.tmdb.org/t/p/w200/u7MSmYbkLvkt2jdTAsb10N82kwZ.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/u7MSmYbkLvkt2jdTAsb10N82kwZ.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=MBYulf_QeBo"
     },
     {
         "title": "Tough Guys",
         "year": "1986",
         "id": 11038,
-        "poster": "https://image.tmdb.org/t/p/w200/eDp0MPUSCeXrIziaZC65iUHISLs.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/eDp0MPUSCeXrIziaZC65iUHISLs.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=fKmdVIBP8f4"
     },
     {
         "title": "8 Million Ways to Die",
         "year": "1986",
         "id": 20858,
-        "poster": "https://image.tmdb.org/t/p/w200/anxyPdDX3I0vtSwL68qQmpLqp05.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/anxyPdDX3I0vtSwL68qQmpLqp05.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=2BpuSLK1qWQ"
     },
     {
         "title": "Wildcats",
         "year": "1986",
         "id": 29355,
-        "poster": "https://image.tmdb.org/t/p/w200/5uQc18I6Mfsg6plBb0VjDrzSZEa.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/5uQc18I6Mfsg6plBb0VjDrzSZEa.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=MBYulf_QeBo"
     },
     {
         "title": "Nobody's Fool",
         "year": "1986",
         "id": 65326,
-        "poster": "https://image.tmdb.org/t/p/w200/4yAmG0mAjn7bZ3L9s1DrzN8oiIy.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4yAmG0mAjn7bZ3L9s1DrzN8oiIy.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=hFcwKTstTPE"
     },
     {
         "title": "Five Corners",
         "year": "1987",
         "id": 71881,
-        "poster": "https://image.tmdb.org/t/p/w200/sjCavnds8Yfk57fG5GGtBhnNjrt.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/sjCavnds8Yfk57fG5GGtBhnNjrt.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=MBYulf_QeBo"
     },
     {
         "title": "Campus Man",
         "year": "1987",
         "id": 73265,
-        "poster": "https://image.tmdb.org/t/p/w200/cb5QF2UKeP6z6oEp0c0nIwl36sw.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/cb5QF2UKeP6z6oEp0c0nIwl36sw.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=M3kCx6028gk"
     },
     {
         "title": "Russkies",
         "year": "1987",
         "id": 27738,
-        "poster": "https://image.tmdb.org/t/p/w200/A7utYbyrvaKKIbGTH3tsPeSZA20.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/A7utYbyrvaKKIbGTH3tsPeSZA20.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=0BL9nXsCKSE"
     },
     {
         "title": "Off Limits",
         "year": "1988",
         "id": 38617,
-        "poster": "https://image.tmdb.org/t/p/w200/1c3ueMtlIdu0u5bjEaXLPj2sScG.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/1c3ueMtlIdu0u5bjEaXLPj2sScG.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=sk8_mpjZ52o"
     },
     {
         "title": "Some Girls",
         "year": "1988",
         "id": 31083,
-        "poster": "https://image.tmdb.org/t/p/w200/iZz3RKDstcniOSyo0yFr2DP9liB.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/iZz3RKDstcniOSyo0yFr2DP9liB.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=MBYulf_QeBo"
     },
     {
         "title": "Everybody's All-American",
         "year": "1988",
         "id": 34053,
-        "poster": "https://image.tmdb.org/t/p/w200/kU8DdARin8VwV0j3G27mFEEitCy.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/kU8DdARin8VwV0j3G27mFEEitCy.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=CjSW8qR9MZA"
     },
     {
         "title": "Promised Land",
         "year": "1988",
         "id": 62327,
-        "poster": "https://image.tmdb.org/t/p/w200/gP5lHwLdK73EDrKDbFp44wrNikO.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/gP5lHwLdK73EDrKDbFp44wrNikO.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=UaAcuXNpa8I"
     },
     {
         "title": "Major League",
         "year": "1989",
         "id": 9942,
-        "poster": "https://image.tmdb.org/t/p/w200/ypUedY9zX4nGGf1lQv1UGc8PhPA.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/ypUedY9zX4nGGf1lQv1UGc8PhPA.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=vGZiXLjPh_Y"
     },
     {
         "title": "The Package",
         "year": "1989",
         "id": 31606,
-        "poster": "https://image.tmdb.org/t/p/w200/pInBodZ7xrX8JL7KPL4G9kM5gRW.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/pInBodZ7xrX8JL7KPL4G9kM5gRW.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=-R2AYZLs38Y"
     },
     {
         "title": "Tap",
         "year": "1989",
         "id": 16560,
-        "poster": "https://image.tmdb.org/t/p/w200/cjy45SaOAzcyReyl4pr6jWss6uS.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/cjy45SaOAzcyReyl4pr6jWss6uS.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=3g6QlnjMQUw"
     },
     {
         "title": "Pretty Woman",
         "year": "1990",
         "id": 114,
-        "poster": "https://image.tmdb.org/t/p/w200/hVHUfT801LQATGd26VPzhorIYza.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/hVHUfT801LQATGd26VPzhorIYza.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=JstA3E-_5PI"
     },
     {
         "title": "Marked for Death",
         "year": "1990",
         "id": 10173,
-        "poster": "https://image.tmdb.org/t/p/w200/xYaetJsSm5FC1zxhdW8UR1NVXzc.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/xYaetJsSm5FC1zxhdW8UR1NVXzc.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=AXEad6CacN4"
     },
     {
         "title": "3 Men and a Little Lady",
         "year": "1990",
         "id": 11630,
-        "poster": "https://image.tmdb.org/t/p/w200/4VWWEnhX0zddRKwZWGtIdDcV5U7.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4VWWEnhX0zddRKwZWGtIdDcV5U7.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=jfUBkNveNDU"
     },
     {
         "title": "Descending Angel",
         "year": "1990",
         "id": 167252,
-        "poster": "https://image.tmdb.org/t/p/w200/3mD8NkRnLEDmS4jZSK5VD5uqNHf.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/3mD8NkRnLEDmS4jZSK5VD5uqNHf.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=OEgM71eygK4"
     },
     {
         "title": "Flatliners",
         "year": "1990",
         "id": 1551,
-        "poster": "https://image.tmdb.org/t/p/w200/wda3j7p7YHXKpFIlSzoTCtP7myF.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/wda3j7p7YHXKpFIlSzoTCtP7myF.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=STTjerXY0EA"
     },
     {
         "title": "Coupe de Ville",
         "year": "1990",
         "id": 39062,
-        "poster": "https://image.tmdb.org/t/p/w200/gji7RKz0CuSwjDYQQdZwuzOi25e.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/gji7RKz0CuSwjDYQQdZwuzOi25e.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=MBYulf_QeBo"
     },
     {
         "title": "Revealing Evidence: Stalking the Honolulu Strangler",
         "year": "1990",
         "id": 376898,
-        "poster": "https://image.tmdb.org/t/p/w200/cY6wjxf1dk4nYRuEUkqa1iUO4Ee.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/cY6wjxf1dk4nYRuEUkqa1iUO4Ee.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Ae2SUH8wvzA"
     },
     {
         "title": "The Prince of Tides",
         "year": "1991",
         "id": 10333,
-        "poster": "https://image.tmdb.org/t/p/w200/1AyeW3YlwfhRwLDeUCW686obceb.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/1AyeW3YlwfhRwLDeUCW686obceb.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=RaGucBWn7_E"
     },
     {
         "title": "My Girl",
         "year": "1991",
         "id": 4032,
-        "poster": "https://image.tmdb.org/t/p/w200/qyJJNHteA7BUwQSey05t7qP4vRV.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/qyJJNHteA7BUwQSey05t7qP4vRV.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=KlFe44Cc_3s"
     },
     {
         "title": "King Ralph",
         "year": "1991",
         "id": 10804,
-        "poster": "https://image.tmdb.org/t/p/w200/fRHq4KerVgNRLaDwwuYpCAHIQJX.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/fRHq4KerVgNRLaDwwuYpCAHIQJX.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=nJEWBCbjB1Y"
     },
     {
         "title": "Dying Young",
         "year": "1991",
         "id": 9079,
-        "poster": "https://image.tmdb.org/t/p/w200/nLVV8TETjCxWQmIip6t3HO1znVJ.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/nLVV8TETjCxWQmIip6t3HO1znVJ.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=zQlqiui_zfc"
     },
     {
         "title": "Grand Canyon",
         "year": "1991",
         "id": 13697,
-        "poster": "https://image.tmdb.org/t/p/w200/gpqLukoUXAXkyMZ0jPSuAbWf5Nx.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/gpqLukoUXAXkyMZ0jPSuAbWf5Nx.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=6T5EtWW9M44"
     },
     {
         "title": "The Man in the Moon",
         "year": "1991",
         "id": 17474,
-        "poster": "https://image.tmdb.org/t/p/w200/57r0TXlqV5GIn4h0Htgh81OZou9.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/57r0TXlqV5GIn4h0Htgh81OZou9.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=3PmQQlj2log"
     },
     {
         "title": "Guilty by Suspicion",
         "year": "1991",
         "id": 22423,
-        "poster": "https://image.tmdb.org/t/p/w200/fUpxydE70PNWr7Tu5WpefNnTv2i.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/fUpxydE70PNWr7Tu5WpefNnTv2i.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=joXWt0qO3FA"
     },
     {
         "title": "A Private Matter",
         "year": "1992",
         "id": 142751,
-        "poster": "https://image.tmdb.org/t/p/w200/yGhkMgUGPhR6DAoo1m8bHLetn1O.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/yGhkMgUGPhR6DAoo1m8bHLetn1O.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=x24KDrO9Ohc"
     },
     {
         "title": "Glengarry Glen Ross",
         "year": "1992",
         "id": 9504,
-        "poster": "https://image.tmdb.org/t/p/w200/zcaEDx8KlVfh4vKfMNLhiSi5Oz4.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/zcaEDx8KlVfh4vKfMNLhiSi5Oz4.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=82IoUTg8JJc"
     },
     {
         "title": "Diggstown",
         "year": "1992",
         "id": 19143,
-        "poster": "https://image.tmdb.org/t/p/w200/rJ0VsONJzyctlYX8W2rL8TQ4wD9.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/rJ0VsONJzyctlYX8W2rL8TQ4wD9.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=MBYulf_QeBo"
     },
     {
         "title": "American Heart",
         "year": "1992",
         "id": 7015,
-        "poster": "https://image.tmdb.org/t/p/w200/3QdqCjeC9AExknVdV4hRSXomIwc.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/3QdqCjeC9AExknVdV4hRSXomIwc.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=MBYulf_QeBo"
     },
     {
         "title": "Night and the City",
         "year": "1992",
         "id": 36288,
-        "poster": "https://image.tmdb.org/t/p/w200/tyImRcDzTdwIhRReKla6CFpXnPX.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/tyImRcDzTdwIhRReKla6CFpXnPX.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=MBYulf_QeBo"
     },
     {
         "title": "The Fugitive",
         "year": "1993",
         "id": 5503,
-        "poster": "https://image.tmdb.org/t/p/w200/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=0-2jRsns3sA"
     },
     {
         "title": "Alive",
         "year": "1993",
         "id": 7305,
-        "poster": "https://image.tmdb.org/t/p/w200/uQACcCZqd7WCTRin9xRIW5gr1bd.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/uQACcCZqd7WCTRin9xRIW5gr1bd.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=M2cyQzJrwZo"
     },
     {
         "title": "Dave",
         "year": "1993",
         "id": 11566,
-        "poster": "https://image.tmdb.org/t/p/w200/wIUuf1NFchdCJe833JBTiSMzqfv.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/wIUuf1NFchdCJe833JBTiSMzqfv.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=CjSW8qR9MZA"
     },
     {
         "title": "Alive: 20 Years Later",
         "year": "1993",
         "id": 458401,
-        "poster": "https://image.tmdb.org/t/p/w200/jsrg1efNHgVSfSsHWRxANsMHyTf.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/jsrg1efNHgVSfSsHWRxANsMHyTf.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=M2cyQzJrwZo"
     },
     {
         "title": "The Saint of Fort Washington",
         "year": "1993",
         "id": 56583,
-        "poster": "https://image.tmdb.org/t/p/w200/e8ie1x22wFEo63LQBbpBDqIH4oY.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/e8ie1x22wFEo63LQBbpBDqIH4oY.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=NEzdmhIfzJc"
     },
     {
         "title": "Falling Down",
         "year": "1993",
         "id": 37094,
-        "poster": "https://image.tmdb.org/t/p/w200/7ujqyF96Zg3rfrsh9M0cEF0Yzqj.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/7ujqyF96Zg3rfrsh9M0cEF0Yzqj.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=2T03nctvD8Q"
     },
     {
         "title": "Junior",
         "year": "1994",
         "id": 6280,
-        "poster": "https://image.tmdb.org/t/p/w200/swxxtzYc60qqnFhfWMFdmx9QXvY.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/swxxtzYc60qqnFhfWMFdmx9QXvY.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=k0tl1oIw03w"
     },
     {
         "title": "Wyatt Earp",
         "year": "1994",
         "id": 12160,
-        "poster": "https://image.tmdb.org/t/p/w200/51LItgyecu2KMAtIchYogEykCIu.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/51LItgyecu2KMAtIchYogEykCIu.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=VVPrG7Y59lM"
     },
     {
         "title": "Intersection",
         "year": "1994",
         "id": 46717,
-        "poster": "https://image.tmdb.org/t/p/w200/xRMbpD2WRxpVcU6Vvws32GkMxin.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/xRMbpD2WRxpVcU6Vvws32GkMxin.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=kvsEmYY2InI"
     },
     {
         "title": "French Kiss",
         "year": "1995",
         "id": 397,
-        "poster": "https://image.tmdb.org/t/p/w200/q5hXdMfxSwhuOmWmkTJmm5qVijc.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/q5hXdMfxSwhuOmWmkTJmm5qVijc.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=dcWy9Qr8N0w"
     },
     {
         "title": "Outbreak",
         "year": "1995",
         "id": 6950,
-        "poster": "https://image.tmdb.org/t/p/w200/4KymNvlWR0XF0sqX2BWRd9Z3yXR.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4KymNvlWR0XF0sqX2BWRd9Z3yXR.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=UPdVxuIaQak"
     },
     {
         "title": "Waterworld",
         "year": "1995",
         "id": 9804,
-        "poster": "https://image.tmdb.org/t/p/w200/X4UyUO5jgzs3c5YafnmYKLKKYw.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/X4UyUO5jgzs3c5YafnmYKLKKYw.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=9XOhRIeCzhc"
     },
     {
         "title": "Just Cause",
         "year": "1995",
         "id": 9061,
-        "poster": "https://image.tmdb.org/t/p/w200/hbkS4UpgHcGhLlGy9YCX4WIJ4lu.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/hbkS4UpgHcGhLlGy9YCX4WIJ4lu.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=E4Fek-ggc_M"
     },
     {
         "title": "Restoration",
         "year": "1995",
         "id": 35196,
-        "poster": "https://image.tmdb.org/t/p/w200/z1YM3WFZnF2NwHT5IRGYUcvZBSl.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/z1YM3WFZnF2NwHT5IRGYUcvZBSl.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=0IdU74AmMpc"
     },
     {
         "title": "Primal Fear",
         "year": "1996",
         "id": 1592,
-        "poster": "https://image.tmdb.org/t/p/w200/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=5WVDp-WGDFE"
     },
     {
         "title": "Space Jam",
         "year": "1996",
         "id": 2300,
-        "poster": "https://image.tmdb.org/t/p/w200/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=5pJKqPHC9Sc"
     },
     {
         "title": "One Fine Day",
         "year": "1996",
         "id": 7300,
-        "poster": "https://image.tmdb.org/t/p/w200/5NiRRR7JDNHOr21JNoGRxPWh9vb.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/5NiRRR7JDNHOr21JNoGRxPWh9vb.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=L7hxg1ZITPU"
     },
     {
         "title": "The Juror",
         "year": "1996",
         "id": 9623,
-        "poster": "https://image.tmdb.org/t/p/w200/31mRYhJvaknQx8PQnR2UV7YCkLT.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/31mRYhJvaknQx8PQnR2UV7YCkLT.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=dnpgWJ-3zp4"
     },
     {
         "title": "The Trigger Effect",
         "year": "1996",
         "id": 58770,
-        "poster": "https://image.tmdb.org/t/p/w200/9LZLXVwhhmkdye4JXoLP06fm5G2.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/9LZLXVwhhmkdye4JXoLP06fm5G2.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=vMdDumSeGes"
     },
     {
         "title": "Eye for an Eye",
         "year": "1996",
         "id": 17182,
-        "poster": "https://image.tmdb.org/t/p/w200/y2lZSdJ1o0VvLegTw3ad6KFtxra.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/y2lZSdJ1o0VvLegTw3ad6KFtxra.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=PchCT40-CQA"
     },
     {
         "title": "Fathers' Day",
         "year": "1997",
         "id": 12499,
-        "poster": "https://image.tmdb.org/t/p/w200/834wRxQRbbctFupf8AES7CCeTSM.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/834wRxQRbbctFupf8AES7CCeTSM.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=M3kCx6028gk"
     },
     {
         "title": "My Best Friend's Wedding",
         "year": "1997",
         "id": 8874,
-        "poster": "https://image.tmdb.org/t/p/w200/b5g4bp8gS5ovMyR5439AII6zQ3n.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/b5g4bp8gS5ovMyR5439AII6zQ3n.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=oD4seZGPYYk"
     },
     {
         "title": "The Postman",
         "year": "1997",
         "id": 9922,
-        "poster": "https://image.tmdb.org/t/p/w200/piVzOuKFLHNGLxnjwNtibC26lTy.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/piVzOuKFLHNGLxnjwNtibC26lTy.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=tq2TqB4hHPc"
     },
     {
         "title": "The Devil's Advocate",
         "year": "1997",
         "id": 1813,
-        "poster": "https://image.tmdb.org/t/p/w200/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=upNqj8Us3QE"
     },
     {
         "title": "Dante's Peak",
         "year": "1997",
         "id": 9619,
-        "poster": "https://image.tmdb.org/t/p/w200/8PRVIfZzDgw8EV3sDWJ6NA1ZMAn.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/8PRVIfZzDgw8EV3sDWJ6NA1ZMAn.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=TgfCRllZzBU"
     },
     {
         "title": "A Perfect Murder",
         "year": "1998",
         "id": 1965,
-        "poster": "https://image.tmdb.org/t/p/w200/wC0ax12N9GQ8vMXPEs4nES5AAiB.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/wC0ax12N9GQ8vMXPEs4nES5AAiB.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=CRQbbfnaK7E"
     },
     {
         "title": "The Sixth Sense",
         "year": "1999",
         "id": 745,
-        "poster": "https://image.tmdb.org/t/p/w200/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=71y5BnQG8Ik"
     },
     {
         "title": "Runaway Bride",
         "year": "1999",
         "id": 4806,
-        "poster": "https://image.tmdb.org/t/p/w200/wzivR0yWJStVdhcl0A5rQvVdTQ7.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/wzivR0yWJStVdhcl0A5rQvVdTQ7.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=esasOXB01eU"
     },
     {
         "title": "Stir of Echoes",
         "year": "1999",
         "id": 11601,
-        "poster": "https://image.tmdb.org/t/p/w200/9CyJ5aYF27cITX1WSUTENeP4wBE.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/9CyJ5aYF27cITX1WSUTENeP4wBE.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=LSUtGxpZGvQ"
     },
     {
         "title": "Snow Falling on Cedars",
         "year": "1999",
         "id": 10219,
-        "poster": "https://image.tmdb.org/t/p/w200/h1CujbeKvwkR6LMr4jVuMM0C94X.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/h1CujbeKvwkR6LMr4jVuMM0C94X.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Ffl7cQaeMx4"
     },
     {
         "title": "Mumford",
         "year": "1999",
         "id": 24071,
-        "poster": "https://image.tmdb.org/t/p/w200/a2uqenG3BZICDrcrr49IZwoHA8Y.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/a2uqenG3BZICDrcrr49IZwoHA8Y.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=ZJjbh01KfRc"
     },
     {
         "title": "Wayward Son",
         "year": "1999",
         "id": 476931,
-        "poster": "https://image.tmdb.org/t/p/w200/xQd0kx3aG0GtV6TuCi0s6LAOa2W.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/xQd0kx3aG0GtV6TuCi0s6LAOa2W.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=3g6QlnjMQUw"
     },
     {
         "title": "Dinosaur",
         "year": "2000",
         "id": 10567,
-        "poster": "https://image.tmdb.org/t/p/w200/rSje3FS7ycJSglowlngjsvDt7vO.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/rSje3FS7ycJSglowlngjsvDt7vO.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=LisVnPVTUZY"
     },
     {
         "title": "Unbreakable",
         "year": "2000",
         "id": 9741,
-        "poster": "https://image.tmdb.org/t/p/w200/mLuehrGLiK5zFCyRmDDOH6gbfPf.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/mLuehrGLiK5zFCyRmDDOH6gbfPf.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Cntr3pbXuHQ"
     },
     {
         "title": "Vertical Limit",
         "year": "2000",
         "id": 11678,
-        "poster": "https://image.tmdb.org/t/p/w200/kpqQUEi8eAyYHMDFACf6YlnPIu7.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/kpqQUEi8eAyYHMDFACf6YlnPIu7.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=jSaCDbzpNJk"
     },
     {
         "title": "America's Sweethearts",
         "year": "2001",
         "id": 11467,
-        "poster": "https://image.tmdb.org/t/p/w200/4TQOYs8rCWi44O1tNbIQiRqHQkA.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4TQOYs8rCWi44O1tNbIQiRqHQkA.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=clvWNRMqdRg"
     },
     {
         "title": "Atlantis: The Lost Empire",
         "year": "2001",
         "id": 10865,
-        "poster": "https://image.tmdb.org/t/p/w200/rdCyK9hgoA2vYrLtVFpDc3KWBaC.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/rdCyK9hgoA2vYrLtVFpDc3KWBaC.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=bI8-VqcOHwY"
     },
     {
         "title": "Signs",
         "year": "2002",
         "id": 2675,
-        "poster": "https://image.tmdb.org/t/p/w200/YtrIdrTxpRhvCnlw43dwOjfLqx.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/YtrIdrTxpRhvCnlw43dwOjfLqx.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=EDL9y3NFmu4"
     },
     {
         "title": "Treasure Planet",
         "year": "2002",
         "id": 9016,
-        "poster": "https://image.tmdb.org/t/p/w200/kNhZkR3UNbXfvESQo7mJpOi4tGd.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/kNhZkR3UNbXfvESQo7mJpOi4tGd.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=uqN4zxLsans"
     },
     {
         "title": "Unconditional Love",
         "year": "2002",
         "id": 37922,
-        "poster": "https://image.tmdb.org/t/p/w200/hhSnhxf4OjYeyyvxFPPPpeae7LU.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/hhSnhxf4OjYeyyvxFPPPpeae7LU.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Sg68MS-IO-M"
     },
     {
         "title": "Big Trouble",
         "year": "2002",
         "id": 2185,
-        "poster": "https://image.tmdb.org/t/p/w200/h844gBztdYMLrroUen6qbsomrGx.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/h844gBztdYMLrroUen6qbsomrGx.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=z9US3ce4Vwc"
     },
     {
         "title": "Amongst the Shoes",
         "year": "2002",
         "id": 336482,
-        "poster": "https://image.tmdb.org/t/p/w200/3eH4MQ0I9HNL16ILfRoT8Fqpd8I.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/3eH4MQ0I9HNL16ILfRoT8Fqpd8I.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=3g6QlnjMQUw"
     },
     {
         "title": "The Emperor's Club",
         "year": "2002",
         "id": 17187,
-        "poster": "https://image.tmdb.org/t/p/w200/s7BRKAq0DNcXe8Bphm6Wd5KnvlF.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/s7BRKAq0DNcXe8Bphm6Wd5KnvlF.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=5IdXFBvzMFU"
     },
     {
         "title": "Dreamcatcher",
         "year": "2003",
         "id": 6171,
-        "poster": "https://image.tmdb.org/t/p/w200/lLhvwLNU4pLgvaNREVFaQ4n3lCf.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/lLhvwLNU4pLgvaNREVFaQ4n3lCf.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=_r_RsxMcaJ4"
     },
     {
         "title": "Peter Pan",
         "year": "2003",
         "id": 10601,
-        "poster": "https://image.tmdb.org/t/p/w200/6QdU3TZZrIvXFzoHOwafZAynFjB.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/6QdU3TZZrIvXFzoHOwafZAynFjB.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=fiWFmEsQRnY"
     },
     {
         "title": "Hidalgo",
         "year": "2004",
         "id": 2023,
-        "poster": "https://image.tmdb.org/t/p/w200/iGzENlBPYJEFWZnye4t3nqWSSp1.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/iGzENlBPYJEFWZnye4t3nqWSSp1.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wIM5hIi0H1E"
     },
     {
         "title": "The Village",
         "year": "2004",
         "id": 6947,
-        "poster": "https://image.tmdb.org/t/p/w200/v7UvYtKfIVaHLaHwVgfalyrK7Ho.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/v7UvYtKfIVaHLaHwVgfalyrK7Ho.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=MBYulf_QeBo"
     },
     {
         "title": "Collateral",
         "year": "2004",
         "id": 1538,
-        "poster": "https://image.tmdb.org/t/p/w200/nV5316WUsVij8sVXLCF1g7TFitg.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/nV5316WUsVij8sVXLCF1g7TFitg.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=Kro2uj_RvhE"
     },
     {
         "title": "The Interpreter",
         "year": "2005",
         "id": 179,
-        "poster": "https://image.tmdb.org/t/p/w200/wTidq3J9fh8sEOAlD8WZFHVLSuB.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/wTidq3J9fh8sEOAlD8WZFHVLSuB.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=3g6QlnjMQUw"
     },
     {
         "title": "King Kong",
         "year": "2005",
         "id": 254,
-        "poster": "https://image.tmdb.org/t/p/w200/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=wJFiJZj_1iE"
     },
     {
         "title": "Batman Begins",
         "year": "2005",
         "id": 272,
-        "poster": "https://image.tmdb.org/t/p/w200/sPX89Td70IDDjVr85jdSBb4rWGr.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=yWM051SsZ18"
     },
     {
         "title": "Magnificent Desolation: Walking on the Moon",
         "year": "2005",
         "id": 30172,
-        "poster": "https://image.tmdb.org/t/p/w200/r37asMhJd2iX030bxFl4l66c6za.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/r37asMhJd2iX030bxFl4l66c6za.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=4Fb6IFcblrs"
     },
     {
         "title": "Blood Diamond",
         "year": "2006",
         "id": 1372,
-        "poster": "https://image.tmdb.org/t/p/w200/bqKNoySmI4eOjsSjJEnLj4j2HAp.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/bqKNoySmI4eOjsSjJEnLj4j2HAp.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=EqMqb6A7deU"
     },
     {
         "title": "Lady in the Water",
         "year": "2006",
         "id": 9697,
-        "poster": "https://image.tmdb.org/t/p/w200/ddNmoSy1Jd3PBF5XDZvrrBIfrja.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/ddNmoSy1Jd3PBF5XDZvrrBIfrja.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=2-01P2mVJvs"
     },
     {
         "title": "Freedomland",
         "year": "2006",
         "id": 9959,
-        "poster": "https://image.tmdb.org/t/p/w200/fM9MYcI7BHJ2YqEtcr8JKPE8nDB.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/fM9MYcI7BHJ2YqEtcr8JKPE8nDB.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=qd-q8gY7h64"
     },
     {
         "title": "RV",
         "year": "2006",
         "id": 9530,
-        "poster": "https://image.tmdb.org/t/p/w200/eqV0JjfwcEJuK3JPZ2rsNvS1p30.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/eqV0JjfwcEJuK3JPZ2rsNvS1p30.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=MBYulf_QeBo"
     },
     {
         "title": "Michael Clayton",
         "year": "2007",
         "id": 4566,
-        "poster": "https://image.tmdb.org/t/p/w200/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=0IrKhHBiLL4"
     },
     {
         "title": "Charlie Wilson's War",
         "year": "2007",
         "id": 6538,
-        "poster": "https://image.tmdb.org/t/p/w200/45FghqcdSYRWK7PsHUInaFPNd8l.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/45FghqcdSYRWK7PsHUInaFPNd8l.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=pg-YRkhrWGs"
     },
     {
         "title": "The Lookout",
         "year": "2007",
         "id": 8270,
-        "poster": "https://image.tmdb.org/t/p/w200/wTYyXCoIBy2TDxetoGS4Sc0VBP1.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/wTYyXCoIBy2TDxetoGS4Sc0VBP1.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=rCuJyKHTSsI"
     },
     {
         "title": "The Water Horse",
         "year": "2007",
         "id": 54318,
-        "poster": "https://image.tmdb.org/t/p/w200/h9DV6KItNutJmrPzT1xrAO6fIzy.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/h9DV6KItNutJmrPzT1xrAO6fIzy.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=LcNlrvfZ7iw"
     },
     {
         "title": "The Great Debaters",
         "year": "2007",
         "id": 14047,
-        "poster": "https://image.tmdb.org/t/p/w200/pikfybjZNMh5MYsrmgWtyxkstmi.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/pikfybjZNMh5MYsrmgWtyxkstmi.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=MXUp51T75EM"
     },
     {
         "title": "I Am Legend",
         "year": "2007",
         "id": 6479,
-        "poster": "https://image.tmdb.org/t/p/w200/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=vVJ59ghe_MY"
     },
     {
         "title": "The Dark Knight",
         "year": "2008",
         "id": 155,
-        "poster": "https://image.tmdb.org/t/p/w200/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=IDrJuPa8KbE"
     },
     {
         "title": "Mad Money",
         "year": "2008",
         "id": 12085,
-        "poster": "https://image.tmdb.org/t/p/w200/z6b6rQ1ZFEkM4tSt84yPtdAioCO.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/z6b6rQ1ZFEkM4tSt84yPtdAioCO.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=LAXLTs1JDxA"
     },
     {
         "title": "The Happening",
         "year": "2008",
         "id": 8645,
-        "poster": "https://image.tmdb.org/t/p/w200/fP4nBrtmc0teSDDHzYmDE7TLQBT.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/fP4nBrtmc0teSDDHzYmDE7TLQBT.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=KlRoUtI6b3o"
     },
     {
         "title": "Youssou Ndour: I Bring What I Love",
         "year": "2008",
         "id": 131442,
-        "poster": "https://image.tmdb.org/t/p/w200/7ZaBoNgqqtRvWtuGcFzkpvkVCG6.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/7ZaBoNgqqtRvWtuGcFzkpvkVCG6.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=AVS6vSyKNOk"
     },
     {
         "title": "Defiance",
         "year": "2008",
         "id": 13813,
-        "poster": "https://image.tmdb.org/t/p/w200/z6yNHcQOveRuAohuejdDFQDEBSs.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/z6yNHcQOveRuAohuejdDFQDEBSs.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=jFfKYVN3Tjc"
     },
     {
         "title": "Duplicity",
         "year": "2009",
         "id": 16558,
-        "poster": "https://image.tmdb.org/t/p/w200/vpWQs3CjwG6Er3DgZlv4L3NFjXg.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/vpWQs3CjwG6Er3DgZlv4L3NFjXg.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=HCIj91J3-sA"
     },
     {
         "title": "Confessions of a Shopaholic",
         "year": "2009",
         "id": 20048,
-        "poster": "https://image.tmdb.org/t/p/w200/r17R9OIC0pKDqqsNore6atYLCVZ.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/r17R9OIC0pKDqqsNore6atYLCVZ.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=zFgcvVpWNkA"
     },
     {
         "title": "The Last Airbender",
         "year": "2010",
         "id": 10196,
-        "poster": "https://image.tmdb.org/t/p/w200/kl9JJ8288bNsY8oqT1SpQh1w2mb.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/kl9JJ8288bNsY8oqT1SpQh1w2mb.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=jzxsgS3Wtrg"
     },
     {
         "title": "Love & Other Drugs",
         "year": "2010",
         "id": 43347,
-        "poster": "https://image.tmdb.org/t/p/w200/wZLM2uKJRYNchLmiCIjosX0rXy8.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/wZLM2uKJRYNchLmiCIjosX0rXy8.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=9Ef-HMwpvdY"
     },
     {
         "title": "The Tourist",
         "year": "2010",
         "id": 37710,
-        "poster": "https://image.tmdb.org/t/p/w200/oXe1nw4HcS32YVpvxwsWEVdvEXA.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/oXe1nw4HcS32YVpvxwsWEVdvEXA.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=aQXHn62s2UY"
     },
     {
         "title": "Inhale",
         "year": "2010",
         "id": 12645,
-        "poster": "https://image.tmdb.org/t/p/w200/x1JpxURGHRkaGM819kVipNdtgR0.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/x1JpxURGHRkaGM819kVipNdtgR0.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=aAVnJvziiUk"
     },
     {
         "title": "Salt",
         "year": "2010",
         "id": 27576,
-        "poster": "https://image.tmdb.org/t/p/w200/kqeIJG7VjwkcTR26QHg8D01x8yI.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/kqeIJG7VjwkcTR26QHg8D01x8yI.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=W8n1XRUP0Ls"
     },
     {
         "title": "Nanny McPhee and the Big Bang",
         "year": "2010",
         "id": 35019,
-        "poster": "https://image.tmdb.org/t/p/w200/9cgHfgBXVZmVR63AhwJ82R1kAFS.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/9cgHfgBXVZmVR63AhwJ82R1kAFS.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=ULcJPFSCAeQ"
     },
     {
         "title": "The Green Hornet",
         "year": "2011",
         "id": 40805,
-        "poster": "https://image.tmdb.org/t/p/w200/1YrRviphr3eXPus9iHyQX56QgIE.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/1YrRviphr3eXPus9iHyQX56QgIE.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=2dyIqhXu6rE"
     },
     {
         "title": "Green Lantern",
         "year": "2011",
         "id": 44912,
-        "poster": "https://image.tmdb.org/t/p/w200/fj21HwUprqjjwTdkKC1XZurRSpV.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/fj21HwUprqjjwTdkKC1XZurRSpV.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=cBUYAtIv3LY"
     },
     {
         "title": "Water for Elephants",
         "year": "2011",
         "id": 55787,
-        "poster": "https://image.tmdb.org/t/p/w200/8T7Hvb9trKvCAmbSI8cEIU0Sl2T.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/8T7Hvb9trKvCAmbSI8cEIU0Sl2T.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=o1xLKkZ2tBw"
     },
     {
         "title": "Larry Crowne",
         "year": "2011",
         "id": 59861,
-        "poster": "https://image.tmdb.org/t/p/w200/8GDM7RqM6J1vNUdlU94rmtlNa3e.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/8GDM7RqM6J1vNUdlU94rmtlNa3e.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=L-W-X61tTVI"
     },
     {
         "title": "Gnomeo & Juliet",
         "year": "2011",
         "id": 45772,
-        "poster": "https://image.tmdb.org/t/p/w200/vVQwgfS9gSFviVT4gS7tZAmhRFc.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/vVQwgfS9gSFviVT4gS7tZAmhRFc.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=zCtzqT845ng"
     },
     {
         "title": "The Bourne Legacy",
         "year": "2012",
         "id": 49040,
-        "poster": "https://image.tmdb.org/t/p/w200/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=VHoMLRkQZJc"
     },
     {
         "title": "Snow White and the Huntsman",
         "year": "2012",
         "id": 58595,
-        "poster": "https://image.tmdb.org/t/p/w200/8HUa5kRubYbnAD5UVpnhTGGgMTW.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/8HUa5kRubYbnAD5UVpnhTGGgMTW.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=O97GScgTDtw"
     },
     {
         "title": "The Hunger Games",
         "year": "2012",
         "id": 70160,
-        "poster": "https://image.tmdb.org/t/p/w200/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=k3UzbYXe1P8"
     },
     {
         "title": "Darling Companion",
         "year": "2012",
         "id": 89325,
-        "poster": "https://image.tmdb.org/t/p/w200/krKAMxPbzPcb0FvF9QoySiCHihi.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/krKAMxPbzPcb0FvF9QoySiCHihi.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=CV9o2YHbMS0"
     },
     {
         "title": "After Earth",
         "year": "2013",
         "id": 82700,
-        "poster": "https://image.tmdb.org/t/p/w200/iXMvYIlzzJBs352CfeiQcBvovZt.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/iXMvYIlzzJBs352CfeiQcBvovZt.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=bkmMtMfk2cg"
     },
     {
         "title": "Parkland",
         "year": "2013",
         "id": 209262,
-        "poster": "https://image.tmdb.org/t/p/w200/23jc1Hclf1FFxpyYs9A4SxfRbK3.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/23jc1Hclf1FFxpyYs9A4SxfRbK3.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=MBYulf_QeBo"
     },
     {
         "title": "The Hunger Games: Catching Fire",
         "year": "2013",
         "id": 101299,
-        "poster": "https://image.tmdb.org/t/p/w200/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=bqsFaez3Pnc"
     },
     {
         "title": "Maleficent",
         "year": "2014",
         "id": 102651,
-        "poster": "https://image.tmdb.org/t/p/w200/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=by8ypp_Sves"
     },
     {
         "title": "Nightcrawler",
         "year": "2014",
         "id": 242582,
-        "poster": "https://image.tmdb.org/t/p/w200/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=8nE1Hq68PsM"
     },
     {
         "title": "Cut Bank",
         "year": "2014",
         "id": 276902,
-        "poster": "https://image.tmdb.org/t/p/w200/hP5N3R8qqe7JT4N3esgh23GOpCN.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/hP5N3R8qqe7JT4N3esgh23GOpCN.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=EDL9y3NFmu4"
     },
     {
         "title": "The Hunger Games: Mockingjay - Part 1",
         "year": "2014",
         "id": 131631,
-        "poster": "https://image.tmdb.org/t/p/w200/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4FAA18ZIja70d1Tu5hr5cj2q1sB.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=AJs6O-ELzsQ"
     },
     {
         "title": "The Hunger Games: Mockingjay - Part 2",
         "year": "2015",
         "id": 131634,
-        "poster": "https://image.tmdb.org/t/p/w200/lImKHDfExAulp16grYm8zD5eONE.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/lImKHDfExAulp16grYm8zD5eONE.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=MIZYOshzv4E"
     },
     {
         "title": "Concussion",
         "year": "2015",
         "id": 321741,
-        "poster": "https://image.tmdb.org/t/p/w200/gseayWAIFt3GQrEUNuUcYxT77Ud.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/gseayWAIFt3GQrEUNuUcYxT77Ud.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=-N6gDZXJ8is"
     },
     {
         "title": "Pawn Sacrifice",
         "year": "2015",
         "id": 245698,
-        "poster": "https://image.tmdb.org/t/p/w200/5vcLstd2hYn0XhyuEKaPbBZAqSh.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/5vcLstd2hYn0XhyuEKaPbBZAqSh.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=tVqcB3bBeDo"
     },
     {
         "title": "Fantastic Beasts and Where to Find Them",
         "year": "2016",
         "id": 259316,
-        "poster": "https://image.tmdb.org/t/p/w200/fLsaFKExQt05yqjoAvKsmOMYvJR.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/fLsaFKExQt05yqjoAvKsmOMYvJR.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=WBOMpfxsUpk"
     },
     {
         "title": "The Huntsman: Winter's War",
         "year": "2016",
         "id": 290595,
-        "poster": "https://image.tmdb.org/t/p/w200/ekHPrneEoa1EoDclWdillOKznqM.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/ekHPrneEoa1EoDclWdillOKznqM.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=brSeo06qack"
     },
     {
         "title": "All the Way",
         "year": "2016",
         "id": 347123,
-        "poster": "https://image.tmdb.org/t/p/w200/j4AEurmnYoRsA1nHhRK9AE4j2CL.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/j4AEurmnYoRsA1nHhRK9AE4j2CL.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=eE1jVeW4Dy4"
     },
     {
         "title": "Roman J. Israel, Esq.",
         "year": "2017",
         "id": 413362,
-        "poster": "https://image.tmdb.org/t/p/w200/epTCHVcyLkT8Aqt08Ki3PWC2sUh.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/epTCHVcyLkT8Aqt08Ki3PWC2sUh.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=tvOJ-4WQ8ZE"
     },
     {
         "title": "Detroit",
         "year": "2017",
         "id": 407448,
-        "poster": "https://image.tmdb.org/t/p/w200/r0ldqSFASpqSM5xTrpcZGO6Ef2G.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/r0ldqSFASpqSM5xTrpcZGO6Ef2G.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=cO8YPamE1p8"
     },
     {
         "title": "The Nutcracker and the Four Realms",
         "year": "2018",
         "id": 426543,
-        "poster": "https://image.tmdb.org/t/p/w200/9vPDY8e7YxLwgVum7YZIUJbr4qc.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/9vPDY8e7YxLwgVum7YZIUJbr4qc.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=dRx7AFXR5Gw"
     },
     {
         "title": "Fantastic Beasts: The Crimes of Grindelwald",
         "year": "2018",
         "id": 338952,
-        "poster": "https://image.tmdb.org/t/p/w200/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=KtE-nxgQOZM"
     },
     {
         "title": "Red Sparrow",
         "year": "2018",
         "id": 401981,
-        "poster": "https://image.tmdb.org/t/p/w200/cdefNr6aS00IwVbSlxdFJnfmzKh.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/cdefNr6aS00IwVbSlxdFJnfmzKh.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=sGSbbRRN8U0"
     },
     {
         "title": "A Hidden Life",
         "year": "2019",
         "id": 403300,
-        "poster": "https://image.tmdb.org/t/p/w200/rdG4jfH0rxkB2FgkYmjj9V4Q31M.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/rdG4jfH0rxkB2FgkYmjj9V4Q31M.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=JgaCl9wB4mE"
     },
     {
         "title": "News of the World",
         "year": "2020",
         "id": 581032,
-        "poster": "https://image.tmdb.org/t/p/w200/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/fYQCgVRsQTEfUrP7cW5iAFVYOlh.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=1ybPLb_e5kA"
     },
     {
         "title": "Jungle Cruise",
         "year": "2021",
         "id": 451048,
-        "poster": "https://image.tmdb.org/t/p/w200/yKy9ELL8CON5sqDg4yIvBb5LTZL.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/yKy9ELL8CON5sqDg4yIvBb5LTZL.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=xSm2UEoJKxM"
     },
     {
         "title": "Raya and the Last Dragon",
         "year": "2021",
         "id": 527774,
-        "poster": "https://image.tmdb.org/t/p/w200/5nVhgCzxKbK47OLIKxCR1syulOn.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/5nVhgCzxKbK47OLIKxCR1syulOn.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=sx-XHNlg_oc"
     },
     {
         "title": "Fantastic Beasts: The Secrets of Dumbledore",
         "year": "2022",
         "id": 338953,
-        "poster": "https://image.tmdb.org/t/p/w200/3c5GNLB4yRSLBby0trHoA1DSQxQ.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/3c5GNLB4yRSLBby0trHoA1DSQxQ.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=n-MzQM6AkV0"
     },
     {
         "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
         "year": "2023",
         "id": 695721,
-        "poster": "https://image.tmdb.org/t/p/w200/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=nVSPEMm2eyQ"
     },
     {
         "title": "Pain Hustlers",
         "year": "2023",
         "id": 862968,
-        "poster": "https://image.tmdb.org/t/p/w200/m0gM9jE1KmCkXZRqkeNYEQZdVsZ.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/m0gM9jE1KmCkXZRqkeNYEQZdVsZ.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=3nLoe58GFK8"
     },
     {
         "title": "The Lost Bus",
         "year": "2025",
         "id": 1236470,
-        "poster": "https://image.tmdb.org/t/p/w200/4IPxzGlE17fJAwUTMul4opMeutA.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/4IPxzGlE17fJAwUTMul4opMeutA.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=jF9nr-wJt8E"
     },
     {
         "title": "The Hunger Games: Sunrise on the Reaping",
         "year": "2026",
         "id": 1300968,
-        "poster": "https://image.tmdb.org/t/p/w200/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg"
+        "poster": "https://image.tmdb.org/t/p/w200/jNcZH8yplxttRlf0wwqfGGMKHxX.jpg",
+        "youtube_link": "https://www.youtube.com/watch?v=XUY3IfTgNYQ"
     },
     {
         "title": "Behemoth!",
         "year": "9999",
         "id": 1452168,
-        "poster": null
+        "poster": null,
+        "youtube_link": "https://www.youtube.com/watch?v=EO-q-24cXEY"
     }
 ]
