@@ -220,17 +220,11 @@
 
         /* Feature v1.60: Important Film Highlights */
         .marker-imp-container {
-            /* Container for pole + label inside marker */
+            /* Container now acts as a point-origin anchor at the dot center */
             position: absolute;
-            bottom: 15px;
-            top: auto;
-            /* Pointing upward into the sky */
-            /* Start from center of marker (approx) */
+            bottom: 0px;
             left: 50%;
-            transform: translateX(-50%);
-            display: flex;
-            flex-direction: column;
-            align-items: center;
+            display: block;
             pointer-events: none;
             /* Let clicks pass to marker */
         }
@@ -244,12 +238,13 @@
         }
 
         .marker-label {
+            position: absolute;
             font-size: 0.85rem;
             /* Larger font */
             font-weight: 700;
             /* Bold */
             color: #fff;
-            background: rgba(30, 30, 30, 0.95);
+            background: rgb(30, 30, 30);
             /* Opaque dark card */
             border: 1px solid rgba(255, 255, 255, 0.5);
             /* Visible border */
@@ -612,8 +607,8 @@
                     const highlight = document.createElement('div');
                     highlight.className = 'marker-imp-container';
                     highlight.innerHTML = `
+                        <svg class="marker-pole-svg" style="position: absolute; width: 1px; height: 1px; left: 0; bottom: 0; overflow: visible; z-index: -1;"></svg>
                         <div class="marker-label">${film.title}</div>
-                        <div class="marker-pole"></div>
                     `;
                     marker.appendChild(highlight);
                     // Add z-index boost to important markers
@@ -738,26 +733,24 @@
                 }
                 lanes[laneIndex].push({ left, right });
 
-                // 4. Dynamic Pole Height Calculation
-                box.style.bottom = '15px'; // Anchor securely to the dot
+                // 4. Position the container directly at the dot
+                box.style.bottom = '0px'; 
                 box.style.top = 'auto';
+                
+                // FIX 1: Z-Index Reversal. Higher lanes get lower z-index so their poles fall behind lower labels.
+                box.style.zIndex = 100 - laneIndex; 
 
-                // Calculate exact distance from this specific dot to the Sky Baseline
                 const markerRect = marker.getBoundingClientRect();
                 const distanceToSky = markerRect.top - skyBaseline;
-
-                // Base pole reaches the baseline; laneIndex adds steps above the baseline
-                const step = 42; // Height of each lane
-                const safeDistance = Math.max(20, distanceToSky); // Fallback to prevent negative heights
-                const newPoleHeight = safeDistance + (laneIndex * step);
+                const step = 42; 
+                const safeDistance = Math.max(20, distanceToSky); 
                 
-                pole.style.height = `${newPoleHeight}px`;
-                box.style.zIndex = 100 + laneIndex;
-
+                // Absolute height above the dot
+                const labelHeightOffset = safeDistance + (laneIndex * step);
+                
                 // 5. Horizontal Edge Bounding
                 const viewportWidth = window.innerWidth;
                 const safetyPadding = 20;
-                let currentTransform = -50;
                 let pixelOffset = 0;
 
                 if (left < safetyPadding) {
@@ -766,11 +759,29 @@
                     pixelOffset = (viewportWidth - safetyPadding) - right;
                 }
 
-                if (pixelOffset !== 0) {
-                    box.style.transform = `translateX(calc(${currentTransform}% + ${pixelOffset}px))`;
-                } else {
-                    box.style.transform = `translateX(${currentTransform}%)`;
-                }
+                // Apply positioning ONLY to the label, leaving the container anchored to the dot
+                label.style.bottom = `${labelHeightOffset}px`;
+                label.style.transform = `translateX(calc(-50% + ${pixelOffset}px))`;
+
+                // 6. FIX 2 & 3: SVG Elbow Path Generation
+                const svg = box.querySelector('.marker-pole-svg');
+                
+                // Start X is the shifted amount of the label center
+                const startX = pixelOffset; 
+                // Start Y is negative (SVG Y-axis goes down, so negative draws upwards to the label)
+                const startY = -labelHeightOffset + 2; 
+                // Drop 14px to the left of the dot's center to clear the column
+                const dropX = -14; 
+                // Connect to the edge of the dot (radius is roughly 6px)
+                const dotEdgeX = -6; 
+
+                // Draw path: Start at Label Bottom -> Horizontal to Drop zone -> Vertical to Dot level -> Horizontal to Dot edge
+                svg.innerHTML = `
+                    <path d="M ${startX} ${startY} L ${dropX} ${startY} L ${dropX} 0 L ${dotEdgeX} 0" 
+                          fill="none" 
+                          stroke="rgba(255, 255, 255, 0.4)" 
+                          stroke-width="1.5" />
+                `;
             });
         }
 
