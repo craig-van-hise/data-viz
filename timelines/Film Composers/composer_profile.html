@@ -76,16 +76,16 @@
             max-width: 1400px;
             margin-top: 60px;
             position: relative;
-            padding-top: 140px; 
-            padding-bottom: 20px; 
-            /* Space for tooltips and sky labels */
+            padding-top: 20px; /* Removed the hardcoded 140px */
+            padding-bottom: 0px; /* Minimized bottom padding */
         }
 
         .year-axis {
             position: relative;
             height: 40px;
             border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-            margin-top: 30px;
+            margin-top: 15px; /* Reduced from 30px */
+            margin-bottom: 0px;
         }
 
         .year-mark {
@@ -648,7 +648,9 @@
                 const maxStack = Math.max(...columns.map(col => col.length));
                 const spacing = 16; 
                 const maxDownwardReach = (maxStack / 2) * spacing;
-                const safeMargin = Math.max(30, maxDownwardReach + 15);
+                
+                // Reduced the fallback base margin and the padding
+                const safeMargin = Math.max(10, maxDownwardReach + 10);
                 
                 // Push the axis down by adding margin-bottom to the track
                 track.style.marginBottom = `${safeMargin}px`;
@@ -789,6 +791,20 @@
                           stroke-width="1.5" />
                 `;
             });
+
+            // 9. Dynamic Top Margin for the Track
+            const numLanes = lanes.length;
+            if (numLanes > 0 || minMarkerY < trackRect.top) {
+                // Calculate the distance from the top of the track to the highest dot
+                const upwardReach = Math.max(0, trackRect.top - minMarkerY);
+                
+                // Calculate flag height: 25px (baseline gap) + 42px per lane + 34px (label height)
+                const flagHeight = numLanes > 0 ? 25 + (numLanes * 42) + 34 : 0;
+                
+                // Set the exact margin needed plus 20px of breathing room
+                const requiredTopMargin = upwardReach + flagHeight + 20; 
+                document.getElementById('track').style.marginTop = `${requiredTopMargin}px`;
+            }
         }
 
         // Re-run on resize
