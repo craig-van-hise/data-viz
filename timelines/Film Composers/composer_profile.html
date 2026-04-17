@@ -685,103 +685,107 @@
             const containers = Array.from(document.querySelectorAll('.marker-imp-container'));
             if (containers.length === 0) return;
 
-            // 1. Find the highest peak of the waveform to establish our "Sky Baseline"
             const trackRect = document.getElementById('track').getBoundingClientRect();
             const allMarkers = Array.from(document.querySelectorAll('.film-marker'));
-            
+
+            // Establish Sky Baseline
             let minMarkerY = trackRect.top;
             allMarkers.forEach(m => {
                 const rect = m.getBoundingClientRect();
                 if (rect.top < minMarkerY) minMarkerY = rect.top;
             });
-
-            // The Sky Baseline is a safe distance (25px) above the highest dot
             const skyBaseline = minMarkerY - 25;
 
-            // 2. Sort containers by horizontal position
-            containers.sort((a, b) => {
-                return a.getBoundingClientRect().left - b.getBoundingClientRect().left;
+            // 1. PRE-CALCULATE absolute X positions to decouple from CSS transform quirks
+            const boxesData = containers.map(box => {
+                const marker = box.parentElement;
+                const label = box.querySelector('.marker-label');
+                const svg = box.querySelector('.marker-pole-svg');
+
+                // Temporarily wipe CSS transforms to measure raw element width safely
+                label.style.transform = 'none';
+                label.style.left = '0px';
+
+                const markerRect = marker.getBoundingClientRect();
+                const markerCenterX = markerRect.left + (markerRect.width / 2);
+                const labelWidth = label.offsetWidth;
+
+                // Center label mathematically over the dot
+                let absoluteLeft = markerCenterX - (labelWidth / 2);
+                let absoluteRight = absoluteLeft + labelWidth;
+
+                // Apply Viewport Edge Bounding
+                const safetyPadding = 20;
+                const viewportWidth = window.innerWidth;
+
+                if (absoluteLeft < safetyPadding) {
+                    absoluteLeft = safetyPadding;
+                    absoluteRight = absoluteLeft + labelWidth;
+                } else if (absoluteRight > viewportWidth - safetyPadding) {
+                    absoluteRight = viewportWidth - safetyPadding;
+                    absoluteLeft = absoluteRight - labelWidth;
+                }
+
+                // Calculate the exact local pixel offset required
+                const localLeft = absoluteLeft - markerCenterX;
+
+                return { box, marker, label, svg, absoluteLeft, absoluteRight, localLeft, markerRect };
             });
+
+            // 2. Sort by absolute X for a flawless collision sweep
+            boxesData.sort((a, b) => a.absoluteLeft - b.absoluteLeft);
 
             const lanes = [];
 
-            containers.forEach(box => {
-                const label = box.querySelector('.marker-label');
-                const pole = box.querySelector('.marker-pole');
-                const marker = box.parentElement; // The dot element this is attached to
+            boxesData.forEach(data => {
+                const { box, marker, label, svg, absoluteLeft, absoluteRight, localLeft, markerRect } = data;
+                const gap = 15;
 
-                const rect = label.getBoundingClientRect();
-                const width = rect.width;
-                const left = rect.left;
-                const right = left + width;
-                const gap = 15; // Gap between labels
-
-                // 3. Find available lane
+                // 3. Find Lane using true absolute bounds
                 let laneIndex = 0;
                 let found = false;
-
                 while (!found) {
                     if (!lanes[laneIndex]) lanes[laneIndex] = [];
-
                     const hasCollision = lanes[laneIndex].some(zone => {
-                        return !(right + gap < zone.left || left > zone.right + gap);
+                        return !(absoluteRight + gap < zone.left || absoluteLeft - gap > zone.right);
                     });
-
                     if (!hasCollision) found = true;
                     else laneIndex++;
                 }
-                lanes[laneIndex].push({ left, right });
+                lanes[laneIndex].push({ left: absoluteLeft, right: absoluteRight });
 
-                // 4. Anchor container to the TRUE mathematical center of the dot
+                // 4. Base Anchoring
                 box.style.top = '50%';
                 box.style.left = '50%';
                 box.style.bottom = 'auto';
-                
-                // Reset the container's z-index so it doesn't create a conflicting context
-                box.style.zIndex = 'auto';
-                
-                // Apply the descending z-index directly to the parent .film-marker
-                // Higher lanes get a lower z-index so their poles drop behind lower lanes.
-                marker.style.zIndex = 1000 - (laneIndex * 10);
+                box.style.transform = 'none'; 
 
-                const markerRect = marker.getBoundingClientRect();
+                // 5. CRITICAL Z-INDEX FIX: Force stacking context with !important
+                marker.style.setProperty('z-index', 1000 - (laneIndex * 10), 'important');
+                box.style.setProperty('z-index', 'auto', 'important');
+                label.style.setProperty('z-index', '10', 'important');
+
+                // 6. Height Calculation
                 const distanceToSky = markerRect.top - skyBaseline;
-                const step = 42; 
-                const safeDistance = Math.max(20, distanceToSky); 
-                
-                // Add 6px to clear the top half of the dot from the new center origin
-                const labelHeightOffset = safeDistance + (laneIndex * step) + 6; 
-                
-                // 5. Horizontal Edge Bounding
-                const viewportWidth = window.innerWidth;
-                const safetyPadding = 20;
-                let pixelOffset = 0;
+                const step = 42;
+                const safeDistance = Math.max(20, distanceToSky);
+                const labelHeightOffset = safeDistance + (laneIndex * step) + 6;
 
-                if (left < safetyPadding) {
-                    pixelOffset = safetyPadding - left;
-                } else if (right > (viewportWidth - safetyPadding)) {
-                    pixelOffset = (viewportWidth - safetyPadding) - right;
-                }
-
-                // Apply positioning ONLY to the label, leaving the container anchored to the dot
+                // 7. Apply Deterministic CSS to Label
                 label.style.bottom = `${labelHeightOffset}px`;
-                label.style.transform = `translateX(calc(-50% + ${pixelOffset}px))`;
+                label.style.left = `${localLeft}px`;
+                label.style.transform = 'none'; // Position is now driven entirely by exact absolute left
 
-                // 6. SVG Elbow Path Generation (Flawless Center & No Top Bend)
-                const svg = box.querySelector('.marker-pole-svg');
-                
-                const startY = -labelHeightOffset + 2; 
-                const dropX = -14; 
-                const dotEdgeX = -6; 
-                
-                // Y is now exactly 0 because the container origin is anchored at top: 50%
-                const dotCenterY = 0; 
+                // 8. SVG Path Generation
+                const startY = -labelHeightOffset + 2;
+                const dropX = -14;
+                const dotCenterY = 0;
+                const dotEdgeX = -6;
 
-                // Path drops straight down from dropX (tucked under the label) and turns exactly once into the dot
                 svg.innerHTML = `
-                    <path d="M ${dropX} ${startY} L ${dropX} ${dotCenterY} L ${dotEdgeX} ${dotCenterY}" 
-                          fill="none" 
-                          stroke="rgba(255, 255, 255, 0.4)" 
+                    <path d="M ${dropX} ${startY} L ${dropX} ${dotCenterY} L ${dotEdgeX} ${dotCenterY}"
+                          fill="none"
+                          stroke="rgba(255, 255, 255, 0.4)"
                           stroke-width="1.5" />
                 `;
             });
