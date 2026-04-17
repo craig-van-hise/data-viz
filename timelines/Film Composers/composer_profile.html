@@ -107,9 +107,21 @@
         .timeline-track {
             position: relative;
             height: 60px;
+            margin-top: 20px;
+            /* Background and border-radius removed to be handled by ::before */
+        }
+
+        /* Pseudo-element extends the visual background 30px outward on both sides */
+        .timeline-track::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -30px; 
+            right: -30px; 
+            bottom: 0;
             background: rgba(255, 255, 255, 0.02);
             border-radius: 30px;
-            margin-top: 20px;
+            z-index: 0;
         }
 
         /* Marker Styles */
@@ -118,20 +130,28 @@
             top: 50%;
             width: 12px;
             height: 12px;
-            border-radius: 50%;
-            background-color: var(--marker-color);
             transform: translate(-50%, -50%);
             cursor: pointer;
-            transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
-            box-shadow: 0 0 10px rgba(138, 180, 248, 0.3);
             z-index: 10;
+            /* Visual styles moved to .marker-dot */
         }
 
-        .film-marker:hover {
-            transform: translate(-50%, -50%) scale(1.5);
+        .marker-dot {
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            background-color: var(--marker-color);
+            transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+            box-shadow: 0 0 10px rgba(138, 180, 248, 0.3);
+            position: relative;
+            z-index: 1; /* Keeps dot below the flags */
+        }
+
+        /* Target ONLY the dot on hover so flags remain completely static */
+        .film-marker:hover .marker-dot {
+            transform: scale(1.5);
             background-color: #fff;
             box-shadow: 0 0 20px rgba(138, 180, 248, 0.6);
-            z-index: 100;
         }
 
         /* Tooltip */
