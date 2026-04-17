@@ -732,20 +732,22 @@
                 }
                 lanes[laneIndex].push({ left, right });
 
-                // 4. Position the container directly at the dot
-                box.style.bottom = '0px'; 
-                box.style.top = 'auto';
+                // 4. Anchor container to the TRUE mathematical center of the dot
+                box.style.top = '50%';
+                box.style.left = '50%';
+                box.style.bottom = 'auto';
                 
                 // Higher lanes get a LOWER z-index. 
                 // This ensures their long poles pass behind the opaque labels of lower lanes.
                 box.style.zIndex = 1000 - (laneIndex * 10);
+
                 const markerRect = marker.getBoundingClientRect();
                 const distanceToSky = markerRect.top - skyBaseline;
                 const step = 42; 
                 const safeDistance = Math.max(20, distanceToSky); 
                 
-                // Absolute height above the dot
-                const labelHeightOffset = safeDistance + (laneIndex * step);
+                // Add 6px to clear the top half of the dot from the new center origin
+                const labelHeightOffset = safeDistance + (laneIndex * step) + 6; 
                 
                 // 5. Horizontal Edge Bounding
                 const viewportWidth = window.innerWidth;
@@ -762,20 +764,19 @@
                 label.style.bottom = `${labelHeightOffset}px`;
                 label.style.transform = `translateX(calc(-50% + ${pixelOffset}px))`;
 
-                // 6. SVG Elbow Path Generation (Center-Aligned)
+                // 6. SVG Elbow Path Generation (Flawless Center & No Top Bend)
                 const svg = box.querySelector('.marker-pole-svg');
                 
-                const startX = pixelOffset; 
                 const startY = -labelHeightOffset + 2; 
                 const dropX = -14; 
                 const dotEdgeX = -6; 
                 
-                // Shift the final connection point up by 6px to hit the exact center of the 12px dot
-                const dotCenterY = -6; 
+                // Y is now exactly 0 because the container origin is anchored at top: 50%
+                const dotCenterY = 0; 
 
-                // Draw path: Start at Label -> Horizontal to Drop zone -> Vertical to Dot Center -> Horizontal to Dot edge
+                // Path drops straight down from dropX (tucked under the label) and turns exactly once into the dot
                 svg.innerHTML = `
-                    <path d="M ${startX} ${startY} L ${dropX} ${startY} L ${dropX} ${dotCenterY} L ${dotEdgeX} ${dotCenterY}" 
+                    <path d="M ${dropX} ${startY} L ${dropX} ${dotCenterY} L ${dotEdgeX} ${dotCenterY}" 
                           fill="none" 
                           stroke="rgba(255, 255, 255, 0.4)" 
                           stroke-width="1.5" />
