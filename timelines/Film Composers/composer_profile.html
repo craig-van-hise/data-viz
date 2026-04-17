@@ -737,9 +737,12 @@
                 box.style.left = '50%';
                 box.style.bottom = 'auto';
                 
-                // Higher lanes get a LOWER z-index. 
-                // This ensures their long poles pass behind the opaque labels of lower lanes.
-                box.style.zIndex = 1000 - (laneIndex * 10);
+                // Reset the container's z-index so it doesn't create a conflicting context
+                box.style.zIndex = 'auto';
+                
+                // Apply the descending z-index directly to the parent .film-marker
+                // Higher lanes get a lower z-index so their poles drop behind lower lanes.
+                marker.style.zIndex = 1000 - (laneIndex * 10);
 
                 const markerRect = marker.getBoundingClientRect();
                 const distanceToSky = markerRect.top - skyBaseline;
