@@ -647,6 +647,21 @@
             });
             if (currentColumn.length > 0) columns.push(currentColumn);
 
+            // 1.5 Calculate dynamic top margin to prevent axis collision
+            if (columns.length > 0) {
+                const maxStack = Math.max(...columns.map(col => col.length));
+                const spacing = 16; // Vertical pixels between dots
+                
+                // Calculate how far up the tallest peak will reach
+                const maxUpwardReach = (maxStack / 2) * spacing;
+                
+                // Base margin is 20px. Add a 15px visual buffer to the required clearance.
+                const safeMargin = Math.max(20, maxUpwardReach + 15);
+                
+                // Apply the calculated margin to the track to push the entire waveform down
+                track.style.marginTop = `${safeMargin}px`;
+            }
+
             // 2. Distribute each column vertically from the center
             columns.forEach(col => {
                 const count = col.length;
