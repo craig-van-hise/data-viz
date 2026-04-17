@@ -74,10 +74,10 @@
         #timeline-container {
             width: 90%;
             max-width: 1400px;
-            margin-top: 60px;
+            margin-top: 0px; /* Removed 60px */
             position: relative;
-            padding-top: 20px; /* Removed the hardcoded 140px */
-            padding-bottom: 0px; /* Minimized bottom padding */
+            padding-top: 0px; /* Removed 20px */
+            padding-bottom: 0px;
         }
 
         .year-axis {
@@ -647,12 +647,12 @@
             if (columns.length > 0) {
                 const maxStack = Math.max(...columns.map(col => col.length));
                 const spacing = 16; 
-                const maxDownwardReach = (maxStack / 2) * spacing;
                 
-                // Reduced the fallback base margin and the padding
-                const safeMargin = Math.max(10, maxDownwardReach + 10);
+                // Calculate reach from center, then subtract the 30px lower half of the track
+                const maxDownwardReach = Math.max(0, ((maxStack / 2) * spacing) - 30);
                 
-                // Push the axis down by adding margin-bottom to the track
+                // Apply a tight 15px visual buffer below the lowest dot
+                const safeMargin = maxDownwardReach + 15;
                 track.style.marginBottom = `${safeMargin}px`;
             }
 
@@ -793,18 +793,18 @@
             });
 
             // 9. Dynamic Top Margin for the Track
-            const numLanes = lanes.length;
-            if (numLanes > 0 || minMarkerY < trackRect.top) {
-                // Calculate the distance from the top of the track to the highest dot
-                const upwardReach = Math.max(0, trackRect.top - minMarkerY);
-                
-                // Calculate flag height: 25px (baseline gap) + 42px per lane + 34px (label height)
-                const flagHeight = numLanes > 0 ? 25 + (numLanes * 42) + 34 : 0;
-                
-                // Set the exact margin needed plus 20px of breathing room
-                const requiredTopMargin = upwardReach + flagHeight + 20; 
-                document.getElementById('track').style.marginTop = `${requiredTopMargin}px`;
+            // Calculate how far the dots stick out above the track
+            const upwardReach = Math.max(0, trackRect.top - minMarkerY);
+            let requiredClearance = upwardReach; 
+
+            const maxLaneIndex = lanes.length - 1;
+            if (maxLaneIndex >= 0) {
+                // Exact pixel height: 25px gap + (lanes * 42px) + 34px label
+                requiredClearance = upwardReach + 25 + (maxLaneIndex * 42) + 34;
             }
+
+            // Apply margin with exactly 40px of breathing room from the header
+            document.getElementById('track').style.marginTop = `${requiredClearance + 40}px`;
         }
 
         // Re-run on resize
