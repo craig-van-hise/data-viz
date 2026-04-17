@@ -76,8 +76,8 @@
             max-width: 1400px;
             margin-top: 60px;
             position: relative;
-            padding-bottom: 200px;
-            /* Space for tooltips */
+            padding-bottom: 250px;
+            /* Space for tooltips and downward labels */
         }
 
         .year-axis {
@@ -221,8 +221,8 @@
         .marker-imp-container {
             /* Container for pole + label inside marker */
             position: absolute;
-            bottom: 40px;
-            /* Lifted significantly higher above timeline */
+            top: 15px;
+            /* Hanging downwards below waveform */
             /* Start from center of marker (approx) */
             left: 50%;
             transform: translateX(-50%);
@@ -610,8 +610,8 @@
                     const highlight = document.createElement('div');
                     highlight.className = 'marker-imp-container';
                     highlight.innerHTML = `
-                        <div class="marker-label">${film.title}</div>
                         <div class="marker-pole"></div>
+                        <div class="marker-label">${film.title}</div>
                     `;
                     marker.appendChild(highlight);
                     // Add z-index boost to important markers
@@ -742,60 +742,43 @@
                 // Register occupancy
                 lanes[laneIndex].push({ left, right });
 
-                // Apply Styles
-                // Base bottom = 40px
-                // Lane Height = 40px (approx label height + margin)
-                const baseBottom = 40;
-                const step = 38;
-                const newBottom = baseBottom + (laneIndex * step);
+                // 1. Vertical Stacking (Building Downwards)
+                const baseTop = 15; // Starting distance below the dot
+                const step = 38; // Height of each lane
+                
+                // Adjust container top
+                box.style.top = `${baseTop}px`;
+                box.style.bottom = 'auto'; // Clear old inline styles if any
 
-                box.style.bottom = `${newBottom}px`;
-
-                // Adjust pole height to reach the dot
-                // dot is at bottom:0 relative to marker (which has height ~16px) ??
-                // No, marker is just a point?
-                // .marker-pole height needs to equal newBottom + some offset?
-                // The pole is inside .marker-imp-container which is at 'bottom: X'.
-                // NO. The container moves UP. The pole is INSIDE the container. 
-                // So if we move the container UP, the pole moves UP and DETACHES from the dot.
-                // WE MUST INCREASE POLE HEIGHT, NOT MOVE CONTAINER BOTTOM.
-
-                // WAIT.
-                // Structure:
-                // Marker (relative)
-                //   -> Dot
-                //   -> Container (absolute, bottom: 40px)
-                //      -> Label
-                //      -> Pole
-
-                // If I increase Container bottom, the whole thing flies up.
-                // If I want the pole to stay connected to the dot, the bottom must stay fixed (at 0 or near dot), 
-                // and I should increase the pole height?
-
-                // Current CSS: .marker-imp-container { bottom: 40px }
-                // .marker-pole { height: 60px }
-
-                // Strategy Rewrite:
-                // Keep .marker-imp-container anchored at bottom: 10px (near dot).
-                // Increase .marker-pole height.
-                // The flexbox layout (column) puts Label on Top, Pole on Bottom.
-                // So if Pole gets taller, Label gets pushed up.
-
-                // Let's reset the container bottom to fixed low value.
-                box.style.bottom = '15px'; // Fixed near dot
-
-                // Calculate required pole height
-                // Lane 0: Label at 40px. Pole ~25px?
-                // Lane 1: Label at 80px. Pole ~65px.
-
+                // Calculate required pole height to push label down into its lane
                 const basePole = 25;
                 const newPoleHeight = basePole + (laneIndex * step);
                 pole.style.height = `${newPoleHeight}px`;
 
-                // Add z-index to ensure higher cards are on top?
-                // Actually, lower cards might cover pole of higher cards... 
-                // Let's boost z-index by lane
+                // Boost z-index to keep lower hanging labels on top of overlapping poles
                 box.style.zIndex = 100 + laneIndex;
+
+                // 2. Horizontal Edge Bounding (Prevent screen clipping)
+                const viewportWidth = window.innerWidth;
+                const safetyPadding = 15; // Pixels from the edge of the screen
+                let currentTransform = -50; // Default translateX percentage
+                let pixelOffset = 0; // Adjustment needed
+
+                // Check Left Edge
+                if (left < safetyPadding) {
+                    pixelOffset = safetyPadding - left;
+                } 
+                // Check Right Edge
+                else if (right > (viewportWidth - safetyPadding)) {
+                    pixelOffset = (viewportWidth - safetyPadding) - right;
+                }
+
+                // Apply bounding adjustment if necessary while maintaining center point
+                if (pixelOffset !== 0) {
+                    box.style.transform = `translateX(calc(${currentTransform}% + ${pixelOffset}px))`;
+                } else {
+                    box.style.transform = `translateX(${currentTransform}%)`;
+                }
             });
         }
 
