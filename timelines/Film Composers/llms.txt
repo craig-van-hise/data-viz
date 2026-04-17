@@ -3,10 +3,12 @@
 A visualization project mapping film composer careers.
 
 ## Key Files
-- [composers.html](file:///Users/vv2024/Documents/Repos%20-%20vv2024/data-viz/timelines/Film%20Composers/composers.html): Main timeline entry point.
+- [composers.html](file:///Users/vv2024/Documents/Repos%20-%20vv2024/data-viz/timelines/Film%20Composers/composers.html): Main global timeline visualization.
+- [composer_profile.html](file:///Users/vv2024/Documents/Repos%20-%20vv2024/data-viz/timelines/Film%20Composers/composer_profile.html): Detailed composer profile with "Sky and Ground" visualization.
 - [PROJECT_STATE.md](file:///Users/vv2024/Documents/Repos%20-%20vv2024/data-viz/timelines/Film%20Composers/PROJECT_STATE.md): Architecture and current status.
-- [README.md](file:///Users/vv2024/Documents/Repos%20-%20vv2024/data-viz/timelines/Film%20Composers/README.md): Project overview.
+- [README.md](file:///Users/vv2024/Documents/Repos%20-%20vv2024/data-viz/timelines/Film%20Composers/README.md): Project overview and setup.
 
-## Data Structure
-- `data/composer_lifespans.json`: Biographical data.
-- `data/Most important films.json`: Chronological film markers.
+## Data & Scripts
+- `data/filmographies/`: JSON files containing full film credits.
+- `data/Most important films.json`: Curated highlights for timeline markers.
+- `scripts/fetch_tmdb_filmographies.py`: Core data acquisition script.

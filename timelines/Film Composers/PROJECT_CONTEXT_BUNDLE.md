@@ -5,6 +5,7 @@
 ./composer_profile.html
 ./project_tree.txt
 ./composers.html
+./PROJECT_CONTEXT_BUNDLE.md
 ./README.md
 ./verified_live_profile.html
 ./PROJECT_STATE.md
@@ -16,6 +17,7 @@
 ./scripts/enrich_youtube_links.py
 ./scripts/final_validation.py
 ./scripts/debug_ddg.html
+./scripts/fetch_tmdb_filmographies.py
 ./scripts/fetch_composer_dates_v2.py
 ./scripts/fetch_composer_dates.py
 ./scripts/debug_composer.py
@@ -35,6 +37,24 @@
 ./scripts/scrape_thumbnails.py
 ./scripts/debug_ddg.py
 ./scripts/refine_dates.py
+./# Prompts
+./# Prompts/# 10.md
+./# Prompts/# 14.md
+./# Prompts/# 15.md
+./# Prompts/# 11.md
+./# Prompts/# 4.md
+./# Prompts/# 5.md
+./# Prompts/# 1.md
+./# Prompts/# 6.md
+./# Prompts/# 2.md
+./# Prompts/# 3.md
+./# Prompts/# 7.md
+./# Prompts/# 16.md
+./# Prompts/# 8.md
+./# Prompts/# 12.md
+./# Prompts/# 9.md
+./# Prompts/# 13.md
+./# Prompts/# 17.md
 ./data
 ./data/composer_lifespans.json
 ./data/Film Composers list.json
@@ -616,35 +636,44 @@
 # Project State: Film Composers Timeline
 
 ## 1. System Architecture
-The project is a data-driven static web application supported by a Python-based data enrichment pipeline.
+The project is a high-fidelity data visualization system consisting of an interactive frontend and a robust Python-based data pipeline powered by the TMDb API.
 
 ### File Hierarchy
 ```text
 .
 ├── data/                        # JSON Data Store
-├── scripts/                     # Python Data Tools
-├── thumbnails/                  # Image Assets
-├── composers.html               # Main Visualization
-└── composer_profile.html        # Detailed View
+│   ├── filmographies/           # Pristine TMDb-sourced film credits
+│   ├── Film Composers list.json # Global composer metadata
+│   ├── composer_lifespans.json  # Career and life dates
+│   └── Most important films.json # Curated highlights for markers
+├── scripts/                     # Data Pipeline (TMDb, Enrichment)
+│   ├── fetch_tmdb_filmographies.py # Primary TMDb data fetcher
+│   └── update_html.py           # Template injection script
+├── thumbnails/                  # Image Assets (Posters)
+├── composer_profile.html        # Smart Timeline Visualization
+└── composers.html               # Main Career Timeline
 ```
 
 ## 2. Tech Stack
--   **Frontend**: HTML5, Vanilla CSS (CSS Variables, Flexbox), Vanilla JavaScript (ES6+).
--   **Data Pipeline**: Python 3.x, `requests`, `BeautifulSoup4`, `json`.
+-   **Frontend**: HTML5, Vanilla CSS (CSS Variables, Flexbox, Pseudo-elements), Vanilla JavaScript (ES6+).
+-   **Graphics/Routing**: SVG (Dynamic Path Generation for "Elbow Routing").
+-   **Data Pipeline**: Python 3.x, `requests`, `python-dotenv`, `TMDb API`.
 -   **Typography**: Google Fonts (Outfit).
 
 ## 3. Functional Module Summary
--   **Timeline Visualizer**: Renders a multi-track horizontal timeline of composer careers. Features include sticky headers, relative positioning based on years, and interactive film markers.
--   **Data Enrichment Pipeline**: A suite of scripts for fetching biographical data from Wikipedia, scraping film thumbnails from DuckDuckGo/Wikipedia, and validating data integrity.
--   **Dynamic Injection**: Scripts that build the final HTML by injecting processed JSON data directly into templates for zero-dependency deployment.
+-   **Sky and Ground Visualizer**: A sophisticated timeline engine in `composer_profile.html` that separates "Important Film" labels into lanes in the "Sky" (above the track) and stacks standard markers in a "Ground" column system.
+-   **Smart Collision Engine**: A dynamic JS algorithm that calculates lane occupancy, reverses Z-indexes for legibility, and generates SVG elbow paths to connect labels to markers without overlapping.
+-   **TMDb Data Pipeline**: Transitioned from unreliable web scraping to the official TMDb API for 100% data accuracy. Includes deduplication and chronological sorting.
+-   **Dynamic Layout Engine**: Replaced static CSS margins with JS-driven math that calculates `marginTop` and `marginBottom` based on the stack height and lane count.
 
 ## 4. Recent Evolution
--   **Data Refinement**: Significantly hardened the date fetching logic (v4) to handle complex Wikipedia career summaries.
--   **UI Polish**: Implemented high-fidelity tooltips and smooth transitions for the timeline markers.
--   **Thumbnail Management**: Standardized the storage and naming convention for film poster assets.
+-   **Data Migration**: Completed full migration to TMDb API, rebuilding all filmography files with structured data and reliable poster paths.
+-   **Layout Optimization**: Implemented dynamic vertical stacking to prevent data loss in busy years, replacing old modulo-based staggering.
+-   **Visual Overhaul**: Implemented SVG elbow routing for flag posts, decoupled hover animations for cleaner feedback, and extended the timeline track visually with a pseudo-element pill design.
 
 ## 5. Current Work-in-Progress
--   **Validation**: Finalizing data integrity checks across the entire composer list to ensure no missing thumbnails or broken YouTube links.
+-   **Final UI Tweaks**: Refining the absolute positioning of the timeline track and axis to ensure perfect encapsulation of all markers and labels across viewport sizes.
+-   **Hover Cleanup**: Ensuring hover interactions target only the interactive dot elements while keeping the "Sky" flags static.
 
 
 ### FILE: README.md
@@ -657,41 +686,58 @@ A high-fidelity timeline and data visualization project mapping the careers and 
 
 ```text
 .
-├── composer_profile.html        # Individual composer detail page
-├── composers.html               # Main timeline visualization
+├── composer_profile.html        # Smart individual composer detail page
+├── composers.html               # Main career timeline visualization
 ├── data/                        # JSON data storage
-│   ├── filmographies/           # Detailed film lists per composer
+│   ├── filmographies/           # TMDb-sourced film credits per composer
 │   ├── Film Composers list.json # Metadata for all composers
 │   ├── composer_lifespans.json  # Career start/end and birth/death dates
 │   └── Most important films.json # Curated list for timeline markers
 ├── scripts/                     # Python data pipeline
-│   ├── fetch_composer_dates.py  # Wikipedia scraping for lifespans
-│   ├── scrape_thumbnails.py     # Image acquisition
-│   ├── update_html.py           # Injects JSON data into HTML templates
-│   └── final_validation.py      # Data integrity checks
+│   ├── fetch_tmdb_filmographies.py # Official TMDb data acquisition
+│   └── update_html.py           # Injects JSON data into HTML templates
 ├── thumbnails/                  # Image assets for film posters
 └── verified_live_profile.html   # Sandbox for UI testing
 ```
 
 ## Features
 
-- **Interactive Timeline**: Visual representation of composer careers from 1920 to 2030.
-- **Film Markers**: Interactive nodes on the timeline showing major works with poster thumbnails and YouTube links.
-- **Responsive UI**: Modern "Outfit" typography and dark-mode aesthetics.
-- **Data Pipeline**: Automated scraping and enrichment scripts to maintain the composer database.
+- **Sky and Ground Visualization**: Unique timeline layout that stacks regular markers in vertical columns and elevates "Most Important Films" into dynamic lanes ("Sky").
+- **SVG Elbow Routing**: Precise SVG-based pole routing that connects elevated labels to their markers without visual overlap.
+- **TMDb Integration**: All filmography data is pulled from the official TMDb API for maximum consistency and accuracy.
+- **Dynamic Response**: JavaScript-driven layout engine that adjusts spacing and margins in real-time based on data density.
+- **Premium Aesthetics**: Dark-mode UI with "Outfit" typography, soft gradients, and glassmorphism-inspired effects.
 
 ## Quick Start
 
-1.  **View Timeline**: Open `composers.html` in any modern web browser.
-2.  **Update Data**: Run Python scripts in `scripts/` to refresh lifespans or thumbnails.
+1.  **View Timeline**: Open `composers.html` to see the global timeline or click on a composer to view their profile.
+2.  **Update Data**: Refresh filmography data using the TMDb fetcher.
     ```bash
-    python3 scripts/fetch_composer_dates_v4.py
-    python3 scripts/update_html.py
+    export TMDB_API_READ_ACCESS_TOKEN="your_token_here"
+    python3 scripts/fetch_tmdb_filmographies.py
     ```
 
 ## Development
 
-- **Frontend**: Vanilla HTML/CSS/JS. No framework for maximum performance and portability.
-- **Pipeline**: Python 3.x focused on data scraping and JSON manipulation.
+- **Frontend**: Pure Vanilla HTML/CSS/JS with SVG for complex routing.
+- **Pipeline**: Python 3.x with a focus on structured API integration (TMDb).
+
+
+### FILE: llms.txt
+
+# Film Composers Timeline
+
+A visualization project mapping film composer careers.
+
+## Key Files
+- [composers.html](file:///Users/vv2024/Documents/Repos%20-%20vv2024/data-viz/timelines/Film%20Composers/composers.html): Main global timeline visualization.
+- [composer_profile.html](file:///Users/vv2024/Documents/Repos%20-%20vv2024/data-viz/timelines/Film%20Composers/composer_profile.html): Detailed composer profile with "Sky and Ground" visualization.
+- [PROJECT_STATE.md](file:///Users/vv2024/Documents/Repos%20-%20vv2024/data-viz/timelines/Film%20Composers/PROJECT_STATE.md): Architecture and current status.
+- [README.md](file:///Users/vv2024/Documents/Repos%20-%20vv2024/data-viz/timelines/Film%20Composers/README.md): Project overview and setup.
+
+## Data & Scripts
+- `data/filmographies/`: JSON files containing full film credits.
+- `data/Most important films.json`: Curated highlights for timeline markers.
+- `scripts/fetch_tmdb_filmographies.py`: Core data acquisition script.
 
 

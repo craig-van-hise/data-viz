@@ -6,39 +6,38 @@ A high-fidelity timeline and data visualization project mapping the careers and 
 
 ```text
 .
-├── composer_profile.html        # Individual composer detail page
-├── composers.html               # Main timeline visualization
+├── composer_profile.html        # Smart individual composer detail page
+├── composers.html               # Main career timeline visualization
 ├── data/                        # JSON data storage
-│   ├── filmographies/           # Detailed film lists per composer
+│   ├── filmographies/           # TMDb-sourced film credits per composer
 │   ├── Film Composers list.json # Metadata for all composers
 │   ├── composer_lifespans.json  # Career start/end and birth/death dates
 │   └── Most important films.json # Curated list for timeline markers
 ├── scripts/                     # Python data pipeline
-│   ├── fetch_composer_dates.py  # Wikipedia scraping for lifespans
-│   ├── scrape_thumbnails.py     # Image acquisition
-│   ├── update_html.py           # Injects JSON data into HTML templates
-│   └── final_validation.py      # Data integrity checks
+│   ├── fetch_tmdb_filmographies.py # Official TMDb data acquisition
+│   └── update_html.py           # Injects JSON data into HTML templates
 ├── thumbnails/                  # Image assets for film posters
 └── verified_live_profile.html   # Sandbox for UI testing
 ```
 
 ## Features
 
-- **Interactive Timeline**: Visual representation of composer careers from 1920 to 2030.
-- **Film Markers**: Interactive nodes on the timeline showing major works with poster thumbnails and YouTube links.
-- **Responsive UI**: Modern "Outfit" typography and dark-mode aesthetics.
-- **Data Pipeline**: Automated scraping and enrichment scripts to maintain the composer database.
+- **Sky and Ground Visualization**: Unique timeline layout that stacks regular markers in vertical columns and elevates "Most Important Films" into dynamic lanes ("Sky").
+- **SVG Elbow Routing**: Precise SVG-based pole routing that connects elevated labels to their markers without visual overlap.
+- **TMDb Integration**: All filmography data is pulled from the official TMDb API for maximum consistency and accuracy.
+- **Dynamic Response**: JavaScript-driven layout engine that adjusts spacing and margins in real-time based on data density.
+- **Premium Aesthetics**: Dark-mode UI with "Outfit" typography, soft gradients, and glassmorphism-inspired effects.
 
 ## Quick Start
 
-1.  **View Timeline**: Open `composers.html` in any modern web browser.
-2.  **Update Data**: Run Python scripts in `scripts/` to refresh lifespans or thumbnails.
+1.  **View Timeline**: Open `composers.html` to see the global timeline or click on a composer to view their profile.
+2.  **Update Data**: Refresh filmography data using the TMDb fetcher.
     ```bash
-    python3 scripts/fetch_composer_dates_v4.py
-    python3 scripts/update_html.py
+    export TMDB_API_READ_ACCESS_TOKEN="your_token_here"
+    python3 scripts/fetch_tmdb_filmographies.py
     ```
 
 ## Development
 
-- **Frontend**: Vanilla HTML/CSS/JS. No framework for maximum performance and portability.
-- **Pipeline**: Python 3.x focused on data scraping and JSON manipulation.
+- **Frontend**: Pure Vanilla HTML/CSS/JS with SVG for complex routing.
+- **Pipeline**: Python 3.x with a focus on structured API integration (TMDb).

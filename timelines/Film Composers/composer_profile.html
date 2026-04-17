@@ -147,6 +147,14 @@
             z-index: 1; /* Keeps dot below the flags */
         }
 
+        .marker-dot.no-audio {
+            background-color: #333333; /* Darker, muted shade */
+            opacity: 0.4;
+            cursor: default;
+            pointer-events: none; /* Prevents hover and click interactions */
+            box-shadow: none; /* Remove glow if any exists */
+        }
+
         /* Target ONLY the dot on hover so flags remain completely static */
         .film-marker:hover .marker-dot {
             transform: scale(1.5);
@@ -618,6 +626,10 @@
                 // Create the visual dot
                 const dot = document.createElement('div');
                 dot.className = 'marker-dot';
+
+                if (film.youtube_link === null || film.youtube_link === "") {
+                    dot.classList.add('no-audio');
+                }
 
                 marker.appendChild(dot);
 

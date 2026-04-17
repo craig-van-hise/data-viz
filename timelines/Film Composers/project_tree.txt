@@ -3,6 +3,7 @@
 ./composer_profile.html
 ./project_tree.txt
 ./composers.html
+./PROJECT_CONTEXT_BUNDLE.md
 ./README.md
 ./verified_live_profile.html
 ./PROJECT_STATE.md
@@ -14,6 +15,7 @@
 ./scripts/enrich_youtube_links.py
 ./scripts/final_validation.py
 ./scripts/debug_ddg.html
+./scripts/fetch_tmdb_filmographies.py
 ./scripts/fetch_composer_dates_v2.py
 ./scripts/fetch_composer_dates.py
 ./scripts/debug_composer.py
@@ -33,6 +35,24 @@
 ./scripts/scrape_thumbnails.py
 ./scripts/debug_ddg.py
 ./scripts/refine_dates.py
+./# Prompts
+./# Prompts/# 10.md
+./# Prompts/# 14.md
+./# Prompts/# 15.md
+./# Prompts/# 11.md
+./# Prompts/# 4.md
+./# Prompts/# 5.md
+./# Prompts/# 1.md
+./# Prompts/# 6.md
+./# Prompts/# 2.md
+./# Prompts/# 3.md
+./# Prompts/# 7.md
+./# Prompts/# 16.md
+./# Prompts/# 8.md
+./# Prompts/# 12.md
+./# Prompts/# 9.md
+./# Prompts/# 13.md
+./# Prompts/# 17.md
 ./data
 ./data/composer_lifespans.json
 ./data/Film Composers list.json
