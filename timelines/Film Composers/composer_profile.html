@@ -244,8 +244,7 @@
             font-weight: 700;
             /* Bold */
             color: #fff;
-            background: rgb(30, 30, 30);
-            /* Opaque dark card */
+            background: rgb(30, 30, 30); /* Must be fully opaque to hide lines behind it */
             border: 1px solid rgba(255, 255, 255, 0.5);
             /* Visible border */
             padding: 4px 8px;
@@ -255,7 +254,7 @@
             letter-spacing: 0.03em;
             text-shadow: none;
             /* Removed shadow in favor of card opacity */
-            z-index: 100;
+            z-index: 10; /* Forces the label above the SVG line locally */
         }
 
         font-weight: 500;
@@ -737,9 +736,9 @@
                 box.style.bottom = '0px'; 
                 box.style.top = 'auto';
                 
-                // FIX 1: Z-Index Reversal. Higher lanes get lower z-index so their poles fall behind lower labels.
-                box.style.zIndex = 100 - laneIndex; 
-
+                // Higher lanes get a LOWER z-index. 
+                // This ensures their long poles pass behind the opaque labels of lower lanes.
+                box.style.zIndex = 1000 - (laneIndex * 10);
                 const markerRect = marker.getBoundingClientRect();
                 const distanceToSky = markerRect.top - skyBaseline;
                 const step = 42; 
@@ -763,21 +762,20 @@
                 label.style.bottom = `${labelHeightOffset}px`;
                 label.style.transform = `translateX(calc(-50% + ${pixelOffset}px))`;
 
-                // 6. FIX 2 & 3: SVG Elbow Path Generation
+                // 6. SVG Elbow Path Generation (Center-Aligned)
                 const svg = box.querySelector('.marker-pole-svg');
                 
-                // Start X is the shifted amount of the label center
                 const startX = pixelOffset; 
-                // Start Y is negative (SVG Y-axis goes down, so negative draws upwards to the label)
                 const startY = -labelHeightOffset + 2; 
-                // Drop 14px to the left of the dot's center to clear the column
                 const dropX = -14; 
-                // Connect to the edge of the dot (radius is roughly 6px)
                 const dotEdgeX = -6; 
+                
+                // Shift the final connection point up by 6px to hit the exact center of the 12px dot
+                const dotCenterY = -6; 
 
-                // Draw path: Start at Label Bottom -> Horizontal to Drop zone -> Vertical to Dot level -> Horizontal to Dot edge
+                // Draw path: Start at Label -> Horizontal to Drop zone -> Vertical to Dot Center -> Horizontal to Dot edge
                 svg.innerHTML = `
-                    <path d="M ${startX} ${startY} L ${dropX} ${startY} L ${dropX} 0 L ${dotEdgeX} 0" 
+                    <path d="M ${startX} ${startY} L ${dropX} ${startY} L ${dropX} ${dotCenterY} L ${dotEdgeX} ${dotCenterY}" 
                           fill="none" 
                           stroke="rgba(255, 255, 255, 0.4)" 
                           stroke-width="1.5" />
