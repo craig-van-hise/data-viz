@@ -624,29 +624,48 @@
                 markers.push({ el: marker, pct: pct, row: 0 });
             });
 
-            // Apply Staggering
+            // Apply Staggering (Dynamic Vertical Stacking)
             markers.sort((a, b) => a.pct - b.pct);
 
-            markers.forEach((m, i) => {
-                // Check neighbors
-                if (i > 0) {
-                    const prev = markers[i - 1];
-                    // If too close (< 2%)
-                    if (m.pct - prev.pct < 2.0) {
-                        // Move to different row
-                        m.row = (prev.row + 1) % 3; // 3 rows
+            // 1. Group markers into columns if they are close together horizontally
+            const columns = [];
+            let currentColumn = [];
+
+            markers.forEach(m => {
+                if (currentColumn.length === 0) {
+                    currentColumn.push(m);
+                } else {
+                    const head = currentColumn[0];
+                    // If within 1.5% of the column's start, add to the vertical stack
+                    if (m.pct - head.pct < 1.5) { 
+                        currentColumn.push(m);
+                    } else {
+                        columns.push(currentColumn);
+                        currentColumn = [m];
                     }
                 }
+            });
+            if (currentColumn.length > 0) columns.push(currentColumn);
 
-                // Apply row offset
-                // row 0: center (50%)
-                // row 1: higher (30%)
-                // row 2: lower (70%)
-                const offsets = ["50%", "25%", "75%"];
-                m.el.style.top = offsets[m.row];
+            // 2. Distribute each column vertically from the center
+            columns.forEach(col => {
+                const count = col.length;
+                const spacing = 16; // Vertical pixels between dots
+                
+                // Calculate starting offset to keep the stack centered on the track
+                const startOffset = -((count - 1) * spacing) / 2;
+                
+                // Use the column's average percentage for perfectly straight vertical lines
+                const avgPct = col.reduce((sum, m) => sum + m.pct, 0) / count;
 
-                // CRITICAL: Append to DOM
-                track.appendChild(m.el);
+                col.forEach((m, j) => {
+                    m.el.style.left = `${avgPct}%`; 
+                    const offset = startOffset + (j * spacing);
+                    
+                    // Center the stack on the 50% line of the track
+                    m.el.style.top = `calc(50% + ${offset}px)`;
+                    track.appendChild(m.el);
+                });
             });
 
             // v1.70: Resolve Collisions for Highlights
