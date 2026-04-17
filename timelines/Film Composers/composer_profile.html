@@ -76,8 +76,8 @@
             max-width: 1400px;
             margin-top: 60px;
             position: relative;
-            padding-top: 250px;
-            padding-bottom: 80px;
+            padding-top: 140px; 
+            padding-bottom: 20px; 
             /* Space for tooltips and sky labels */
         }
 
@@ -691,72 +691,74 @@
             const containers = Array.from(document.querySelectorAll('.marker-imp-container'));
             if (containers.length === 0) return;
 
-            // 1. Sort by DOM order (which is effectively time order due to markers.push loop)
-            // But let's be safe and sort by left offset
+            // 1. Find the highest peak of the waveform to establish our "Sky Baseline"
+            const trackRect = document.getElementById('track').getBoundingClientRect();
+            const allMarkers = Array.from(document.querySelectorAll('.film-marker'));
+            
+            let minMarkerY = trackRect.top;
+            allMarkers.forEach(m => {
+                const rect = m.getBoundingClientRect();
+                if (rect.top < minMarkerY) minMarkerY = rect.top;
+            });
+
+            // The Sky Baseline is a safe distance (25px) above the highest dot
+            const skyBaseline = minMarkerY - 25;
+
+            // 2. Sort containers by horizontal position
             containers.sort((a, b) => {
                 return a.getBoundingClientRect().left - b.getBoundingClientRect().left;
             });
 
-            // 2. Track occupied zones per lane (row)
-            // Lanes[0] = [ {left: 100, right: 200}, ... ]
             const lanes = [];
 
             containers.forEach(box => {
                 const label = box.querySelector('.marker-label');
                 const pole = box.querySelector('.marker-pole');
+                const marker = box.parentElement; // The dot element this is attached to
 
-                // Get dimensions
                 const rect = label.getBoundingClientRect();
                 const width = rect.width;
-                const left = rect.left; // Current screen X
+                const left = rect.left;
                 const right = left + width;
+                const gap = 15; // Gap between labels
 
-                // Gap between labels
-                const gap = 10;
-
-                // Find a lane
+                // 3. Find available lane
                 let laneIndex = 0;
                 let found = false;
 
                 while (!found) {
-                    if (!lanes[laneIndex]) {
-                        lanes[laneIndex] = [];
-                    }
+                    if (!lanes[laneIndex]) lanes[laneIndex] = [];
 
-                    // Check overlapping with ANY item in this lane
                     const hasCollision = lanes[laneIndex].some(zone => {
-                        // Collision if intervals overlap
-                        // [zone.left, zone.right] vs [left, right]
                         return !(right + gap < zone.left || left > zone.right + gap);
                     });
 
-                    if (!hasCollision) {
-                        found = true;
-                    } else {
-                        laneIndex++;
-                    }
+                    if (!hasCollision) found = true;
+                    else laneIndex++;
                 }
-
-                // Register occupancy
                 lanes[laneIndex].push({ left, right });
 
-                // 1. Vertical Stacking (Building Upwards)
-                box.style.bottom = '15px'; // Anchor to top of dot
+                // 4. Dynamic Pole Height Calculation
+                box.style.bottom = '15px'; // Anchor securely to the dot
                 box.style.top = 'auto';
 
-                // Force a tall base pole so labels clear the top of the waveform
-                const basePole = 70; 
-                const step = 40; // Lane height
-                const newPoleHeight = basePole + (laneIndex * step);
-                pole.style.height = `${newPoleHeight}px`;
+                // Calculate exact distance from this specific dot to the Sky Baseline
+                const markerRect = marker.getBoundingClientRect();
+                const distanceToSky = markerRect.top - skyBaseline;
 
+                // Base pole reaches the baseline; laneIndex adds steps above the baseline
+                const step = 42; // Height of each lane
+                const safeDistance = Math.max(20, distanceToSky); // Fallback to prevent negative heights
+                const newPoleHeight = safeDistance + (laneIndex * step);
+                
+                pole.style.height = `${newPoleHeight}px`;
                 box.style.zIndex = 100 + laneIndex;
 
-                // 2. Horizontal Edge Bounding
+                // 5. Horizontal Edge Bounding
                 const viewportWidth = window.innerWidth;
-                const safetyPadding = 15; 
-                let currentTransform = -50; 
-                let pixelOffset = 0; 
+                const safetyPadding = 20;
+                let currentTransform = -50;
+                let pixelOffset = 0;
 
                 if (left < safetyPadding) {
                     pixelOffset = safetyPadding - left;
