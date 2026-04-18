@@ -60,14 +60,14 @@
         "year": "1981",
         "id": 617742,
         "poster": "https://image.tmdb.org/t/p/w200/d8FVWHbDzR6RmVwnYkfeHXalAm1.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=y-Ze8oduFco"
+        "youtube_link": null
     },
     {
         "title": "The Pursuit of D.B. Cooper",
         "year": "1981",
         "id": 45226,
         "poster": "https://image.tmdb.org/t/p/w200/4uDT9RF7JlZf1T0bn0p68DRVmNv.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=rFn7MNrbbtA"
+        "youtube_link": null
     },
     {
         "title": "48 Hrs.",
@@ -88,14 +88,14 @@
         "year": "1982",
         "id": 270107,
         "poster": "https://image.tmdb.org/t/p/w200/rAtaFhuDEyIz6tjqTcHc8okaQVe.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=K2u6aeDrCq0"
+        "youtube_link": null
     },
     {
         "title": "Rascals and Robbers: The Secret Adventures of Tom Sawyer and Huck Finn",
         "year": "1982",
         "id": 88139,
         "poster": "https://image.tmdb.org/t/p/w200/yxOdUvIkFM7N7Ca0c0nF9vCCCqN.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=ElemIFo0mbM"
+        "youtube_link": null
     },
     {
         "title": "Krull",
@@ -144,7 +144,7 @@
         "year": "1983",
         "id": 198192,
         "poster": "https://image.tmdb.org/t/p/w200/bIQ8dHvGTJk6aZWsheshkaoWKGW.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=kAM_nW-NfYQ"
+        "youtube_link": null
     },
     {
         "title": "Brainstorm",
@@ -193,7 +193,7 @@
         "year": "1985",
         "id": 29903,
         "poster": "https://image.tmdb.org/t/p/w200/u1W6PBK6okOq2D9uJK5UKSyOFEP.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=VBdOAKGLdbA"
+        "youtube_link": null
     },
     {
         "title": "The Journey of Natty Gann",
@@ -207,7 +207,7 @@
         "year": "1985",
         "id": 183046,
         "poster": "https://image.tmdb.org/t/p/w200/xx36QmEwzzP0nmt6Bep2Mqc0ZFC.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=BQNumR7AKw4"
+        "youtube_link": null
     },
     {
         "title": "Heaven Help Us",
@@ -249,7 +249,7 @@
         "year": "1986",
         "id": 39243,
         "poster": "https://image.tmdb.org/t/p/w200/lc7Plw3ebetrmGoSq9ads6PNExy.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=8e8NOf0SP44"
+        "youtube_link": null
     },
     {
         "title": "Captain EO",
@@ -284,7 +284,7 @@
         "year": "1987",
         "id": 194875,
         "poster": "https://image.tmdb.org/t/p/w200/nAa5wgXYKUrm8M7whKX5hDvtd4d.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=-U4u5TzEJo0"
+        "youtube_link": null
     },
     {
         "title": "Willow",
@@ -298,7 +298,7 @@
         "year": "1988",
         "id": 11285,
         "poster": "https://image.tmdb.org/t/p/w200/xBsXdBl8qCXoQsWX6vfsVjWOMGk.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=oa9CzfgEEJ8"
+        "youtube_link": null
     },
     {
         "title": "Red Heat",
@@ -326,7 +326,7 @@
         "year": "1988",
         "id": 88347,
         "poster": "https://image.tmdb.org/t/p/w200/w8Ax22PY2b0RFItbNlTeA757fji.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=Nnt5QQx30Is"
+        "youtube_link": null
     },
     {
         "title": "Field of Dreams",
@@ -361,7 +361,7 @@
         "year": "1989",
         "id": 32855,
         "poster": "https://image.tmdb.org/t/p/w200/rLyxWz5O2QfOBbqLDlloUHQyuru.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=B5paW52EfgM"
+        "youtube_link": null
     },
     {
         "title": "Dad",
@@ -501,7 +501,7 @@
         "year": "1993",
         "id": 9944,
         "poster": "https://image.tmdb.org/t/p/w200/7B1HS0SqfJR1jbeHS6V0ZWdzLXP.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=wZrQXUwkXtU"
+        "youtube_link": null
     },
     {
         "title": "Searching for Bobby Fischer",
@@ -613,7 +613,7 @@
         "year": "1996",
         "id": 47907,
         "poster": "https://image.tmdb.org/t/p/w200/8msETDMD6sxIkN3YtIFbCy23CBP.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=sZTbn97-Wws"
+        "youtube_link": null
     },
     {
         "title": "Titanic",
@@ -676,7 +676,7 @@
         "year": "2000",
         "id": 47208,
         "poster": "https://image.tmdb.org/t/p/w200/nFoPavCiN4fKGY23BZUahyu1GYb.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=lktrRoU2Qlk"
+        "youtube_link": null
     },
     {
         "title": "A Beautiful Mind",
@@ -739,7 +739,7 @@
         "year": "2003",
         "id": 13920,
         "poster": "https://image.tmdb.org/t/p/w200/uQ6ci4iFHhB6TWB2f4wftR7AEly.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=BQNumR7AKw4"
+        "youtube_link": null
     },
     {
         "title": "Troy",
@@ -858,14 +858,14 @@
         "year": "2012",
         "id": 213362,
         "poster": "https://image.tmdb.org/t/p/w200/4TxXJqt7UrsgsCuiW8H2YN51t5g.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=BQNumR7AKw4"
+        "youtube_link": null
     },
     {
         "title": "Outlaws - For Greater Glory",
         "year": "2012",
         "id": 96399,
         "poster": "https://image.tmdb.org/t/p/w200/7jgh0ej04j98q2NFpSZLlpDazUo.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=kupvob2zYaY"
+        "youtube_link": null
     },
     {
         "title": "Wolf Totem",

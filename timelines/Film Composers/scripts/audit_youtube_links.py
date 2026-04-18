@@ -2,6 +2,7 @@ import json
 import os
 import re
 import yt_dlp
+import time
 
 def normalize_text(text):
     if not text:
@@ -29,7 +30,6 @@ def audit_links():
             print(f"Auditing {filename}...")
             
             # Extract composer's last name from filename
-            # Example: Elliot_Goldenthal.json -> Goldenthal
             composer_name_parts = filename.replace('.json', '').split('_')
             composer_last_name = normalize_text(composer_name_parts[-1])
             
@@ -50,6 +50,9 @@ def audit_links():
                 normalized_film_title = normalize_text(film_title)
 
                 try:
+                    # Added a small delay to respect YouTube's rate limits
+                    time.sleep(1.5)
+                    
                     info = ydl.extract_info(youtube_link, download=False)
                     yt_title = info.get('title', '')
                     yt_description = info.get('description', '') or ""
@@ -57,15 +60,14 @@ def audit_links():
                     normalized_yt_title = normalize_text(yt_title)
                     normalized_yt_description = normalize_text(yt_description)
 
-                    # Check A: Does normalized film title exist in normalized YouTube title as a distinct word/phrase?
-                    # Use regex word boundaries \b
+                    # Check A: Does normalized film title exist in normalized YouTube title?
                     check_a = False
                     if normalized_film_title:
                         pattern = rf'\b{re.escape(normalized_film_title)}\b'
                         if re.search(pattern, normalized_yt_title):
                             check_a = True
 
-                    # Check B: If Check A fails, does normalized YouTube description contain BOTH film title AND composer's last name?
+                    # Check B: Film title AND Composer's last name in description?
                     check_b = False
                     if not check_a:
                         if normalized_film_title and composer_last_name:
@@ -80,7 +82,16 @@ def audit_links():
                         print(f"  Passed: '{film_title}'")
 
                 except Exception as e:
-                    print(f"  ERROR validation for '{film_title}' ({youtube_link}): Video may be private/deleted.")
+                    error_msg = str(e)
+                    # Critical: If rate limited, we MUST stop and NOT set the link to null
+                    if "rate-limited" in error_msg.lower():
+                        print("\nCRITICAL: Rate limit hit. Saving current progress and stopping script.")
+                        if updated:
+                            with open(filepath, 'w', encoding='utf-8') as f:
+                                json.dump(data, f, indent=4)
+                        return # Exit the entire script
+
+                    print(f"  ERROR for '{film_title}' ({youtube_link}): Video unavailable or private.")
                     item['youtube_link'] = None
                     updated = True
 
