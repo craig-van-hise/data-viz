@@ -46,21 +46,21 @@
         "year": "1995",
         "id": 778840,
         "poster": "https://image.tmdb.org/t/p/w200/f6oi3tNP93Sc4OfflnAfletcKyh.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=zuQiZX17g-A"
+        "youtube_link": null
     },
     {
         "title": "Beauty and the Beast: A Concert on Ice",
         "year": "1996",
         "id": 608111,
         "poster": "https://image.tmdb.org/t/p/w200/aGsX6A4t0ZPUoN6dEkXGwu7Cw0m.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=LaglHZg7trM"
+        "youtube_link": null
     },
     {
         "title": "The Hunchback of Notre Dame",
         "year": "1996",
         "id": 10545,
         "poster": "https://image.tmdb.org/t/p/w200/hImMgT9B27evYSRmfztqdDtX6qi.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=jAtDSQRKWjU"
+        "youtube_link": null
     },
     {
         "title": "Hercules",
@@ -88,7 +88,7 @@
         "year": "2006",
         "id": 10067,
         "poster": "https://image.tmdb.org/t/p/w200/tGX3YyPaYMbjiRwR5PjRsJW7GtM.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=_acrO1YGqpA"
+        "youtube_link": null
     },
     {
         "title": "Enchanted",
@@ -130,7 +130,7 @@
         "year": "2018",
         "id": 512191,
         "poster": "https://image.tmdb.org/t/p/w200/kTMIYVGKeXsIcVumZvyapkhvQiY.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=-YsHZNUx3p8"
+        "youtube_link": null
     },
     {
         "title": "Aladdin",
@@ -144,14 +144,14 @@
         "year": "2019",
         "id": 642271,
         "poster": "https://image.tmdb.org/t/p/w200/mVZklqsmbbkOgTG4o0nVtM8rJ82.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=2xLYC0XnVxM"
+        "youtube_link": null
     },
     {
         "title": "Disenchanted",
         "year": "2022",
         "id": 338958,
         "poster": "https://image.tmdb.org/t/p/w200/uyNLq2Dc3s4IOdcYTU8ZtM2lTjb.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=si6axhfEOF4"
+        "youtube_link": null
     },
     {
         "title": "The Little Mermaid",

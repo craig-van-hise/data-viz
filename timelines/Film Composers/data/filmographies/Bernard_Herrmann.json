@@ -46,7 +46,7 @@
         "year": "1947",
         "id": 22292,
         "poster": "https://image.tmdb.org/t/p/w200/idoD3cwfwj86BPvVoWVgWhnT2xq.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=tvMzqTFO0qc"
+        "youtube_link": null
     },
     {
         "title": "The Day the Earth Stood Still",
@@ -284,21 +284,21 @@
         "year": "1968",
         "id": 715787,
         "poster": "https://image.tmdb.org/t/p/w200/5050dQdlgEXrEZOdocemgp535AH.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=_WaNU0os3nU"
+        "youtube_link": null
     },
     {
         "title": "Obsessions",
         "year": "1969",
         "id": 287775,
         "poster": "https://image.tmdb.org/t/p/w200/iUMHRtDvgxaSFI5FPSgZQBo2cm7.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=5hQvJrDuQtQ"
+        "youtube_link": null
     },
     {
         "title": "The Battle of Neretva",
         "year": "1969",
         "id": 34449,
         "poster": "https://image.tmdb.org/t/p/w200/wNgBGWnlfkXHAH06dcTCW5QVxm6.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=8Iuh-Cs_KKY"
+        "youtube_link": null
     },
     {
         "title": "The Road Builder",
@@ -354,7 +354,7 @@
         "year": "1983",
         "id": 445183,
         "poster": "https://image.tmdb.org/t/p/w200/b9XFh1bD7tQ2nUqtaKdcdPSJsAp.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=Tno2S1D1rSo"
+        "youtube_link": null
     },
     {
         "title": "Cape Fear",
@@ -375,14 +375,14 @@
         "year": "2008",
         "id": 346109,
         "poster": null,
-        "youtube_link": "https://www.youtube.com/watch?v=Hpk7pw9bwiY"
+        "youtube_link": null
     },
     {
         "title": "The Twilight Zone: A 60th Anniversary Celebration",
         "year": "2019",
         "id": 631715,
         "poster": "https://image.tmdb.org/t/p/w200/pFovdt3OW4vk6r0IenrdRLsHgoM.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=3TU2qSHSeyo"
+        "youtube_link": null
     },
     {
         "title": "Matthew Bourne's The Red Shoes",

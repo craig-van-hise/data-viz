@@ -74,7 +74,7 @@
         "year": "1967",
         "id": 84511,
         "poster": "https://image.tmdb.org/t/p/w200/xpgrGgP2FLpFDgphq8urIA5WDh4.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=W07LxUfxJRU"
+        "youtube_link": null
     },
     {
         "title": "The Split",
@@ -88,14 +88,14 @@
         "year": "1968",
         "id": 721142,
         "poster": "https://image.tmdb.org/t/p/w200/i8dsOb2EKzOdMxB7px2RDNQwkIK.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=RWY4RBwZsqQ"
+        "youtube_link": null
     },
     {
         "title": "A Dandy in Aspic",
         "year": "1968",
         "id": 84844,
         "poster": "https://image.tmdb.org/t/p/w200/5MxaHR8EOtftUbhm1wqqdJIiUNS.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=NDGTLkjyHjA"
+        "youtube_link": null
     },
     {
         "title": "The Hell with Heroes",
@@ -109,7 +109,7 @@
         "year": "1968",
         "id": 70591,
         "poster": "https://image.tmdb.org/t/p/w200/xUa2GkJSaA6eVAc68ixL4I1MMiz.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=L-FOHPRkb40"
+        "youtube_link": null
     },
     {
         "title": "The Italian Job",
@@ -123,7 +123,7 @@
         "year": "1969",
         "id": 61742,
         "poster": "https://image.tmdb.org/t/p/w200/1Uw1LUoDDhBpv9orJOEj1xQytRF.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=Af03chV0kII"
+        "youtube_link": null
     },
     {
         "title": "The Lost Man",
@@ -137,7 +137,7 @@
         "year": "1969",
         "id": 26520,
         "poster": "https://image.tmdb.org/t/p/w200/8fDLuB1q3JycYJPK0F65OYO3lAX.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=YPswMuoBRJs"
+        "youtube_link": null
     },
     {
         "title": "Cactus Flower",
@@ -165,42 +165,42 @@
         "year": "1970",
         "id": 117999,
         "poster": "https://image.tmdb.org/t/p/w200/xj5Rub6H5B9yMh6GL3oomOM1SLg.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=0RTyyOlelKI"
+        "youtube_link": null
     },
     {
         "title": "The Out-of-Towners",
         "year": "1970",
         "id": 20444,
         "poster": "https://image.tmdb.org/t/p/w200/1yun6b1oVbHvyfnkhs5Ib7uQjSL.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=AM1QQTEodIY"
+        "youtube_link": null
     },
     {
         "title": "Eggs",
         "year": "1971",
         "id": 266534,
         "poster": "https://image.tmdb.org/t/p/w200/ryimAPFoHeAzL2Kb1mYCAgNf6WS.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=JAYsm5-6wfI"
+        "youtube_link": null
     },
     {
         "title": "Honky",
         "year": "1971",
         "id": 134186,
         "poster": "https://image.tmdb.org/t/p/w200/ysAAIuaBCfU4RslCKR1LL5i5aPc.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=tG-Nn3t6Zzs"
+        "youtube_link": null
     },
     {
         "title": "Brother John",
         "year": "1971",
         "id": 121923,
         "poster": "https://image.tmdb.org/t/p/w200/oAlIrWE9dBolu5Q25HI18bTFoq.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=8dkwpHoDpXA"
+        "youtube_link": null
     },
     {
         "title": "$",
         "year": "1971",
         "id": 31644,
         "poster": "https://image.tmdb.org/t/p/w200/bQ4f5lmo8m0tfkQqqXbAUfFeHIJ.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=aIpqW0rkqEQ"
+        "youtube_link": null
     },
     {
         "title": "The Anderson Tapes",
@@ -235,13 +235,13 @@
         "year": "2005",
         "id": 10060,
         "poster": "https://image.tmdb.org/t/p/w200/aaEJu8vFKtrAoSRtw3xjCf1aM5d.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=W07LxUfxJRU"
+        "youtube_link": null
     },
     {
         "title": "Lola",
         "year": "2024",
         "id": 818861,
         "poster": "https://image.tmdb.org/t/p/w200/mCc3u1NXeHIgT8NyIOoZuoPUIxg.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=vpmJUKN-rWs"
+        "youtube_link": null
     }
 ]

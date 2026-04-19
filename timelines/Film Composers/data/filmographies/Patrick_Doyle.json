@@ -74,7 +74,7 @@
         "year": "1994",
         "id": 3036,
         "poster": "https://image.tmdb.org/t/p/w200/bOwCAQsZlEKrwhPi1ejY6BS8jpL.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=ioObvNJMVZI"
+        "youtube_link": null
     },
     {
         "title": "Exit to Eden",
@@ -95,14 +95,14 @@
         "year": "1995",
         "id": 183244,
         "poster": "https://image.tmdb.org/t/p/w200/r6o9XB6ttit5KO6Ib3CKBDkrmfR.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=tLfiWjRIAf4"
+        "youtube_link": null
     },
     {
         "title": "Sense and Sensibility",
         "year": "1995",
         "id": 4584,
         "poster": "https://image.tmdb.org/t/p/w200/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=AMbCywh04Nk"
+        "youtube_link": null
     },
     {
         "title": "Hamlet",
@@ -179,7 +179,7 @@
         "year": "2002",
         "id": 14365,
         "poster": "https://image.tmdb.org/t/p/w200/pgfFJw7mqAmJdZizrJ6oOK0ejOZ.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=JQwf8VKNGEM"
+        "youtube_link": null
     },
     {
         "title": "Secondhand Lions",
@@ -200,14 +200,14 @@
         "year": "2003",
         "id": 189332,
         "poster": "https://image.tmdb.org/t/p/w200/1ycqWF1XkgonCjz972B0t4xwzmY.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=jBYOsMLM910"
+        "youtube_link": null
     },
     {
         "title": "Battle of the Brave",
         "year": "2004",
         "id": 57709,
         "poster": "https://image.tmdb.org/t/p/w200/p4IlppLWJdAr0V6XU1uUc7tKG6q.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=0O4nA7UhdpM"
+        "youtube_link": null
     },
     {
         "title": "Harry Potter and the Goblet of Fire",
@@ -277,7 +277,7 @@
         "year": "2007",
         "id": 14649,
         "poster": "https://image.tmdb.org/t/p/w200/juriLa1l5xh9TOpaTaikXCYOTpO.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=r9Xw03Rl9Q4"
+        "youtube_link": null
     },
     {
         "title": "Nim's Island",
@@ -326,14 +326,14 @@
         "year": "2012",
         "id": 223605,
         "poster": "https://image.tmdb.org/t/p/w200/4Fo4MS7PjcRsIG5L6plEBveCEa.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=zqRQBCaXyK4"
+        "youtube_link": null
     },
     {
         "title": "National Theatre Live: Macbeth",
         "year": "2013",
         "id": 217527,
         "poster": "https://image.tmdb.org/t/p/w200/n2BFr8IRT8EcrpOitIiDQ7qfVjH.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=oMU9vKLhWfw"
+        "youtube_link": null
     },
     {
         "title": "Jack Ryan: Shadow Recruit",
@@ -396,7 +396,7 @@
         "year": "2018",
         "id": 558095,
         "poster": "https://image.tmdb.org/t/p/w200/yae0QoZuPQ6yC8HleRYXXfttPLh.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=r9Xw03Rl9Q4"
+        "youtube_link": null
     },
     {
         "title": "Artemis Fowl",

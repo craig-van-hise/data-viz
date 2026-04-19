@@ -53,14 +53,14 @@
         "year": "2009",
         "id": 1662829,
         "poster": "https://image.tmdb.org/t/p/w200/nb81JGRKW1Wi8XD13tAekFWsW5q.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=K8KXPWuMmJ8"
+        "youtube_link": null
     },
     {
         "title": "Copland, Bernstein",
         "year": "2014",
         "id": 1588129,
         "poster": "https://image.tmdb.org/t/p/w200/cDbfMfgMQV7tYlQkqX2qzV9hCyj.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=e-g7ar61T9A"
+        "youtube_link": null
     },
     {
         "title": "Zahia Ziouani & Mourad Merzouki : Les Nouveaux Mondes",
@@ -74,6 +74,6 @@
         "year": "2025",
         "id": 1611008,
         "poster": "https://image.tmdb.org/t/p/w200/zVGrr9jbfeKcenNTYy9eGR0OV3w.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=HZ6hFKUl_qU"
+        "youtube_link": null
     }
 ]

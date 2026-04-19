@@ -32,7 +32,7 @@
         "year": "1962",
         "id": 426976,
         "poster": "https://image.tmdb.org/t/p/w200/7qVluHy17TjEmUVkh5buplFzDZw.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=eWZ2adCaKo4"
+        "youtube_link": null
     },
     {
         "title": "From Russia with Love",
@@ -53,7 +53,7 @@
         "year": "1964",
         "id": 3092,
         "poster": "https://image.tmdb.org/t/p/w200/dHu7nuNwXTXoPdpNOEPKhHfCBk5.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=xx4OolsLSKA"
+        "youtube_link": null
     },
     {
         "title": "Zulu",
@@ -137,7 +137,7 @@
         "year": "1965",
         "id": 49457,
         "poster": "https://image.tmdb.org/t/p/w200/l8APEAGZk3FT7tLS6MypcozryVw.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yvpnNa1nFWI"
+        "youtube_link": null
     },
     {
         "title": "The Chase",
@@ -361,7 +361,7 @@
         "year": "1977",
         "id": 47914,
         "poster": "https://image.tmdb.org/t/p/w200/szvuG051LtheWv94QBcqldE4Wsu.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=QeFFuO0nEZ4"
+        "youtube_link": null
     },
     {
         "title": "First Love",
@@ -382,28 +382,28 @@
         "year": "1977",
         "id": 263219,
         "poster": "https://image.tmdb.org/t/p/w200/5x169mjxckyNie4YNEwrfg8X9V6.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=C5nGJhPvNoQ"
+        "youtube_link": null
     },
     {
         "title": "Eleanor and Franklin: The White House Years",
         "year": "1977",
         "id": 263220,
         "poster": null,
-        "youtube_link": "https://www.youtube.com/watch?v=BXUEtzPTmng"
+        "youtube_link": null
     },
     {
         "title": "The War Between the Tates",
         "year": "1977",
         "id": 827558,
         "poster": "https://image.tmdb.org/t/p/w200/yNhAkc4wzvKk9Zp8iKY3MuHHIDq.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=C5nGJhPvNoQ"
+        "youtube_link": null
     },
     {
         "title": "The Gathering",
         "year": "1977",
         "id": 146401,
         "poster": "https://image.tmdb.org/t/p/w200/uj72lKjW4k7QbvIdgiNXhAMNyrG.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=eWZ2adCaKo4"
+        "youtube_link": null
     },
     {
         "title": "Game of Death",
@@ -522,7 +522,7 @@
         "year": "1982",
         "id": 81887,
         "poster": "https://image.tmdb.org/t/p/w200/zwXPrXuvrtzME3zJjA4Y2RbOKrw.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=HVSQSUuhGX0"
+        "youtube_link": null
     },
     {
         "title": "Hammett",
@@ -627,7 +627,7 @@
         "year": "1987",
         "id": 126836,
         "poster": "https://image.tmdb.org/t/p/w200/lmQcmvGDqPafoJqGuy2VoibUe3v.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=MjS2p2vxxkE"
+        "youtube_link": null
     },
     {
         "title": "Masquerade",
@@ -697,7 +697,7 @@
         "year": "1998",
         "id": 825,
         "poster": "https://image.tmdb.org/t/p/w200/3neHR1oPnC0OpcYhLn0TEdSHoEp.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=oj-t32wOPlg"
+        "youtube_link": null
     },
     {
         "title": "Swept from the Sea",
@@ -725,6 +725,6 @@
         "year": "2023",
         "id": 1153314,
         "poster": "https://image.tmdb.org/t/p/w200/riauZaxIBc0qvbXmfkTqnSx1Vip.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=Wzco1Zw0sGY"
+        "youtube_link": null
     }
 ]

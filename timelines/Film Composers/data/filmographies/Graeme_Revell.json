@@ -18,7 +18,7 @@
         "year": "1990",
         "id": 40377,
         "poster": "https://image.tmdb.org/t/p/w200/vxWTkQRAvTvA6rbBhsdC4pdnHuq.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=7hvgIqex9GA"
+        "youtube_link": null
     },
     {
         "title": "Until the End of the World",
@@ -39,7 +39,7 @@
         "year": "1991",
         "id": 271176,
         "poster": "https://image.tmdb.org/t/p/w200/iM5b21YNIxaDJg0gxQDKOaxNzyd.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=GrQBpjTt09I"
+        "youtube_link": null
     },
     {
         "title": "The Hand That Rocks the Cradle",
@@ -53,14 +53,14 @@
         "year": "1992",
         "id": 39479,
         "poster": "https://image.tmdb.org/t/p/w200/l2zE5VYf3SlC66GTpR80bwcWDn4.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=tfqHMSAt1-0"
+        "youtube_link": null
     },
     {
         "title": "Faraway, So Close!",
         "year": "1993",
         "id": 10434,
         "poster": "https://image.tmdb.org/t/p/w200/5VaPw0NgM4DloukmQTggzgvD4rb.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=2snh5PzZbHg"
+        "youtube_link": null
     },
     {
         "title": "Body of Evidence",
@@ -74,7 +74,7 @@
         "year": "1993",
         "id": 18215,
         "poster": "https://image.tmdb.org/t/p/w200/vgs0h94IllpZRheIjBTonjR7Zf2.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=qpzfNMo41HE"
+        "youtube_link": null
     },
     {
         "title": "The Crush",
@@ -88,7 +88,7 @@
         "year": "1993",
         "id": 2019,
         "poster": "https://image.tmdb.org/t/p/w200/mXCM7pmUFUGp7QzSmare3RITe6n.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=Vc33fEnW1hg"
+        "youtube_link": null
     },
     {
         "title": "Ghost in the Machine",
@@ -137,14 +137,14 @@
         "year": "1995",
         "id": 10474,
         "poster": "https://image.tmdb.org/t/p/w200/AhvO1GGDPIgN0hOqZEgaFCbswMK.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=-4Lf7r7YJMc"
+        "youtube_link": null
     },
     {
         "title": "S.F.W.",
         "year": "1995",
         "id": 29444,
         "poster": "https://image.tmdb.org/t/p/w200/3bq91jWCReRrqlPn81alSoxeXoP.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=pzeXWSFC-8Y"
+        "youtube_link": null
     },
     {
         "title": "The Tie That Binds",
@@ -158,7 +158,7 @@
         "year": "1995",
         "id": 9070,
         "poster": "https://image.tmdb.org/t/p/w200/pcLbHqs80dchv0byHivhdwHKEup.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=fsTNe0HBPuQ"
+        "youtube_link": null
     },
     {
         "title": "Tank Girl",
@@ -179,7 +179,7 @@
         "year": "1996",
         "id": 10546,
         "poster": "https://image.tmdb.org/t/p/w200/ppOoLiO2JY0BJQdixs08xrQuAA6.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=H1XIOmnZhCk"
+        "youtube_link": null
     },
     {
         "title": "Fled",
@@ -200,7 +200,7 @@
         "year": "1996",
         "id": 55731,
         "poster": "https://image.tmdb.org/t/p/w200/jQA7TXgmEi35Zab6fHQ8VZ7Zhfn.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=lT4RKZYy52k"
+        "youtube_link": null
     },
     {
         "title": "The Saint",
@@ -249,7 +249,7 @@
         "year": "1998",
         "id": 45242,
         "poster": "https://image.tmdb.org/t/p/w200/c6fxRpHNdSA3yv8prMo1sNzOcgF.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=-1peS-f808c"
+        "youtube_link": null
     },
     {
         "title": "Bride of Chucky",
@@ -263,14 +263,14 @@
         "year": "1998",
         "id": 19381,
         "poster": "https://image.tmdb.org/t/p/w200/cCr8mLqIVkbjBNs1uaZPvkXYnWA.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=GrQBpjTt09I"
+        "youtube_link": null
     },
     {
         "title": "The Big Hit",
         "year": "1998",
         "id": 9448,
         "poster": "https://image.tmdb.org/t/p/w200/7b1JP2WE0UrVAy34U7X4UngWtBi.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=GrQBpjTt09I"
+        "youtube_link": null
     },
     {
         "title": "The Negotiator",
@@ -319,7 +319,7 @@
         "year": "2000",
         "id": 109479,
         "poster": "https://image.tmdb.org/t/p/w200/3hLdv9aGXDTs95c0st9wBmaKpZR.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=GrQBpjTt09I"
+        "youtube_link": null
     },
     {
         "title": "Gossip",
@@ -333,7 +333,7 @@
         "year": "2000",
         "id": 2787,
         "poster": "https://image.tmdb.org/t/p/w200/3AnlxZ5CZnhKKzjgFyY6EHxmOyl.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=1X5tH0xwNBk"
+        "youtube_link": null
     },
     {
         "title": "Human Nature",
@@ -361,14 +361,14 @@
         "year": "2001",
         "id": 65869,
         "poster": "https://image.tmdb.org/t/p/w200/sTexeAs91LXC3qp8SbI73pYsqVr.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=GrQBpjTt09I"
+        "youtube_link": null
     },
     {
         "title": "Below",
         "year": "2002",
         "id": 12590,
         "poster": "https://image.tmdb.org/t/p/w200/4tsaLD98DcXh4ltOn9wEWhsUkSc.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=GrQBpjTt09I"
+        "youtube_link": null
     },
     {
         "title": "Collateral Damage",
@@ -417,7 +417,7 @@
         "year": "2004",
         "id": 83,
         "poster": "https://image.tmdb.org/t/p/w200/7Gy5N0Yp7ocaKBR860v9KDbpYHj.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=1hjwM050iao"
+        "youtube_link": null
     },
     {
         "title": "The Chronicles of Riddick",
@@ -466,28 +466,28 @@
         "year": "2005",
         "id": 8978,
         "poster": "https://image.tmdb.org/t/p/w200/oBpsRvMN1ONl8oFHuWt1rasDYFJ.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=Lfa_XmfmKK8"
+        "youtube_link": null
     },
     {
         "title": "The Adventures of Sharkboy and Lavagirl",
         "year": "2005",
         "id": 14199,
         "poster": "https://image.tmdb.org/t/p/w200/xpFbHSkRgOxOoutKqXob9T8iBPA.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=Og8fB56TKqk"
+        "youtube_link": null
     },
     {
         "title": "Man of the Year",
         "year": "2006",
         "id": 9895,
         "poster": "https://image.tmdb.org/t/p/w200/s1etp9ZqcRqZVfonrdFJbQ6mgk9.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=GrQBpjTt09I"
+        "youtube_link": null
     },
     {
         "title": "Bordertown",
         "year": "2007",
         "id": 4351,
         "poster": "https://image.tmdb.org/t/p/w200/c0AR36VzvB5ileCoMfSlV9bFsVn.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=GrQBpjTt09I"
+        "youtube_link": null
     },
     {
         "title": "Grindhouse",
@@ -522,28 +522,28 @@
         "year": "2008",
         "id": 11152,
         "poster": "https://image.tmdb.org/t/p/w200/6HpicbiT7xmlMjQXOSCeNoLZGpf.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=8rpYGpSiVTo"
+        "youtube_link": null
     },
     {
         "title": "Pineapple Express",
         "year": "2008",
         "id": 10189,
         "poster": "https://image.tmdb.org/t/p/w200/6E50WjeOYjDZg9HXgPjYdGtY2jG.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=GrQBpjTt09I"
+        "youtube_link": null
     },
     {
         "title": "Days of Wrath",
         "year": "2008",
         "id": 125999,
         "poster": "https://image.tmdb.org/t/p/w200/uG5f4O6ehAfrE5dnQgnfMWB9zYE.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=GrQBpjTt09I"
+        "youtube_link": null
     },
     {
         "title": "Unthinkable",
         "year": "2010",
         "id": 38199,
         "poster": "https://image.tmdb.org/t/p/w200/6yQqguytl10FhImngDHV90Aqewa.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=GrQBpjTt09I"
+        "youtube_link": null
     },
     {
         "title": "The Experiment",
@@ -564,7 +564,7 @@
         "year": "2012",
         "id": 140834,
         "poster": "https://image.tmdb.org/t/p/w200/biHq7qaVzVNqVI6juHrOjfkgeHn.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=3czuAAkAX90"
+        "youtube_link": null
     },
     {
         "title": "Riddick",

@@ -11,7 +11,7 @@
         "year": "1935",
         "id": 87881,
         "poster": "https://image.tmdb.org/t/p/w200/psMxJHNMj2xP6msln8l9QGaTy4l.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=tUYO7hK6iD0"
+        "youtube_link": null
     },
     {
         "title": "Mad Love",
@@ -25,7 +25,7 @@
         "year": "1935",
         "id": 179066,
         "poster": "https://image.tmdb.org/t/p/w200/mla8LHfmoKRmvkL25rEVvBKcOwD.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=6U3P7XHnsiA"
+        "youtube_link": null
     },
     {
         "title": "Lost Horizon",
@@ -53,7 +53,7 @@
         "year": "1938",
         "id": 78092,
         "poster": "https://image.tmdb.org/t/p/w200/lCoitaqpPEIIgJyDtXli5UnK3Bm.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=9Y_QvVUsCwo"
+        "youtube_link": null
     },
     {
         "title": "Mr. Smith Goes to Washington",
@@ -74,7 +74,7 @@
         "year": "1940",
         "id": 119309,
         "poster": "https://image.tmdb.org/t/p/w200/mwAQ8j3ACnVScirsrAuLVnGT38n.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=YSD0SwH_HvU"
+        "youtube_link": null
     },
     {
         "title": "The Westerner",
@@ -116,7 +116,7 @@
         "year": "1941",
         "id": 336286,
         "poster": "https://image.tmdb.org/t/p/w200/y4SlaVIhq6RialKCS0yabJR1t6C.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=AyJqd6IxWlY"
+        "youtube_link": null
     },
     {
         "title": "Flying Blind",
@@ -144,14 +144,14 @@
         "year": "1942",
         "id": 97773,
         "poster": "https://image.tmdb.org/t/p/w200/seElgmFuoWOrj2i5CeVn7FbPrHV.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=FR5NQe5gjMI"
+        "youtube_link": null
     },
     {
         "title": "Report from the Aleutians",
         "year": "1943",
         "id": 23388,
         "poster": "https://image.tmdb.org/t/p/w200/AiUsJmATl5XyAaNTV2myd55HWmN.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=ATbqh1F_7Lk"
+        "youtube_link": null
     },
     {
         "title": "Shadow of a Doubt",
@@ -165,14 +165,14 @@
         "year": "1943",
         "id": 112912,
         "poster": "https://image.tmdb.org/t/p/w200/xgcuUIKFkiVwtUzZy7iE7oeD8ro.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=MXlau7Diskg"
+        "youtube_link": null
     },
     {
         "title": "The Unknown Guest",
         "year": "1943",
         "id": 124729,
         "poster": "https://image.tmdb.org/t/p/w200/scBXj3zdRlFO0RinPlTshuJVi5V.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=9Y_QvVUsCwo"
+        "youtube_link": null
     },
     {
         "title": "When Strangers Marry",
@@ -207,7 +207,7 @@
         "year": "1944",
         "id": 271518,
         "poster": "https://image.tmdb.org/t/p/w200/8bB7oY4TFLQeO3n9GUu03rwQicY.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=HNjMknSZ21Q"
+        "youtube_link": null
     },
     {
         "title": "Why We Fight: The Battle of China",
@@ -221,7 +221,7 @@
         "year": "1945",
         "id": 28115,
         "poster": "https://image.tmdb.org/t/p/w200/52fF9VV0ImOBtTKpAfKVYRVuuRv.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=VaBxGcCB1gY"
+        "youtube_link": null
     },
     {
         "title": "Pardon My Past",
@@ -249,7 +249,7 @@
         "year": "1945",
         "id": 162865,
         "poster": "https://image.tmdb.org/t/p/w200/e2zocBTXIsYfp0DSNydcvzdNgxy.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=ktPe3kBLpWs"
+        "youtube_link": null
     },
     {
         "title": "It's a Wonderful Life",
@@ -270,7 +270,7 @@
         "year": "1946",
         "id": 55600,
         "poster": "https://image.tmdb.org/t/p/w200/yOhmHkmefSZk3QlyhLn63i7oSii.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=YSD0SwH_HvU"
+        "youtube_link": null
     },
     {
         "title": "Let There Be Light",
@@ -347,7 +347,7 @@
         "year": "1949",
         "id": 25807,
         "poster": "https://image.tmdb.org/t/p/w200/5Vs4kB5HD3dIVoPuVNvi9xr9ONI.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=9Vmw5ZUuhSI"
+        "youtube_link": null
     },
     {
         "title": "D.O.A.",
@@ -361,7 +361,7 @@
         "year": "1949",
         "id": 90807,
         "poster": "https://image.tmdb.org/t/p/w200/5DCIWBuKVZmJcM61gOcPDzm4sRU.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=YSD0SwH_HvU"
+        "youtube_link": null
     },
     {
         "title": "Champion",
@@ -431,7 +431,7 @@
         "year": "1951",
         "id": 29112,
         "poster": "https://image.tmdb.org/t/p/w200/spCIIPdOgW5NIMA4evLFBmw1prB.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=UuGy6ykIiQ0"
+        "youtube_link": null
     },
     {
         "title": "Drums in the Deep South",
@@ -445,7 +445,7 @@
         "year": "1951",
         "id": 191782,
         "poster": "https://image.tmdb.org/t/p/w200/seTwDPquEmWnbCf4XZAXiwyBJI4.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=ZzWzsva027M"
+        "youtube_link": null
     },
     {
         "title": "Mister Universe",
@@ -466,7 +466,7 @@
         "year": "1952",
         "id": 31559,
         "poster": "https://image.tmdb.org/t/p/w200/b0AifWNRWGkw0gCn30H358PfmdD.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=V04RjTcrgN0"
+        "youtube_link": null
     },
     {
         "title": "The Big Sky",
@@ -543,7 +543,7 @@
         "year": "1953",
         "id": 116932,
         "poster": "https://image.tmdb.org/t/p/w200/u2g9hI9G3gTgZU4Hf5HxwbUJfEi.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=s2a0WLszJyA"
+        "youtube_link": null
     },
     {
         "title": "Take the High Ground!",
@@ -564,7 +564,7 @@
         "year": "1953",
         "id": 182805,
         "poster": "https://image.tmdb.org/t/p/w200/hM0I2PPomtzo0FvFGpCcTJGnD8X.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=BE5x_VL6xOU"
+        "youtube_link": null
     },
     {
         "title": "Dial M for Murder",
@@ -592,7 +592,7 @@
         "year": "1954",
         "id": 108345,
         "poster": "https://image.tmdb.org/t/p/w200/xhfYxJHlWftZqLkvFWOpwwVnlot.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=YSD0SwH_HvU"
+        "youtube_link": null
     },
     {
         "title": "His Majesty O'Keefe",
@@ -795,6 +795,6 @@
         "year": "1997",
         "id": 1215744,
         "poster": "https://image.tmdb.org/t/p/w200/vjtHskJCjtSZaUpJHuPVjyW5vUk.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=Isi18cFW7Nk"
+        "youtube_link": null
     }
 ]

@@ -11,7 +11,7 @@
         "year": "1975",
         "id": 260848,
         "poster": "https://image.tmdb.org/t/p/w200/3MbQrJWhECtd7sOjmD69mImkkpn.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=0uqUFDq2Vps"
+        "youtube_link": null
     },
     {
         "title": "Carrie",
@@ -46,7 +46,7 @@
         "year": "1978",
         "id": 24831,
         "poster": "https://image.tmdb.org/t/p/w200/oaz0Le3fT3R8jzlkXkNV7JAsd7x.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=aEPiykJnN2I"
+        "youtube_link": null
     },
     {
         "title": "Damned in Venice",
@@ -81,14 +81,14 @@
         "year": "1980",
         "id": 182188,
         "poster": "https://image.tmdb.org/t/p/w200/buQOGvn2502XMG7QaJW2TvPzjEV.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=0uqUFDq2Vps"
+        "youtube_link": null
     },
     {
         "title": "Beyond Evil",
         "year": "1980",
         "id": 88410,
         "poster": "https://image.tmdb.org/t/p/w200/mFE1K45Lo0YRDw8hC9VSiHW1k3D.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=73sMjUJQzJw"
+        "youtube_link": null
     },
     {
         "title": "The Howling",
@@ -123,28 +123,28 @@
         "year": "1982",
         "id": 80494,
         "poster": "https://image.tmdb.org/t/p/w200/5QvmiJgQv2YuBvxYLcTUG51N3Vv.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=s8zRvS3BpGg"
+        "youtube_link": null
     },
     {
         "title": "Tex",
         "year": "1982",
         "id": 27332,
         "poster": "https://image.tmdb.org/t/p/w200/j9p9IHzjRNoswTPqWpUiOisHuEs.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "Venezia, carnevale, un amore",
         "year": "1982",
         "id": 1432227,
         "poster": null,
-        "youtube_link": "https://www.youtube.com/watch?v=jv6nfhLj170"
+        "youtube_link": null
     },
     {
         "title": "Street of Mirrors",
         "year": "1983",
         "id": 263152,
         "poster": "https://image.tmdb.org/t/p/w200/eHZT4g1G0a4ba65SlF7c4UcS7ta.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "Hercules",
@@ -165,56 +165,56 @@
         "year": "1984",
         "id": 11539,
         "poster": "https://image.tmdb.org/t/p/w200/b5KoVB3zdDY99lvry2OZKtpbVR1.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=5XOHxvKAAq0"
+        "youtube_link": null
     },
     {
         "title": "Over the Brooklyn Bridge",
         "year": "1984",
         "id": 251260,
         "poster": "https://image.tmdb.org/t/p/w200/aYO5Dxvf1L5zT0f17sfE5YMuZ49.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=eezOVP2qals"
+        "youtube_link": null
     },
     {
         "title": "Nothing Left to Do But Cry",
         "year": "1984",
         "id": 27670,
         "poster": "https://image.tmdb.org/t/p/w200/bCaBf3GcNKxI6sEU0foxXiLaHGa.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "Ordeal by Innocence",
         "year": "1984",
         "id": 108387,
         "poster": "https://image.tmdb.org/t/p/w200/eNQcr8cParH56l0Ss8UI2a3bsFh.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=bgM3waYb5yU"
+        "youtube_link": null
     },
     {
         "title": "The Adventures of Hercules",
         "year": "1985",
         "id": 30577,
         "poster": "https://image.tmdb.org/t/p/w200/pZNFBf5SRMGxt7NBnORfGEDKozk.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=JUPk3B6MxBw"
+        "youtube_link": null
     },
     {
         "title": "The Berlin Affair",
         "year": "1985",
         "id": 94754,
         "poster": "https://image.tmdb.org/t/p/w200/nltxTUSKKld16Zrnwyz2KV6VnM9.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=B5Nt98hmRwo"
+        "youtube_link": null
     },
     {
         "title": "Attention",
         "year": "1985",
         "id": 255559,
         "poster": "https://image.tmdb.org/t/p/w200/ooytznPnrS1BD7Ii033kSUgvmDV.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "D\u00e9j\u00e0 Vu",
         "year": "1985",
         "id": 202744,
         "poster": "https://image.tmdb.org/t/p/w200/opPi46hmrQPuIqpnqjOTJed7djO.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yZXNPcVCATU"
+        "youtube_link": null
     },
     {
         "title": "Nothing Underneath",
@@ -228,21 +228,21 @@
         "year": "1986",
         "id": 63269,
         "poster": "https://image.tmdb.org/t/p/w200/9oNzKVu9uaOUaU4vZZSfxflMI4l.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=WYzXT8l13_s"
+        "youtube_link": null
     },
     {
         "title": "Crawlspace",
         "year": "1986",
         "id": 56705,
         "poster": "https://image.tmdb.org/t/p/w200/hzrHUY2aksJcLGchBkLg6fTFgI8.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "7 Kilos in 7 Days",
         "year": "1986",
         "id": 43211,
         "poster": "https://image.tmdb.org/t/p/w200/8cDrT8Jt5LXmEPVfb4YN2Qm33I5.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=n3GaAIgRkQI"
+        "youtube_link": null
     },
     {
         "title": "The Fifth Missile",
@@ -263,7 +263,7 @@
         "year": "1987",
         "id": 292201,
         "poster": "https://image.tmdb.org/t/p/w200/m6DPhS582oDLMBBkPfS8fxN8WQv.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "The Barbarians",
@@ -284,14 +284,14 @@
         "year": "1987",
         "id": 434350,
         "poster": null,
-        "youtube_link": "https://www.youtube.com/watch?v=75FBbnjS5so"
+        "youtube_link": null
     },
     {
         "title": "The Devils of Monza",
         "year": "1987",
         "id": 107365,
         "poster": "https://image.tmdb.org/t/p/w200/oRTK55RAAcAmKSu15OQ678eFgSz.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=kJ8N7upkF7o"
+        "youtube_link": null
     },
     {
         "title": "Appointment with Death",
@@ -312,7 +312,7 @@
         "year": "1988",
         "id": 58647,
         "poster": "https://image.tmdb.org/t/p/w200/mkkEzft79wR1Ms6uHaTcV8kt6km.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=5BleC2kQb8E"
+        "youtube_link": null
     },
     {
         "title": "Catacombs",
@@ -333,35 +333,35 @@
         "year": "1988",
         "id": 153067,
         "poster": "https://image.tmdb.org/t/p/w200/dltNcMLhKbmeCDDI08XeZXahn2t.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=BnL_JSic8oA"
+        "youtube_link": null
     },
     {
         "title": "Zelly & Me",
         "year": "1988",
         "id": 41976,
         "poster": "https://image.tmdb.org/t/p/w200/qTgUPEjX7s4PzQdcyzen9logiRL.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=PuN1zFT4vek"
+        "youtube_link": null
     },
     {
         "title": "Kansas",
         "year": "1988",
         "id": 77670,
         "poster": "https://image.tmdb.org/t/p/w200/6fTbENf7RVzPKElXtcuADK2MiZI.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "Jiboa",
         "year": "1989",
         "id": 297039,
         "poster": null,
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "Night Game",
         "year": "1989",
         "id": 84071,
         "poster": "https://image.tmdb.org/t/p/w200/kZg7ECrfCQfbsCPvnfrsyGrERxV.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=IKB6LJRrtuU"
+        "youtube_link": null
     },
     {
         "title": "Indio",
@@ -382,21 +382,21 @@
         "year": "1990",
         "id": 72756,
         "poster": "https://image.tmdb.org/t/p/w200/gqDr49U4BqoN8ID0bl7tqcTkmej.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "Ritual of Love",
         "year": "1990",
         "id": 303777,
         "poster": "https://image.tmdb.org/t/p/w200/gk7Ld6FO7FkJWmJTwdVlMVzSUPf.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=0uqUFDq2Vps"
+        "youtube_link": null
     },
     {
         "title": "Indio 2 - The Revolt",
         "year": "1991",
         "id": 74594,
         "poster": "https://image.tmdb.org/t/p/w200/5KxbkNOgjGmJ1WuyBeq2pAVgYpJ.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=IZvV7iKHelE"
+        "youtube_link": null
     },
     {
         "title": "A Demon in My View",
@@ -431,14 +431,14 @@
         "year": "1992",
         "id": 37265,
         "poster": "https://image.tmdb.org/t/p/w200/7MKmQ9TdHQdiYpVGyZFBu6aFTvE.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "Where Are You? I\u2019m Here",
         "year": "1993",
         "id": 203969,
         "poster": "https://image.tmdb.org/t/p/w200/ekZDfbDLbGJ2O6cC2AWoYc95yY9.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=QT91iClUl6Y"
+        "youtube_link": null
     },
     {
         "title": "Trauma",
@@ -452,35 +452,35 @@
         "year": "1993",
         "id": 145635,
         "poster": "https://image.tmdb.org/t/p/w200/iQ4CYa1mISYBOrpl9Ko3h0Dk21y.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=0uqUFDq2Vps"
+        "youtube_link": null
     },
     {
         "title": "Troublemakers",
         "year": "1994",
         "id": 9287,
         "poster": "https://image.tmdb.org/t/p/w200/lZbP807sIDkBvDKBMEeLfPo7jbg.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "Oblivion",
         "year": "1994",
         "id": 49050,
         "poster": "https://image.tmdb.org/t/p/w200/yh1I8pMrXMnjb98gGECfykwu8xX.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=75FBbnjS5so"
+        "youtube_link": null
     },
     {
         "title": "Il giorno del giudizio",
         "year": "1994",
         "id": 483752,
         "poster": null,
-        "youtube_link": "https://www.youtube.com/watch?v=75FBbnjS5so"
+        "youtube_link": null
     },
     {
         "title": "Power and Lovers",
         "year": "1994",
         "id": 312098,
         "poster": "https://image.tmdb.org/t/p/w200/gFTNXqbghYFZgt7qkCPLLttPi7e.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "Never Talk to Strangers",
@@ -494,49 +494,49 @@
         "year": "1995",
         "id": 1124869,
         "poster": "https://image.tmdb.org/t/p/w200/b4PF02yiDz7DFlTMfS4zdxj0Eca.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "I'll Leave It All Behind Me",
         "year": "1995",
         "id": 75001,
         "poster": "https://image.tmdb.org/t/p/w200/umWMbckAUGSzT3QagA0hBOnlj9n.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "New York Crossing",
         "year": "1996",
         "id": 920825,
         "poster": "https://image.tmdb.org/t/p/w200/kq0BNn0PtM0JTCdMKzuoOyP81As.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "Marching in Darkness",
         "year": "1996",
         "id": 385181,
         "poster": "https://image.tmdb.org/t/p/w200/k7AXIwucYt3Rj7z8vXN3zI17EFt.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=T9d0_dBXABg"
+        "youtube_link": null
     },
     {
         "title": "Palermo \u2013 Milan One Way",
         "year": "1996",
         "id": 42422,
         "poster": "https://image.tmdb.org/t/p/w200/yNO633xy2uVrrDWtZVNv7bjz58t.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=K_IH3EP7x8Y"
+        "youtube_link": null
     },
     {
         "title": "Oblivion 2: Backlash",
         "year": "1996",
         "id": 80985,
         "poster": "https://image.tmdb.org/t/p/w200/nC88F3tNp1MKSFWMPGEixjqvhu9.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=9vH8YFqxYrM"
+        "youtube_link": null
     },
     {
         "title": "Squillo",
         "year": "1996",
         "id": 108465,
         "poster": "https://image.tmdb.org/t/p/w200/ptvQb3zkCXjKu138P02UOjbjXSm.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "La terza luna",
@@ -550,56 +550,56 @@
         "year": "1998",
         "id": 566864,
         "poster": "https://image.tmdb.org/t/p/w200/zgeRmUZLxzmJ80DPt6uAClQQj5l.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=gCYCyDz_B2M"
+        "youtube_link": null
     },
     {
         "title": "Gunslinger's Revenge",
         "year": "1998",
         "id": 62589,
         "poster": "https://image.tmdb.org/t/p/w200/jXhepFdn3VVNBFSKqsT6koH2XFy.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "Killer Couple",
         "year": "1998",
         "id": 176329,
         "poster": "https://image.tmdb.org/t/p/w200/qTVyndS8V2Ytr2zY4nhulx81lWV.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=5BleC2kQb8E"
+        "youtube_link": null
     },
     {
         "title": "Il tesoro di Damasco",
         "year": "1998",
         "id": 314863,
         "poster": "https://image.tmdb.org/t/p/w200/vlw79VMI0ioV8Lqa9jWjWEWLLL3.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=BAqn8fQKLQw"
+        "youtube_link": null
     },
     {
         "title": "Frivolous Lola",
         "year": "1998",
         "id": 50124,
         "poster": "https://image.tmdb.org/t/p/w200/n691GdFEMP3bBZ3SvLxFD2paAOz.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "Before the Sunset",
         "year": "1999",
         "id": 229540,
         "poster": "https://image.tmdb.org/t/p/w200/bQb7Zg13ZpGolIwob74Hi8l1ECq.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "The Wasteland",
         "year": "1999",
         "id": 166574,
         "poster": "https://image.tmdb.org/t/p/w200/sJuitDhTNV0V8Xli4GRXCBSmLke.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "Piovuto dal cielo",
         "year": "2000",
         "id": 858494,
         "poster": null,
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "Up at the Villa",
@@ -613,49 +613,49 @@
         "year": "2000",
         "id": 1432570,
         "poster": "https://image.tmdb.org/t/p/w200/8uBzTjcEgVV2IrxVvqrXu6BKZc7.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=4zzDklGXdRA"
+        "youtube_link": null
     },
     {
         "title": "Cheeky",
         "year": "2000",
         "id": 22705,
         "poster": "https://image.tmdb.org/t/p/w200/7gqcEgJfTltbLo76nZTl8umgM1Y.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "The Order",
         "year": "2001",
         "id": 37632,
         "poster": "https://image.tmdb.org/t/p/w200/4zvDsEfIbbAy6rKLOI2UerX1um1.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=75FBbnjS5so"
+        "youtube_link": null
     },
     {
         "title": "The Bankers Of God: The Calvi Affair",
         "year": "2002",
         "id": 56789,
         "poster": "https://image.tmdb.org/t/p/w200/nGa0nJuOsUbG27kAtq2AFTbQAMa.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=cETJdljwmBU"
+        "youtube_link": null
     },
     {
         "title": "Soul Mate",
         "year": "2003",
         "id": 74660,
         "poster": "https://image.tmdb.org/t/p/w200/vz2tTla3d2QrrfJSujQKML70Wgb.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "Seed of Chucky",
         "year": "2004",
         "id": 11249,
         "poster": "https://image.tmdb.org/t/p/w200/vd9K93gQ9whMKjXzADZanxWpIXM.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=8AhDaOTTJR4"
+        "youtube_link": null
     },
     {
         "title": "Pontormo - Un amore eretico",
         "year": "2004",
         "id": 58746,
         "poster": "https://image.tmdb.org/t/p/w200/nzUcBCg1wnrEcRWu41EG4XUxnye.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=KI8aJxux9LQ"
+        "youtube_link": null
     },
     {
         "title": "Concorso di colpa",
@@ -676,7 +676,7 @@
         "year": "2006",
         "id": 56980,
         "poster": "https://image.tmdb.org/t/p/w200/fNTbgnTH4GsMKIi1adHBH5NkCqm.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "Antonio, guerriero di Dio",
@@ -690,14 +690,14 @@
         "year": "2007",
         "id": 157251,
         "poster": "https://image.tmdb.org/t/p/w200/xJj7jQ6mM5NKTpYlgYbF8EjeD64.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "Milan \u2013 Palermo: The Return",
         "year": "2007",
         "id": 42423,
         "poster": "https://image.tmdb.org/t/p/w200/iEBOf0MdbaaLwE3lnYZve9pS5dn.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=b-c6KfW4cPs"
+        "youtube_link": null
     },
     {
         "title": "Winter in Wartime",
@@ -711,7 +711,7 @@
         "year": "2011",
         "id": 71928,
         "poster": "https://image.tmdb.org/t/p/w200/40gZFLeGIfYpCdcX0evspAWhntq.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "Passion",
@@ -732,70 +732,70 @@
         "year": "2014",
         "id": 293476,
         "poster": "https://image.tmdb.org/t/p/w200/qUJlxDaeVbsy7CbzEN6WNi6RIjE.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "The Great Rage",
         "year": "2016",
         "id": 394818,
         "poster": "https://image.tmdb.org/t/p/w200/98GyS8vxMlPnoEdyLR9m8Jzs0hM.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "Where I've Never Lived",
         "year": "2017",
         "id": 480322,
         "poster": "https://image.tmdb.org/t/p/w200/p360iT4XOU9k3mZf0qKPijkJZ6x.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=yYwPfjRoi5E"
+        "youtube_link": null
     },
     {
         "title": "Die Welt der Barbaren",
         "year": "2018",
         "id": 1035944,
         "poster": null,
-        "youtube_link": "https://www.youtube.com/watch?v=BnL_JSic8oA"
+        "youtube_link": null
     },
     {
         "title": "My Name Is Thomas",
         "year": "2018",
         "id": 429710,
         "poster": "https://image.tmdb.org/t/p/w200/vVNwARMJvMHc737pgXzyVFF3GPE.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=QT91iClUl6Y"
+        "youtube_link": null
     },
     {
         "title": "Mare di grano",
         "year": "2018",
         "id": 544952,
         "poster": "https://image.tmdb.org/t/p/w200/fmSTU3YMFVPmEgwTkNLXLPmDzL5.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=75FBbnjS5so"
+        "youtube_link": null
     },
     {
         "title": "Domino",
         "year": "2019",
         "id": 455957,
         "poster": "https://image.tmdb.org/t/p/w200/4ExrDZRhhmZkveXMjUzywc6266q.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=75FBbnjS5so"
+        "youtube_link": null
     },
     {
         "title": "Spin Me Round",
         "year": "2022",
         "id": 826942,
         "poster": "https://image.tmdb.org/t/p/w200/55yyTk2PeKeFyyjwNJN70iZZu9n.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=Xq6tHXYbcto"
+        "youtube_link": null
     },
     {
         "title": "Improvised Christmas",
         "year": "2022",
         "id": 981987,
         "poster": "https://image.tmdb.org/t/p/w200/f39NUOzKyLPVa7yMhOnQ4WVEnyq.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=u9ATddPOjDI"
+        "youtube_link": null
     },
     {
         "title": "Improvvisamente a Natale mi sposo",
         "year": "2023",
         "id": 1096812,
         "poster": "https://image.tmdb.org/t/p/w200/jKCWln6xZTdCpwV6dwjxT7lc6WN.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=u9ATddPOjDI"
+        "youtube_link": null
     },
     {
         "title": "Her Private Hell",
@@ -808,6 +808,6 @@
         "year": "9999",
         "id": 1357952,
         "poster": "https://image.tmdb.org/t/p/w200/jwFXsXC7bBBZipa6moVlxTsYh8H.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=QT91iClUl6Y"
+        "youtube_link": null
     }
 ]

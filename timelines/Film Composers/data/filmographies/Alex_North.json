@@ -60,14 +60,14 @@
         "year": "1954",
         "id": 108582,
         "poster": "https://image.tmdb.org/t/p/w200/sasvA9gTtKYlKaTnMK7Ab8C4KjH.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=f1Q9zaJ5JGg"
+        "youtube_link": null
     },
     {
         "title": "D\u00e9sir\u00e9e",
         "year": "1954",
         "id": 43333,
         "poster": "https://image.tmdb.org/t/p/w200/mvTDhI11hpiWJDRKAheoWtBknTf.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=8T5joHHsY-c"
+        "youtube_link": null
     },
     {
         "title": "Man with the Gun",
@@ -137,7 +137,7 @@
         "year": "1957",
         "id": 108247,
         "poster": "https://image.tmdb.org/t/p/w200/3GdW663UW8hVQ4FHp0vb5UVzp2G.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=XrEJ11DyhKI"
+        "youtube_link": null
     },
     {
         "title": "Stage Struck",
@@ -291,7 +291,7 @@
         "year": "1972",
         "id": 45512,
         "poster": "https://image.tmdb.org/t/p/w200/sfSFXd5vrJ1Zo29Vz6G3t3iK1Yv.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=f1Q9zaJ5JGg"
+        "youtube_link": null
     },
     {
         "title": "Shanks",
@@ -305,7 +305,7 @@
         "year": "1974",
         "id": 206188,
         "poster": "https://image.tmdb.org/t/p/w200/mdnxqKpbNZ7SGpKmSKubpYwyA4p.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=ydiH1t1F2X4"
+        "youtube_link": null
     },
     {
         "title": "Bite the Bullet",
@@ -361,7 +361,7 @@
         "year": "1982",
         "id": 489775,
         "poster": "https://image.tmdb.org/t/p/w200/fnbZaZo8uMjCEw6AEosTdRScGeI.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=OPtJaN67C3w"
+        "youtube_link": null
     },
     {
         "title": "Under the Volcano",
@@ -403,7 +403,7 @@
         "year": "1988",
         "id": 334098,
         "poster": "https://image.tmdb.org/t/p/w200/faaLeS26vQroTP3fBEg51fg5ruL.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=6nCub1x-fLY"
+        "youtube_link": null
     },
     {
         "title": "The Last Butterfly",

@@ -11,7 +11,7 @@
         "year": "1937",
         "id": 87115,
         "poster": "https://image.tmdb.org/t/p/w200/5pd6NFzZqdEHGDEtptHbHrIaNQS.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=onOG1frSrNs"
+        "youtube_link": null
     },
     {
         "title": "The Green Cockatoo",
@@ -46,7 +46,7 @@
         "year": "1939",
         "id": 92429,
         "poster": "https://image.tmdb.org/t/p/w200/iVmxih67uZxul96rYcwhnn8VK6J.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=WYqhNLDPF20"
+        "youtube_link": null
     },
     {
         "title": "The Four Feathers",
@@ -60,14 +60,14 @@
         "year": "1940",
         "id": 12232,
         "poster": "https://image.tmdb.org/t/p/w200/8Fs29JYTOkDluTXgbvLRIaps6PO.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=afL31gUSLbA"
+        "youtube_link": null
     },
     {
         "title": "Ten Days in Paris",
         "year": "1940",
         "id": 367563,
         "poster": "https://image.tmdb.org/t/p/w200/bkpxNBgxxnniIn6twAKgWyCxFb6.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=kdJrKM_sGNA"
+        "youtube_link": null
     },
     {
         "title": "That Hamilton Woman",
@@ -81,21 +81,21 @@
         "year": "1941",
         "id": 94241,
         "poster": "https://image.tmdb.org/t/p/w200/4R2c2fp9wULd5W57myi3hUy5mKi.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=znjESMusDxk"
+        "youtube_link": null
     },
     {
         "title": "The Saint's Vacation",
         "year": "1941",
         "id": 88955,
         "poster": "https://image.tmdb.org/t/p/w200/9zuTasmNrPSPfdc1h4b9Yv8maHJ.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=nrP3hNSglAc"
+        "youtube_link": null
     },
     {
         "title": "New Wine",
         "year": "1941",
         "id": 96169,
         "poster": "https://image.tmdb.org/t/p/w200/rYCOxntBpxb2EDnZbCn6WaIC98z.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=znjESMusDxk"
+        "youtube_link": null
     },
     {
         "title": "Lydia",
@@ -137,7 +137,7 @@
         "year": "1943",
         "id": 218087,
         "poster": "https://image.tmdb.org/t/p/w200/h0AkjD1t87EpZOzj4I7IG8uh5b5.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=kGOCqs-RbeA"
+        "youtube_link": null
     },
     {
         "title": "Sahara",
@@ -179,7 +179,7 @@
         "year": "1945",
         "id": 30022,
         "poster": "https://image.tmdb.org/t/p/w200/9DylvvWcb52Qjq6lzN4lJxOcYyU.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=kGOCqs-RbeA"
+        "youtube_link": null
     },
     {
         "title": "The Lost Weekend",
@@ -249,35 +249,35 @@
         "year": "1947",
         "id": 28567,
         "poster": "https://image.tmdb.org/t/p/w200/hUcc9ABsB612wZnHbgADVpHnnK7.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=nrP3hNSglAc"
+        "youtube_link": null
     },
     {
         "title": "Song of Scheherazade",
         "year": "1947",
         "id": 269583,
         "poster": "https://image.tmdb.org/t/p/w200/f8DKJ96viXwg7c7l069TAYWqPlO.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=bXh5dSgiPGo"
+        "youtube_link": null
     },
     {
         "title": "The Other Love",
         "year": "1947",
         "id": 140090,
         "poster": "https://image.tmdb.org/t/p/w200/86W2NuG5ceGKib4x21NIK3urMdL.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=BZDtWL5Aa_c"
+        "youtube_link": null
     },
     {
         "title": "Time Out of Mind",
         "year": "1947",
         "id": 340092,
         "poster": "https://image.tmdb.org/t/p/w200/tYiTk7Tim4XWuI59ckBXDcuC7mV.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=bfrxHWX4Y1s"
+        "youtube_link": null
     },
     {
         "title": "The Red House",
         "year": "1947",
         "id": 30162,
         "poster": "https://image.tmdb.org/t/p/w200/9BBdps0PfYccltNvVJGq1siip4D.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=ka9AI5qaG2M"
+        "youtube_link": null
     },
     {
         "title": "Desert Fury",
@@ -291,7 +291,7 @@
         "year": "1948",
         "id": 20482,
         "poster": "https://image.tmdb.org/t/p/w200/rex4oaiSCD8UQg9204R6hQcFrX9.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=Cbf44knA1vY"
+        "youtube_link": null
     },
     {
         "title": "A Woman's Vengeance",
@@ -312,14 +312,14 @@
         "year": "1948",
         "id": 23861,
         "poster": "https://image.tmdb.org/t/p/w200/moCcbMzkfvxBh7QAl5cyehdmeVC.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=BZDtWL5Aa_c"
+        "youtube_link": null
     },
     {
         "title": "Adam's Rib",
         "year": "1949",
         "id": 25431,
         "poster": "https://image.tmdb.org/t/p/w200/k9gT6d2sDT9Jd4dvzHowTt3l6Zg.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=mXygodSjmdc"
+        "youtube_link": null
     },
     {
         "title": "The Red Danube",
@@ -333,14 +333,14 @@
         "year": "1949",
         "id": 25509,
         "poster": "https://image.tmdb.org/t/p/w200/lpSkLEOCFbFpmwmTuprWLl5DRRg.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=nrP3hNSglAc"
+        "youtube_link": null
     },
     {
         "title": "East Side, West Side",
         "year": "1949",
         "id": 99627,
         "poster": "https://image.tmdb.org/t/p/w200/50DthmxOgQlLR48CFLSKeWwcOUR.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=znjESMusDxk"
+        "youtube_link": null
     },
     {
         "title": "Madame Bovary",
@@ -368,7 +368,7 @@
         "year": "1950",
         "id": 52364,
         "poster": "https://image.tmdb.org/t/p/w200/qpP3JwkvaBAJIreGruRx0WaLCFG.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=fmoWJ4R8c-E"
+        "youtube_link": null
     },
     {
         "title": "Quo Vadis",
@@ -389,7 +389,7 @@
         "year": "1952",
         "id": 26175,
         "poster": "https://image.tmdb.org/t/p/w200/bH2cat7MemIGLevYqCUrXkBCDiC.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=r8V_NwQJUX4"
+        "youtube_link": null
     },
     {
         "title": "Plymouth Adventure",
@@ -424,7 +424,7 @@
         "year": "1953",
         "id": 44711,
         "poster": "https://image.tmdb.org/t/p/w200/yI8vCadGjFtMnJdkRWDGnXrB8rv.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=iDYATt1TFSA"
+        "youtube_link": null
     },
     {
         "title": "Green Fire",
@@ -445,14 +445,14 @@
         "year": "1954",
         "id": 91477,
         "poster": "https://image.tmdb.org/t/p/w200/2vZRv37F4JINkGGoNskVm3uvHQK.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=nrP3hNSglAc"
+        "youtube_link": null
     },
     {
         "title": "Seagulls Over Sorrento",
         "year": "1954",
         "id": 200244,
         "poster": "https://image.tmdb.org/t/p/w200/wKL3ToBd6rLcgYBfcmSu7EFpeDj.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=nrP3hNSglAc"
+        "youtube_link": null
     },
     {
         "title": "Moonfleet",
@@ -480,7 +480,7 @@
         "year": "1956",
         "id": 90406,
         "poster": "https://image.tmdb.org/t/p/w200/1va1nQyFyjke1XkvvS7TC0aunse.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=G0R_jI5W5Jw"
+        "youtube_link": null
     },
     {
         "title": "Bhowani Junction",
@@ -529,7 +529,7 @@
         "year": "1959",
         "id": 665,
         "poster": "https://image.tmdb.org/t/p/w200/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=9L_z2OcL8-U"
+        "youtube_link": null
     },
     {
         "title": "The World, the Flesh and the Devil",
@@ -648,6 +648,6 @@
         "year": "2000",
         "id": 328958,
         "poster": "https://image.tmdb.org/t/p/w200/qoRJeidqtZuUT8bhxlviQ9RPIMD.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=nrP3hNSglAc"
+        "youtube_link": null
     }
 ]

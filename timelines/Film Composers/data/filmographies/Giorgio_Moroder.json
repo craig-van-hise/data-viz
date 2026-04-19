@@ -4,14 +4,14 @@
         "year": "1972",
         "id": 124389,
         "poster": "https://image.tmdb.org/t/p/w200/xInMOt3PHRTWyYcoiikh0YX0S2a.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=ID4dJ8v92D4"
+        "youtube_link": null
     },
     {
         "title": "Oswalt Kolle: Liebe als Gesellschaftsspiel",
         "year": "1972",
         "id": 330601,
         "poster": "https://image.tmdb.org/t/p/w200/qN4go1Bv8fZEHRF4kXp50NfXdgm.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=gL-RuhkkcIg"
+        "youtube_link": null
     },
     {
         "title": "Midnight Express",
@@ -60,7 +60,7 @@
         "year": "1983",
         "id": 27679,
         "poster": "https://image.tmdb.org/t/p/w200/7ToBZQaV5qspXjM8hat8kcbNcQc.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=6ArrcKclyjM"
+        "youtube_link": null
     },
     {
         "title": "Electric Dreams",
@@ -102,20 +102,20 @@
         "year": "1989",
         "id": 19118,
         "poster": "https://image.tmdb.org/t/p/w200/t5sJfj99wACezWFz2jtHQplQkUM.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=lrxEsoN0qek"
+        "youtube_link": null
     },
     {
         "title": "Cyber Eden",
         "year": "1992",
         "id": 50191,
         "poster": "https://image.tmdb.org/t/p/w200/nuQtJKDzYtTG6eNuBxDA8oPOmtV.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=lrxEsoN0qek"
+        "youtube_link": null
     },
     {
         "title": "The Assignment",
         "year": "2016",
         "id": 399173,
         "poster": "https://image.tmdb.org/t/p/w200/3wx83iGCATiIAyrZHI6AeeNfiAT.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=lrxEsoN0qek"
+        "youtube_link": null
     }
 ]

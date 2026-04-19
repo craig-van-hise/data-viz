@@ -46,7 +46,7 @@
         "year": "1982",
         "id": 10676,
         "poster": "https://image.tmdb.org/t/p/w200/WABfdeaThFYXCySGIOvRNv2sSW.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=0DGbI-T6Q7w"
+        "youtube_link": null
     },
     {
         "title": "The Thing",
@@ -109,14 +109,14 @@
         "year": "1996",
         "id": 10061,
         "poster": "https://image.tmdb.org/t/p/w200/3L9lL2eUsmLNNfENPwNOc82Hzpw.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=QT1_fsOy_r0"
+        "youtube_link": null
     },
     {
         "title": "Vampires",
         "year": "1998",
         "id": 9945,
         "poster": "https://image.tmdb.org/t/p/w200/4JhaFBPwyC5IM1rKaRR07Gzutse.jpg",
-        "youtube_link": "https://www.youtube.com/watch?v=lanPTCmTPrA"
+        "youtube_link": null
     },
     {
         "title": "Ghosts of Mars",
@@ -158,6 +158,6 @@
         "year": "9999",
         "id": 1436834,
         "poster": null,
-        "youtube_link": "https://www.youtube.com/watch?v=fof-W47KXsU"
+        "youtube_link": null
     }
 ]
