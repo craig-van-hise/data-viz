@@ -29,12 +29,13 @@ HEADERS = {
 }
 
 # 3. Patch Targets & Overrides
-composers = ["Michel Legrand", "Tangerine Dream", "Ryuichi Sakamoto"]
+composers = ["David Arnold"]
 # Corrected IDs found via TMDB Search (the ones in the prompt were incorrect/placeholders)
 TMDB_ID_OVERRIDES = {
     "Michel Legrand": 10934, 
     "Tangerine Dream": 5735511, 
-    "Ryuichi Sakamoto": 11382
+    "Ryuichi Sakamoto": 11382,
+    "David Arnold": 6489
 }
 
 # Ensure output directory exists
