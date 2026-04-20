@@ -274,6 +274,31 @@
             font-size: 0.7rem;
             color: #a5b4fc;
         }
+
+        .search-box {
+            position: absolute;
+            top: 25px;
+            right: 2rem;
+            padding: 8px 16px;
+            border-radius: 20px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            background: rgba(0, 0, 0, 0.5);
+            color: #fff;
+            font-family: 'Outfit', sans-serif;
+            font-size: 0.9rem;
+            outline: none;
+            width: 250px;
+            transition: all 0.3s ease;
+            z-index: 1001;
+        }
+        .search-box:focus {
+            border-color: var(--accent);
+            box-shadow: 0 0 10px rgba(56, 189, 248, 0.3);
+        }
+        .composer-row.search-film-hit {
+            background: linear-gradient(90deg, rgba(56, 189, 248, 0.1), transparent) !important;
+            border-left: 3px solid var(--accent);
+        }
     </style>
 </head>
 
@@ -283,6 +308,7 @@
         <a href="https://craig-van-hise.github.io/data-viz/" class="back-link">&larr; Back to Menu</a>
         <h1>Film Composers: Active Years <span
                 style="font-size:0.6rem; opacity:0.5; vertical-align:middle;">(v1.70)</span></h1>
+        <input type="text" id="globalSearch" class="search-box" placeholder="Search composer or film...">
     </header>
 
     <div class="timeline-container">
@@ -2278,6 +2304,7 @@
                 // Row
                 const row = document.createElement('div');
                 row.className = 'composer-row timeline-row-layout';
+                row.setAttribute('data-composer', name.toLowerCase());
 
                 // 1. Name
                 const nameCol = document.createElement('div');
@@ -2443,6 +2470,35 @@
         createHeader();
         createRows();
 
+        document.getElementById('globalSearch').addEventListener('input', (e) => {
+            const term = e.target.value.toLowerCase().trim();
+            const rows = document.querySelectorAll('.composer-row');
+            
+            rows.forEach(row => {
+                const composerName = row.getAttribute('data-composer');
+                const myFilms = filmData.find(f => f.composer.toLowerCase() === composerName);
+                
+                let composerHit = composerName.includes(term);
+                let filmHit = false;
+                
+                if (myFilms && myFilms.films) {
+                    filmHit = myFilms.films.some(f => f.title.toLowerCase().includes(term));
+                }
+                
+                row.classList.remove('search-film-hit');
+                
+                if (term === '') {
+                    row.style.display = 'flex';
+                } else if (composerHit) {
+                    row.style.display = 'flex';
+                } else if (filmHit) {
+                    row.style.display = 'flex';
+                    row.classList.add('search-film-hit');
+                } else {
+                    row.style.display = 'none';
+                }
+            });
+        });
     </script>
 </body>
 
