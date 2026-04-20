@@ -11,4 +11,8 @@ A visualization project mapping film composer careers.
 ## Data & Scripts
 - `data/filmographies/`: JSON files containing full film credits.
 - `data/Most important films.json`: Curated highlights for timeline markers.
+- `data/blacklist.json`: Custom exclusion list for TMDb films.
 - `scripts/fetch_tmdb_filmographies.py`: Core data acquisition script.
+- `scripts/scrape_and_verify_links.py`: Unified audio scraper.
+- `scripts/scrape_thumbnails.py`: Poster retrieval system.
+- `scripts/final_validation.py`: Data integrity checks.

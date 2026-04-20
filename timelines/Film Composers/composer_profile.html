@@ -544,7 +544,12 @@
                         const effectiveAbove = spaceAbove - offset - safetyMargin;
                         const effectiveBelow = spaceBelow - offset - safetyMargin;
 
-                        const goUp = (effectiveAbove >= effectiveBelow);
+                        // Smart Flip Algorithm
+                        const PREFERRED_HEIGHT = 320;
+                        let goUp = true;
+                        if (effectiveAbove < PREFERRED_HEIGHT && effectiveBelow > effectiveAbove) {
+                            goUp = false;
+                        }
 
                         // Reset
                         portalTooltip.style.top = 'auto';

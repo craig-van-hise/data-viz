@@ -2349,8 +2349,12 @@
                             marker.addEventListener('mouseenter', function () {
                                 const rect = this.getBoundingClientRect();
                                 const tooltip = this.querySelector('.film-tooltip');
-                                // If near top of viewport (< 200px), show below
-                                if (rect.top < 200) {
+                                // Smart Flip Algorithm
+                                const SAFE_HEIGHT_PX = 260;
+                                const spaceAbove = rect.top;
+                                const spaceBelow = window.innerHeight - rect.bottom;
+
+                                if (spaceAbove < SAFE_HEIGHT_PX && spaceBelow > spaceAbove) {
                                     tooltip.classList.add('tooltip-down');
                                 } else {
                                     tooltip.classList.remove('tooltip-down');
