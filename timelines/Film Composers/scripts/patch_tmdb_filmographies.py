@@ -38,6 +38,16 @@ TMDB_ID_OVERRIDES = {
     "David Arnold": 6489
 }
 
+# Load Blacklist
+BLACKLIST_PATH = os.path.join(PROJECT_ROOT, "data/blacklist.json")
+blacklist = {}
+if os.path.exists(BLACKLIST_PATH):
+    try:
+        with open(BLACKLIST_PATH, 'r') as f:
+            blacklist = json.load(f)
+    except Exception as e:
+        print(f"⚠️ Warning: Could not load blacklist: {e}")
+
 # Ensure output directory exists
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -76,6 +86,13 @@ for i, composer in enumerate(composers):
         # Step D (Format)
         formatted_list = []
         for film in filtered_credits:
+            title = film.get("title")
+
+            # Apply Blacklist
+            if composer in blacklist and title in blacklist[composer]:
+                print(f"  🚫 Skipped blacklisted film: {title}")
+                continue
+
             # Parse Year
             release_date = film.get("release_date", "")
             year = release_date.split("-")[0] if release_date else "9999"

@@ -15,6 +15,8 @@ A high-fidelity timeline and data visualization project mapping the careers and 
 │   └── Most important films.json # Curated list for timeline markers
 ├── scripts/                     # Python data pipeline
 │   ├── fetch_tmdb_filmographies.py # Official TMDb data acquisition
+│   ├── patch_tmdb_filmographies.py # Targeted TMDb fetcher for edge-case composers
+│   ├── scrape_and_verify_links.py  # Unified yt-dlp audio scraper with rate-limit checkpointing
 │   └── update_html.py           # Injects JSON data into HTML templates
 ├── thumbnails/                  # Image assets for film posters
 └── verified_live_profile.html   # Sandbox for UI testing
@@ -31,11 +33,16 @@ A high-fidelity timeline and data visualization project mapping the careers and 
 ## Quick Start
 
 1.  **View Timeline**: Open `composers.html` to see the global timeline or click on a composer to view their profile.
-2.  **Update Data**: Refresh filmography data using the TMDb fetcher.
-    ```bash
-    export TMDB_API_READ_ACCESS_TOKEN="your_token_here"
-    python3 scripts/fetch_tmdb_filmographies.py
-    ```
+2.  **Update Data**: Refresh the dataset via the pipeline:
+    *   **Phase 1 (TMDB)**: Run the primary fetcher (and patcher if needed):
+        ```bash
+        python3 scripts/fetch_tmdb_filmographies.py
+        python3 scripts/patch_tmdb_filmographies.py
+        ```
+    *   **Phase 2 (Audio)**: Run the unified scraper to populate YouTube links:
+        ```bash
+        python3 scripts/scrape_and_verify_links.py
+        ```
 
 ## Development
 

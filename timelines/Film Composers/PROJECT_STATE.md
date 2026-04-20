@@ -13,6 +13,8 @@ The project is a high-fidelity data visualization system consisting of an intera
 │   └── Most important films.json # Curated highlights for markers
 ├── scripts/                     # Data Pipeline (TMDb, Enrichment)
 │   ├── fetch_tmdb_filmographies.py # Primary TMDb data fetcher
+│   ├── patch_tmdb_filmographies.py # TMDb edge-case patcher
+│   ├── scrape_and_verify_links.py  # Unified audio scraper
 │   └── update_html.py           # Template injection script
 ├── thumbnails/                  # Image Assets (Posters)
 ├── composer_profile.html        # Smart Timeline Visualization
@@ -29,12 +31,17 @@ The project is a high-fidelity data visualization system consisting of an intera
 -   **Sky and Ground Visualizer**: A sophisticated timeline engine in `composer_profile.html` that separates "Important Film" labels into lanes in the "Sky" (above the track) and stacks standard markers in a "Ground" column system.
 -   **Smart Collision Engine**: A dynamic JS algorithm that calculates lane occupancy, reverses Z-indexes for legibility, and generates SVG elbow paths to connect labels to markers without overlapping.
 -   **TMDb Data Pipeline**: Transitioned from unreliable web scraping to the official TMDb API for 100% data accuracy. Includes deduplication and chronological sorting.
+-   **Unified Audio Pipeline**: Merged scraping and auditing phases into a single `scrape_and_verify_links.py` script. Uses `yt-dlp` natively with a "Robust Threshold" algorithm (detecting blocks of 12+ missing links) to avoid re-processing healthy data gaps.
+-   **Checkpointing Engine**: Implemented a `.verify_checkpoint` system that prevents infinite loops and protects against mid-flight crashes by saving state at each composer interval.
+-   **TMDb Edge-Case Handling**: Created `patch_tmdb_filmographies.py` to handle composers with irregular job titles (e.g., Tangerine Dream) or common names (e.g., David Arnold) using explicit ID overrides.
 -   **Dynamic Layout Engine**: Replaced static CSS margins with JS-driven math that calculates `marginTop` and `marginBottom` based on the stack height and lane count.
 
 ## 4. Recent Evolution
 -   **Data Migration**: Completed full migration to TMDb API, rebuilding all filmography files with structured data and reliable poster paths.
 -   **Layout Optimization**: Implemented dynamic vertical stacking to prevent data loss in busy years, replacing old modulo-based staggering.
 -   **Visual Overhaul**: Implemented SVG elbow routing for flag posts, decoupled hover animations for cleaner feedback, and extended the timeline track visually with a pseudo-element pill design.
+-   **Scraper Consolidation**: Transitioned from the `enrich` + `audit` two-pass system to the unified `yt-dlp` scraper with integrated verification.
+-   **Rate-Limit Resilience**: Implemented exponential backoff for YouTube rate-limit evasion to ensure long-running scrape sessions complete without manual intervention.
 
 ## 5. Current Work-in-Progress
 -   **Final UI Tweaks**: Refining the absolute positioning of the timeline track and axis to ensure perfect encapsulation of all markers and labels across viewport sizes.
