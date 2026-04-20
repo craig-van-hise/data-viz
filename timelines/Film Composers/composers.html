@@ -277,7 +277,7 @@
 <body>
 
     <header>
-        <a href="../index.html" class="back-link">&larr; Back to Menu</a>
+        <a href="https://craig-van-hise.github.io/data-viz/" class="back-link">&larr; Back to Menu</a>
         <h1>Film Composers: Active Years <span
                 style="font-size:0.6rem; opacity:0.5; vertical-align:middle;">(v1.70)</span></h1>
     </header>
@@ -2281,7 +2281,7 @@
                 nameCol.className = 'name-col composer-name';
                 // Force link to internal profile, not external URL
                 const profileUrl = `composer_profile.html?name=${encodeURIComponent(name.replace(/ /g, '_'))}&v=1.70`;
-                nameCol.innerHTML = `<a href="${profileUrl}" target="_blank">${name}</a>`;
+                nameCol.innerHTML = `<a href="${profileUrl}">${name}</a>`;
 
                 // 2. Track
                 const trackCol = document.createElement('div');
@@ -2349,12 +2349,24 @@
                             marker.addEventListener('mouseenter', function () {
                                 const rect = this.getBoundingClientRect();
                                 const tooltip = this.querySelector('.film-tooltip');
-                                // Smart Flip Algorithm
-                                const SAFE_HEIGHT_PX = 260;
+
                                 const spaceAbove = rect.top;
                                 const spaceBelow = window.innerHeight - rect.bottom;
 
-                                if (spaceAbove < SAFE_HEIGHT_PX && spaceBelow > spaceAbove) {
+                                // A generous maximum height for the tooltip (Image + Text + Padding + Offset)
+                                const TOOLTIP_MAX_HEIGHT = 300; 
+
+                                let flipDown = false;
+
+                                // If we don't have enough room to safely pop UP...
+                                if (spaceAbove < TOOLTIP_MAX_HEIGHT) {
+                                    // ...check if we have enough room to go DOWN, OR if going down is just the lesser of two evils.
+                                    if (spaceBelow >= TOOLTIP_MAX_HEIGHT || spaceBelow > spaceAbove) {
+                                        flipDown = true;
+                                    }
+                                }
+
+                                if (flipDown) {
                                     tooltip.classList.add('tooltip-down');
                                 } else {
                                     tooltip.classList.remove('tooltip-down');

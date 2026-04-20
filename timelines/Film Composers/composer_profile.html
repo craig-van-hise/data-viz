@@ -44,6 +44,21 @@
             z-index: 100;
         }
 
+        .back-link {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            color: var(--text-muted);
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: color 0.2s;
+            z-index: 101;
+        }
+
+        .back-link:hover {
+            color: var(--text-main);
+        }
+
         h1 {
             font-family: 'Outfit', sans-serif;
             font-weight: 300;
@@ -293,6 +308,7 @@
 <body>
 
     <header>
+        <a href="composers.html" class="back-link">&larr; Back to Main</a>
         <h1 id="composer-name">Composer Name</h1>
         <div id="composer-lifespan" class="lifespan"></div>
         <div class="stats" id="composer-stats">Loading...</div>
