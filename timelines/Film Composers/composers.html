@@ -31,7 +31,7 @@
 
         header {
             padding: 1rem 2rem;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            border-bottom: none;
             background: rgba(15, 23, 42, 0.95);
         }
 
@@ -89,10 +89,12 @@
             background: rgba(15, 23, 42, 0.95);
             backdrop-filter: blur(10px);
             border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-            padding-top: 1rem;
+            margin-left: -2rem;
+            margin-right: -2rem;
+            padding-left: 2rem;
+            padding-right: 2rem;
+            padding-top: 1.5rem; /* Add breathing room above the numbers */
             padding-bottom: 0.5rem;
-            margin-top: -1rem;
-            /* Undo padding to sticky correctly */
         }
 
         .header-track {
@@ -102,6 +104,7 @@
 
         .year-marker {
             position: absolute;
+            bottom: 8px;
             transform: translateX(-50%);
             font-size: 0.8rem;
             color: var(--text-secondary);

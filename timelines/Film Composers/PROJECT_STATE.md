@@ -45,8 +45,8 @@ The project is a high-fidelity data visualization system consisting of an intera
 -   **Data Filtering**: Implemented the Blacklist system to handle messy TMDb data profiles, ensuring the timeline remains high-fidelity and focused on theatrical scores.
 -   **Data Migration**: Completed full migration to TMDb API, rebuilding all filmography files with structured data and reliable poster paths.
 -   **Layout Optimization**: Implemented dynamic vertical stacking and SVG elbow routing to prevent label collisions and improve visual clarity.
+-   **Header & Axis Fix**: Resolved visual glitch where header borders collided; anchored year markers to the bottom of the track for a cleaner, unified look.
 
 ## 5. Current Work-in-Progress
--   **UI Refinement**: Fine-tuning absolute positioning of timeline tracks to ensure robust encapsulation across all viewport widths.
 -   **Interactive Polishing**: Ensuring hover states and click-throughs are consistently responsive and target the correct DOM elements.
 -   **Documentation Sync**: Finalizing the documentation audit to ensure all READMEs and state trackers match the refactored codebase.
